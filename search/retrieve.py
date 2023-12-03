@@ -50,7 +50,7 @@ def get_docs(query):
     result = []
     for (path, score) in list(sorted_dict.items()):
         data = dict()
-        with open(path,'r', encoding='utf-8') as file:
+        with open(path.replace('\\', '/'),'r', encoding='utf-8') as file:
             data['text'] = file.read()
         id = extract_doc_id_from_path(path)
         data['id'] = int(id)

@@ -99,7 +99,7 @@ class BSBIIndex:
             doc_path = os.path.join(self.data_dir, block_path, filename)
             doc_id = self.doc_id_map[doc_path]
 
-            with open(doc_path, 'r', encoding='utf-8') as file:
+            with open(doc_path.replace('\\', '/'), 'r', encoding='utf-8') as file:
                 content = file.read()
 
                 # Lakukan preprocessing per kalimat
