@@ -1,0 +1,1 @@
+Either no colors should be specified (to invoke the browser's default colors), or both the background and all foreground colors (such as the colors of plain text, unvisited links, hovered links, active links, and visited links) should be specified to avoid black on black or white on white effects.[27]

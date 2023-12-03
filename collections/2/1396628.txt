@@ -1,0 +1,1 @@
+where V is the magnitude of V. The constraint forces between the vehicle and the road cancel from this equation because R â‹… V = 0, which means they do no work. Integrate both sides to obtain

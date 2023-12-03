@@ -1,0 +1,1 @@
+This holds under the precise condition that f be a tempered distribution (see the discussion of the Fourier transform below). As a special case, for instance, we have the identity (understood in the distribution sense)

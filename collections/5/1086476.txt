@@ -1,0 +1,1 @@
+This continues until the desired precision is reached. For example, suppose we wish to compute 1/17 â‰ˆ 0.0588 with 3 digits of precision. Taking x0 = 0.1, the following sequence is produced:

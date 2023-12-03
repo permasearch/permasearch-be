@@ -1,0 +1,1 @@
+A line at constant space coordinate (a vertical line in the convention adopted above) may represent a particle at rest (or a stationary observer). A tilted line represents a particle with a constant coordinate speed (constant change in space coordinate with increasing time coordinate). The more the line is tilted from the vertical, the larger the speed.

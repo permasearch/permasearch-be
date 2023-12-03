@@ -1,0 +1,1 @@
+The excess kurtosis can also be expressed in terms of just the following two parameters: the variance var, and the sample size Î½ as follows:

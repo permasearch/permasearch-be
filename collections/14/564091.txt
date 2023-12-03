@@ -1,0 +1,1 @@
+In analytic geometry, curves are often given as the image of some function. The argument of the function is invariably called "the parameter". A circle of radius 1 centered at the origin can be specified in more than one form:

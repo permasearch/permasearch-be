@@ -1,0 +1,1 @@
+The GP1 encodes video in the H.265 codec, also known as HEVC. The available resolutions are 4K60, 2.7K120 and 1080p240 unstabilized or 4K30, 2.7K60 and 1080p120 digitally stabilized.

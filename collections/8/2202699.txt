@@ -1,0 +1,1 @@
+A dial plan establishes the expected sequence of digits dialed on subscriber premises equipment, such as telephones, in private branch exchange (PBX) systems, or in other telephone switches to effect access to the telephone networks for the routing of telephone calls, or to effect or activate specific service features by the local telephone company, such as 311 or 411 service.

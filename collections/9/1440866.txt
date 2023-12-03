@@ -1,0 +1,1 @@
+Numbers for mobile phones and pagers are formatted as 07AAA BBBBBB and most other non-geographic numbers are 10 figures in length (excluding trunk digit '0') and formatted as 0AAA BBB BBBB. However, these numbers are sometimes written in other formats. 9 figure freephone numbers are 0500 AAAAAA and 0800 AAAAAA and there is one number of 8 figures length: 0800 1111 (Childline).

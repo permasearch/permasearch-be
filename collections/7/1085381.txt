@@ -1,0 +1,1 @@
+In a sense that can be made precise, the probability that two randomly chosen integers are coprime is 6/Ï€2 (see pi), which is about 61%. See below.

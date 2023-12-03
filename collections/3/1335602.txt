@@ -1,0 +1,1 @@
+where k is the number of successes, r is the number of failures, and p is the probability of success. Here the quantity in parentheses is the binomial coefficient, and is equal to

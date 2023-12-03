@@ -1,0 +1,1 @@
+Conversely, if X1 and X2 are independent random variables and their sum X1 + X2 has a normal distribution, then both X1 and X2 must be normal deviates.[32]

@@ -1,0 +1,1 @@
+Expanding the dot product and dividing by     i ℏ   {\displaystyle i\hbar }   yields

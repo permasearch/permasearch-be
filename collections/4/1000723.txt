@@ -1,0 +1,1 @@
+Several coding systems are used for some special circumstances in order to avoid ambiguity, such as continuous day or year count.

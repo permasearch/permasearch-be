@@ -1,0 +1,1 @@
+If data about variability in requirements are insufficient to calculate an SD, a coefficient of variation (CV) for the EAR of 10 percent is assumed, unless available data indicate a greater variation in requirements. If 10 percent is assumed to be the CV, then twice that amount when added to the EAR is defined as equal to the RDA. The resulting equation for the RDA is then

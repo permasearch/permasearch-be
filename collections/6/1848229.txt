@@ -1,0 +1,1 @@
+In computer science, a software design pattern, in the sense of a template, is a general solution to a problem in programming. A design pattern provides a reusable architectural outline that may speed the development of many computer programs.[28]

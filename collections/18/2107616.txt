@@ -1,0 +1,1 @@
+The Excel function  NEGBINOMDIST(number_f, number_s, probability_s) calculates the probability of k = number_f failures before s = number_s successes where p = probability_s is the probability of success on each trial. For the geometric distribution, let number_s = 1 success.

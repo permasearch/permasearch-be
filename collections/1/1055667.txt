@@ -1,0 +1,1 @@
+It is important to note that the torque around the gimbal axis arises without any delay; the response is instantaneous.

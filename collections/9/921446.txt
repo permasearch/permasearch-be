@@ -1,0 +1,1 @@
+The goodness of fit index (GFI) is a measure of fit between the hypothesized model and the observed covariance matrix. The adjusted goodness of fit index (AGFI) corrects the GFI, which is affected by the number of indicators of each latent variable. The GFI and AGFI range between 0 and 1, with a value of over .9 generally indicating acceptable model fit.[34]

@@ -1,0 +1,1 @@
+The Globalstar system uses the Qualcomm CDMA air interface; however, the Ericsson and Telit phones accept standard GSM SIM cards, while the Qualcomm GSP-1600/1700 phones do not have a SIM card interface, but use CDMA/IS-41 based authentication. Therefore, the Globalstar gateways need to support both the CDMA/IS-41 and the GSM standards.

@@ -1,0 +1,1 @@
+Strictly speaking, neither v nor D in the formula are directly observable, because they are properties now of a galaxy, whereas our observations refer to the galaxy in the past, at the time that the light we currently see left it.

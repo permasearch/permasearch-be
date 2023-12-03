@@ -1,0 +1,1 @@
+The ability of a receiver to reject interfering signals at the image frequency is measured by the image rejection ratio. This is the ratio (in decibels) of the output of the receiver from a signal at the received frequency, to its output for an equal-strength signal at the image frequency.

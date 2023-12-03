@@ -1,0 +1,1 @@
+In 1985 IBM introduced the PR/SM hypervisor to manage logical partitions (LPAR).

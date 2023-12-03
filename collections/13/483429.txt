@@ -1,0 +1,1 @@
+The following list gives examples of network performance measures for a circuit-switched network and one type of packet-switched network, viz. ATM:

@@ -1,0 +1,1 @@
+(This includes Riemann-integrable functions over a bounded interval     [ a , b ]   {\displaystyle [a,b]}   as a special case.)

@@ -1,0 +1,1 @@
+Not all functions have inverse functions. In order for a function f: X → Y to have an inverse,[nb 1] it must have the property that for every y in Y there must be one, and only one x in X so that f(x) = y. This property ensures that a function g: Y → X will exist having the necessary relationship with f.

@@ -1,0 +1,1 @@
+dotMobi does not itself mandate any particular technology, but does require that .mobi sites produce user experiences consistent with their guidelines and specifically optimized for mobile phones.

@@ -1,0 +1,1 @@
+where Î»E is the energy needed to change the phase of water from liquid to gas, Rn is the net radiation, G is the soil heat flux and H is the sensible heat flux. Using instruments like a scintillometer, soil heat flux plates or radiation meters, the components of the energy balance can be calculated and the energy available for actual evapotranspiration can be solved.

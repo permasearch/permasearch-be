@@ -1,0 +1,1 @@
+The X.500 pilot project has been in development in the commercial space, and the technology continues to be present in major installations of millions of users within corporate data centers, and within the U.S. Government for credentialing.

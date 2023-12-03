@@ -1,0 +1,1 @@
+OpenGL has implementations available across many platforms including Microsoft Windows, Unix-based systems such as Mac OS X, Linux. Nintendo and Sony have developed their own libraries which are similar but not identical to OpenGL.[citation needed]  A subset of OpenGL was chosen as the main graphics library for Android, BlackBerry, iOS, and Symbian in the OpenGL ES form.

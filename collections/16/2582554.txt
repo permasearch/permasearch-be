@@ -1,0 +1,1 @@
+From the Hall coefficient, we can obtain the carrier mobility as follows:

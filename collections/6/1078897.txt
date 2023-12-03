@@ -1,0 +1,1 @@
+The two most common classes of fixed-point types are decimal and binary. Decimal fixed-point types have a scaling factor that is a power of ten; for binary fixed-point types it is a power of two.

@@ -1,0 +1,1 @@
+The following is the output of running ping on Linux for sending five probes to the target host www.example.com:

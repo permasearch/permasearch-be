@@ -1,0 +1,1 @@
+A stub area is an area which does not receive route advertisements external to the AS and routing from within the area is based entirely on a default route. An ABR deletes type 4, 5 LSAs from internal routers, sends them a default route of 0.0.0.0 and turns itself into a default gateway. This reduces LSDB and routing table size for internal routers.

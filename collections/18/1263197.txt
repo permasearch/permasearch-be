@@ -1,0 +1,1 @@
+The first player to collect all the cherries from his/her tree and call "Hi Ho! Cherry-O" wins the game.

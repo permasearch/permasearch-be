@@ -1,0 +1,1 @@
+Power is gathered by building generators, which also decay over time and consequently produce less power. Additionally, some maps have "slag deposits", upon which more powerful generators can be constructed to produce power faster. As the player progresses up the tech tree, reliance on power increases.

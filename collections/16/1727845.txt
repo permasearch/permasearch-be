@@ -1,0 +1,1 @@
+SNMPv3 primarily added security and remote configuration enhancements to SNMP.[15] Due to lack of security with the use of SNMP, network administrators were using other means, such as telnet and SSH for configuration, accounting, and fault management.

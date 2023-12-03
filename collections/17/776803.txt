@@ -1,0 +1,1 @@
+On a lattice, (i), the field can be expanded in Fourier modes:

@@ -1,0 +1,1 @@
+One of the uses for the format is computer step-by-step demonstration videos. The first version of the format was WMV 7 Screen. The second version, WMV 9 Screen, supports VBR encoding in addition to CBR.[18] Additionally there is MSA1 (aka “MS ATC Screen codec” or “MSS3”) which is used in Live Meeting 2007. FourCCs for the formats are MSS1, MSS2 and MSA1.[19]

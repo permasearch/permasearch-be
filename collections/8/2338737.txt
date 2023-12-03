@@ -1,0 +1,1 @@
+MO-297 SATA disk-on-a-module (DOM) SSD form factor

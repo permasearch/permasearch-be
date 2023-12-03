@@ -1,0 +1,1 @@
+The red links one would thus create for any page that is not an encyclopedia article must start with the namespace prefix. For example, to create a proposed article in the Draft namespace, it would be created via a red link to [[Draft:Proposed Title]].

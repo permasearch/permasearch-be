@@ -1,0 +1,1 @@
+With the amsmath package from AMS-LaTeX, more specific ellipses are provided for math mode.[36]

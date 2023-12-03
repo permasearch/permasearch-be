@@ -1,0 +1,1 @@
+Meteorologists use radiosondes to measure the environmental lapse rate and compare it to the predicted adiabatic lapse rate to forecast the likelihood that air will rise. Charts of the environmental lapse rate are known as thermodynamic diagrams, examples of which include Skew-T log-P diagrams and tephigrams. (See also Thermals).

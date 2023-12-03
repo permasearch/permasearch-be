@@ -1,0 +1,1 @@
+But the activity of each neuron in this model is statistically independent. To allow for pair correlations, when one neuron tends to fire (or not to fire) along with another, introduce pair-wise lagrange multipliers:

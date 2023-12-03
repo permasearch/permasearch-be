@@ -1,0 +1,1 @@
+Versions 2.6.16 and 2.6.27 of the Linux kernel were unofficially supported in a long-term support (LTS) fashion,[150] before a 2011 working group in the Linux Foundation started a formal long-term support initiative.[151][152]

@@ -1,0 +1,1 @@
+In 2010, the open-source-self-check project was announced. By using hardware and open source software, this library self-checkout system costs less than one-tenth of the commercial version.[21][22]

@@ -1,0 +1,1 @@
+This limit is plain[22] if one understands the definition of limit. So again 0.999... = 1.

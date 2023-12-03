@@ -1,0 +1,1 @@
+DotNetWikiBot has an option to review and change each edit in Microsoft Word before saving it to live wiki. DotNetWikiBot is a client API on .NET, intended for building bots for MediaWiki sites.

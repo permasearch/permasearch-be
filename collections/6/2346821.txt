@@ -1,0 +1,1 @@
+Similar to a unicast address, the prefix of an IPv6 multicast address specifies its scope, however, the set of possible scopes for a multicast address is different. The 4-bit sc (or scope) field (bits 12 to 15) is used to indicate where the address is valid and unique.

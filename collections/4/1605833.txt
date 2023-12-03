@@ -1,0 +1,1 @@
+Wireless ad hoc networks can operate over different types of radios. They can be UHF (300 – 3000 MHz), SHF (3 – 30 GHz), and EHF (30 – 300 GHz). Wi-Fi ad hoc uses the unlicensed ISM 2.4 GHz radios. They can also be used on 5.8 GHz radios.

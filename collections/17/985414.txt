@@ -1,0 +1,1 @@
+Other remarkable results are the demonstration of quantum entanglement, quantum teleportation, and (recently, in 1995) quantum logic gates. The latter are of much interest in quantum information theory, a subject which partly emerged from quantum optics, partly from theoretical computer science.

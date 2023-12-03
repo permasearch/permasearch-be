@@ -1,0 +1,1 @@
+Coefficient  of  restitution   ( e ) =   Relative  velocity  after  collision  Relative  velocity  before  collision     {\displaystyle {\text{Coefficient  of  restitution }}(e)={\frac {\text{Relative  velocity  after  collision}}{\text{ Relative  velocity  before  collision}}}}

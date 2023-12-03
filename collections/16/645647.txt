@@ -1,0 +1,1 @@
+The number of UK units of alcohol in a drink can be determined by multiplying the volume of the drink (in millilitres) by its percentage ABV, and dividing by 1000.

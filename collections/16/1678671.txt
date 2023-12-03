@@ -1,0 +1,1 @@
+After each version of Ubuntu has reached its end-of-life time, its repositories are removed from the main Ubuntu servers and consequently the mirrors.[298] Older versions of Ubuntu repositories and releases can be found on the old Ubuntu releases website.[299][300]

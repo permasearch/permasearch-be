@@ -1,0 +1,1 @@
+The positive integers may be partially ordered by divisibility: if a divides b (i.e. if b is an integer multiple of a) write a ≤ b (or equivalently, b ≥ a). (Forget the usual magnitude-based definition of ≤ in this section - it isn't used.)

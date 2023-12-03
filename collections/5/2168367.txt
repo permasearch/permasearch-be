@@ -1,0 +1,1 @@
+All attributes of a given file may be displayed by using the nfi.exe ("NTFS File Sector Information Utility") that is freely distributed as part of the Microsoft "OEM Support Tools".[52]

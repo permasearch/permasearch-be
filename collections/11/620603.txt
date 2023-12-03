@@ -1,0 +1,1 @@
+An analysis of the Gauss's Easter algorithm is divided into two parts. The first part is the approximate tracking of the lunar orbiting and the second one is the exact, deterministic offsetting to obtain a Sunday following the full moon.

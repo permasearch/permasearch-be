@@ -1,0 +1,1 @@
+Concretely, in many languages one may write conditionals in two valid forms: the if-then form, and the if-then-else form â€“ in effect, making the else clause optional:[note 1]

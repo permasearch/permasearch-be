@@ -1,0 +1,1 @@
+As the phone user moves from one cell area to another cell while a call is in progress, the mobile station will search for a new channel to attach to in order not to drop the call. Once a new channel is found, the network will command the mobile unit to switch to the new channel and at the same time switch the call onto the new channel.

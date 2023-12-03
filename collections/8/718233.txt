@@ -1,0 +1,1 @@
+N  i   N   =    exp ⁡ ( −  E  i    /  k T )    ∑  j   exp ⁡ ( −  E  j    /  k T )      {\displaystyle {\frac {N_{i}}{N}}={\frac {\exp(-E_{i}/kT)}{\sum _{j}\exp(-E_{j}/kT)}}}

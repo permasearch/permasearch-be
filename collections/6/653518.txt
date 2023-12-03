@@ -1,0 +1,1 @@
+In both codes, if the ball is caught by an opposition player this results in an interception and possession changes hands.

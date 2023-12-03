@@ -1,0 +1,1 @@
+Here, the data type struct MyStruct is defined. To declare a variable of this type in C, the struct key word is required (though it may be omitted in C++):

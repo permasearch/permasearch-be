@@ -1,0 +1,1 @@
+In a narrower sense, regression may refer specifically to the estimation of continuous response (dependent) variables, as opposed to the discrete response variables used in classification.[5] The case of a continuous dependent variable may be more specifically referred to as metric regression to distinguish it from related problems.[6]

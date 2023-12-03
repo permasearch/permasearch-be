@@ -1,0 +1,1 @@
+The station has 23 platforms. Platforms 1 to 15 are located in the old complex, referred to as "Terminal 1". It serves the local and long-distance trains of Eastern Railway and local trains of South Eastern Railway. Platforms 16 to 23 are in the new complex, referred to as "Terminal 2". It serves the long distance trains of South Eastern Railway.

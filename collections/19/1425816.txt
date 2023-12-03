@@ -1,0 +1,1 @@
+The definite integral inputs a function and outputs a number, which gives the algebraic sum of areas between the graph of the input and the x-axis. The technical definition of the definite integral involves the limit of a sum of areas of rectangles, called a Riemann sum.

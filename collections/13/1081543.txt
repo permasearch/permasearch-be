@@ -1,0 +1,1 @@
+"Angle-based" special right triangles are specified by the relationships of the angles of which the triangle is composed. The angles of these triangles are such that the larger (right) angle, which is 90 degrees or Ï€/2 radians, is equal to the sum of the other two angles.

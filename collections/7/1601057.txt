@@ -1,0 +1,1 @@
+The copper cable it uses in its most common implementation can be up to 4.5 metres (15Â ft) long. Power is also carried over this cable, allowing devices with moderate power requirements to operate without a separate power supply. FireWire is also available in Cat 5 and optical fiber versions.

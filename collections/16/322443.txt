@@ -1,0 +1,1 @@
+The CPR number is a ten-digit number with the format DDMMYY-SSSS, where DDMMYY is the date of birth and SSSS is a sequence number. The first digit of the sequence number encodes the century of birth (so that centenarians are distinguished from infants, 0-4 in odd centuries, 5-9 in even centuries), and the last digit of the sequence number is odd for males and even for females.

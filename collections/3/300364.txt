@@ -1,0 +1,1 @@
+In chess notation "!" denotes a good move, "!!" denotes an excellent move, "?!" denotes a dubious move, and "!?" denotes an interesting, risky move. In some chess variants such as large-board Shogi variants, "!" is used to record pieces capturing by stationary feeding or burning.

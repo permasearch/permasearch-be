@@ -1,0 +1,1 @@
+The idea of the proof is to argue that if f(a)Â = f(b), then f must attain either a maximum or a minimum somewhere between a and b, say at c, and the function must change from increasing to decreasing (or the other way around) at c. In particular, if the derivative exists, it must be zero at c.

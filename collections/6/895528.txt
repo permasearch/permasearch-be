@@ -1,0 +1,1 @@
+This chart was compiled based on data from Box Office Mojo, by dividing the gross by the average ticket price to calculate an estimate of the total number of admissions.

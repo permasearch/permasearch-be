@@ -1,0 +1,1 @@
+A simple method for determining an overall heat transfer coefficient that is useful to find the heat transfer between simple elements such as walls in buildings or across heat exchangers is shown below. Note that this method only accounts for conduction within materials, it does not take into account heat transfer through methods such as radiation. The method is as follows:

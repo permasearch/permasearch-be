@@ -1,0 +1,1 @@
+Henry's law is only valid for dilute solutions where     b M ≪ 1   {\displaystyle bM\ll 1}   and     ϱ ≈  ϱ    H  2   O      {\displaystyle \varrho \approx \varrho _{\mathrm {H_{2}O} }}  . In this case the conversion reduces further to

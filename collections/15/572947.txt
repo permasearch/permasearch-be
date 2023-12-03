@@ -1,0 +1,1 @@
+In the magnetic pole model, magnetization begins at and ends at magnetic poles. If a given region, therefore, has a net positive 'magnetic pole strength' (corresponding to a north pole) then it has more magnetization field lines entering it than leaving it. Mathematically this is equivalent to:

@@ -1,0 +1,1 @@
+If we assume a normally distributed population with mean μ and standard deviation σ, and choose individuals independently, then we have

@@ -1,0 +1,1 @@
+Examining pump repair records and mean time between failures (MTBF) is of great importance to responsible and conscientious pump users. In view of that fact, the preface to the 2006 Pump Userâ€™s Handbook alludes to "pump failure" statistics. For the sake of convenience, these failure statistics often are translated into MTBF (in this case, installed life before failure).[12]

@@ -1,0 +1,1 @@
+The WRB borrows from modern soil classification concepts, including USDA soil taxonomy. The classification is based mainly on soil morphology as an expression pedogenesis. A major difference with USDA soil taxonomy is that soil climate is not part of the system, except insofar as climate influences soil profile characteristics.

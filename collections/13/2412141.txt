@@ -1,0 +1,1 @@
+NOTE: C1 takes the shear stress as that occurring at an average radius position ra.

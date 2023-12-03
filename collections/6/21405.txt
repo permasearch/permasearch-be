@@ -1,0 +1,1 @@
+Similarly, a person using a system may be represented as different actors because he is playing different roles. For example, user "Joe" could be playing the role of a Customer when using an Automated Teller Machine to withdraw cash from his own account, or playing the role of a Bank Teller when using the system to restock the cash drawer on behalf of the bank.

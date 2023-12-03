@@ -1,0 +1,1 @@
+Let f be a function whose domain is the set X, and whose image (range) is the set Y. Then f is invertible if there exists a function g with domain Y and image X, with the property:

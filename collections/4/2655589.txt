@@ -1,0 +1,1 @@
+This index assumes that the distribution is a mixture of two normal distributions with means (μ1 and μ2) and standard deviations (σ1 and σ2):[24]

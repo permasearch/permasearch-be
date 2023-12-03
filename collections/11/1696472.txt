@@ -1,0 +1,1 @@
+The problem of solving a system of linear inequalities dates back at least as far as Fourier, who in 1827 published a method for solving them,[1] and after whom the method of Fourier–Motzkin elimination is named.

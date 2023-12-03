@@ -1,0 +1,1 @@
+However, as Mars is a generic, non-spherical planetary body and influenced by complex geological processes, more accurately, the gravitational potential has to be described by the spherical harmonic functions

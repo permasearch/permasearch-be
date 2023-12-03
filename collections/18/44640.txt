@@ -1,0 +1,1 @@
+At equilibrium, at a specified temperature and pressure, the Gibbs energy G is at a minimum:

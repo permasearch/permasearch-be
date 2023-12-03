@@ -1,0 +1,1 @@
+Color depth varies depending on the scanning array characteristics, but is usually at least 24 bits. High quality models have 36-48 bits of color depth.

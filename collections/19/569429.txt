@@ -1,0 +1,1 @@
+In the example above, [BRZ ENDLOOP] depends on undefined behaviour, as COUNT-VALUE can be negative, after which the ACCUMULATOR value is undefined, resulting in BRZ either branching or not (ACCUMULATOR may be zero, or wrapped around). To make the code compatible with the specification, replace:

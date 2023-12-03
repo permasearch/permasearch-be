@@ -1,0 +1,1 @@
+The VBR is often operating-system specific; however, in most operating systems its main function is to load and execute the operating system kernel, which continues startup.

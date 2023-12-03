@@ -1,0 +1,1 @@
+Experiments show that 34% of the total execution time is spent in waiting for other slower threads.[8]

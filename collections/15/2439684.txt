@@ -1,0 +1,1 @@
+This vacuum can also be used to draw any piston blow-by gases from the engine's crankcase. This is known as a positive crankcase ventilation system, in which the gases are burned with the fuel/air mixture.

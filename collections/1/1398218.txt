@@ -1,0 +1,1 @@
+Today's digital printing methods do not have the restriction of a single color space that traditional CMYK processes do. Many presses can print from files that were ripped with images using either RGB or CMYK modes. The color reproduction abilities of a particular color space can vary; the process of obtaining accurate colors within a color model is called color matching.

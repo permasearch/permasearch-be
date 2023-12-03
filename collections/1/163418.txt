@@ -1,0 +1,1 @@
+There are exactly two distinct isosceles triangles with given area T and perimeter p if the isoperimetric inequality holds strictly as      p  2   > 12   3   T .   {\displaystyle p^{2}>12{\sqrt {3}}T.}   If the inequality is replaced by the corresponding equality, there is only one such triangle, which is equilateral.[5]:Thm.2

@@ -1,0 +1,1 @@
+Compacting pressures range from 15,000 psi (100,000 kPa) to 40,000 psi (280,000 kPa) for most metals and approximately 2,000 psi (14,000 kPa) to 10,000 psi (69,000 kPa) for non-metals. The density of isostatic compacted parts is 5% to 10% higher than with other powder metallurgy processes.

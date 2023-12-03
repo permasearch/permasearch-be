@@ -1,0 +1,1 @@
+The above formula for the rate of conversion of kinetic energy to magnetic energy, is equivalent to a rate of work done by a force of      J  ×  B    {\displaystyle \mathbf {J} \times \mathbf {B} }   on the outer core matter, whose velocity is      u    {\displaystyle \mathbf {u} }  . This work is the result of non-magnetic forces acting on the fluid.

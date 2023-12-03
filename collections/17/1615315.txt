@@ -1,0 +1,1 @@
+Moreover, the fact that the polarization can only depend on the electric field at previous times (i.e., χe(Δt) = 0 for Δt < 0), a consequence of causality, imposes Kramers–Kronig constraints on the real and imaginary parts of the susceptibility χe(ω).

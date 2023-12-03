@@ -1,0 +1,1 @@
+These factors and the lack of a widely adopted, free kernel provided the impetus for Torvalds' starting his project. He has stated that if either the GNU Hurd or 386BSD kernels had been available at the time, he likely would not have written his own.[10][11]

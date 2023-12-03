@@ -1,0 +1,1 @@
+Other conventions are less common: Common Lisp and Macsyma/Maxima use Basic-like operators except for inequality, which is /= in Common Lisp and # in Macsyma/Maxima. Older Lisps used equal, greaterp, and lessp; and negated them using not for the remaining operators.

@@ -1,0 +1,1 @@
+Before deploying radio telescopes to the far side, several problems must be overcome. The fine lunar dust can contaminate equipment, vehicles, and space suits. The conducting materials used for the radio dishes must also be carefully shielded against the effects of solar flares. Finally the area around the telescopes must be protected against contamination by other radio sources.

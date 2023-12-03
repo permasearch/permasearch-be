@@ -1,0 +1,1 @@
+The spiral may be clockwise or counter-clockwise depending on usage. For example, a tapered hand reamer with a clockwise spiral will tend to self feed as it is used, possibly leading to a wedging action and consequent breakage. A counter-clockwise spiral is therefore preferred even though the reamer is still turned in the clockwise direction.

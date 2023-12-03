@@ -1,0 +1,1 @@
+The chromaticity diagram illustrates a number of interesting properties of the CIE XYZ color space:

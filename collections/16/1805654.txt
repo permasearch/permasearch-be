@@ -1,0 +1,1 @@
+For discrete random variables, the marginal probability mass function can be written as Pr(X = x). This is

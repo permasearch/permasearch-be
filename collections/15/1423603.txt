@@ -1,0 +1,1 @@
+which clearly has trace zero, indicating that this matrix represents an infinitesimal transformation which preserves area.

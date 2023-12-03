@@ -1,0 +1,1 @@
+The axis-angle vector θ and rapidity vector ζ are altogether six continuous variables which make up the group parameters (in this particular representation), and the generators of the group are K = (Kx, Ky, Kz) and J = (Jx, Jy, Jz), each vectors of matrices with the explicit forms[nb 6]

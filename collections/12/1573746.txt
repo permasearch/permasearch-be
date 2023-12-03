@@ -1,0 +1,1 @@
+where F is the force applied to the ion, m is the mass of the particle, a is the acceleration, Q is the electric charge, E is the electric field, and v Ã— B is the cross product of the ion's velocity and the magnetic flux density.

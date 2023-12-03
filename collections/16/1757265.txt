@@ -1,0 +1,1 @@
+A "buy" is when a out-of-turn player takes the upcard, draws 2 extra cards from the stock, and cannot play the cards immediately, but must wait for his turn. If more than one player wants it, the one closest to the dealer's left has precedence. There is a limit to the number of buys allowed. , each player is only allowed 2 buys per hand.

@@ -1,0 +1,1 @@
+The low-voltage network generally relies upon fuses or low-voltage circuit breakers to remove both overload and earth faults.

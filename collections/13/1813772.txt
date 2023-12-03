@@ -1,0 +1,1 @@
+In spite of existing proofs of impossibility, some persist in trying to solve these problems.[1] Many of these problems are easily solvable provided that other geometric transformations are allowed: for example, doubling the cube is possible using geometric constructions, but not possible using straightedge and compass alone.

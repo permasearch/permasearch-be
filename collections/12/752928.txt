@@ -1,0 +1,1 @@
+Statistical mechanics considers any system to be statistically distributed across an ensemble of N microstates. Each microstate has an energy Ei and is associated with a probability pi. The internal energy is the mean value of the system's total energy, i.e., the sum of all microstate energies, each weighted by their probability of occurrence:

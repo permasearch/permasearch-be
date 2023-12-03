@@ -1,0 +1,1 @@
+RNA is thought to have preceded DNA, because of their ordering in the biosynthetic pathways. The deoxyribonucleotides used to make DNA are made from ribonucleotides, the building blocks of RNA, by removing the 2'-hydroxyl group. As a consequence a cell must have the ability to make RNA before it can make DNA.

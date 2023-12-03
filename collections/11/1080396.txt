@@ -1,0 +1,1 @@
+The main feature of a synth pad is very long attack and decay time with extended sustains. In some instances pulse-width modulation (PWM) using a square wave oscillator can be added to create a "vibrating" sound.

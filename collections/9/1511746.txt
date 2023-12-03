@@ -1,0 +1,1 @@
+The results from the three areas are combined into a total score for a country (from 0 for best to 100 for worst) and countries are rated as "Free" (0 to 30), "Partly Free" (31 to 60), or "Not Free" (61 to 100) based on the totals.

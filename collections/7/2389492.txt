@@ -1,0 +1,1 @@
+The standard shell syntax for pipelines is to list multiple commands, separated by vertical bars ("pipes" in common Unix verbiage). For example, to list files in the current directory (ls), retain only the lines of ls output containing the string "key" (grep), and view the result in a scrolling page (less), a user types the following into the command line of a terminal:

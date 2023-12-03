@@ -1,0 +1,1 @@
+In 2015, Apple incorporated the ability to present a loyalty card in Wallet to a point-of-sale terminal via NFC. Walgreens enabled this first with their Balance Rewards loyalty program; customers can add add their card to Wallet through the Walgreens or Duane Reade mobile apps and tap their phone to the terminal when prompted for their rewards card.

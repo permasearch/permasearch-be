@@ -1,0 +1,1 @@
+IBM's own sort/merge program, IERRCO00 (alias SORT), supported only IBM's first-generation disk drives (2311 and 2314) and tapes (2400). Support for second-generation disk drives was provided by IBM program products, perhaps most notably DFSORT (alias ICEMAN, also SORT).

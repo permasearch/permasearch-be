@@ -1,0 +1,1 @@
+Use     m =    4 π  ρ  m    r  3    3     {\displaystyle m={\frac {4\pi \rho _{m}r^{3}}{3}}}   (where     r   {\displaystyle r}   is the radius of the satellite) to replace      ρ  m     {\displaystyle \rho _{m}}   in formula(1), we can have a third formula:

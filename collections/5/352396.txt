@@ -1,0 +1,1 @@
+A cyclic process is one that can be repeated indefinitely often, returning the system to its initial state. Of particular interest for single cycle of a cyclic process are the net work done, and the net heat taken in (or 'consumed', in Clausius' statement), by the system.

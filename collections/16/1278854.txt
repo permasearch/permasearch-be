@@ -1,0 +1,1 @@
+The file system permissions of a symbolic link are not used, the access modes of the target file are controlled by the target file's own permissions. Some operating systems, such as FreeBSD, offer the ability to modify file permissions and filesystem attributes of a symbolic link, through lchmod[5] and lchflags[6] system calls respectively.

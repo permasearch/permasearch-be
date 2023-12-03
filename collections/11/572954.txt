@@ -1,0 +1,1 @@
+Similarly, a surface integral of H over any closed surface is independent of the free currents and picks out the "magnetic charges" within that closed surface:

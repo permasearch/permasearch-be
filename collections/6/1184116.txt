@@ -1,0 +1,1 @@
+Incident Command structure is organized in such a way as to expand and contract as needed by the incident scope, resources and hazards. Command is established in a top-down fashion, with the most important and authoritative positions established first. For example, Incident Command is established by the first arriving unit.

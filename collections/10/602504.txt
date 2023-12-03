@@ -1,0 +1,1 @@
+This procedure can be used for a simple construction of points on the parabola     y = a  x  2     {\displaystyle y=ax^{2}}  :

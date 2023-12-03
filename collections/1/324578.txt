@@ -1,0 +1,1 @@
+In digital colour TV, colour is represented by three numbers (red, green, blue intensity levels). Chroma key is achieved by a simple numerical comparison between the video and the pre-selected color. If the color at a particular point on the screen matches (either exactly, or in a range), then the video at that point is replaced by the alternate background.

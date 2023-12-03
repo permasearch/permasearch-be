@@ -1,0 +1,1 @@
+Converters of this type can achieve high resolution, but often do so at the expense of speed. For this reason, these converters are not found in audio or signal processing applications. Their use is typically limited to digital voltmeters and other instruments requiring highly accurate measurements.

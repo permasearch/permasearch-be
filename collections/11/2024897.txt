@@ -1,0 +1,1 @@
+Type A is electrically compatible with single link DVI-D. Type B is electrically compatible with dual link DVI-D but has not yet been used in any products.

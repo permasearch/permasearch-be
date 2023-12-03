@@ -1,0 +1,1 @@
+If an application is contained in a JAR file, the Java Virtual Machine needs to know the application's entry point. An entry point is any class with a public static void main(String[] args) method. This information is provided in the Main-Class header, which has the general form:

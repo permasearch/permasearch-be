@@ -1,0 +1,1 @@
+Authenticated encryption (AE) and authenticated encryption with associated data (AEAD, variant of AE) is a form of encryption which simultaneously provides confidentiality, integrity, and authenticity assurances on the data. These attributes are provided under a single, easy to use programming interface.

@@ -1,0 +1,1 @@
+A fluid that behaves according to Newton's law, with a viscosity Î¼ that is independent of the stress, is said to be Newtonian. Gases, water, and many common liquids can be considered Newtonian in ordinary conditions and contexts. There are many non-Newtonian fluids that significantly deviate from that law in some way or other. For example:

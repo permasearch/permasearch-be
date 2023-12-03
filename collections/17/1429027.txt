@@ -1,0 +1,1 @@
+Suppose Player 1 plays QUANT 8D, with the Q on a DLS and T on the center star. The score for this play would be (2 × 10 + 1 + 1 + 1 + 1) × 2 = 48 (following the order of operations).

@@ -1,0 +1,1 @@
+The statement by Clausius uses the concept of 'passage of heat'. As is usual in thermodynamic discussions, this means 'net transfer of energy as heat', and does not refer to contributory transfers one way and the other.

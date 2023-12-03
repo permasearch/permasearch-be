@@ -1,0 +1,1 @@
+s  y   ( t ) = −    m g  k   t −   m k   (  v  y o   +    m g  k   )  e  −   k m   t   +   m k   (  v  y o   +    m g  k   )   {\displaystyle s_{y}(t)=-{\frac {mg}{k}}t-{\frac {m}{k}}(v_{yo}+{\frac {mg}{k}})e^{-{\frac {k}{m}}t}+{\frac {m}{k}}(v_{yo}+{\frac {mg}{k}})}   (3a)  With a bit of algebra to simplify (3a):

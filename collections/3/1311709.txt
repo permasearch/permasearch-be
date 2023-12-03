@@ -1,0 +1,1 @@
+It is then possible to calculate the APF as follows:

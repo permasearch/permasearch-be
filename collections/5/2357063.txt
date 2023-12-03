@@ -1,0 +1,1 @@
+Although the leakage current of non-solid e-caps is higher than current flow over insulation resistance in ceramic or film capacitors, the self-discharge of modern non-solid electrolytic capacitors with organic electrolytes takes several weeks.

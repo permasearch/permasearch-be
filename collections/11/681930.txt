@@ -1,0 +1,1 @@
+The optimal configuration for any Web application depends on application-specific details, amount of traffic, and complexity of the transaction; these tradeoffs need to be analyzed to determine the best implementation for a given task and time budget.  Web Frameworks offer an alternative to using CGI scripts to interact with user agents.

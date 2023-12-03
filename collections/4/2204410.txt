@@ -1,0 +1,1 @@
+On a US-International keyboard in Linux and Unix, the "Â£" can be entered using:

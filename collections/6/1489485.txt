@@ -1,0 +1,1 @@
+On 18 April 2011, version 4.0.1 was released supporting some customer-demanded fixes for Windows Workflow Foundation.[50] Its design-time component, which requires Visual Studio 2010 SP1, adds a workflow state machine designer.[51]

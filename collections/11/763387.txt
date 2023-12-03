@@ -1,0 +1,1 @@
+Early attempts to measure the distance to the Moon exploited observations of a lunar eclipse combined with knowledge of Earth's radius and an understanding that the Sun is much further than the Moon. By observing the geometry of a lunar eclipse, the lunar distance can be calculated using trigonometry.

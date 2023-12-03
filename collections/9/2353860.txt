@@ -1,0 +1,1 @@
+The inverse of the compressibility is called the bulk modulus, often denoted K (sometimes B). That page also contains some examples for different materials.

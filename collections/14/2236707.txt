@@ -1,0 +1,1 @@
+For quoting mensural notation symbols in inline text, a number of characters have been included in the character encoding standard Unicode, in the "musical symbols" block. They are located at character codes U+1D1B6 through U+1D1CE.

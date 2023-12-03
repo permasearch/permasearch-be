@@ -1,0 +1,1 @@
+Most AC motors will run on MSW inverters with an efficiency reduction of about 20% owing to the harmonic content. However, they may be quite noisy. A series LC filter tuned to the fundamental frequency may help.[6]

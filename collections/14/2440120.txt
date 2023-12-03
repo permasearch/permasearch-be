@@ -1,0 +1,1 @@
+If a classification system has been trained to distinguish between cats, dogs and rabbits, a confusion matrix will summarize the results of testing the algorithm for further inspection.  Assuming a sample of 27 animals â€” 8 cats, 6 dogs, and 13 rabbits, the resulting confusion matrix could look like the table below:

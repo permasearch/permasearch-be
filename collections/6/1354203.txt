@@ -1,0 +1,1 @@
+MS-DOS/PCÂ DOS will hang on startup if this value is erroneously specified as 0.[24]

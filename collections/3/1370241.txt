@@ -1,0 +1,1 @@
+If S = a+bi where a and b are real and b ≠ 0, then its principal square root is

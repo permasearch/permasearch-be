@@ -1,0 +1,1 @@
+The main difference between the hedge methods is who derives the benefit of a favourable movement in the exchange rate. With a forward contract the other party derives the benefit, while with an option the company retains the benefit by choosing not to exercise the option if the exchange rate moves in its favour.

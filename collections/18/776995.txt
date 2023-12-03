@@ -1,0 +1,1 @@
+For nonrelativistic values of k, the relativistic normalization is the same as the nonrelativistic normalization (up to a constant factor √m). In this limit, the φ4 invariant scattering amplitude is still constant. The particles created by the field φ scatter in all directions with equal amplitude.

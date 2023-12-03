@@ -1,0 +1,1 @@
+Extreme programming's initial buzz and controversial tenets, such as pair programming and continuous design, have attracted particular criticisms, such as the ones coming from McBreen[15] and Boehm and Turner.,[16] Matt Stephens and Doug Rosenberg.[17] Many of the criticisms, however, are believed by Agile practitioners to be misunderstandings of agile development.[18]

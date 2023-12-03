@@ -1,0 +1,1 @@
+It is instructive to compute the relative velocity of particles moving at v and −v in accelerator frame, which corresponds to the closing speed of 2v > c. Expressing the speeds in units of c, β = v/c:

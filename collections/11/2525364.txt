@@ -1,0 +1,1 @@
+Applications for Hall effect sensing have also expanded to industrial applications, which now use Hall effect joysticks to control hydraulic valves, replacing the traditional mechanical levers with contactless sensing. Such applications include mining trucks, backhoe loaders, cranes, diggers, scissor lifts, etc.

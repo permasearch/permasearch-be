@@ -1,0 +1,1 @@
+Blocks are always written in phonetic order, initial-medial-final. Therefore:

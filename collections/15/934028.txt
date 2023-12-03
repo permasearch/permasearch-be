@@ -1,0 +1,1 @@
+If one relaxes the requirement that the tetrahedra be all the same shape, one can tile space using only tetrahedra in many different ways. For example, one can divide an octahedron into four identical tetrahedra and combine them again with two regular ones. (As a side-note: these two kinds of tetrahedron have the same volume.)

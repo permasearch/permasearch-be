@@ -1,0 +1,1 @@
+POSIX specifies[1] the format of the output of the long format (-l option) for every file listed. In particular, the first field (before first space) is dubbed "file mode string" and its first character describes the file type. The rest of this string indicates the file permissions.

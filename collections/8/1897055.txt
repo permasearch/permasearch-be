@@ -1,0 +1,1 @@
+As of  SeptemberÂ 2017[update], the largest known prime number that counts a number of partitions is p(221444161), with 16569 decimal digits.[4]

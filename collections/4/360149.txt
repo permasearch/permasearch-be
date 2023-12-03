@@ -1,0 +1,1 @@
+In addition to file formats, UTIs can also be used for other entities which can exist in OS X, including:

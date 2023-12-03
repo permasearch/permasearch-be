@@ -1,0 +1,1 @@
+(where the scalar A is not to be confused with the matrix A). If the determinant is non-zero, the matrix is invertible, with the elements of the intermediary matrix on the right side above given by

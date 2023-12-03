@@ -1,0 +1,1 @@
+The size of the grid (most commonly 8×8, 10×10 or 12×12) varies, as does the exact arrangement of the snakes and ladders, with both factors affecting the duration of play. Each player is represented by a distinctly coloured game piece token. A single die is rolled to determine random movement of a player's token in the traditional form of play.

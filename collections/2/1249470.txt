@@ -1,0 +1,1 @@
+It too can be justified by a double integral of the constant function 1 over the disk by reversing the order of integration and using a change of variables in the above iterated integral:

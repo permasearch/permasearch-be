@@ -1,0 +1,1 @@
+With the use of a radix point (decimal point in base-10), the notation can be extended to include fractions and the numeric expansions of real numbers.

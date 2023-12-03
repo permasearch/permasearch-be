@@ -1,0 +1,1 @@
+Suppose the share price drops to $85. The net value is now only $5 (the previous net value of $20 minus the share's $15 drop in price), so, to maintain the broker's minimum margin, Jane needs to increase this net value to $10 or more, either by selling the share or repaying part of the loan.

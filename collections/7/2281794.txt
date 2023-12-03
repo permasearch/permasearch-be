@@ -1,0 +1,1 @@
+In real mode or V86 mode, the size of a segment can range from 1 byte up to 65,536Â bytes (using 16-bit offsets).

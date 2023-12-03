@@ -1,0 +1,1 @@
+The free software project OpenCDE had been started in 2010 to reproduce the look and feel, organization, and feature set of CDE.[18] In August 2012, when CDE was released as free software, OpenCDE was officially deprecated in favor of CDE.[19]

@@ -1,0 +1,1 @@
+In parallel with this, distribution utilities began to roll out Supervisory Control and Data Acquisition (SCADA) systems, initially only at their higher voltage substations.  Over time, use of SCADA has progressively extended downwards to sites at lower voltage levels.

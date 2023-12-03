@@ -1,0 +1,1 @@
+(  −  k  y   2   −  k  z   2   +     ω  2    n  x   2     c  2      )   E  x   +  k  x    k  y    E  y   +  k  x    k  z    E  z   = 0   {\displaystyle \left(-k_{y}^{2}-k_{z}^{2}+{\frac {\omega ^{2}n_{x}^{2}}{c^{2}}}\right)E_{x}+k_{x}k_{y}E_{y}+k_{x}k_{z}E_{z}=0}

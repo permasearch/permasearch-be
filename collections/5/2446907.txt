@@ -1,0 +1,1 @@
+Additionally, QNX is a microkernel which is principally used in embedded systems,[54] and the open-source software MINIX, while originally created for educational purposes, is now focussed on being a highly reliable and self-healing microkernel OS.

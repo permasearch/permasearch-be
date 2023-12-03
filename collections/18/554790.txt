@@ -1,0 +1,1 @@
+Infinite-dimensional spaces are widely used in geometry and topology, particularly as classifying spaces, such as Eilenberg−MacLane spaces. Common examples are the infinite-dimensional complex projective space K(Z,2) and the infinite-dimensional real projective space K(Z/2Z,1).[citation needed]

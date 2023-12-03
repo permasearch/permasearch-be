@@ -1,0 +1,1 @@
+If a vector v of size n happens to be an eigenvector of A with eigenvalue λ, in other words if A⋅v = λv, then

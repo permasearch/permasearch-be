@@ -1,0 +1,1 @@
+Both follow easily from the second Borel–Cantelli lemma. For the second theorem, let Ek be the event that the kth string begins with the given text. Because this has some fixed nonzero probability p of occurring, the Ek are independent, and the below sum diverges,

@@ -1,0 +1,1 @@
+The usual implementation strategy for lazy evaluation in functional languages is graph reduction.[42] Lazy evaluation is used by default in several pure functional languages, including Miranda, Clean, and Haskell.

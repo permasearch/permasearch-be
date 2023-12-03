@@ -1,0 +1,1 @@
+The weights,      W  h     {\displaystyle W_{h}}  , frequently, but not always, represent the proportions of the population elements in the strata, and      W  h   =  N  h    /  N   {\displaystyle W_{h}=N_{h}/N}  . For a fixed sample size, that is     n = ∑   n  h      {\displaystyle n=\sum {n_{h}}}  ,

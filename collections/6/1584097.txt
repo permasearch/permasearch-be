@@ -1,0 +1,1 @@
+Considering only (hkℓ) planes intersecting one or more lattice points (the lattice planes), the perpendicular distance d between adjacent lattice planes is related to the (shortest) reciprocal lattice vector orthogonal to the planes by the formula:     d = 2 π  /   |    g   h k ℓ    |    {\displaystyle d=2\pi /|\mathbf {g} _{hk\ell }|}  .[1]

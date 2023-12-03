@@ -1,0 +1,1 @@
+Digital Copy files based on transcoding solutions can use the correct audio track and subtitle based on the user's location or choice and individually create the digital copy based on the target device properties (video and audio bitrate, display resolution, aspect ratio).

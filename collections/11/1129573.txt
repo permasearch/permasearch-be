@@ -1,0 +1,1 @@
+Schottky diode are also used as rectifiers in switched-mode power supplies. The low forward voltage and fast recovery time leads to increased efficiency.

@@ -1,0 +1,1 @@
+The logarithm with this special base is called the natural logarithm and is denoted as ln; it behaves well under differentiation since there is no undetermined limit to carry through the calculations.

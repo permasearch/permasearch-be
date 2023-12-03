@@ -1,0 +1,1 @@
+Small GTPases also bind GTP and GDP and are involved in signal transduction. These proteins are homologous to the alpha (Î±) subunit found in heterotrimers, but exist as monomers. They are small (20-kDa to 25-kDa) proteins that bind to guanosine triphosphate (GTP). This family of proteins is homologous to the Ras GTPases and is also called the Ras superfamily GTPases.

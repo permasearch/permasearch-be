@@ -1,0 +1,1 @@
+If     v   {\displaystyle v}   is very small compared to     c   {\displaystyle c}  , then     γ   {\displaystyle \gamma }   is very close to 1 and

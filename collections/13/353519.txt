@@ -1,0 +1,1 @@
+Therefore, F is a differential 2-form—that is, an antisymmetric rank-2 tensor field—on Minkowski space. In component form,

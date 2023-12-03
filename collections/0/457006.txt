@@ -1,0 +1,1 @@
+A =    f  c     Q  b    /   Q  t   − 1    = 68.7672   {\displaystyle A={\frac {f_{c}}{Q_{b}/Q_{t}-1}}=68.7672}

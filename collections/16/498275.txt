@@ -1,0 +1,1 @@
+On most micrometers, a small pin spanner is used to turn the sleeve relative to the barrel, so that its zero line is repositioned relative to the markings on the thimble. There is usually a small hole in the sleeve to accept the spanner's pin. This calibration procedure will cancel a zero error: the problem that the micrometer reads nonzero when its jaws are closed.

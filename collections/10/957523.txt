@@ -1,0 +1,1 @@
+XC approaches zero as ω approaches infinity. If XC approaches 0, the capacitor resembles a short wire that strongly passes current at high frequencies. XC approaches infinity as ω approaches zero. If XC approaches infinity, the capacitor resembles an open circuit that poorly passes low frequencies.

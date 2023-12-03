@@ -1,0 +1,1 @@
+The result when multiplied with the displacement power factor (DPF) is the overall, true power factor or just power factor (PF):

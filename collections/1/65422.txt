@@ -1,0 +1,1 @@
+for the Atlantic and the Indian Ocean, where the height is in meters and time is in millions of years. To get the dependence on x, one must substitute t = x/v ~ Tx/L, where L is the distance between the ridge to the continental shelf (roughly half the ocean width), and T is the ocean age.

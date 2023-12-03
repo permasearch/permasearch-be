@@ -1,0 +1,1 @@
+Root test or nth root test. Suppose that the terms of the sequence in question are non-negative. Define r as follows:

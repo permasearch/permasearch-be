@@ -1,0 +1,1 @@
+where I is the DC current, q is the charge of an electron, and Î”B is the bandwidth in hertz. The Schottky formula assumes independent arrivals.

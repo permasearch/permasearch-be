@@ -1,0 +1,1 @@
+Planar graphs, and other families of sparse graphs, have been discussed above: they have linearly many maximal cliques, of bounded size, that can be listed in linear time.[19] In particular, for planar graphs, any clique can have at most four vertices, by Kuratowski's theorem.[22]

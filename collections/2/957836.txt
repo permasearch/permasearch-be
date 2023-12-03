@@ -1,0 +1,1 @@
+for n, yielding the sample size n = 16σ2/W2.

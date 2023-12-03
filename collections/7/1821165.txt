@@ -1,0 +1,1 @@
+Polyprotic acids are acids that can lose more than one proton. The constant for dissociation of the first proton may be denoted as Ka1 and the constants for dissociation of successive protons as Ka2, etc. Phosphoric acid, H3PO4, is an example of a polyprotic acid as it can lose three protons.

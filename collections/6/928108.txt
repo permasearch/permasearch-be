@@ -1,0 +1,1 @@
+On the other hand, certain features of consumer soundcards such as support for environmental audio extensions (EAX), optimization for hardware acceleration in video games, or real-time ambience effects are secondary, nonexistent or even undesirable in professional soundcards, and as such audio interfaces are not recommended for the typical home user.

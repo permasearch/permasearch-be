@@ -1,0 +1,1 @@
+The type I error rate or significance level is the probability of rejecting the null hypothesis given that it is true.[5][6] It is denoted by the Greek letter α (alpha) and is also called the alpha level. Often, the significance level is set to 0.05 (5%), implying that it is acceptable to have a 5% probability of incorrectly rejecting the null hypothesis.[5]

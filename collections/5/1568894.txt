@@ -1,0 +1,1 @@
+There are also issues with computerized money-handling systems. In Zimbabwe, during the hyperinflation of the Zimbabwe dollar, many automated teller machines and payment card machines struggled with arithmetic overflow errors as customers required many billions and trillions of dollars at one time.[23]

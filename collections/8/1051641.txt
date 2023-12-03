@@ -1,0 +1,1 @@
+It is also possible to extend the Blackâ€“Scholes framework to options on instruments paying discrete proportional dividends. This is useful when the option is struck on a single stock.

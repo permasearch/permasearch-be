@@ -1,0 +1,1 @@
+The VISA method takes the rightmost eleven digits of the PAN excluding the checksum value, a PIN validation key index (PVKI, chosen from one to six) and the required PIN value to make a 64 bit number, the PVKI selects a validation key (PVK, of 128 bits) to encrypt this number. From this encrypted value, the PVV is found.[15]

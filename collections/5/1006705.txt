@@ -1,0 +1,1 @@
+Most tests for neglect look for rightward or leftward errors. But patients may also neglect stimuli on one side of a horizontal or radial axis. For example, when asked to circle all the stars on a printed page, they may locate targets on both the left and right sides of the page while ignoring those across the top or bottom.

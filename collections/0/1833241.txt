@@ -1,0 +1,1 @@
+Geographical coordinates on Earth should be entered using a template to standardise the format and to provide a link to maps of the coordinates. As long as the templates are adhered to, a robot performs the functions automatically.

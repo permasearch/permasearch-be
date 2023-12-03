@@ -1,0 +1,1 @@
+If a player is dealt 13 or more non-counters and no aces, the player may declare a technical misdeal.  This must declared before he or she plays the first trick.  A technical misdeal nullifies all points melded for all players.  The hand is then re-dealt by the original dealer of that hand.

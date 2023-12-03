@@ -1,0 +1,1 @@
+Where F2 is the force acting on the mass m2 caused by the gravitational attraction mass m1 has for m2, G is the universal gravitational constant, and r is the distance between the two masses centers.

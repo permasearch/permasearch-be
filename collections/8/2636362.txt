@@ -1,0 +1,1 @@
+Research prototype languages such as PS-algol, Napier88, Fibonacci and pJama, successfully demonstrated the concepts along with the advantages to programmers.

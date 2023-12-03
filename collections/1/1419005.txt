@@ -1,0 +1,1 @@
+All known elementary particles, including quarks, have charges that are integer multiples of 1/3 e. Therefore, one can say that the "quantum of charge" is 1/3 e. In this case, one says that the "elementary charge" is three times as large as the "quantum of charge".

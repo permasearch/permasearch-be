@@ -1,0 +1,1 @@
+where h is the Planck constant, α is the fine-structure constant, μ0 is the magnetic constant, ε0 is the electric constant and c is the speed of light. The uncertainty in the value of e is currently determined almost entirely by the uncertainty in the Planck constant.

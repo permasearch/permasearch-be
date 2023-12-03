@@ -1,0 +1,1 @@
+These traces were produced by a time-domain reflectometer made from common lab equipment connected to approximately 100 feet (30 m) of coaxial cable having a characteristic impedance of 50 ohms. The propagation velocity of this cable is approximately 66% of the speed of light in a vacuum.

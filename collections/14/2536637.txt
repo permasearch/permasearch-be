@@ -1,0 +1,1 @@
+Telcordia GR-2930, NEBS: Raised Floor Generic Requirements for Network and Data Centers, presents generic engineering requirements for raised floors that fall within the strict NEBS guidelines.

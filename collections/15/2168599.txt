@@ -1,0 +1,1 @@
+Example: In the following example the block size is 8 bytes, and padding is required for 4 bytes (in hexadecimal format)

@@ -1,0 +1,1 @@
+MLPs were a popular machine learning solution in the 1980s, finding applications in diverse fields such as speech recognition, image recognition, and machine translation software,[6] but thereafter faced strong competition from much simpler (and related[7]) support vector machines. Interest in backpropagation networks returned due to the successes of deep learning.

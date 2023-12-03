@@ -1,0 +1,1 @@
+One byte per second (1 B/s) corresponds to 8 bit/s.

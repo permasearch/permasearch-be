@@ -1,0 +1,1 @@
+The Zener diode's operation depends on the heavy doping of its p-n junction. The depletion region formed in the diode is very thin (<1 µm) and the electric field is consequently very high (about 500 kV/m) even for a small reverse bias voltage of about 5 V, allowing electrons to tunnel from the valence band of the p-type material to the conduction band of the n-type material.

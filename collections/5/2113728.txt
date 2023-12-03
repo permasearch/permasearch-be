@@ -1,0 +1,1 @@
+Some Wi-Fi enabled games (e.g. Mario Kart DS) allow the selection of opponents by region. The options are "Regional" ("Continent" in Europe) and "Worldwide", as well as two non-location specific settings. This allows the player to limit competitors to only those opponents based in the same geographical area. This is based on the region code of the game in use.[citation needed]

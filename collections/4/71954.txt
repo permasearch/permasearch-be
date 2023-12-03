@@ -1,0 +1,1 @@
+where Q is an orthogonal matrix. To see the inner product connection, consider a vector v in an n-dimensional real Euclidean space. Written with respect to an orthonormal basis, the squared length of v is vTv. If a linear transformation, in matrix form Qv, preserves vector lengths, then

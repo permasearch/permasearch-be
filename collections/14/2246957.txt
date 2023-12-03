@@ -1,0 +1,1 @@
+|      f →     1    |  =  |      f →     2    |    {\displaystyle |{\vec {f}}_{1}|=|{\vec {f}}_{2}|}   is equivalent to      t  0   = ± 1   {\displaystyle t_{0}=\pm 1}   and         f →     0   ± (     f →     1   +     f →     2   )   {\displaystyle {\vec {f}}_{0}\pm ({\vec {f}}_{1}+{\vec {f}}_{2})}   are the vertices of the hyperbola.

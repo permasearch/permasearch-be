@@ -1,0 +1,1 @@
+On the other hand, in modern mathematical logic, however, statements containing words "all", "some" and "no", can stated in terms of set theory. If the set of all A's is labeled as s(A) and the set of all B's as s(B), then:

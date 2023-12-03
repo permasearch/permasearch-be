@@ -1,0 +1,1 @@
+In 2007, after years of draft discussions, the GPLv3 was released and Torvalds and the majority of kernel developers decided against adopting the new license for the linux kernel.[22][23][24]

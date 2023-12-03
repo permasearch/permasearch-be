@@ -1,0 +1,1 @@
+A formal calculation is one carried out using rules of arithmetic, without consideration of whether the result of the calculation is well-defined. Thus, it is sometimes useful to think of a/0, where a ≠ 0, as being     ∞   {\displaystyle \infty }  . This infinity can be either positive, negative, or unsigned, depending on context. For example, formally:

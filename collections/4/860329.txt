@@ -1,0 +1,1 @@
+Tab may be used to complete a partially typed piece of text. For example, in some command-line interfaces, you may type the first few characters of a command or file-name, then press Tab. If there is no ambiguity about your intent, the rest of the characters will appear automatically. This usage is more common on Unix than Windows.

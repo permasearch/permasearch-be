@@ -1,0 +1,1 @@
+In July 1997, Bruce Perens published the Debian Free Software Guidelines.[9] A definition based on the DFSG was also used by the Open Source Initiative (OSI) under the name "The Open Source Definition".

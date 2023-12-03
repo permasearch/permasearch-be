@@ -1,0 +1,1 @@
+Acceleration with respect to crank angle (take second derivative, using the chain rule and the quotient rule):

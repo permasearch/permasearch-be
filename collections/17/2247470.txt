@@ -1,0 +1,1 @@
+Another type of timeline is used for project management. In these cases, timelines are used to help team members to know what milestones need to be achieved and under what time schedule. For example, in the case of establishing a project timeline in the implementation phase of the life cycle of a computer system.

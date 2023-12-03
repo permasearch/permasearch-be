@@ -1,0 +1,1 @@
+In 1966 Charles K. Kao and George Hockham at STC Laboratories (STL) showed that the losses of 1,000 dB/km in existing glass (compared to 5–10 dB/km in coaxial cable) were due to contaminants which could potentially be removed.

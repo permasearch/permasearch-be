@@ -1,0 +1,1 @@
+where α is the constant angular acceleration, ω is the angular velocity, ω0 is the initial angular velocity, θ is the angle turned through (angular displacement), θ0 is the initial angle, and t is the time taken to rotate from the initial state to the final state.

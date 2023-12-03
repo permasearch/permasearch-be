@@ -1,0 +1,1 @@
+A king (玉/王) moves one square in any direction, orthogonal or diagonal.

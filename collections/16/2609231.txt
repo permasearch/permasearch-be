@@ -1,0 +1,1 @@
+Let D1 = major axis of upper ellipse of the frustum D2 = minor axis of upper ellipse of the frustum D3 = major axis of lower ellipse of the frustum D4 = minor axis of lower ellipse of the frustum h = height of frustum V = volume of frustum Ï€ = 3.141593

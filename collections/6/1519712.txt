@@ -1,0 +1,1 @@
+This is known as the distance modulus, where d is the distance to the star measured in parsecs, m is the apparent magnitude, and M is the absolute magnitude.

@@ -1,0 +1,1 @@
+An image that is 2048 pixels in width and 1536 pixels in height has a total of 2048Ã—1536 = 3,145,728 pixels or 3.1 megapixels. One could refer to it as 2048 by 1536 or a 3.1-megapixel image. Or, you can think of it as a very low quality image (72ppi) if printed at about 28.5 inches wide, or a very good quality (300ppi) image if printed at about 7 inches wide.

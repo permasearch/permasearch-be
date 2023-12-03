@@ -1,0 +1,1 @@
+p need not be an integer, but it cannot be less than 1, because otherwise the triangle inequality does not hold.

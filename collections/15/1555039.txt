@@ -1,0 +1,1 @@
+Inductive dividers split DC input according to the resistance of the elements as for the resistive divider above.

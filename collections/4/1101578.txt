@@ -1,0 +1,1 @@
+Capacitors follow the same law using the reciprocals. The total capacitance of capacitors in series is equal to the reciprocal of the sum of the reciprocals of their individual capacitances:

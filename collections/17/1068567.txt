@@ -1,0 +1,1 @@
+x =   [    3 2    (    π 2   − t     2 μ     y  0     3       )   ]   2  /  3     {\displaystyle x=\left[{\frac {3}{2}}\left({\frac {\pi }{2}}-t{\sqrt {\frac {2\mu }{{y_{0}}^{3}}}}\right)\right]^{2/3}}

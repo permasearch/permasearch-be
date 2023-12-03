@@ -1,0 +1,1 @@
+An interesting example is the graph isomorphism problem, the graph theory problem of determining whether a graph isomorphism exists between two graphs.  Two graphs are isomorphic if one can be transformed into the other simply by renaming vertices. Consider these two problems:

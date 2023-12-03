@@ -1,0 +1,1 @@
+The concepts of direct and inverse proportion lead to the location of points in the Cartesian plane by hyperbolic coordinates; the two coordinates correspond to the constant of direct proportionality that specifies a point as being on a particular ray and the constant of inverse proportionality that specifies a point as being on a particular hyperbola.

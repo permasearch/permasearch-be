@@ -1,0 +1,1 @@
+Tom is attacking Norman with a Hill Giant, a 3/3 creature (meaning it has 3 power and 3 toughness). Norman chooses to block with his Grizzly Bears, a weaker 2/2 creature. If nothing else happened, the Hill Giant would deal 3 damage to the Grizzly Bears and kill them, while the Bears would deal 2 damage to the Giant, making Hill Giant "the winner".

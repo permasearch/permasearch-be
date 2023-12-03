@@ -1,0 +1,1 @@
+Because the Q factor can be very high, (experimentally around a thousand has been demonstrated[39] with air cored coils) only a small percentage of the field has to be coupled from one coil to the other to achieve high efficiency, even though the field dies quickly with distance from a coil, the primary and secondary can be several diameters apart.

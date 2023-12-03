@@ -1,0 +1,1 @@
+âˆ— = minimum 15 attempts, # = min. 100 attempts, + = min. 500 attempts

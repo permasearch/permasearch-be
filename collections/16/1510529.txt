@@ -1,0 +1,1 @@
+Private addresses are also commonly used in corporate networks, which for security reasons, are not connected directly to the Internet.  Often a proxy, SOCKS gateway, or similar devices are used to provide restricted Internet access to network-internal users.

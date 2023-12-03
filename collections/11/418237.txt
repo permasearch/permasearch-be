@@ -1,0 +1,1 @@
+Consider, for example, a reference frame moving relative to another at velocity v in the x direction. The Galilean transformation gives the coordinates of the moving frame as

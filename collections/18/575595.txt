@@ -1,0 +1,1 @@
+In January 2015, TorrentFreak reported that using Chrome when connected to the internet using a VPN can be a serious security issue due to the browser's support for WebRTC.[72]

@@ -1,0 +1,1 @@
+the high nibble is 01102 (6), and the low nibble is 00012 (1).  The total value is high-nibble × 16 + low-nibble (6×16+1=97).

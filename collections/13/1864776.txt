@@ -1,0 +1,1 @@
+The following properties can all be derived from the ordinary differentiation rules of calculus. Most importantly, the divergence is a linear operator, i.e.

@@ -1,0 +1,1 @@
+For periodic waves in nondispersive media (that is, media in which the wave speed is independent of frequency), frequency has an inverse relationship to the wavelength, λ (lambda). Even in dispersive media, the frequency f of a sinusoidal wave is equal to the phase velocity v of the wave divided by the wavelength λ of the wave:

@@ -1,0 +1,1 @@
+For a sound card, VirtualBox virtualizes Intel HD Audio, Intel ICH AC'97 and SoundBlaster 16 devices.[37]

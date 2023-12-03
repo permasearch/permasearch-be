@@ -1,0 +1,1 @@
+That is, the slope of the tangent touching the graph of the base-b logarithm at the point (x, logb(x)) equals 1/(xâ€‰ln(b)).

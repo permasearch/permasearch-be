@@ -1,0 +1,1 @@
+It might seem natural to divide the sets into different classes: put all the sets containing one element together; all the sets containing two elements together; ...; finally, put together all infinite sets and consider them as having the same size. This view is not tenable, however, under the natural definition of size.

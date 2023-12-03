@@ -1,0 +1,1 @@
+The most unbalanced partition occurs when the pivot divides the list into two sublists of sizes 0 and n âˆ’ 1. This may occur if the pivot happens to be the smallest or largest element in the list, or in some implementations (e.g., the Lomuto partition scheme as described above) when all the elements are equal.

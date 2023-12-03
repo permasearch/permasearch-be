@@ -1,0 +1,1 @@
+In three-dimensional space, if one coordinate is held constant and the other two are allowed to vary, then the resulting surface is called a coordinate surface

@@ -1,0 +1,1 @@
+When the user logs in on a second desktop computer, this process repeats, merging the roaming profile from the server to the second desktop computer, and then merging back from the desktop to the server when the user logs off.

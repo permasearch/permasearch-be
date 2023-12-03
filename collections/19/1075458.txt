@@ -1,0 +1,1 @@
+This is a list of data structures. For a wider list of terms, see list of terms relating to algorithms and data structures. For a comparison of running time of subset of this list see comparison of data structures.

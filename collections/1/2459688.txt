@@ -1,0 +1,1 @@
+CNNs with 12 convolutional layers were used in conjunction with reinforcement learning by Deepmind's "AlphaGo Lee", the program that beat a top Go champion in 2016.[216]

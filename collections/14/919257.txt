@@ -1,0 +1,1 @@
+This copies the smith file to the smith.jr file. Instead of creating the file with the current date and time stamp, the system gives the smith.jr file the same date and time as the smith file. The smith.jr file also inherits the smith file's access control protection.

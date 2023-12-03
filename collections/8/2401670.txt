@@ -1,0 +1,1 @@
+In 1983 Pearson together with Robert Parr extended the qualitative HSAB theory with a quantitative definition of the chemical hardness (Î·) as being proportional to the second derivative of the total energy of a chemical system with respect to changes in the number of electrons at a fixed nuclear environment:[9]

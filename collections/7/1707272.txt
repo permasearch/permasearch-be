@@ -1,0 +1,1 @@
+Although design patterns have been applied practically for a long time, formalization of the concept of design patterns languished for several years.[3]

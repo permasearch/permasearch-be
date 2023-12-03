@@ -1,0 +1,1 @@
+The biotechnological method of directed evolution has been applied to produce by mutation a large number of Penicillium strains. These techniques include error-prone PCR, DNA shuffling, ITCHY, and strand-overlap PCR.

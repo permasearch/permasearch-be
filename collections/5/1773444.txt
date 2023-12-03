@@ -1,0 +1,1 @@
+The official firmware is a freely redistributable[145] binary blob, that is closed-source.[122] A minimal open source firmware is also available.[146]

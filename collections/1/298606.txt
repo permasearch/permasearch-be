@@ -1,0 +1,1 @@
+Digital thermostats use either a relay or a semiconductor device such as triac to act as a switch to control the HVAC unit. Units with relays will operate millivolt systems, but often make an audible "click" noise when switching on or off.

@@ -1,0 +1,1 @@
+This linkbase associates concepts with other concepts using a variety of arc roles to express relations such as is-a, whole-part, etc. Arc roles can be created by those who create XBRL taxonomies or commonly used arc roles can be added to the XBRL Link Role Registry (LRR).

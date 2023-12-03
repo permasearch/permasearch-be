@@ -1,0 +1,1 @@
+Water concentration is omitted from expressions defining equilibrium constants, except when solutions are very concentrated.

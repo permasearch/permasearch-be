@@ -1,0 +1,1 @@
+This is the sequential paradigm that is most familiar. Variations do exist (such as inner loops, structures and such), but they ultimately boil down to that construct.

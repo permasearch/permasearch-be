@@ -1,0 +1,1 @@
+Example for both cases, using German style: The first el…is stands for omitted letters, the second … for an omitted word.

@@ -1,0 +1,1 @@
+If numerical values (money for impact and probabilities for the other factors), the risk can be expressed in monetary terms and compared to the cost of countermeasures and the residual risk after applying the security control. It is not always practical to express this values, so in the first step of risk evaluation, risk are graded dimensionless in three or five steps scales.

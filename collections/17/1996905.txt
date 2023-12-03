@@ -1,0 +1,1 @@
+The middle term, z, represents the potential energy of the fluid due to its elevation with respect to a reference plane. Now, z is called the elevation head and given the designation zelevation.

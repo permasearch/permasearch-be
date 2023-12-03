@@ -1,0 +1,1 @@
+Several algorithms based on depth first search compute strongly connected components in linear time.

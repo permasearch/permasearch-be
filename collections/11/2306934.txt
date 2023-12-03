@@ -1,0 +1,1 @@
+Two separate fuel economy tests simulate city driving and highway driving: the "city" driving program or Urban Dynamometer Driving Schedule or (UDDS) or FTP-72 is defined in 40 C.F.R. 86 App I and consists of starting with a cold engine and making 23 stops over a period of 31 minutes for an average speed of 20 mph (32 km/h) and with a top speed of 56 mph (90 km/h).

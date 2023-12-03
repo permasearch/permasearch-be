@@ -1,0 +1,1 @@
+<strike>...</strike> (obsolete) formats strike-through characters; use <s> instead.

@@ -1,0 +1,1 @@
+As of June 2014[update], the system works with a very high definition inch-precision map of the area the vehicle is expected to use, including how high the traffic lights are; in addition to on-board systems, some computation is performed on remote computer farms.[26]

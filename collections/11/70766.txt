@@ -1,0 +1,1 @@
+Windows Media Player 12 adds native support for H.264 and MPEG-4 Part 2 video formats, ALAC, AAC audio[13] and 3GP[clarification needed got no codec available for 3GP], MP4 and MOV container formats.[14] Windows Media Player 12 is also able to play AVCHD formats (.M2TS and .mts).[15]

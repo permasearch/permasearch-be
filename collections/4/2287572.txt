@@ -1,0 +1,1 @@
+The reactants in the electrochemical reactions in a lithium-ion battery are the negative and positive electrodes and the electrolyte providing a conductive medium for lithium ions to move between the electrodes. Electrical energy flows out from or in to the battery when electrons flow through an external circuit during discharge or charge, respectively.

@@ -1,0 +1,1 @@
+If NHI members do not make payment, a reminder will be sent. If payment is still not received after the reminder, the members NHI card will be replaced with a short term (6 month) card.

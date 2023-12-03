@@ -1,0 +1,1 @@
+Shogi has a handicap system (like go) in which games between players of disparate strengths are adjusted so that the stronger player is put in a more disadvantageous position in order to compensate for the difference in playing levels. In a handicap game, one or more of White's pieces are removed from the setup, and instead White plays first.

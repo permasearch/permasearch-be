@@ -1,0 +1,1 @@
+This proof, which appears in Euclid's Elements as that of Proposition 47 in Book 1,[16] demonstrates that the area of the square on the hypotenuse is the sum of the areas of the other two squares.[17] This is quite distinct from the proof by similarity of triangles, which is conjectured to be the proof that Pythagoras used.[13][18]

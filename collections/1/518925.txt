@@ -1,0 +1,1 @@
+If the output and the input are infinitely divisible, so the marginal "units" are infinitesimal, the marginal product is the mathematical derivative of the production function with respect to that input. Suppose a firm's output Y is given by the production function:

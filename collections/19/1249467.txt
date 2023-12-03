@@ -1,0 +1,1 @@
+Finding the area of this triangle will give the area of the disk

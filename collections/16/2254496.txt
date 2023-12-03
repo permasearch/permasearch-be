@@ -1,0 +1,1 @@
+The above derivation holds only for the case when the fluid is assumed to be calorically perfect. For such fluids, specific heats and     γ   {\displaystyle \gamma }   are assumed to be constant and invariant with temperature (a thermally perfect fluid).

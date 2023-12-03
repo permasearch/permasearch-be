@@ -1,0 +1,1 @@
+CDOs vary in structure and underlying assets, but the basic principle is the same. A CDO is a type of asset-backed security. To create a CDO, a corporate entity is constructed to hold assets as collateral backing packages of cash flows which are sold to investors.[86] A sequence in constructing a CDO is:

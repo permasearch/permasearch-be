@@ -1,0 +1,1 @@
+Its list of features includes port scanning, transferring files, and port listening, and it can be used as a backdoor.

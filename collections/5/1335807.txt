@@ -1,0 +1,1 @@
+Observatory service elevators often convey other facts of interest, including elevator speed, stopwatch, and current position (altitude), as with the case for Taipei 101's service elevators.

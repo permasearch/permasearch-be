@@ -1,0 +1,1 @@
+Some notable enhancements in Windows 7 Media Center include a new mini guide, a new scrub bar, the option to color code the guide by show type, and internet content that is more tightly integrated with regular TV via the guide. All Windows 7 versions now support up to four tuners of each type (QAM, ATSC, CableCARD, NTSC, etc.).

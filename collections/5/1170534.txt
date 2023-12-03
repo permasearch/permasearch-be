@@ -1,0 +1,1 @@
+Building codes determine the maximum deflection, usually as a fraction of the span e.g. 1/400 or 1/600. Either the strength limit state (allowable stress) or the serviceability limit state (deflection considerations among others) may govern the minimum dimensions of the member required.

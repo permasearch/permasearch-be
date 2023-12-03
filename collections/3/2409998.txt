@@ -1,0 +1,1 @@
+In addition we assume that for each condition variable c, there is a queue

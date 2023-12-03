@@ -1,0 +1,1 @@
+Online banking facilities typically have many features and capabilities in common, but also have some that are application specific. The common features fall broadly into several categories:

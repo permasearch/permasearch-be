@@ -1,0 +1,1 @@
+The problem may be solved using simple addition. With 64 squares on a chessboard, if the number of grains doubles on successive squares, then the sum of grains on all 64 squares is: 1 + 2 + 4 + 8 + ... and so forth for the 64 squares. The total number of grains equals 18,446,744,073,709,551,615, much higher than most expect.

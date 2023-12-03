@@ -1,0 +1,1 @@
+When the input is positive, it is amplified by the operational amplifier, which switches the diode on. Current flows through the load and, because of the feedback, the output voltage is equal to the input voltage.

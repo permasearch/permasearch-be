@@ -1,0 +1,1 @@
+The Laplacian here is interpreted as a weak derivative, so that this equation is taken to mean that, for any test function Ï†,

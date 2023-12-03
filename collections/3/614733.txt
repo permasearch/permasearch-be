@@ -1,0 +1,1 @@
+System Restore backs up system files of certain extensions (.exe, .dll, etc.) and saves them for later recovery and use.[6] It also backs up the registry and most drivers.

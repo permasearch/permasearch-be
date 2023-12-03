@@ -1,0 +1,1 @@
+The size of a matrix is defined by the number of rows and columns that it contains. A matrix with m rows and n columns is called an m × n matrix or m-by-n matrix, while m and n are called its dimensions. For example, the matrix A above is a 3 × 2 matrix.

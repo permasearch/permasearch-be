@@ -1,0 +1,1 @@
+Only when the firewall gets back an ACK, which would happen only in a legitimate connection, would the firewall send the original SYN segment on to the server for which it was originally intended. The firewall doesn't set aside resources for a connection when a SYN segment arrives, so handling a large number of false SYN segments is only a small burden.

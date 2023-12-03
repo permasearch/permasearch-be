@@ -1,0 +1,1 @@
+Radioteletype, fax, digital, slow-scan television, and other systems use forms of frequency-shift keying or audio subcarriers on a shortwave carrier. These generally require special equipment to decode, such as software on a computer equipped with a sound card.

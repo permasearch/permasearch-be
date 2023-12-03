@@ -1,0 +1,1 @@
+Programmers originally developed dynamic linking in the Multics operating system, starting in 1964, and the MTS (Michigan Terminal System), built in the late 1960s.[10]

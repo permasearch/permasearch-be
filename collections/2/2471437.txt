@@ -1,0 +1,1 @@
+Different types of heterotrimeric G proteins share a common mechanism. They are activated in response to a conformational change in the GPCR, exchanging GDP for GTP, and dissociating in order to activate other proteins in a particular signal transduction pathway. The specific mechanisms, however, differ between protein types.

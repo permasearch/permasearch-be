@@ -1,0 +1,1 @@
+Building allowance works as a kind of depreciation, representing progressive decline over the lifetime of a building. But unlike the way depreciation has a final balancing adjustment against income, the building allowance instead gets that as capital gain (or loss) through it lowering the cost base.

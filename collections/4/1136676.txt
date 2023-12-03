@@ -1,0 +1,1 @@
+Enabling DCB broadly on arbitrary networks with irregular topologies and without special routing may cause deadlocks, large buffering delays, unfairness and head of line blocking. It was suggested to use DCB to eliminate TCP slow start using approach of TCP-Bolt.[2]

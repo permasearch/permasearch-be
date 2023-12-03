@@ -1,0 +1,1 @@
+USA: 4,491  UK: 179  Italy: 33  Poland: 23  Ukraine: 18  Bulgaria: 13  Spain: 11  Denmark: 7  El Salvador: 5  Georgia: 5  Slovakia: 4  Latvia: 3  Romania: 3  Australia: 2  Estonia: 2  Netherlands: 2  Thailand: 2  Azerbaijan: 1  Czech Republic: 1  Fiji: 1  Hungary: 1  Kazakhstan: 1  South Korea: 1  TOTAL: 4,809

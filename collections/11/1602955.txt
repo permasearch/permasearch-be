@@ -1,0 +1,1 @@
+This was the 71st move of a game between Vladimir Akopian and Sergey Karjakin at Nalchik, 2009.[16][17] After 71.a8(Q)??, 71...Qxb2+, followed by alternating checks on the a and b files, would give Black a perpetual check, so Akopian played 71.a8=N!, and Karjakin resigned, as 71...Qxb2+ 72.Nb6+ would cover the check and force 72...Qxb6+ 73.Kxb6, with an easy win for White.

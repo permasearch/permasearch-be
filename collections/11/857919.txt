@@ -1,0 +1,1 @@
+When solving equation (1) we have E1 = −b/a, E2 = c/a and E3 = −d/a. With equation (2), we have E1 = 0, E2 = p and E3 = −q and thus A = −27q and B = −3p.

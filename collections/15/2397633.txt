@@ -1,0 +1,1 @@
+Optical touch technology functions when a finger or an object touches the surface, causing the light to scatter, the reflection is caught with sensors or cameras that send the data to software which dictates response to the touch, depending on the type of reflection measured.

@@ -1,0 +1,1 @@
+SDHC host devices are required to accept older SD cards.[10] However, older host devices do not recognize SDHC or SDXC memory cards, although some devices can do so through a firmware upgrade.[11] Older Windows operating systems released before Windows 7 require patches or service packs to support access to SDHC cards.[12][13][14]

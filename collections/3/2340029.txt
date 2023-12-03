@@ -1,0 +1,1 @@
+Switched-mode power supplies can be classified according to the circuit topology. The most important distinction is between isolated converters and non-isolated ones.

@@ -1,0 +1,1 @@
+S  2       +  EP  2      ⟶  S  2       EP  2      ⟶   P  2       +  EX  2         {\displaystyle {\ce {{S2}+EP2->S2EP2->{P2}+EX2}}}

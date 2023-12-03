@@ -1,0 +1,1 @@
+Note that factors p0 = 1 may be inserted without changing the value of n (e.g., 1000 = 23×30×53). In fact, any positive integer can be uniquely represented as an infinite product taken over all the positive prime numbers:

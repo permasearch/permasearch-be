@@ -1,0 +1,1 @@
+If a socket outlet unit contains additional control circuits or surge protection circuits they will fall within the scope of the Low Voltage Directive 2006/95/EC and must be CE marked. Socket outlet units with control circuits also fall within the scope of the EMC Directive 2004/108/EC.

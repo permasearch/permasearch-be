@@ -1,0 +1,1 @@
+Starting with Google Chrome 4.1 the application added a built-in translation bar using Google Translate. Translation is currently available for 52 languages.[164] When Chrome detects a foreign language other than the user's preferred language as set during the installation time, it asks the user whether or not to translate.

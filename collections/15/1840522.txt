@@ -1,0 +1,1 @@
+Another function a router performs is to decide which packet should be processed first when multiple queues exist. This is managed through QoS, which is critical when Voice over IP is deployed, so as not to introduce excessive latency.[citation needed]

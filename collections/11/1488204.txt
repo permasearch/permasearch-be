@@ -1,0 +1,1 @@
+Dividing by H to discard the unstable solution at H = 0, the stable solutions are:

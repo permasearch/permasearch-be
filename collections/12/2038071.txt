@@ -1,0 +1,1 @@
+There are many third-party macOS applications which utilize their own custom bundle format (e.g. CandyBar .iContainer, Aperture .aplibrary, VMware Fusion .vmwarevm, etc.).

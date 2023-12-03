@@ -1,0 +1,1 @@
+where v would be the (linear) velocity.

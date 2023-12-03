@@ -1,0 +1,1 @@
+GLUT2 in contrast has a high Km value (15-20mM) and therefore a low affinity for glucose. They are located in the plasma membranes of hepatocytes and pancreatic beta cells (in mice, but GLUT1 in human beta cells; see Reference 1). The high Km of GLUT2 allows for glucose sensing; rate of glucose entry is proportional to blood glucose levels.

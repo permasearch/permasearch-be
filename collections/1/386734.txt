@@ -1,0 +1,1 @@
+Hut 4 also decoded a manual system known as the dockyard cipher, which sometimes carried messages that were also sent on an Enigma network. Feeding these back to HutÂ 8 provided excellent "cribs" for Known-plaintext attacks on the daily naval Enigma key.[57]

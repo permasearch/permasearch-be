@@ -1,0 +1,1 @@
+One of the known risk rating anomalies is that likelihood and the severity of injury can be scaled, but mechanism of injury cannot be scaled. This is the reason why the mechanism of injury is bundled with severity, to allow a rating to be given.[citation needed] The MoI is an important factor as it suggests the obvious controls.

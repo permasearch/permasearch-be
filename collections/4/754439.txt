@@ -1,0 +1,1 @@
+Non-traditional networks such as personal network Bluetooth devices are not safe from hacking and should be regarded as a security risk. Even barcode readers, handheld PDAs, and wireless printers and copiers should be secured. These non-traditional networks can be easily overlooked by IT personnel who have narrowly focused on laptops and access points.

@@ -1,0 +1,1 @@
+The inertia matrix is often described as the inertia tensor, which consists of the same moments of inertia and products of inertia about the three coordinate axes.[6][23] The inertia tensor is constructed from the nine component tensors, (the symbol     ⊗   {\displaystyle \otimes }   is the tensor product)

@@ -1,0 +1,1 @@
+The circle method is the standard algorithm to create a schedule for a round-robin tournament. All competitors are assigned to numbers, and then paired in the first round:

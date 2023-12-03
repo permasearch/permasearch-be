@@ -1,0 +1,1 @@
+Ex 3: Consider a value of 0.375. We saw that     0.375 =  ( 1.1  )  2    ×  2  − 2     {\displaystyle 0.375={(1.1)_{2}}\times 2^{-2}}

@@ -1,0 +1,1 @@
+The following table gives formulas for the spring that is equivalent to a system of two springs, in series or in parallel, whose spring constants are      k  1     {\displaystyle k_{1}}   and      k  2     {\displaystyle k_{2}}  .[1] (The compliance     c   {\displaystyle c}   of a spring is the reciprocal     1  /  k   {\displaystyle 1/k}   of its spring constant.)

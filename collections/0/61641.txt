@@ -1,0 +1,1 @@
+In the context of a relational database, a row—also called a record or tuple—represents a single, implicitly structured data item in a table. In simple terms, a database table can be thought of as consisting of rows and columns or fields.[1] Each row in a table represents a set of related data, and every row in the table has the same structure.

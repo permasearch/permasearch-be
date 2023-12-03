@@ -1,0 +1,1 @@
+where P is the gas pressure, B is a constant that depends on the thermocouple temperature, the gas composition and the vacuum-chamber geometry, V0 is the thermocouple voltage at zero pressure (absolute), and V is the voltage indicated by the thermocouple.

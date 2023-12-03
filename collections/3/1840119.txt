@@ -1,0 +1,1 @@
+Although quadratic residues appear to occur in a rather random pattern modulo n, and this has been exploited in such applications as acoustics and cryptography, their distribution also exhibits some striking regularities.

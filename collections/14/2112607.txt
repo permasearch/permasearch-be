@@ -1,0 +1,1 @@
+The velocity of the block is related to the velocity of the wedge by the slope of the side of the wedge.  If the angle of the wedge is Î± then

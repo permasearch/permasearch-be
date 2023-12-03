@@ -1,0 +1,1 @@
+The normalized water content,     Θ   {\displaystyle \Theta }  , (also called effective saturation or      S  e     {\displaystyle S_{e}}  ) is a dimensionless value defined by van Genuchten[2] as:

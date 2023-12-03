@@ -1,0 +1,1 @@
+The iOS keychain is a database of login information that can be shared across apps written by the same person or organization.[166] This service is often used for storing passwords for web applications.[168]

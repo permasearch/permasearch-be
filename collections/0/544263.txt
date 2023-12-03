@@ -1,0 +1,1 @@
+To protect against hackers, ATMs have a built-in firewall. Once the firewall has detected malicious attempts to break into the machine remotely, the firewall locks down the machine.

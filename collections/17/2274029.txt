@@ -1,0 +1,1 @@
+When so-called high-side injection has been used, where the local oscillator is at a higher frequency than the received signal (as is common), then the frequency spectrum of the original signal will be reversed. This must be taken into account by the demodulator (and in the IF filtering) in the case of certain types of modulation such as single sideband.

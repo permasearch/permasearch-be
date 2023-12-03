@@ -1,0 +1,1 @@
+In structural engineering, the strength of beams increases with the cube of the thickness.

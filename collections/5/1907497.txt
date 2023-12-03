@@ -1,0 +1,1 @@
+In order to detect attacks, a number of countermeasures can be set up at organizational, procedural and technical levels. Computer emergency response team, information technology security audit and intrusion detection system are example of these.[9]

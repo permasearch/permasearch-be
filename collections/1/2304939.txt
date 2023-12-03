@@ -1,0 +1,1 @@
+For example, economists often apply linear algebra when using input-output models. Complicated mathematical models that have many variables may be consolidated by use of vectors where one symbol represents several variables.

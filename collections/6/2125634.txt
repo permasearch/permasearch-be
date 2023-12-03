@@ -1,0 +1,1 @@
+In the case of small reciprocating compressors, the compressor flywheel may drive a cooling fan that directs ambient air across the intercooler of a two or more stage compressor.

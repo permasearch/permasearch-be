@@ -1,0 +1,1 @@
+For example, consider the sentence, "There was a doll inside the box, which was made of clay" where the word "which" could refer to either the box or the doll. To improve, the sentence could be reworded as: "Inside the box, which was made of clay, there was a doll" or, "There was a girl doll inside the box, and she was made of clay" (or similar wording).

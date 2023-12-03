@@ -1,0 +1,1 @@
+When dealing with a beam that is nearly parallel to a surface, it is sometimes more useful to refer to the angle between the beam and the surface, rather than that between the beam and the surface normal, in other words 90Â° minus the angle of incidence. This small angle is called a glancing angle or grazing angle. Incidence at grazing angles is called "grazing incidence".

@@ -1,0 +1,1 @@
+Example: Ideal diffuse reflecting sphere. A reasonable first approximation for planetary bodies

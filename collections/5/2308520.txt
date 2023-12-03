@@ -1,0 +1,1 @@
+The following are widely considered the main programming paradigms, as seen when measuring programming language popularity. There is some overlap between paradigms, inevitably, but the main features or identifiable differences are summarized in this table:

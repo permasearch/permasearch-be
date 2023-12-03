@@ -1,0 +1,1 @@
+The IBM 610 was designed between 1948 and 1957 by  John Lentz at the Watson Lab at Columbia University as the Personal Automatic Computer (PAC) and announced by IBM as the 610 Auto-Point in 1957. Although it was faulted for its speed, the IBM 610 handled floating-point arithmetic naturally. With a price tag of $55,000, only 180 units were produced.[15]

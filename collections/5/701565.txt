@@ -1,0 +1,1 @@
+In physics, the Lorentz transformations (or transformation) are coordinate transformations between two coordinate frames that move at constant velocity relative to each other. The transformations are named after the Dutch physicist Hendrik Lorentz.

@@ -1,0 +1,1 @@
+The parallel axes rule also applies to the second moment of area (area moment of inertia) for a plane region D:

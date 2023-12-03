@@ -1,0 +1,1 @@
+None of these signals were used on their own. Sending SOS as well as the urgency signal (XXX in CW, and PAN-PAN in voice) and safety signal (TTT in CW, and SECURITE in voice) used similar procedures for effectiveness. These were always followed correctly. Here is an example of an SOS signal; the portions in parentheses are an explanation only.

@@ -1,0 +1,1 @@
+Both factors increase the collector or "output" current of the transistor in response to an increase in the collectorâ€“base voltage.

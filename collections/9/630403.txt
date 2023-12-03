@@ -1,0 +1,1 @@
+Sum-of-years-digits is a depreciation method that results in a more accelerated write-off than the straight line method, and typically also more accelerated than the declining balance method. Under this method the annual depreciation is determined by multiplying the depreciable cost by a schedule of fractions.

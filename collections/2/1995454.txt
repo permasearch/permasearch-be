@@ -1,0 +1,1 @@
+An alloy of about 2% molybdenum, 81% nickel, and 17% iron. Very low core loss, low hysteresis and therefore low signal distortion. Very good temperature stability. High cost. Maximum saturation flux of about 0.8 tesla. Used in high-Q filters, resonant circuits, loading coils, transformers, chokes, etc.[4]

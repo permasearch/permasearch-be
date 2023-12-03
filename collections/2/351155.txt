@@ -1,0 +1,1 @@
+The two bimedians of a convex quadrilateral are the line segments that connect the midpoints of opposite sides.[9] They intersect at the "vertex centroid" of the quadrilateral (see Remarkable points below).

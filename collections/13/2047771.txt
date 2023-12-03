@@ -1,0 +1,1 @@
+Some systems use a mix of the two where radios use duplex as a default but can communicate simplex on the base station channel if out-of-range.[8] In the US, the capability to talk simplex on a duplex channel with a repeater is sometimes called talk-around, direct, or car-to-car.

@@ -1,0 +1,1 @@
+The GD and HA formats may also be formatted as GB888 8xxx yy for EU compatibility, where xxx is the 3-digit number from the short format and yy is the 2-digit modulus-97 check number.[16]

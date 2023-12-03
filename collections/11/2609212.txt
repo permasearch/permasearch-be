@@ -1,0 +1,1 @@
+To assure accuracy, the calibration of the optical factor should be checked for each instrument rather than solely relying upon the manufacturerâ€™s specifications.

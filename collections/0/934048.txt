@@ -1,0 +1,1 @@
+This polyhedron is topologically related as a part of sequence of regular polyhedra with Schläfli symbols {3,n}, continuing into the hyperbolic plane.

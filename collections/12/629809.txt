@@ -1,0 +1,1 @@
+Given a core geometry, the B field needed for a given force can be calculated from (2); if it comes out to much more than 1.6 T, a larger core must be used.

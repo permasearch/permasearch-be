@@ -1,0 +1,1 @@
+Let X be a set with a power-associative binary operation which is written multiplicatively. Then xn is defined for any element x of X and any nonzero natural number n as the product of n copies of x, which is recursively defined by

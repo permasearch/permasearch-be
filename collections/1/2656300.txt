@@ -1,0 +1,1 @@
+Under zero- or reverse-bias (the "off" state), a PIN diode has a low capacitance. The low capacitance will not pass much of an RF signal. Under a forward bias of 1 mA (the "on" state), a typical PIN diode will have an RF resistance of about 1 ohm, making it a good RF conductor. Consequently, the PIN diode makes a good RF switch.

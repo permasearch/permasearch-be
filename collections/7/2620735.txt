@@ -1,0 +1,1 @@
+A steam turbine ship can be either direct propulsion (the turbines, equipped with a reduction gear, rotate directly the propellers), or turboelectric (the turbines rotate electric generators, which in turn feed electric motors operating the propellers).

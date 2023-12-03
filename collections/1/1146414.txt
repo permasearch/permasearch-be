@@ -1,0 +1,1 @@
+During a player's turn, sets of tiles that have already been played may be manipulated to allow more tiles to be played. At the end of the turn, all played tiles must be in valid sets.

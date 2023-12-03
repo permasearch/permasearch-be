@@ -1,0 +1,1 @@
+Some web-servers[19] and bioinformatics prediction methods[20][21] have been used for predicting the classification of GPCRs according to their amino acid sequence alone, by means of the pseudo amino acid composition approach.

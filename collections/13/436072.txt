@@ -1,0 +1,1 @@
+Line type refers to whether the basic contour line is solid, dashed, dotted or broken in some other pattern to create the desired effect. Dotted or dashed lines are often used when the underlying base map conveys very important (or difficult to read) information. Broken line types are used when the location of the contour line is inferred.

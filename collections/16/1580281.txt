@@ -1,0 +1,1 @@
+The solution came in early 1965 at a meeting at NASA Headquarters, when Eberhardt Rechtin suggested what is now known as the "wing concept". The wing approach involves constructing a new section or "wing" to the main building at each of the three involved DSN sites. The wing would include a MSFN control room and the necessary interface equipment to accomplish the following:

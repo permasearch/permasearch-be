@@ -1,0 +1,1 @@
+Call the bet     S   {\displaystyle S}   a triple     ( A , r , ξ )   {\displaystyle (A,r,\xi )}  , where     A   {\displaystyle A}   is the set of chosen numbers,     r ∈   R   +     {\displaystyle r\in \mathbb {R} _{+}}   is the size of the bet, and, and     ξ : Ω →  R    {\displaystyle \xi :\Omega \to \mathbb {R} }   determines the return of the bet.

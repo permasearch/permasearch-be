@@ -1,0 +1,1 @@
+A common first response to the paradox is to call any set of grains that has more than a certain number of grains in it a heap. If one were to set the "fixed boundary" at, say, 7004100000000000000♠10,000 grains then one would claim that for fewer than 7004100000000000000♠10,000, it is not a heap; for 7004100000000000000♠10,000 or more, then it is a heap.[11]

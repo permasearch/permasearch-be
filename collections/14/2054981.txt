@@ -1,0 +1,1 @@
+Suppes (1960) in Axiomatic Set Theory, formally defines a relation (p. 57) as a set of pairs, and a function (p. 86) as a relation where no two pairs have the same first member.

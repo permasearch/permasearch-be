@@ -1,0 +1,1 @@
+MEMMAKER.EXE and SIZER.EXE were developed for Microsoft by Helix Software Company and were eliminated starting in MS DOS 7 / Windows 95. PC DOS uses another program RamBoost to optimize memory, working either with PC DOS's HIMEM/EMM386 or a third-party memory manager. RamBoost was licensed to IBM by Central Point Software.

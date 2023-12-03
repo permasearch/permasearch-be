@@ -1,0 +1,1 @@
+According to Robert Jamon (2003), MkIS systems are decomposed on four components: (1) user interfaces, (2) application software, (3) databases, and (4) system support. The following is a description of each one of these components.

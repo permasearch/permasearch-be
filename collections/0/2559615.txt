@@ -1,0 +1,1 @@
+in which both ƒ(x) and g(x) approach 0 as x approaches 0, may equal any real or infinite value, or may not exist at all, depending on the particular functions ƒ and g. These and other similar facts show that the expression 0/0 cannot be well-defined as a limit.

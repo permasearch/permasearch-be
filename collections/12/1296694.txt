@@ -1,0 +1,1 @@
+A rectangular right pyramid, written as ( )∨[{ }×{ }], and a rhombic pyramid, as ( )∨[{ }+{ }], both have symmetry C2v.

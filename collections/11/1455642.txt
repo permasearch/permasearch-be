@@ -1,0 +1,1 @@
+IÂ²C defines basic types of messages, each of which begins with a START and ends with a STOP:

@@ -1,0 +1,1 @@
+Although function generators cover both audio and RF frequencies, they are usually not suitable for applications that need low distortion or stable frequency signals. When those traits are required, other signal generators would be more appropriate.

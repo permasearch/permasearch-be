@@ -1,0 +1,1 @@
+Using Ohm's law, J = σE, which relates current density J to electric field E in terms of a material's conductivity σ, and assuming isotropic homogeneous conductivity, the equation can be written as

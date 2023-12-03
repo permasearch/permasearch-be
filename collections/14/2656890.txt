@@ -1,0 +1,1 @@
+Often, specific gravity is cited in place of density. Specific gravity is defined as the density of the solvent divided by the density of water at the same temperature. As such, specific gravity is a unitless value. It readily communicates whether a water-insoluble solvent will float (SG < 1.0) or sink (SG > 1.0) when mixed with water.

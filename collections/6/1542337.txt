@@ -1,0 +1,1 @@
+Common mode current occurs when stray currents in the shield flow in the same direction as the current in the center conductor, causing the coax to radiate.

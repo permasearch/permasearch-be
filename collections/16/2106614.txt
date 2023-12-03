@@ -1,0 +1,1 @@
+Beginning in the 1970s, research transitioned to modeling  genetic, environmental effects using maximum likelihood methods (Martin & Eaves, 1977). While computationally much more complex, this approach has numerous benefits rendering it almost universal in current research.

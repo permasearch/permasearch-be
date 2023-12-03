@@ -1,0 +1,1 @@
+The step of creating a message (also called encoding) is the transformation of thoughts into words that sender sends to receiver. It can be in the form of voice, audio, text, video or other media. Any message comprises the following elements:

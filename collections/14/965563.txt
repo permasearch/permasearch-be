@@ -1,0 +1,1 @@
+There is a stronger version of the theorem:[13] the assumption E(X12 n) < ∞ is replaced with E(|Xn|2 + δ) < ∞, and the assumption αn = O(n−5) is replaced with

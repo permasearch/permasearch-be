@@ -1,0 +1,1 @@
+The particle displacement of a progressive sine wave is given by

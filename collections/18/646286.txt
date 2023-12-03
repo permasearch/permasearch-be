@@ -1,0 +1,1 @@
+Here Î½i is the stoichiometric coefficient for substance i, equal to a, b, p, and q in the typical reaction above. Also V is the volume of reaction and Ci is the concentration of substance i.

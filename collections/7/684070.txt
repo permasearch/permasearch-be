@@ -1,0 +1,1 @@
+C is a coefficient for the expected percentage of weight made up of free water. For adult, non-elderly males, C = 0.6. For adult elderly males, malnourished males, or females, C = 0.5. For adult elderly or malnourished females C = 0.45. A total body water deficit (TBWD) can then be approximated by the following formula:

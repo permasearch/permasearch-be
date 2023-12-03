@@ -1,0 +1,1 @@
+where        Σ ~      {\displaystyle {\tilde {\boldsymbol {\Sigma }}}}   is the same matrix as Σ except that it contains only the r largest singular values (the other singular values are replaced by zero). This is known as the Eckart–Young theorem, as it was proved by those two authors in 1936 (although it was later found to have been known to earlier authors; see Stewart 1993).

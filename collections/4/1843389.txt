@@ -1,0 +1,1 @@
+An aircraft engine is the component of the propulsion system for an aircraft that generates mechanical power. Aircraft engines are almost always either lightweight piston engines or gas turbines, except for small multicopter UAVs which are almost always electric aircraft.

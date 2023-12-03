@@ -1,0 +1,1 @@
+Although additive manufacturing modalities such as SLS or SLM have potential to replace casting for some production situations, casting is still far from being completely displaced. Wherever it provides suitable material properties at competitive unit cost, it will remain in demand.

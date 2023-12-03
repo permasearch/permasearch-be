@@ -1,0 +1,1 @@
+The effect of ground elevation depends on the density of the ground (see Slab correction section). A person flying at 30 000Â ft above sea level over mountains will feel more gravity than someone at the same elevation but over the sea. However, a person standing on the earth's surface feels less gravity when the elevation is higher.

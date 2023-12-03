@@ -1,0 +1,1 @@
+IdM covers issues such as how users gain an identity, the protection of that identity and the technologies supporting that protection (e.g., network protocols, digital certificates, passwords, etc.).

@@ -1,0 +1,1 @@
+Therefore, logarithms can be used to describe the intervals: an interval is measured in semitones by taking the base-21/12 logarithm of the frequency ratio, while the base-21/1200 logarithm of the frequency ratio expresses the interval in cents, hundredths of a semitone. The latter is used for finer encoding, as it is needed for non-equal temperaments.[88]

@@ -1,0 +1,1 @@
+In many formal set theories, such as Zermelo–Fraenkel set theory, set builder notation is not part of the formal syntax of the theory. Instead, there is a set existence axiom scheme, which states that if E is a set and Φ(x) is a formula in the language of set theory, then there is a set Y whose members are exactly the elements of E that satisfy Φ:

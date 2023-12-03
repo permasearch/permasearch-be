@@ -1,0 +1,1 @@
+It is isogonal or vertex-transitive: all corners lie within the same symmetry orbit.

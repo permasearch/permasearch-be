@@ -1,0 +1,1 @@
+PROPOSITION 9: For any universe U and subsets A, B, and C of U, the following identities hold:

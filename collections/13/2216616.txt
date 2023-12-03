@@ -1,0 +1,1 @@
+A tallying system has no concept of place value (as in modern decimal notation), which limits its representation of large numbers. Nonetheless tallying systems are considered the first kind of abstract numeral system.

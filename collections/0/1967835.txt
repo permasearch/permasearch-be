@@ -1,0 +1,1 @@
+Building on top of the SmartScreen Filter introduced in Internet Explorer 8, Internet Explorer 9's protection against malware downloads is extended with SmartScreen Application Reputation that detects untrustworthy executables.[7] This warns a person if they are downloading an executable program without a safe reputation, from a site that does not have a safe reputation.

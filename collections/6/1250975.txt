@@ -1,0 +1,1 @@
+In practice, there is interest only in the numerator of that fraction, because the denominator does not depend on     C   {\displaystyle C}   and the values of the features      x  i     {\displaystyle x_{i}}   are given, so that the denominator is effectively constant. The numerator is equivalent to the joint probability model

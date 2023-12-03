@@ -1,0 +1,1 @@
+Under tensile load, UHMWPE will deform continually as long as the stress is presentâ€”an effect called creep.

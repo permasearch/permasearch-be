@@ -1,0 +1,1 @@
+Japanese Article Number (JAN) is a barcode standard compatible with the EAN. Use of the JAN standard began in 1978. Originally, JAN was issued a flag code (EAN's number system) of 49. In 1992, JAN was newly issued an additional flag code of 45. In January 2001 the manufacturer code changed to 7 digits (9 digits including the flag code) for new companies.[7]

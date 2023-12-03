@@ -1,0 +1,1 @@
+The admittance is the inverse of impedance. Therefore,

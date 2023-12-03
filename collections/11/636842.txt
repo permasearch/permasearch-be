@@ -1,0 +1,1 @@
+Some formats, such as CMX3600, can represent simple editing decisions only. Final Cut Pro XML, the Advanced Authoring Format (AAF), and AviSynth scripts are relatively advanced file formats that can contain sophisticated EDLs.

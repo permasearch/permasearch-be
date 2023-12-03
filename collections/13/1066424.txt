@@ -1,0 +1,1 @@
+Plot of Voyager 2's heliocentric velocity against its distance from the Sun, illustrating the use of gravity assists to accelerate the spacecraft by Jupiter, Saturn and Uranus. To observe Triton, Voyager 2 passed over Neptune's north pole, resulting in an acceleration out of the plane of the ecliptic, and, as a result, a reduced velocity relative to the Sun.[20]

@@ -1,0 +1,1 @@
+When an arithmetic operation produces a result larger than the maximum above for a N-bit integer, an overflow reduces the result to modulo N-th power of 2, retaining only the least significant bits of the result and effectively causing a wrap around.

@@ -1,0 +1,1 @@
+To remove a key (and all subkeys, values and data), the key name must be preceded by a minus sign ("-").[18]

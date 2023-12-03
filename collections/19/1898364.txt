@@ -1,0 +1,1 @@
+A fraction which is cyclic thus has a recurring decimal of even length that divides into two sequences in 9's complement form. For example 1/7 starts '142' and is followed by '857' while 6/7 (by rotation) starts '857' followed by its 9's complement '142'.

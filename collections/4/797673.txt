@@ -1,0 +1,1 @@
+The string comparison code used by the kernel at the time tried to determine whether the module was GPLed stopped when it reached a null character (\0), so it would be fooled into thinking that the module was declaring its license to be just "GPL".[7]

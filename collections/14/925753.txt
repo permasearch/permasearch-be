@@ -1,0 +1,1 @@
+Global website navigation shows the top level sections/pages of the website. It is available on each page and lists the main content sections/pages of the website.

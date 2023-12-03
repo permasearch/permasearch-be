@@ -1,0 +1,1 @@
+A test set is therefore a set of examples used only to assess the performance (i.e. generalization) of a fully specified classifier.[7][8]

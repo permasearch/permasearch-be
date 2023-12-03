@@ -1,0 +1,1 @@
+Weights were theoretically calculated to give each horse an equal winning chance in the past, but in recent years the rules were adjusted to a "quality handicap" formula where superior horses are given less severe weight penalties than under pure handicap rules.

@@ -1,0 +1,1 @@
+As above example 1, 2, 2, 6, 7, 8 n = 6 Median = {(6 + 1)/2}th item = 3.5th item. In this case, the median is average of the 3rd number and the next one (the fourth number). The median is (2 + 6)/2 which isÂ 4.

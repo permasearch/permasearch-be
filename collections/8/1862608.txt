@@ -1,0 +1,1 @@
+Unicode also has encoded U+212B Å angstrom sign. However, that is canonically equivalent to the ordinary letter Å. The duplicate encoding at U+212B is due to round-trip mapping compatibility with an East-Asian character encoding, but is otherwise not to be used.[4]

@@ -1,0 +1,1 @@
+RMS quantities such as electric current are usually calculated over one cycle. However, for some purposes the RMS current over a longer period is required when calculating transmission power losses. The same principle applies, and (for example) a current of 10 amps used for 12 hours each day represents an RMS current of 5 amps in the long term.

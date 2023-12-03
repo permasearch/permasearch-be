@@ -1,0 +1,1 @@
+For transmission of power across long distances, high voltage transmission is employed. Transmission higher than 132Â kV poses the problem of corona discharge, which causes significant power loss and interference with communication circuits. To reduce this corona effect, it is preferable to use more than one conductor per phase, or bundled conductors.[14]

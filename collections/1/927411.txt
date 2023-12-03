@@ -1,0 +1,1 @@
+The IASB requires entities to implement IAS 29 which is a Capital Maintenance in Units of Constant Purchasing Power model during hyperinflation.

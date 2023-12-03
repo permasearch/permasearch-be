@@ -1,0 +1,1 @@
+so that the two variables x and y have been separated. dx (and dy) can be viewed, at a simple level, as just a convenient notation, which provides a handy mnemonic aid for assisting with manipulations. A formal definition of dx as a differential (infinitesimal) is somewhat advanced.

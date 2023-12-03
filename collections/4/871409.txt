@@ -1,0 +1,1 @@
+This step evaluates which type of operation is to be performed. If it is a memory operation, the computer checks whether it's a direct or indirect memory operation:

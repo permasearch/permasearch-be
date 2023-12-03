@@ -1,0 +1,1 @@
+A reaction can also have an undefined reaction order with respect to a reactant if the rate is not simply proportional to some power of the concentration of that reactant; for example, one cannot talk about reaction order in the rate equation for a bimolecular reaction between adsorbed molecules:

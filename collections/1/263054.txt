@@ -1,0 +1,1 @@
+States can choose to issue both regular licenses and ID cards as well as RealIDs, but any non-RealID must be marked that it is not a RealID.

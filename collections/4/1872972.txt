@@ -1,0 +1,1 @@
+There are also two additional region codes, region 7, which is reserved, and region 8, which is used exclusively for passenger transport such as airlines and cruise ships.

@@ -1,0 +1,1 @@
+where      k  i     {\displaystyle k_{i}}   is the number of neighbours of the     i   {\displaystyle i}  'th node, and      e  i     {\displaystyle e_{i}}   is the number of connections between these neighbours. The maximum possible number of connections between neighbors is, then,

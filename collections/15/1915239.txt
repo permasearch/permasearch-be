@@ -1,0 +1,1 @@
+Crowdsourcing can either take an explicit or an implicit route. Explicit crowdsourcing lets users work together to evaluate, share, and build different specific tasks, while implicit crowdsourcing means that users solve a problem as a side effect of something else they are doing.

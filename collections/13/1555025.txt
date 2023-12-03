@@ -1,0 +1,1 @@
+If Vout=6V and Vin=9V (both commonly used voltages), then:

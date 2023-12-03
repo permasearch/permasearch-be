@@ -1,0 +1,1 @@
+In normal course of circuit equivalence transformation, RS and XS are in practice usually referred to the primary side by multiplying these impedances by the turns ratio squared, (NP/NS) 2 = a2.

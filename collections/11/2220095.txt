@@ -1,0 +1,1 @@
+Transistor Q7 drives Q5 and Q6 into conduction until their (equal) collector currents match that of Q1/Q3 and Q2/Q4. The quiescent current in Q7 is VBE / 50 kΩ, about 35 μA, as is the quiescent current in Q15, with its matching operating point. Thus, the quiescent currents are pairwise matched in Q1/Q2, Q3/Q4, Q5/Q6, and Q7/Q15.

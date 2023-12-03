@@ -1,0 +1,1 @@
+For Earth's annual orbit path, ra/rp ratio = longest_radius / shortest_radius â‰ˆ 1.034 relative to center point of path.

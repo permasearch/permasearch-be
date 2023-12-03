@@ -1,0 +1,1 @@
+Each group is then rank-ordered by priority. To further refine the prioritization, some individuals choose to then force-rank all "B" items as either "A" or "C". ABC analysis can incorporate more than three groups.[6]

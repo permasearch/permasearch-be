@@ -1,0 +1,1 @@
+The Bonferroni correction is named after Italian mathematician Carlo Emilio Bonferroni for its use of Bonferroni inequalities,[1] but modern usage is often credited to Olive Jean Dunn, who described the procedure's application to confidence intervals.[2][3]

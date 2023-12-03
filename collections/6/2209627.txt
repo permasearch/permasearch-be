@@ -1,0 +1,1 @@
+Additionally, a forthcoming update will add captive portal support to the console, allowing users to connect to wireless networks requiring authentication, commonly used in colleges, hotels as well as wireless hotspots provided by internet service providers.[65]

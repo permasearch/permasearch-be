@@ -1,0 +1,1 @@
+Fleming's left-hand rule for motors is one of a pair of visual mnemonics, the other being Fleming's right-hand rule (for generators). They were originated by John Ambrose Fleming, in the late 19th century, as a simple way of working out the direction of motion in an electric motor, or the direction of electric current in an electric generator.[1]

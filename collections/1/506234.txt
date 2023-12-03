@@ -1,0 +1,1 @@
+Both numbers are equidistant (33 away) from their nearest multiple of 100 (0 and 100, respectively).

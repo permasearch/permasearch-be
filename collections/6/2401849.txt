@@ -1,0 +1,1 @@
+The exposure-based approach, which measures exposure via pollutant levels, is used to calculate the environmental burden of disease.[17] This approach requires knowledge of the outcomes associated with the relevant risk factor, exposure levels and distribution in the study population, and dose-response relationships of the pollutants.

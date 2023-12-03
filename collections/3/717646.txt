@@ -1,0 +1,1 @@
+The SI unit hertz (Hz) was established in his honor by the International Electrotechnical Commission in 1930 for frequency, an expression of the number of times that a repeated event occurs per second. It was adopted by the CGPM (Conférence générale des poids et mesures) in 1960, officially replacing the previous name, "cycles per second" (cps).

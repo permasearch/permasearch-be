@@ -1,0 +1,1 @@
+In order for a truss with pin-connected members to be stable, it does not need to be entirely composed of triangles.[10] In mathematical terms, we have the following necessary condition for stability of a simple truss:

@@ -1,0 +1,1 @@
+It is possible to capture a visual snapshot of the current version of a page by making a web mirror: Copy the HTML file of the page, along with any auxiliary files, such as Cascading Style Sheets and image files. Help:Downloading pages lists other ways to preserve a page.

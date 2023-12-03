@@ -1,0 +1,1 @@
+File size is a measure of how much data a computer file contains or, alternately, how much storage it consumes. Typically, file size is expressed in units of measurement based on the byte. By convention, file size units use either a binary prefix (as in megabyte and gigabyte) or a metric prefix (as in mebibyte and gibibyte).[1]

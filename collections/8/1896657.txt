@@ -1,0 +1,1 @@
+The -XX:+DoEscapeAnalysis option directs the HotSpot JIT compiler to use escape analysis to determine if local objects can be allocated on the stack instead of the heap.[66]

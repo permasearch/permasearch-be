@@ -1,0 +1,1 @@
+All observers agree on the real forces, F; only non-inertial observers need fictitious forces. The laws of physics in the inertial frame are simpler because unnecessary forces are not present.

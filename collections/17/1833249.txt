@@ -1,0 +1,1 @@
+Coordinates can be entered as decimal values

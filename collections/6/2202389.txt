@@ -1,0 +1,1 @@
+Batteries have much lower specific energy (energy per unit mass) than common fuels such as gasoline. In automobiles, this is somewhat offset by the higher efficiency of electric motors in producing mechanical work, compared to combustion engines.

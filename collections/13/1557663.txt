@@ -1,0 +1,1 @@
+M can be viewed as the union of two DFAs: one with states {S1, S2} and the other with states {S3, S4}. The language of M can be described by the regular language given by this regular expression (1*(01*01*)*) ∪ (0*(10*10*)*). We define M using ε-moves but M can be defined without using ε-moves.

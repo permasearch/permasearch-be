@@ -1,0 +1,1 @@
+d  3     p   = 4 π  |    p     |   2   d  |    p    |  = 4 π m   2 m E   d E .   {\displaystyle d^{3}{\textbf {p}}=4\pi |{\textbf {p}}|^{2}d|{\textbf {p}}|=4\pi m{\sqrt {2mE}}dE.}

@@ -1,0 +1,1 @@
+where N1 and N2 are the number of data points in the first and second regression respectively.

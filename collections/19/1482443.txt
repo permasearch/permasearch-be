@@ -1,0 +1,1 @@
+The most common XCS, and that traded in interbank markets, is a mark-to-market (MTM) XCS, whereby notional exchanges are regularly made throughout the life of the swap according to FX rate fluctuations. This is done to maintain a swap whose MTM value remains neutral and does not become either a large asset or liability (due to FX rate fluctuations) throughout its life.

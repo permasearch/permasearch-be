@@ -1,0 +1,1 @@
+Python supports conditional execution of code depending on whether a loop was exited early (with a break statement) or not by using an else-clause with the loop.  For example,

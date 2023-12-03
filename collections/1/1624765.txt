@@ -1,0 +1,1 @@
+A piecewise function is continuous on a given interval if the following conditions are met:

@@ -1,0 +1,1 @@
+Cylindrical shells are used in a common integration technique for finding volumes of solids of revolution.[11]

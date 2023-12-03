@@ -1,0 +1,1 @@
+Kali Linux has a dedicated project set aside for compatibility and porting to specific Android devices, called Kali Linux NetHunter.[13]

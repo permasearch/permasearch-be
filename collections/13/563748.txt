@@ -1,0 +1,1 @@
+Aside from the key functions of sample management, instrument and application integration, and electronic data exchange, there are numerous additional operations that can be managed in a LIMS. This includes but is not limited to:

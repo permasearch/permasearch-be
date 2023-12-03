@@ -1,0 +1,1 @@
+Programming paradigms can also be compared with programming models which allow invoking an execution model by using only an API. Programming models can also be classified into paradigms, based on features of the execution model.

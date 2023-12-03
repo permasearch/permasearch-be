@@ -1,0 +1,1 @@
+The relationship between spot and forward is known as the interest rate parity, which states that

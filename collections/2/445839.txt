@@ -1,0 +1,1 @@
+Energy released is measured in Joule per mole. The reaction has a negative Î”H(heat change) value due to heat loss. e.g.: -123 J/mol

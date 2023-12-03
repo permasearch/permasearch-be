@@ -1,0 +1,1 @@
+The overall dipole moment of a molecule may be approximated as a vector sum of bond dipole moments. As a vector sum it depends on the relative orientation of the bonds, so that from the dipole moment information can be deduced about the molecular geometry.

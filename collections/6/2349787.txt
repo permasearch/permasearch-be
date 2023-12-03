@@ -1,0 +1,1 @@
+This implies that no quantum state can simultaneously be both a position and a momentum eigenstate.

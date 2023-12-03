@@ -1,0 +1,1 @@
+If we formally multiply out this product and collect all the x2 terms (we are allowed to do so because of Newton's identities), we see that the x2 coefficient of sin x/x is

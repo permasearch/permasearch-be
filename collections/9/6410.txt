@@ -1,0 +1,1 @@
+A more detailed proposed definition of technical and service network neutrality suggests that service network neutrality is the loyalty to the paradigm that operation of a service at a certain layer is not influenced by any data other than the data interpreted at that layer, and in accordance with the protocol specification for that layer.[19]

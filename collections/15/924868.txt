@@ -1,0 +1,1 @@
+An important supplement to Fortran 2008 is the ISO Technical Specification (TS) 29113 on Further Interoperability of Fortran with C,[33][34] which has been submitted to ISO in May 2012 for approval. The specification adds support for accessing the array descriptor from C and allows ignoring the type and rank of arguments.

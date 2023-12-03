@@ -1,0 +1,1 @@
+Bell Labs researcher Frank Gray introduced the term reflected binary code in his 1947 patent application, remarking that the code had "as yet no recognized name".[4] He derived the name from the fact that it "may be built up from the conventional binary code by a sort of reflection process".

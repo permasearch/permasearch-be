@@ -1,0 +1,1 @@
+Concerning a given sample, a proportionality factor relating temperature change and energy carried by heat. If the sample is a gas, then this coefficient depends significantly on being measured at constant volume or at constant pressure. (The terminiology preference in the heading indicates that the classical use of heat bars it from having substance-like properties.)

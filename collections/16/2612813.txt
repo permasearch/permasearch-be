@@ -1,0 +1,1 @@
+In a 3-horse race, for example, the true probabilities of each of the horses winning based on their relative abilities may be 50%, 40% and 10%. The total of these three percentages is 100%, thus representing a fair 'book'. The true odds against winning for each of the three horses are 1-1, 3-2 and 9-1 respectively.

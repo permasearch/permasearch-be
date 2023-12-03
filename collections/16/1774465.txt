@@ -1,0 +1,1 @@
+Unlike single-owner networks, the Internet is a series of exchange points interconnecting private networks.[7] Hence the Internet's core is owned and managed by a number of different network service providers, not a single entity. Its behavior is much more stochastic or unpredictable. Therefore, research continues on QoS procedures that are deployable in large, diverse networks.

@@ -1,0 +1,1 @@
+A line is described by all points that are a given direction from a point. A general point on a line passing through points       l   a   = (  x  a   ,  y  a   ,  z  a   )   {\displaystyle \mathbf {l} _{a}=(x_{a},y_{a},z_{a})}   and       l   b   = (  x  b   ,  y  b   ,  z  b   )   {\displaystyle \mathbf {l} _{b}=(x_{b},y_{b},z_{b})}   can be represented as

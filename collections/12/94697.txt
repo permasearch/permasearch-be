@@ -1,0 +1,1 @@
+As in the Black–Scholes model for stock options and the Black model for certain interest rate options, the value of a European option on an FX rate is typically calculated by assuming that the rate follows a log-normal process.[3]

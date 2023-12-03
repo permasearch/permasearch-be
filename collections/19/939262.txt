@@ -1,0 +1,1 @@
+The simple gravity pendulum[4] is an idealized mathematical model of a pendulum.[5][6][7] This is a weight (or bob) on the end of a massless cord suspended from a pivot, without friction. When given an initial push, it will swing back and forth at a constant amplitude. Real pendulums are subject to friction and air drag, so the amplitude of their swings declines.

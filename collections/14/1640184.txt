@@ -1,0 +1,1 @@
+where     Q   {\displaystyle Q}   is the electric charge,     J   {\displaystyle J}   is the angular momentum, we define      r  ±   := M ±    M  2   −  Q  2   −  J  2    /   M  2       {\displaystyle r_{\pm }:=M\pm {\sqrt {M^{2}-Q^{2}-J^{2}/M^{2}}}}   to be the locations of the two horizons and     a := J  /  M   {\displaystyle a:=J/M}  .

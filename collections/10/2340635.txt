@@ -1,0 +1,1 @@
+The COM/ActiveX option was introduced as part of QuickTime 7 for Windows and is intended for programmers who want to build standalone Windows applications using high-level QuickTime movie playback and control with some import, export, and editing capabilities. This is considerably easier than mastering the original QuickTime C API.[93]

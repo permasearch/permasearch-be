@@ -1,0 +1,1 @@
+(1.) Bomb: Using this power-up "blows away" (discards) two randomly selected wrong answers, narrowing the player's choices down to the correct answer and a remaining wrong answer. This power-up uses 480 coins.

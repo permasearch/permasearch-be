@@ -1,0 +1,1 @@
+As an example, if it is needed that PC5 be set, then in the control word,

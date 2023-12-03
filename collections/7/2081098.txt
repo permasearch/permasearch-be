@@ -1,0 +1,1 @@
+A Greasemonkey script to add a menu with common WP:CSD criteria next in the form that appears when deleting articles. It saves time and provides more meaningful deletion reasons in the logs. Can be included directly into monobook.js with basic modification. It is available at User:Chairboy/csdhelper.greasemonkey.js. Wikipedia administrator access required.

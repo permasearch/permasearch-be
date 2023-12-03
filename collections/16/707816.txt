@@ -1,0 +1,1 @@
+y ^     T + h  |  T   =    y ¯    = (  y  1   + . . . +  y  T   )  /  T   {\displaystyle {\hat {y}}_{T+h|T}={\bar {y}}=(y_{1}+...+y_{T})/T}   [4]

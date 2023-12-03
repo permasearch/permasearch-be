@@ -1,0 +1,1 @@
+In addition to the DISM command, a new command line Server Configuration tool (Sconfig.cmd) has arrived to configure and manage several common aspects of Server Core installations.[13] Server Manager can be used to remotely administer a Server Core machine.

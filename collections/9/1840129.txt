@@ -1,0 +1,1 @@
+For example, modulo 11 there are four residues less than 6 (namely 1, 3, 4, and 5), but only one nonresidue (2).

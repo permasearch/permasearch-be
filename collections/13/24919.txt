@@ -1,0 +1,1 @@
+Both the stellar day and the sidereal day are shorter than the mean solar day by about 3 minutes 56 seconds. The mean solar day in SI seconds is available from the IERS for the periods 1623–2005[36] and 1962–2005.[37]

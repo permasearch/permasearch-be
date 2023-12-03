@@ -1,0 +1,1 @@
+Then, the scalar product of velocity with acceleration in Newton's second law takes the form

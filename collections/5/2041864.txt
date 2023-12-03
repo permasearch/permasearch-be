@@ -1,0 +1,1 @@
+Most DSL technologies require installation of appropriate filters to separate, or split, the DSL signal from the low-frequency voice signal. The separation can take place either at the demarcation point, or with filters installed at the telephone outlets inside the customer premises. Each way has its practical and economic limitations.

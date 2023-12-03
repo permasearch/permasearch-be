@@ -1,0 +1,1 @@
+The outcome of Alice's measurement is random. Alice cannot decide which state to collapse the composite system into, and therefore cannot transmit information to Bob by acting on her system. Causality is thus preserved, in this particular scheme. For the general argument, see no-communication theorem.

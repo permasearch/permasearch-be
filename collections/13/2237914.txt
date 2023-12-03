@@ -1,0 +1,1 @@
+The definition of this problem is often attributed to LeLann, who formalized it as a method to create a new token in a token ring network in which the token has been lost.[43]

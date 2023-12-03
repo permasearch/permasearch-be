@@ -1,0 +1,1 @@
+Thermal shock testing exposes products to alternating low and high temperatures to accelerate failures caused by temperature cycles or thermal shocks during normal use. The transition between temperature extremes occurs very rapidly, greater than 15 °C per minute.

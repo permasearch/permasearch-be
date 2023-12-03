@@ -1,0 +1,1 @@
+Devices like smart cards and TPMs often carry certificates to identify themselves or their owners. These certificates are in X.509 form.

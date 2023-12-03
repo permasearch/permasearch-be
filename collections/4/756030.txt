@@ -1,0 +1,1 @@
+The symbol to be used on keyboards which enable the input of the ZWNJ directly is standardized in Amendment 1 (2012) of ISO/IEC 9995-7:2009 "Information technology – Keyboard layouts for text and office systems – Symbols used to represent functions" as symbol number 81, and in IEC 60417 "Graphical Symbols for use on Equipment" as symbol no. IEC 60417-6177-2.

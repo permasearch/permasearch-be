@@ -1,0 +1,1 @@
+where Nv is the vacancy concentration, Qv is the energy required for vacancy formation, kB is the Boltzmann constant, T is the absolute temperature, and N is the concentration of atomic sites i.e.

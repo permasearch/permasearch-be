@@ -1,0 +1,1 @@
+Eclat[9] (alt. ECLAT, stands for Equivalence Class Transformation) is a depth-first search algorithm based on set intersection. It is suitable for both sequential as well as parallel execution with locality-enhancing properties[21][22]

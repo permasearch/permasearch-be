@@ -1,0 +1,1 @@
+Another way to define the relative difference of two numbers is to take their absolute difference divided by some functional value of the two numbers, for example, the absolute value of their arithmetic mean:

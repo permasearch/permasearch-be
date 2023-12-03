@@ -1,0 +1,1 @@
+From a NULL session, hackers can call APIs and use Remote Procedure calls to enumerate information. These techniques can, and will provide information on passwords, groups, services, users and even active processors. NULL session access can also even be used for escalating privileges and perform DoS attacks.

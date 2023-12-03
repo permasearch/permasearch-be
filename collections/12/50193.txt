@@ -1,0 +1,1 @@
+The architecture of an AWD/4WD system can be described by describing its possible operating modes.[1] A single vehicle may have the ability to operate in multiple modes depending on driver selection. Mohan describes the modes as follows:

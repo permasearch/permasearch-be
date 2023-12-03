@@ -1,0 +1,1 @@
+where      ω  0   = μ  B  0    /  ℏ   {\displaystyle \omega _{0}=\mu B_{0}/\hbar }   and      ω  1   = μ  B  1    /  ℏ   {\displaystyle \omega _{1}=\mu B_{1}/\hbar }  .

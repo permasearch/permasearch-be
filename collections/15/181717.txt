@@ -1,0 +1,1 @@
+A perfect crystal lattice, with low enough thermal motion and no deviations from periodic structure, would have no resistivity,[38] but a real metal has crystallographic defects, impurities, multiple isotopes, and thermal motion of the atoms. Electrons scatter from all of these, resulting in resistance to their flow.

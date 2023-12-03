@@ -1,0 +1,1 @@
+Rotating-machine frequency changers used to convert between 25 Hz and 60 Hz systems were awkward to design; a 60 Hz machine with 24 poles would turn at the same speed as a 25 Hz machine with 10 poles, making the machines large, slow-speed and expensive. A ratio of 60/30 would have simplified these designs, but the installed base at 25 Hz was too large to be economically opposed.

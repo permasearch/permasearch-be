@@ -1,0 +1,1 @@
+To calculate composite depreciation rate, divide depreciation per year by total historical cost. To calculate depreciation expense, multiply the result by the same total historical cost. The result, not surprisingly, will equal to the total depreciation per year again.

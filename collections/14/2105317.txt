@@ -1,0 +1,1 @@
+A complete monoid is a commutative monoid equipped with an infinitary sum operation      Σ  I     {\displaystyle \Sigma _{I}}   for any index set I such that:[11][12][13][14]

@@ -1,0 +1,1 @@
+Interchanging the labels of any two axes reverses the handedness. Reversing the direction of one axis (or of all three axes) also reverses the handedness. (If the axes do not have a positive or negative direction then handedness has no meaning.) Reversing two axes amounts to a 180Â° rotation around the remaining axis.[1]

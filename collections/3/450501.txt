@@ -1,0 +1,1 @@
+A technical support company writes a decision table to diagnose printer problems based upon symptoms described to them over the phone from their clients.

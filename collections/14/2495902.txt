@@ -1,0 +1,1 @@
+The definition of exponentiation can be extended to allow any real or complex exponent. Exponentiation by integer exponents can also be defined for a wide variety of algebraic structures, including matrices.

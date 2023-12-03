@@ -1,0 +1,1 @@
+Various applications have been developed over time (such as MyTikka, ReTickr and Snackr) to install news tickers on personal computer desktops using RSS feeds from news organizations, which are displayed in a fashion similar to those used by television channels but enable the user to access to underlying news stories, a feature not offered by traditional television channels.

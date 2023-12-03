@@ -1,0 +1,1 @@
+.NET Framework 4.6 is supported on Windows Vista, Server 2008, 7, Server 2008 R2, 8, Server 2012, 8.1, Server 2012 R2, 10 and Server 2016.[2] However, .NET Framework 4.6.1 and 4.6.2 drops support for Windows Vista and Server 2008, and .NET Framework 4.6.2 drops support for Windows 8.

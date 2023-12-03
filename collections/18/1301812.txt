@@ -1,0 +1,1 @@
+Each is subdivided into other variants listed below. Note that although the unit cell in these crystals is conventionally taken to be a cube, the primitive unit cell often is not. This is related to the fact that in most cubic crystal systems, there is more than one atom per cubic unit cell.

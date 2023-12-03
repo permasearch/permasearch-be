@@ -1,0 +1,1 @@
+d =    # (  x  i   >  x  j   ) − # (  x  i   <  x  j   )   m n      {\displaystyle d={\frac {\#(x_{i}>x_{j})-\#(x_{i}<x_{j})}{mn}}}

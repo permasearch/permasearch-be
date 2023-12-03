@@ -1,0 +1,1 @@
+Image development speed is affected by the speed at which they are scanned. Options to scan the azimuth and elevation include dual oscillating plane mirrors, a combination with a polygon mirror and a dual axis scanner. Optic choices affect the angular resolution and range that can be detected. A hole mirror or a beam splitter are options to collect a return signal.

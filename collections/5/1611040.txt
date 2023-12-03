@@ -1,0 +1,1 @@
+A right trapezoid (also called right-angled trapezoid) has two adjacent right angles.[6] Right trapezoids are used in the trapezoidal rule for estimating areas under a curve.

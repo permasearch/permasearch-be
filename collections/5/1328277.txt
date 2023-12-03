@@ -1,0 +1,1 @@
+The Z1 computer, which was designed and built by Konrad Zuse between 1935 and 1938, used Boolean logic and binary floating point numbers.[28]

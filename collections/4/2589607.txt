@@ -1,0 +1,1 @@
+The Secure Digital High Capacity (SDHC) format, announced in January 2006 and defined in version 2.0 of the SD specification, supports cards with capacities up to 32Â GB.[5] The SDHC trademark is licensed to ensure compatibility.[8]

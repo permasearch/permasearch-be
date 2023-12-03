@@ -1,0 +1,1 @@
+IPv6 packets are typically transmitted over a Link Layer protocol, such as Ethernet which encapsulates each packet in a frame, but this may also be a higher layer tunneling protocol, such as IPv4 when using 6to4 or Teredo transition technologies.

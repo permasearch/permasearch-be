@@ -1,0 +1,1 @@
+There are other types of non-volatile memory which are not based on solid-state IC technology, including:

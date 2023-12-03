@@ -1,0 +1,1 @@
+At the end of the 19th century, the electromagnetic field was understood as a collection of two vector fields in space. Nowadays, one recognizes this as a single antisymmetric 2nd-rank tensor field in spacetime.

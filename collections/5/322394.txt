@@ -1,0 +1,1 @@
+The Civil ID contains holder's name in Arabic and English, picture, gender, date of birth, current address and a digital memory.

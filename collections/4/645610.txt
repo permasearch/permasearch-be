@@ -1,0 +1,1 @@
+A set can be described directly by enumerating all of its elements between curly brackets, as in the following two examples:

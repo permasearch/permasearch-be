@@ -1,0 +1,1 @@
+As of 2009, a 50-residue protein could be simulated atom-by-atom on a supercomputer for 1 millisecond.[27] As of 2012, comparable stable-state sampling could be done on a standard desktop with a new graphics card and more sophisticated algorithms.[28] A much larger simulation timescales can be achieved using coarse-grained modeling.[29]

@@ -1,0 +1,1 @@
+where P1, P2 are the vapor pressures at temperatures T1, T2 respectively, Î”Hvap is the enthalpy of vaporization, and R is the universal gas constant. The rate of evaporation in an open system is related to the vapor pressure found in a closed system. If a liquid is heated, when the vapor pressure reaches the ambient pressure the liquid will boil.

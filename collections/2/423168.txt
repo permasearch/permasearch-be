@@ -1,0 +1,1 @@
+where now only C is an undetermined constant (found to be equal to     π  /  8   {\displaystyle \pi /8}   by methods outside of dimensional analysis). This equation may be solved for the mass flow rate to yield Poiseuille's law.

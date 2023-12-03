@@ -1,0 +1,1 @@
+Inside the box, no forces act upon the particle, which means that the part of the wavefunction inside the box oscillates through space and time with the same form as a free particle:[1][4]

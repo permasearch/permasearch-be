@@ -1,0 +1,1 @@
+The MPG of a given vehicle starts with the thermal efficiency of the fuel and engine, less all of the above elements of friction.

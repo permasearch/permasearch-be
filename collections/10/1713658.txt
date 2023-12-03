@@ -1,0 +1,1 @@
+A perfect hash function for n keys is said to be minimal if its range consists of n consecutive integers, usually from 0 to nâˆ’1. Besides providing single-step lookup, a minimal perfect hash function also yields a compact hash table, without any vacant slots. Minimal perfect hash functions are much harder to find than perfect ones with a wider range.

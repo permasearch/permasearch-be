@@ -1,0 +1,1 @@
+The data warehouse can also be extended through the creation of custom data warehouse adapters.[7] With the introduction of TFS 2012, custom add-ins can also be created for Team Web Access, called Web Access Extensions.

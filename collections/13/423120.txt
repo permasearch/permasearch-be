@@ -1,0 +1,1 @@
+A basis for such a vector space of dimensional symbols is called a set of base quantities, and all other vectors are called derived units. As in any vector space, one may choose different bases, which yields different systems of units (e.g., choosing whether the unit for charge is derived from the unit for current, or vice versa).

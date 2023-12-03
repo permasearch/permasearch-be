@@ -1,0 +1,1 @@
+When looking at the example type signature of, for example C#, the type of the function compose is actually Func<Func<A,B>,Func<B,C>,Func<A,C>>.

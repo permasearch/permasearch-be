@@ -1,0 +1,1 @@
+Two special cases are worth noting. As the height of the potential becomes large,      V  0   → ∞   {\displaystyle V_{0}\to \infty }  , the radius of the semicircle gets larger and the roots get closer and closer to the values      v  n   = n π  /  2   {\displaystyle v_{n}=n\pi /2}  , and we recover the case of the infinite square well.

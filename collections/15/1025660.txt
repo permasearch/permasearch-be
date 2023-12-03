@@ -1,0 +1,1 @@
+This sample code displays various JavaScript features.

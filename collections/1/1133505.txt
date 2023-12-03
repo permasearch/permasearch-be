@@ -1,0 +1,1 @@
+DNxHD is a video codec intended to be usable as both an intermediate format suitable for use while editing and as a presentation format. DNxHD data is typically stored in an MXF container, although it can also be stored in a QuickTime container.

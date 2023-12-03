@@ -1,0 +1,1 @@
+Also radar reflections, both off Venus (1958) and off asteroids, like Icarus, have been used for solar parallax determination. Today, use of spacecraft telemetry links has solved this old problem. The currently accepted value of solar parallax is 8".794 143.[23]

@@ -1,0 +1,1 @@
+There may be more parties in the integration, for example the primary customer (consumer) can have their own customers; there may be also multiple providers.

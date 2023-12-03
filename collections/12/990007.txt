@@ -1,0 +1,1 @@
+As one moves down a (standardly convex) indifference curve, the marginal rate of substitution decreases (as measured by the absolute value of the slope of the indifference curve, which decreases). This is known as the law of diminishing marginal rate of substitution.

@@ -1,0 +1,1 @@
+Even higher voltages can be measured with capacitor divider probes, though the larger physical size and other mechanical features (e.g., corona rings) of these devices often preclude their use as handheld probes.

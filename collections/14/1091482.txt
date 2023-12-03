@@ -1,0 +1,1 @@
+The Leidenfrost Effect demonstrates how nucleate boiling slows heat transfer due to gas bubbles on the heater's surface. As mentioned, gas-phase thermal conductivity is much lower than liquid-phase thermal conductivity, so the outcome is a kind of "gas thermal barrier".

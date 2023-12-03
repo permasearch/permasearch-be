@@ -1,0 +1,1 @@
+Many older graphical user interfaces used bitmaps in their built-in graphics subsystems;[22] for example, the Microsoft Windows and OS/2 platforms' GDI subsystem, where the specific format used is the Windows and OS/2 bitmap file format, usually named with the file extension of .BMP.[23]

@@ -1,0 +1,1 @@
+IANA is responsible for assignment of Internet numbers[4][5] which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet Protocol Suite. Examples include IP addresses and autonomous system (AS) numbers.

@@ -1,0 +1,1 @@
+where C is a counterclockwise closed path encircling the origin and entirely in the region of convergence (ROC). In the case where the ROC is causal (see Example 2), this means the path C must encircle all of the poles of X(z).

@@ -1,0 +1,1 @@
+This shows that the received power declines as the fourth power of the range, which means that the received power from distant targets is relatively very small.

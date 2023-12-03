@@ -1,0 +1,1 @@
+Exile: Cards that have been exiled by specific effects are put here. Unless a card says otherwise, cards in this zone are face-up. Comparatively few cards and abilities affect cards in the exile zone.

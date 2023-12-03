@@ -1,0 +1,1 @@
+A linear transformation of a vector space, L:Rnâ†’ Rn, has the property that the transformation of a vector, V=av+bw, is the sum of the transformations of its components, that is,

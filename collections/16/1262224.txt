@@ -1,0 +1,1 @@
+WTotal - The total mass of all of the aggregate in the sample.

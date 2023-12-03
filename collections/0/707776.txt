@@ -1,0 +1,1 @@
+Wind direction for points of sail always refers to the true wind—the wind felt by a stationary observer. The apparent wind—the wind felt by an observer on a moving sailing craft—determines the motive power for sailing craft.

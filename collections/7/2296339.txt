@@ -1,0 +1,1 @@
+In 1974 the Arecibo message was sent with a radio signal aimed at a star cluster. It consisted of 1679 binary digits intended to be interpreted as a 23×73 bitmap image. The number 1679 = 23×73 was chosen because it is a semiprime and therefore can only be broken down into 23 rows and 73 columns, or 73 rows and 23 columns.

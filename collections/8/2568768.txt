@@ -1,0 +1,1 @@
+where [A] is the concentration at time t and [A]0 is the initial concentration at zero time. The first-order rate law is confirmed if     ln ⁡  [ A ]    {\displaystyle \ln {[A]}}   is in fact a linear function of time. In this case the rate constant     k   {\displaystyle k}   is equal to the slope with sign reversed.[5][6]

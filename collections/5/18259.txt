@@ -1,0 +1,1 @@
+Indiana is covered by the following zones in the tz database. Columns marked with * contain the data from zone.tab.

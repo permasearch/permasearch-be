@@ -1,0 +1,1 @@
+Ones-density is often controlled using precoding techniques such as Run Length Limited encoding, where the PCM code is expanded into a slightly longer code with a guaranteed bound on ones-density before modulation into the channel. In other cases, extra framing bits are added into the stream which guarantee at least occasional symbol transitions.

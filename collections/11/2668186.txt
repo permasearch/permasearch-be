@@ -1,0 +1,1 @@
+The formula to compute Mach number in a supersonic compressible flow can be found from the Rayleigh supersonic pitot equation (above) using parameters for air:

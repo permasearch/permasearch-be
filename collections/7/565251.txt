@@ -1,0 +1,1 @@
+where i represents the index of summation; ai is an indexed variable representing each successive term in the series; m is the lower bound of summation, and n is the upper bound of summation. The "i = m" under the summation symbol means that the index i starts out equal to m. The index, i, is incremented by 1 for each successive term, stopping when i = n.[3]

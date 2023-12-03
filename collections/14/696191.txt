@@ -1,0 +1,1 @@
+In the two virtual namespaces — Special and Media — the title line of the page is not the fullpagename.

@@ -1,0 +1,1 @@
+Trilinear coordinates for the Nagel point are given by

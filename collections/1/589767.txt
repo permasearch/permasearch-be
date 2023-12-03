@@ -1,0 +1,1 @@
+Conversational Monitor System (CMS) uses a single left parenthesis to separate options at the end of the command from the other arguments.  For example, in the following command the options indicate that the target file should be replaced if it exists, and the date and time of the source file should be retained on the copy: COPY source file a target file b (REPLACE OLDDATE

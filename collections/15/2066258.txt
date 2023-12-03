@@ -1,0 +1,1 @@
+If these two assembly pseudocode instructions run in a pipeline, after fetching and decoding the second instruction, the pipeline stalls, waiting until the result of the addition is written and read.

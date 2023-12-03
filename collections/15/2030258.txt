@@ -1,0 +1,1 @@
+5 m-configuration â€” the instruction-identifier, either a symbol in the instruction table, or a string of symbols representing the instruction- number on the tape of the universal machine (e.g. "DAAAAA = #5")

@@ -1,0 +1,1 @@
+(maximum resolutions 4096x2304 at 60 Hz over HDMI 2.0, and 3840x2160 at 60 Hz over DisplayPort[36])

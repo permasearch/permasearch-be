@@ -1,0 +1,1 @@
+It would imply to verify if the specifications are met by running the software but this is not possible (e. g., how can anyone know if the architecture/design/etc. are correctly implemented by running the software?). Only by reviewing its associated artifacts, someone can conclude if the specifications are met.

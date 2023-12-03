@@ -1,0 +1,1 @@
+A single method of calculating the APR was introduced in directive 98/7/EC and is required to be published for the major part of loans. The basic equation for calculation of APR in the EU is:

@@ -1,0 +1,1 @@
+where xi is the mole fraction in the liquid and f*i is the fugacity of the pure vapor phase. This is a good approximation when the component molecules have similar size, shape and polarity.[2]:264,269â€“270

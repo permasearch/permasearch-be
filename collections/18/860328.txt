@@ -1,0 +1,1 @@
+In many graphical applications, especially on Windows, the Tab key will move the focus to every control or widget such as buttons so that the user interface can be used without a mouse at all (this was part of the IBM Common User Access design). On macOS, this is an option called "Full Keyboard Access".

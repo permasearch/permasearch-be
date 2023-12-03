@@ -1,0 +1,1 @@
+With the necessity of on-premises servers; namely an Exchange Server and an Azure Active Directory synchronization server, there is a resource overhead to implement a hybrid solution. Hybrid implementations remain a popular choice for organizations that are unsure of the need or urgency to do a full cut-over to Exchange Online; also allowing for staggered email migration.

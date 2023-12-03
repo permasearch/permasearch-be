@@ -1,0 +1,1 @@
+The router examines the packet's destination protocol address and determines whether it knows how to forward the packet or not. If the router does not know how to forward the packet, it typically drops the packet. If it knows how to forward packet, it changes the destination physical address to that of the next hop router and transmits the packet.

@@ -1,0 +1,1 @@
+Performing the summations over indices followed by collecting "time-like", "spacetime-like", and "space-like" terms gives:

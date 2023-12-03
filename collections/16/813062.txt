@@ -1,0 +1,1 @@
+And a third method uses an effective date and a current flag.

@@ -1,0 +1,1 @@
+and the reduction in the degrees of freedom is     p = 1   {\displaystyle p=1}  , notionally because the observed frequencies      O  i     {\displaystyle O_{i}}   are constrained to sum to     N   {\displaystyle N}  .

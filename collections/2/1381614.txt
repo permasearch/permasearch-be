@@ -1,0 +1,1 @@
+Adapters that allow insertion of otherwise mechanically incompatible plugs into sockets are useful for travellers, but, as with multi-standard sockets, may not ensure the grounding and polarization intended by a compatible system of plugs and sockets.

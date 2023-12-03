@@ -1,0 +1,1 @@
+Once integrated, one can easily choose to solve for either volume of infiltration or instantaneous infiltration rate:

@@ -1,0 +1,1 @@
+A controller that uses this approach can operate at high speed; however, it has little flexibility, and the complexity of the instruction set it can implement is limited.[citation needed]

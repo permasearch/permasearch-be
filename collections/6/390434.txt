@@ -1,0 +1,1 @@
+The Gini index is also related to Pietra indexâ€”both of which are a measure of statistical heterogeneity and are derived from Lorenz curve and the diagonal line.[72][73]

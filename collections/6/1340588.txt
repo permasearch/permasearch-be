@@ -1,0 +1,1 @@
+Hold time is the minimum amount of time the data input should be held steady after the clock event, so that the data is reliably sampled by the clock.

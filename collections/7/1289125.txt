@@ -1,0 +1,1 @@
+Many very fast lenses exist in C-mount (such as used by 16mm film cameras, CCTV, medical & scientific imaging systems), including:

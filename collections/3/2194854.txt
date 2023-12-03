@@ -1,0 +1,1 @@
+Some implementations do not use a mapping table, and instead calculate locations using an algorithm. These implementations utilize dynamic methods to calculate the location on access, rather than storing the information in a mapping table.

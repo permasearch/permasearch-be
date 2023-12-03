@@ -1,0 +1,1 @@
+All Intel chipsets post-2015 are running MINIX 3 internally as the software component of the Intel Management Engine.[16]

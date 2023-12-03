@@ -1,0 +1,1 @@
+A skew hexagon is a skew polygon with 6 vertices and edges but not existing on the same plane. The interior of such an hexagon is not generally defined. A skew zig-zag hexagon has vertices alternating between two parallel planes.

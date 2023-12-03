@@ -1,0 +1,1 @@
+Computer-assisted translation (CAT), also called "computer-aided translation," "machine-aided human translation" (MAHT) and "interactive translation," is a form of translation wherein a human translator creates a target text with the assistance of a computer program. The machine supports a human translator.

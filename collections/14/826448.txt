@@ -1,0 +1,1 @@
+PCI Express External Cabling (also known as External PCI Express, Cabled PCI Express, or ePCIe) specifications were released by the PCI-SIG in February 2007.[24][25]

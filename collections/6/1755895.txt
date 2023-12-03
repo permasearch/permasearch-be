@@ -1,0 +1,1 @@
+In the 1980s the industry began planning for digital services assuming they would follow much the same pattern as voice services, and conceived end-to-end circuit-switched services, known as the Broadband Integrated Services Digital Network (B-ISDN). The B-ISDN vision was overtaken by the disruptive technology of the Internet.

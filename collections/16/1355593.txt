@@ -1,0 +1,1 @@
+The reals carry a canonical measure, the Lebesgue measure, which is the Haar measure on their structure as a topological group normalized such that the unit interval [0;1] has measure 1. There exist sets of real numbers that are not Lebesgue measurable, e.g. Vitali sets.

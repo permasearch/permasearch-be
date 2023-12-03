@@ -1,0 +1,1 @@
+Again, similar as for absolute permittivity, relative permittivity for lossy materials can be formulated as:

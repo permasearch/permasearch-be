@@ -1,0 +1,1 @@
+where m = k is the slope of the line (gradient) and b = log a is the intercept on the (log y)-axis, meaning where log x = 0, so, reversing the logs, a is the y value corresponding to x = 1.[1]

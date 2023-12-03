@@ -1,0 +1,1 @@
+Abduction is performed by finding a set      H ′  ⊆ H   {\displaystyle H'\subseteq H}   such that     M ⊆ e (  H ′  )   {\displaystyle M\subseteq e(H')}  . In other words, abduction is performed by finding a set of hypotheses      H ′    {\displaystyle H'}   such that their effects     e (  H ′  )   {\displaystyle e(H')}   include all observations     M   {\displaystyle M}  .

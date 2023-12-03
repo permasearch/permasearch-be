@@ -1,0 +1,1 @@
+•  Name = Proper name.  •  B = Bayer designation.  •  F or/and G. = Flamsteed designation or Gould designation  •  Var = Variable star designation  •  HD = Henry Draper Catalogue designation number  •  HIP = Hipparcos Catalogue designation number  •  RA = Right ascension for the Epoch/Equinox J2000.0  •  Dec = Declination for the Epoch/Equinox J2000.0

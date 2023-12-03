@@ -1,0 +1,1 @@
+Creatures with defender can't attack. This ability was formerly associated with Walls, as the creature type Wall had implicit "rules baggage" that prevented such creatures from attacking. The rules baggage was removed and the keyword was first used in the Kamigawa block.

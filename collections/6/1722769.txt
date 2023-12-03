@@ -1,0 +1,1 @@
+Most companies that produce laptops with such breakout ports also offer simpler adapters that grant access to one or two of the buses consolidated in them at a time.

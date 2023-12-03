@@ -1,0 +1,1 @@
+Band structure calculations take advantage of the periodic nature of a crystal lattice, exploiting its symmetry. The single-electron Schrödinger equation is solved for an electron in a lattice-periodic potential, giving Bloch waves as solutions:

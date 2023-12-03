@@ -1,0 +1,1 @@
+For sublimation and deposition from and into ice, the specific latent heat is almost constant in the temperature range from −40 °C to 0 °C and can be approximated by the following empirical quadratic function:

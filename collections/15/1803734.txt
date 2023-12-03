@@ -1,0 +1,1 @@
+While the notation f −1(x) might be misunderstood, (f(x))−1 certainly denotes the multiplicative inverse of f(x) and has nothing to do with the inverse function of f.

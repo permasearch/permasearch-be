@@ -1,0 +1,1 @@
+Lagrange is sometimes said to require less work, and is sometimes recommended for problems in which it's known, in advance, from previous experience, how many terms are needed for sufficient accuracy.

@@ -1,0 +1,1 @@
+External KMS server access is desirable for devices on long-term leave away from the corporate network, as KMS client activation will expire after six months of not being able to contact a KMS server. For this situation, a business can make it accessible through a virtual private network (VPN) known only to the devices outside the corporate network.

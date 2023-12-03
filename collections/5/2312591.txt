@@ -1,0 +1,1 @@
+In two dimensions, more than two lines almost certainly do not intersect at a single point. To determine if they do and, if so, to find the intersection point, write the i-th equation (i = 1, ...,n) as     (  a  i 1     a  i 2   ) ( x  y  )  T   =  b  i   ,   {\displaystyle (a_{i1}\quad a_{i2})(x\quad y)^{T}=b_{i},}   and stack these equations into matrix form as

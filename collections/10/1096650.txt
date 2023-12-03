@@ -1,0 +1,1 @@
+Since the norm function is not defined for the zero element of the ring, we consider the degree of the polynomial f(x) = 0 to also be undefined so that it follows the rules of a norm in a euclidean domain.

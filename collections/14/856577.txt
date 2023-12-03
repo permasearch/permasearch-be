@@ -1,0 +1,1 @@
+In agile software development, an information radiator is a (normally large) physical display located prominently near the development team, where passers-by can see it. It presents an up-to-date summary of the product development status.[22][23] A build light indicator may also be used to inform a team about the current status of their product development.

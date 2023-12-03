@@ -1,0 +1,1 @@
+Commonly, one uses the familiar Cartesian coordinate system, or sometimes spherical polar coordinates, or cylindrical coordinates;

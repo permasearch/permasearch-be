@@ -1,0 +1,1 @@
+In equilibrium, the forces on the moving block must sum to zero. In addition the tension in the rope must be the same for each of its parts. This means that the two parts of the rope supporting the moving block must each support half the load.

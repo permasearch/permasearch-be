@@ -1,0 +1,1 @@
+The US-International layout is not entirely transparent to users familiar with the US layout; when using a machine with the international layout the commonly used single- and double-quote keys and the less commonly used grave accent, tilde, and caret keys behave unexpectedly. This could be disconcerting on a machine for shared or public use.

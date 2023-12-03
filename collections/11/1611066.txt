@@ -1,0 +1,1 @@
+Let the trapezoid have vertices A, B, C, and D in sequence and have parallel sides AB and DC. Let E be the intersection of the diagonals, and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. Then FG is the harmonic mean of AB and DC:[11]

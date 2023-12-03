@@ -1,0 +1,1 @@
+The partition table header defines the usable blocks on the disk. It also defines the number and size of the partition entries that make up the partition table.[citation needed]

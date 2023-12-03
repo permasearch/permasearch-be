@@ -1,0 +1,1 @@
+The period of each half of the multivibrator is therefore given by tÂ = ln(2)RC.

@@ -1,0 +1,1 @@
+Production Automated Fare Collection (AFC) implementation began in 1994. New turnstiles, including unstaffed high wheels, and floor-to-ceiling service gates, featured lessons learned from trials. As AFC equipment was rolled out, evasion plummeted. Fare abuse agents, together with independent monitoring, were eliminated.

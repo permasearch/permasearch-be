@@ -1,0 +1,1 @@
+( 1 + x  )  a   − 1 ∼ a x .   {\displaystyle (1+x)^{a}-1\sim ax.}

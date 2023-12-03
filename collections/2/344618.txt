@@ -1,0 +1,1 @@
+However, weak keys are much more often a problem where the adversary has some control over what keys are used, such as when a block cipher is used in a mode of operation intended to construct a secure cryptographic hash function (e.g. Davies-Meyer).

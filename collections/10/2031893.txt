@@ -1,0 +1,1 @@
+The IIAM approach to infrastructure asset management is based upon the definition of a Standard of Service (SoS) that describes how an asset will perform in objective and measurable terms. The SoS includes the definition of a "minimum condition grade", which is established by considering the consequences of a failure of the infrastructure asset.

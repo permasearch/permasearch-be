@@ -1,0 +1,1 @@
+Situations are sometimes more complex than the simple binary possibility case. In a situation with several possible accidents, total risk is the sum of the risks for each different accident, provided that the outcomes are comparable:

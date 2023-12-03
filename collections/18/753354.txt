@@ -1,0 +1,1 @@
+A 1,2-rearrangement is often initialised by the formation of a reactive intermediate such as:

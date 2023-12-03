@@ -1,0 +1,1 @@
+In frequency signaling, the generating units match the frequency of the power transmission system. In droop speed control, if the frequency decreases, the power is increased. (The drop in line frequency is an indication that the increased load is causing the generators to slow down.)

@@ -1,0 +1,1 @@
+Fundamentally, there are two types of control loop: open loop control, and closed loop (feedback) control.

@@ -1,0 +1,1 @@
+Pattern matching is not strictly speaking always a choice construct, because it is possible in Haskell to write only one alternative, which is guaranteed to always be matched â€“ in this situation, it is not being used as a choice construct, but simply as a way to bind names to values. However, it is frequently used as a choice construct in the languages in which it is available.

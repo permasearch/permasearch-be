@@ -1,0 +1,1 @@
+The "Code A", "Code B" and "Code C" symbols cause all future symbols to be interpreted according to the corresponding subcode.  The "Shift" symbol switches a single following symbol's interpretation between subcodes A and B.

@@ -1,0 +1,1 @@
+In a similar fashion, if this entry is set to "EXFAT␠␠␠", it indicates the usage of an exFAT BPB located at sector offset 0x040 to 0x077, whereas NTFS volumes use "NTFS␠␠␠␠"[20] to indicate an NTFS BPB.

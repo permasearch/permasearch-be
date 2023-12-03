@@ -1,0 +1,1 @@
+Regular expressions consist of constants, which denote sets of strings, and operator symbols, which denote operations over these sets. The following definition is standard, and found as such in most textbooks on formal language theory.[20][21] Given a finite alphabet Î£, the following constants are defined as regular expressions:

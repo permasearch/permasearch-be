@@ -1,0 +1,1 @@
+The 30°–60°–90° triangle is the only right triangle whose angles are in an arithmetic progression. The proof of this fact is simple and follows on from the fact that if α, α + δ, α + 2δ are the angles in the progression then the sum of the angles 3α + 3δ = 180°. After dividing by 3, the angle α + δ must be 60°. The right angle is 90°, leaving the remaining angle to be 30°.

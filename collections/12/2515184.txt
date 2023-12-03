@@ -1,0 +1,1 @@
+So the old primaries depend on sloped absorption curves and pigment leakages to work, while newer scientifically derived ones depend solely on controlling the amount of absorption in certain parts of the spectrum.

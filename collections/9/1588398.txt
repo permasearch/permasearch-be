@@ -1,0 +1,1 @@
+Unicode is the most frequently used encoding standard, and suits are in the Miscellaneous Symbols Block (2600â€“26FF) of the Unicode.

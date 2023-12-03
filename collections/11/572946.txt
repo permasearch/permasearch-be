@@ -1,0 +1,1 @@
+where the integral is a line integral over any closed loop and Ib is the 'bound current' enclosed by that closed loop.

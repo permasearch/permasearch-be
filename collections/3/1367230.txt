@@ -1,0 +1,1 @@
+In the United States, IINs are also used in NCPDP pharmacy claims to identify processors, and are printed on all pharmacy insurance cards. IINs are the primary routing mechanism for real-time claims.

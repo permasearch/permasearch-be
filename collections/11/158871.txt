@@ -1,0 +1,1 @@
+Cells are grown and maintained at an appropriate temperature and gas mixture (typically, 37 °C, 5% CO2 for mammalian cells) in a cell incubator. Culture conditions vary widely for each cell type, and variation of conditions for a particular cell type can result in different phenotypes.

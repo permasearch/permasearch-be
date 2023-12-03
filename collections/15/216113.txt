@@ -1,0 +1,1 @@
+Moving cards directly from the Waste stack to a Foundation awards 10 points.  However, if the card is first moved to a Tableau, and then to a Foundation, then an extra 5 points are received for a total of 15.  Thus in order to receive a maximum score, no cards should be moved directly from the Waste to Foundation.

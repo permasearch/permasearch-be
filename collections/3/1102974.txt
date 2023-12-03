@@ -1,0 +1,1 @@
+The pole description is useful to practicing magneticians who design real-world magnets, but real magnets have a pole distribution more complex than a single north and south. Therefore, implementation of the pole idea is not simple. In some cases, one of the more complex formulas given below will be more useful.

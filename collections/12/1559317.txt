@@ -1,0 +1,1 @@
+[A] nanoservice is an anti-pattern where a service is too fine grained. [A] nanoservice is a service whose overhead (communications, maintenance etc.) outweighs its utility.[43][44]

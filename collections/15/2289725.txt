@@ -1,0 +1,1 @@
+N =    l n ( 1 − P )   l n ( 1 − f )      {\displaystyle N={\frac {ln(1-P)}{ln(1-f)}}}

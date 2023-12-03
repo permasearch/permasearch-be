@@ -1,0 +1,1 @@
+Please note that although becquerel (Bq) and hertz (Hz) both ultimately refer to the same SI base unit (sâˆ’1), Hz is used only for periodic phenomena, and Bq is only used for stochastic processes associated with radioactivity.[43]

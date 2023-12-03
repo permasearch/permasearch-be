@@ -1,0 +1,1 @@
+From step 8, the final result is D mod 97 = 1 and the IBAN has passed this check digit test.

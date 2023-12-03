@@ -1,0 +1,1 @@
+Function pointers allow referencing functions with a particular signature. For example, to store the address of the standard function abs in the variable my_int_f:

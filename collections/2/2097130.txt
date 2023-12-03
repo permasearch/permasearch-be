@@ -1,0 +1,1 @@
+Fleming's Right-hand Rule (for generators) shows the direction of induced current when a conductor attached to a circuit moves in a magnetic field. It can be used to determine the direction of current in a generator's windings.

@@ -1,0 +1,1 @@
+Optical path length (OPL) is the product of the geometric length d of the path light follows through a system, and the index of refraction of the medium through which it propagates,[29]

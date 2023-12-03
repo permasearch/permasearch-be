@@ -1,0 +1,1 @@
+A triangle is a polygon with three edges and three vertices. It is one of the basic shapes in geometry. A triangle with vertices A, B, and C is denoted     △ A B C   {\displaystyle \triangle ABC}  .

@@ -1,0 +1,1 @@
+If a system is in thermal contact with a heat bath at some temperature T then, in equilibrium, the probability distribution over the energy eigenvalues are given by the canonical ensemble:

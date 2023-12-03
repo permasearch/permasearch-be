@@ -1,0 +1,1 @@
+Every first-order formula may be converted into Skolem normal form while not changing its satisfiability via a process called Skolemization (sometimes spelled Skolemnization). The resulting formula is not necessarily equivalent to the original one, but is equisatisfiable with it: it is satisfiable if and only if the original one is satisfiable.[1]

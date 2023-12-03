@@ -1,0 +1,1 @@
+Multitasking for iOS was first released in June 2010 along with the release of iOS 4.[82][83] Only certain devices—iPhone 4, iPhone 3GS, and iPod Touch 3rd generation—were able to multitask.[84] The iPad did not get multitasking until iOS 4.2.1 in November.[85] Currently, multitasking is supported on iPhone 3GS+, iPod Touch 3rd generation+, and all iPad models.[86]

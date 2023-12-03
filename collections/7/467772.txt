@@ -1,0 +1,1 @@
+The shutter mechanism was not without its problems, however. On old or roughly treated disks, the shutter could bend away from the disk. This made it vulnerable to being ripped off completely (which does not damage the disk itself but does leave it much more vulnerable to dust), or worse, catching inside a drive and possibly either getting stuck inside or damaging the drive.

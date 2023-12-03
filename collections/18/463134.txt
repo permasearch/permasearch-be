@@ -1,0 +1,1 @@
+Then the desired coefficients are the magnitudes of these vectors:

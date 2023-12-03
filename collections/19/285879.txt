@@ -1,0 +1,1 @@
+A false high RDW reading can occur if EDTA anticoagulated blood is used instead of citrated blood. See Pseudothrombocytopenia.

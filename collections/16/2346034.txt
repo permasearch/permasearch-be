@@ -1,0 +1,1 @@
+From the equation, one of the benefits of the dual-slope integrating ADC becomes apparent: the measurement is independent of the values of the circuit elements (R and C). This does not mean, however, that the values of R and C are unimportant in the design of a dual-slope integrating ADC (as will be explained below).

@@ -1,0 +1,1 @@
+In 1985, the United States Department of Defense captured this approach in DOD-STD-2167A, their standards for working with software development contractors, which stated that "the contractor shall implement a software development cycle that includes the following six phases: Preliminary Design, Detailed Design, Coding and Unit Testing, Integration, and Testing".[7]

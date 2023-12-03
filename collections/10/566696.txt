@@ -1,0 +1,1 @@
+The era of modern computing began with a flurry of development before and during World War II. Most digital computers built in this period were electromechanical â€“ electric switches drove mechanical relays to perform the calculation. These devices had a low operating speed and were eventually superseded by much faster all-electric computers, originally using vacuum tubes.

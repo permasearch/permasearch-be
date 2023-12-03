@@ -1,0 +1,1 @@
+Some Dell Latitude D610 units with a dedicated ATI X300 graphics card seem to have problems with the audio-out jack. Symptoms of this problem include a noise or whine when an audio device is connected to the audio-out jack. Up to this date Dell does not have a clear solution to this problem.[3][4][5][6]

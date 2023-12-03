@@ -1,0 +1,1 @@
+In 1888 the physicist Johannes Rydberg generalized the Balmer equation for all transitions of hydrogen. The equation commonly used to calculate the Balmer series is a specific example of the Rydberg formula and follows as a simple reciprocal mathematical rearrangement of the formula above (conventionally using a notation of m for n as the single integral constant needed):

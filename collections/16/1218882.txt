@@ -1,0 +1,1 @@
+As defined in RFC 791, the maximum packet length of an IPv4 packet including the IP header is 65,535 (216 − 1) bytes, a limitation presented by the use of a 16-bit wide IP header field that describes the total packet length.

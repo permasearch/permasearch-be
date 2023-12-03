@@ -1,0 +1,1 @@
+The rate of energy loss per unit surface area from surface friction,      W  o u t     {\displaystyle W_{out}}  , is given by

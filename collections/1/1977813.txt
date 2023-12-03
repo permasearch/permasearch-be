@@ -1,0 +1,1 @@
+For the decimal formats, any representation is valid, and the set of these representations is called a cohort. When a result can have several representations, the standard specifies which member of the cohort is chosen.

@@ -1,0 +1,1 @@
+A variable-ratio schedule of reinforcement, where the frequency of reinforcement varies unpredictably, can be also be highly effective if used in instances where it is ethical to do so. Providing praise on a variable-ratio schedule would be appropriate, whereas paying an employee on an unpredictable variable-ratio schedule would not be.

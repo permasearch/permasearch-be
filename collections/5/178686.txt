@@ -1,0 +1,1 @@
+This matrix shifts the coordinates of the vector up by one position and moves the first coordinate to the bottom. Its characteristic polynomial is 1 − λ3, whose roots are

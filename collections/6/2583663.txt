@@ -1,0 +1,1 @@
+This profile is intended to provide a well-defined interface between a mobile phone or fixed-line phone and a PC with Fax software installed. Support must be provided for ITU T.31 and / or ITU T.32 AT command sets as defined by ITU-T. Data and voice calls are not covered by this profile.

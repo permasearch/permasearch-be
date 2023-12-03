@@ -1,0 +1,1 @@
+Given two positive integers      a =  ∏  p    p   a  p       {\displaystyle \;a=\prod _{p}p^{a_{p}}}   and      b =  ∏  p    p   b  p       {\displaystyle \;b=\prod _{p}p^{b_{p}}}   their least common multiple and greatest common divisor are given by the formulas

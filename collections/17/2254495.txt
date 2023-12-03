@@ -1,0 +1,1 @@
+or, assuming an isentropic process, the stagnation pressure can be calculated from the ratio of stagnation temperature to static temperature:

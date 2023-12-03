@@ -1,0 +1,1 @@
+This linkbase associates concepts with other concepts so that values appearing in an instance document may be checked for consistency.

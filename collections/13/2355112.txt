@@ -1,0 +1,1 @@
+In conjunction with a sound database security program, an appropriate disaster recovery program can ensure that service is not interrupted during a security incident, or any incident that results in an outage of the primary database environment. An example is that of replication for the primary databases to sites located in different geographical regions.[5]

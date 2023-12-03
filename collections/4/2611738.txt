@@ -1,0 +1,1 @@
+Cubic equations of state are called such because they can be rewritten as a cubic function of Vm.

@@ -1,0 +1,1 @@
+The greatest common divisor is useful for reducing fractions to be in lowest terms. For example, gcd(42, 56) = 14, therefore,

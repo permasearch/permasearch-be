@@ -1,0 +1,1 @@
+Magnetically soft (low coercivity) iron is used for the cores in electromagnets. The low coercivity reduces that energy loss associated with hysteresis. The low energy loss during a hysteresis loop is also the reason why soft iron is used for transformer cores and electric motors.

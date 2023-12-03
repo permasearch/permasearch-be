@@ -1,0 +1,1 @@
+In continuum mechanics, the most general form of an exact conservation law is given by a continuity equation. For example, conservation of electric charge q is

@@ -1,0 +1,1 @@
+The non-trump suit cards rank in order A-10-K-Q-9-8-7. The trumps rank the same way with the four jacks on top in the order ♣J, ♠J, ♥J, ♦J.

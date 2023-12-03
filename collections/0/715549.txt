@@ -1,0 +1,1 @@
+SDAL is a proprietary map format developed by Navteq, which was released royalty free in the hope that it would become an industry standard for digital navigation maps, has not been very widely adopted by the industry. Vendors who used this format include:

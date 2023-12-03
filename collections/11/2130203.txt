@@ -1,0 +1,1 @@
+An interesting extension is to allow arcs to flow from any number of states to any number of states. This only makes sense if the system is allowed to be in multiple states at once, which implies that an individual state only describes a condition or other partial aspect of the overall, global state. The resulting formalism is known as a Petri net.

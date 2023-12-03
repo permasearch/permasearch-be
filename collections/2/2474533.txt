@@ -1,0 +1,1 @@
+Internal network virtualization configures a single system with software containers, such as  Xen hypervisor control programs, or pseudo-interfaces, such as a VNIC, to emulate a physical network with software. This can improve a single system's efficiency by isolating applications to separate containers or pseudo-interfaces.[1]

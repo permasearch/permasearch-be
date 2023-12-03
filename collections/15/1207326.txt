@@ -1,0 +1,1 @@
+Consider a database that records customer orders, where an order is for one or more of the items that the enterprise sells. The database would contain a table identifying customers by a customer number (primary key); another identifying the products that can be sold by a product number (primary key); and it would contain a pair of tables describing orders.

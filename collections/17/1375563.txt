@@ -1,0 +1,1 @@
+A "no result" is recorded if a limited over match which has been started cannot be completed. This would usually occur if weather or light interrupts play. The result is effectively the same as a draw.

@@ -1,0 +1,1 @@
+A face-centered cubic unit cell has eight tetrahedral voids located midway between each corner and the center of the unit cell, for a total of eight net tetrahedral voids. Additionally, there are twelve octahedral voids located at the midpoints of the edges of the unit cell as well as one octahedral hole in the very center of the cell, for a total of four net octahedral voids.

@@ -1,0 +1,1 @@
+When a player reaches the target score for the game (usually 121), the game ends with that player the winner.

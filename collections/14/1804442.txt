@@ -1,0 +1,1 @@
+Each character is assigned a number, to prevent confusion between similar characters (such as ɵ and θ, ɤ and ɣ, or ʃ and ʄ) in such situations as the printing of manuscripts. The categories of sounds are assigned different ranges of numbers.[52]

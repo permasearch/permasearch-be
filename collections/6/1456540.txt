@@ -1,0 +1,1 @@
+It follows that, being independent from     n   {\displaystyle n}  , the constant value       |   E ⁡ [ X Y ] − E ⁡ [ X ] E ⁡ [ Y ]   |     {\displaystyle {\Bigl |}\operatorname {E} [XY]-\operatorname {E} [X]\operatorname {E} [Y]{\Bigr |}}   can only be equal to 0.

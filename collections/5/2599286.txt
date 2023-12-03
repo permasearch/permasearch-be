@@ -1,0 +1,1 @@
+At the atomic level, there are no simple, correct expressions for thermal conductivity. Atomically, the thermal conductivity of a system is determined by how atoms composing the system interact. There are two different approaches for calculating the thermal conductivity of a system.

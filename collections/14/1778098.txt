@@ -1,0 +1,1 @@
+where T is the gas temperature, Td the dust temperature, and T2 the post-collision temperature of the gas atom or molecule. This coefficient was measured by (Burke & Hollenbach 1983) as α = 0.35.

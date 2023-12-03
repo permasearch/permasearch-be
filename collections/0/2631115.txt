@@ -1,0 +1,1 @@
+Systems with energy storage cannot respond instantaneously and will exhibit transient responses when they are subjected to inputs or disturbances.[1]

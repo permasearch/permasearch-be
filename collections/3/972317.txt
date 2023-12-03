@@ -1,0 +1,1 @@
+By the divergence theorem, Gauss's law for the field P can be stated in differential form as:

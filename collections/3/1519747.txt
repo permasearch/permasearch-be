@@ -1,0 +1,1 @@
+The start marker and the end marker are encoded as 101. The center marker is encoded as 01010.

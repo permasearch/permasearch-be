@@ -1,0 +1,1 @@
+For two qubits, the Bell states are

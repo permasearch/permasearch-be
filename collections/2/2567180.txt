@@ -1,0 +1,1 @@
+It comes with Android 7.1.1 "Nougat", with a few software tweaks.

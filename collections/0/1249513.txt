@@ -1,0 +1,1 @@
+We can stretch a disk to form an ellipse. Because this stretch is a linear transformation of the plane, it has a distortion factor which will change the area but preserve ratios of areas. This observation can be used to compute the area of an arbitrary ellipse from the area of a unit circle.

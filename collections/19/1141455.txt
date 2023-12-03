@@ -1,0 +1,1 @@
+Due to the spin-orbit interaction in the atom, the orbital angular momentum no longer commutes with the Hamiltonian, nor does the spin. These therefore change over time. However the total angular momentum J does commute with the Hamiltonian and so is constant. J is defined through

@@ -1,0 +1,1 @@
+The RMSD of predicted values         y ^     t     {\displaystyle {\hat {y}}_{t}}   for times t of a regression's dependent variable      y  t   ,   {\displaystyle y_{t},}   with variables observed over T times, is computed for T different predictions as the square root of the mean of the squares of the deviations:

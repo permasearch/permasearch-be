@@ -1,0 +1,1 @@
+Finally, beacons enable devices to have power saving modes. Access points will hold on to packets destined for stations that are currently sleeping. In the traffic indication map of a beacon frame, the access point is able to inform stations that they have frames waiting for delivery.

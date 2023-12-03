@@ -1,0 +1,1 @@
+A prediction interval for a random variable is defined similarly to a confidence interval for a statistical parameter. Consider an additional random variable Y which may or may not be statistically dependent on the random sample X. Then (u(X),Â v(X)) provides a prediction interval for the as-yet-to-be observed value y of Y if

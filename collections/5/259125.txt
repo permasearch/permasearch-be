@@ -1,0 +1,1 @@
+In computing, binary trees are used in two very different ways:

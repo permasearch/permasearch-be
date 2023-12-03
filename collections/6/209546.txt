@@ -1,0 +1,1 @@
+The ultra-mobile PC (UMP) is a specification for small-configuration tablet PCs. It was developed as a joint development exercise by Microsoft, Intel and Samsung, among others. Current UMPCs typically feature the Windows XP, Windows Vista, WindowsÂ 7, or Linux operating system, and low-voltage Intel Atom or VIA C7-M processors.

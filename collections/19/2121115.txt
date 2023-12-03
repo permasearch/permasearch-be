@@ -1,0 +1,1 @@
+Like Bitcoin, CryptoNote currencies use a public address consisting of pseudorandom numbers and letters that is derived from user's public keys. Addresses serve as public IDs of the users. However, unlike Bitcoin, CryptoNote transactions hide the connection between the sender's and the receiver's addresses.

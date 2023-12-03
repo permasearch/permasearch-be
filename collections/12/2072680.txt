@@ -1,0 +1,1 @@
+where the index i denotes the ith species, c is the concentration (mol/m3), R is the universal gas constant [J/(K.mol)], T is the absolute temperature (K), and Î¼ is the chemical potential (J/mol).

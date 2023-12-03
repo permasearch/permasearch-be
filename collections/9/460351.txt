@@ -1,0 +1,1 @@
+There are two different glow plug types: the in-cylinder variety and the in-manifold ("Thermostart") variety. In the case of in-cylinder, there is a plug in every cylinder direct injected (or in the case of indirect injected, the glow plug is in the prechamber providing a hot spot to encourage ignition. In the case of the in-manifold one, there is only one for all the cylinders.

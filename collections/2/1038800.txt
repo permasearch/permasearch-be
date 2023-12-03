@@ -1,0 +1,1 @@
+It turns out that a proper permutation in rows (or columns) is sufficient for the LU factorization. The LU factorization with partial pivoting (LUP) refers often to the LU factorization with row permutations only:

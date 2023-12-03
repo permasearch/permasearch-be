@@ -1,0 +1,1 @@
+At its core Master Data Management (MDM) can be viewed as a "discipline for specialized quality improvement"[5] defined by the policies and procedures put in place by a data governance organization. The ultimate goal being to provide the end user community with a "trusted single version of the truth" from which to base decisions.

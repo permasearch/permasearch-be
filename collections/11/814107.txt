@@ -1,0 +1,1 @@
+Network topology describes the layout of interconnections between devices and network segments. At the data link layer and physical layer, a wide variety of LAN topologies have been used, including ring, bus, mesh and star. At the higher layers, NetBEUI, IPX/SPX, AppleTalk and others were once common, but the Internet Protocol Suite (TCP/IP) has prevailed as a standard of choice.

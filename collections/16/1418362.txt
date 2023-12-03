@@ -1,0 +1,1 @@
+Cambered airfoils will generate lift at zero angle of attack. When the chord line is horizontal, the trailing edge has a downward direction and since the air follows the trailing edge it is deflected downward.[43] When a cambered airfoil is upside down, the angle of attack can be adjusted so that the lift force is upwards. This explains how a plane can fly upside down.[44][45]

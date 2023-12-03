@@ -1,0 +1,1 @@
+BES also provides phones with TCP/IP connectivity accessed through a component called MDS (Mobile Data System) Connection Service.[97] This allows custom application development using data streams on BlackBerry devices based on the Sun Microsystems Java ME platform.

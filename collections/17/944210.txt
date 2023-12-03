@@ -1,0 +1,1 @@
+in which the imaginary parts offset each other leaving a real-valued expression. This expression cannot be algebraically rewritten without complex components, since the indicated cubic function is casus irreducibilis.

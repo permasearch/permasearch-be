@@ -1,0 +1,1 @@
+A subfield of fluid dynamics, aerodynamics studies the physics of a body moving through the air. As lift and drag are a function of air speed, their relationships are major determinants of an aircraft design efficiency.

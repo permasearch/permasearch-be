@@ -1,0 +1,1 @@
+One says that there are n − 2 degrees of freedom for error.

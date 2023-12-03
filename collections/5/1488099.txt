@@ -1,0 +1,1 @@
+Similarly, one can divide the sum over all partition function configurations into slices, where each slice is the one-dimensional configuration at time 1. This defines the transfer matrix:

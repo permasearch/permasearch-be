@@ -1,0 +1,1 @@
+In November 2010, Mark Shuttleworth announced the intention to eventually run Unity on Wayland instead of the currently used X Window System,[44] although this plan has since been dropped, replacing Wayland with Mir for Unity 8.[45]

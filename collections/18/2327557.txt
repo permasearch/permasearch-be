@@ -1,0 +1,1 @@
+There are many different definitions of quality. For some it is the "capability of a software product to conform to requirements." (ISO/IEC 9001,[10] commented by[11]) while for others it can be synonymous with "customer value" (Highsmith, 2002) or even defect level.

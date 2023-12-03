@@ -1,0 +1,1 @@
+Here the superscript ♭ is one of the two musical isomorphisms, and ⋆ is the Hodge dual. Working with the current two-form and the exterior derivative is usually easier than working with the vector field and divergence, because unlike the divergence, the exterior derivative commutes with a change of (curvilinear) coordinate system.

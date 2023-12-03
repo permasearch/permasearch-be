@@ -1,0 +1,1 @@
+where the first part in the right hand side, containing the Dirac spinor     ψ   {\displaystyle \psi }  , represents the Dirac field. In quantum field theory it is used as the template for the gauge field strength tensor. By being employed in addition to the local interaction Lagrangian it reprises its usual role in QED.

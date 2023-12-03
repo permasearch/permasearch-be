@@ -1,0 +1,1 @@
+The classical birthday problem thus corresponds to determining n(365). The first 99 values of n(d) are given here:

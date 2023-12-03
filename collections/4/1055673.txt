@@ -1,0 +1,1 @@
+Where Is is the moment of inertia, Ts is the period of spin about the spin axis, and Ï„ is the torque. In general, the problem is more complicated than this, however.

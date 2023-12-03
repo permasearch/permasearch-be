@@ -1,0 +1,1 @@
+In other words, the first equation has distinct roots, while the second does not. (In the general theory, the discriminant is introduced to explain this.)

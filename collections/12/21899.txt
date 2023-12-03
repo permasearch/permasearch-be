@@ -1,0 +1,1 @@
+with      G  V     {\displaystyle G_{V}}   the weak vector coupling constant,      τ  ±     {\displaystyle \tau _{\pm }}   the isospin raising and lowering operators, and     a   {\displaystyle a}   running over all protons and neutrons in the nucleus.

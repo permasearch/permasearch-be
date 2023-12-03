@@ -1,0 +1,1 @@
+Because of its sensitivity to impedance variations, a TDR may be used to verify cable impedance characteristics, splice and connector locations and associated losses, and estimate cable lengths.

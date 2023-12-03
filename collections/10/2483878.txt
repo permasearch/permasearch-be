@@ -1,0 +1,1 @@
+This is only really valid if z is non-zero but can be considered as valid also for z = 0 if Arg(0) is considered as being an indeterminate form rather than as being undefined.

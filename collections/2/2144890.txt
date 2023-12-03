@@ -1,0 +1,1 @@
+which is a recombination of all the frequency components of f (x). Each component is a complex sinusoid of the form e2πixξ whose amplitude is A(ξ) and whose initial phase angle (at x = 0) is φ(ξ).

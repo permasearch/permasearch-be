@@ -1,0 +1,1 @@
+This maximum occurs precisely at x = e.  For proof, the inequality      e  y   ≥ y + 1   {\displaystyle e^{y}\geq y+1}  , from above, evaluated at     y = ( x − e )  /  e   {\displaystyle y=(x-e)/e}   and simplifying gives      e  x  /  e   ≥ x   {\displaystyle e^{x/e}\geq x}  .  So      e  1  /  e   ≥  x  1  /  x     {\displaystyle e^{1/e}\geq x^{1/x}}   for all positive x.[19]

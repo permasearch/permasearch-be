@@ -1,0 +1,1 @@
+(1) PAP: An agent is responsible for an action only if said agent could have done otherwise.[4]

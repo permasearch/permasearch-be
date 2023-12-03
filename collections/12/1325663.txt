@@ -1,0 +1,1 @@
+Microsoft previously rated the risk of security threats using five categories in a classification called DREAD: Risk assessment model. The model is considered obsolete by Microsoft. The categories were:

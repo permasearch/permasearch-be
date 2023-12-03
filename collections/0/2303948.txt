@@ -1,0 +1,1 @@
+The default state of the clutch is engaged - that is the connection between engine and gearbox is always "on" unless the driver presses the pedal and disengages it. If the engine is running with the clutch engaged and the transmission in neutral, the engine spins the input shaft of the transmission but power is not transmitted to the wheels.

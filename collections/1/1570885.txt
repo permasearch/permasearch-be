@@ -1,0 +1,1 @@
+ISO 16845-1:2004 provides the methodology and abstract test suite necessary for checking the conformance of any CAN implementation of the CAN specified in ISO 11898-1.

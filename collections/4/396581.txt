@@ -1,0 +1,1 @@
+The first upper bounds were based on the 'human' algorithms. By combining the worst-case scenarios for each part of these algorithms, the typical upper bound was found to be around 100.

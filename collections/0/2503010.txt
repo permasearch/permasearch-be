@@ -1,0 +1,1 @@
+Chrome OS, through its inclusion of the Noto fonts, supports the emoji set introduced through Unicode 6.2. As of Chrome OS 41, Noto Color Emoji is the default font for most emoji.

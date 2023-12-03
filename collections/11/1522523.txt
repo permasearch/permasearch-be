@@ -1,0 +1,1 @@
+Cohen's ƒ2 is one of several effect size measures to use in the context of an F-test for ANOVA or multiple regression. Its amount of bias (overestimation of the effect size for the ANOVA) depends on the bias of its underlying measurement of variance explained (e.g., R2, η2, ω2).

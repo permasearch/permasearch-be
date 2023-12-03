@@ -1,0 +1,1 @@
+As with other difference formulas, the degree of a Newton interpolating polynomial can be increased by adding more terms and points without discarding existing ones. Newton's form has the simplicity that the new points are always added at one end: Newton's forward formula can add new points to the right, and Newton's backward formula can add new points to the left.

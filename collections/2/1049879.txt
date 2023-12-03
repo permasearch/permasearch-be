@@ -1,0 +1,1 @@
+As in the previous case 2 is not a common divisor. Divide b by 2 and continue.

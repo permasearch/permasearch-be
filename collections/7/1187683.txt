@@ -1,0 +1,1 @@
+MRI's produce detailed images created by generating strong magnetic fields that may induce potentially harmful displacement force and torque. These fields produce potentially harmful radio frequency heating and create image artifacts rendering images useless. Due to these potential risks, only certain medical devices can be used in an MR environment.

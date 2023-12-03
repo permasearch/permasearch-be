@@ -1,0 +1,1 @@
+Firewalls may be used to prevent clients among the public WAN from accessing the broadcast addresses of inside LAN segments, or routers may be configured to ignore subnet-directed broadcasts (see above.)

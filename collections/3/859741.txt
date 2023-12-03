@@ -1,0 +1,1 @@
+In this system, the 3-digit Interfix Number would be the key to the Lot Code. It would be used for the same or similar products manufactured at the same time on the same production lines at the same facility. The Interfix Number would be differenced by the 3-digit lot sequence numbers set aside for each item.

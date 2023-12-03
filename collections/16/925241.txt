@@ -1,0 +1,1 @@
+Most websites usually employ third-party services for advertising on their webpages. If one of these advertising services is compromised, they may end up inadvertently infecting all of the websites using their service by advertising rogue security software.[13]

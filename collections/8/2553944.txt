@@ -1,0 +1,1 @@
+The ECL circuit operation is considered below with assumption that the input voltage is applied to T1 base, while T2 input is unused or a logical "0" is applied.

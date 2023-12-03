@@ -1,0 +1,1 @@
+Email encryption is encryption of email messages to protect the content from being read by other entities than the intended recipients. Email encryption may also include authentication.

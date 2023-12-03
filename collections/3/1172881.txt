@@ -1,0 +1,1 @@
+If this number is −q, then the choice of the square roots was a good one (again, by Vieta's formulas); otherwise, the roots of the polynomial will be −r1, −r2, −r3, and −r4, which are the numbers obtained if one of the square roots is replaced by the symmetric one (or, what amounts to the same thing, if each of the three square roots is replaced by the symmetric one).

@@ -1,0 +1,1 @@
+(where "gcd" is the greatest common divisor) provided that this set is not empty. Otherwise the period is not defined. Note that even though a state has period k, it may not be possible to reach the state in k steps. For example, suppose it is possible to return to the state in {6, 8, 10, 12, ...} time steps; k would be 2, even though 2 does not appear in this list.

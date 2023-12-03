@@ -1,0 +1,1 @@
+where Hv is the heat of vaporization of water, nH2O,out is the moles of water vaporized and nfuel,in is the number of moles of fuel combusted.[3]

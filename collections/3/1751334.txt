@@ -1,0 +1,1 @@
+The Microsoft Authenticode code signing system uses X.509 to identify authors of computer programs.

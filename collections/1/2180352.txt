@@ -1,0 +1,1 @@
+A sequential network has one input and one output. The output becomes 1 and remains 1 thereafter when at least two 0's and two 1's have occurred as inputs.

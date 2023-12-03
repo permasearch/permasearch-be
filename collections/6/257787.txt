@@ -1,0 +1,1 @@
+On Windows 2000 and later, the solution is to replace each occurrence of a quote character within a value by a series of three quote characters:

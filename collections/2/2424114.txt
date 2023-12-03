@@ -1,0 +1,1 @@
+To study the behavior of this expression as h tends to zero, expand kh. After regrouping the terms, the right-hand side becomes:

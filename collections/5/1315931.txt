@@ -1,0 +1,1 @@
+Specifically, if both X and Y are finite with the same number of elements, then f : X → Y is surjective if and only if f is injective.

@@ -1,0 +1,1 @@
+For identical 8-bit (or lower) image data, PNG files are typically smaller than the equivalent GIFs, due to the more efficient compression techniques used in PNG encoding.[45] Complete support GIF is complicated chiefly by the complex canvas structure it allows, though this is what enables the compact animation features.

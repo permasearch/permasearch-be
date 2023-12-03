@@ -1,0 +1,1 @@
+Files containing macros are saved with an extra M letter in their extension instead (.docm/xlsm/pptm/etc.).

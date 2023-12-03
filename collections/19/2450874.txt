@@ -1,0 +1,1 @@
+Backgammon software has been developed not only to play and analyze games, but also to facilitate play between humans over the internet. Dice rolls are provided by random or pseudorandom number generators. Real-time online play began with the First Internet Backgammon Server in July 1992,[36][37] but there are now a range of options;[38] many of which are commercial.

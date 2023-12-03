@@ -1,0 +1,1 @@
+There are two basic types of LCA data â€“ unit process data and environmental input-output data (EIO), where the latter is based on national economic input-output data.[21] Unit process data are derived from direct surveys of companies or plants producing the product of interest, carried out at a unit process level defined by the system boundaries for the study.

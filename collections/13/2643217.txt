@@ -1,0 +1,1 @@
+Steps 1,2,3,4 occur for every odd column, while steps 3,4,1,2 occur for every even column.

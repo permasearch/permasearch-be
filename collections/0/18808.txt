@@ -1,0 +1,1 @@
+"Large signal" is the opposite of "small signal", which means that the circuit can be reduced to a linearized equivalent circuit around its operating point with sufficient accuracy.

@@ -1,0 +1,1 @@
+The less-than sign plus the equals sign (<=) is used for an approximation of the less-than-or-equal-to sign (â‰¤). ASCII does not have a less-than-or-equal-to sign, but Unicode defines it at code point U+2264.

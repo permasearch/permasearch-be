@@ -1,0 +1,1 @@
+where v1 is the terminal velocity (i.e. velocity in the absence of an electric field) of the falling drop, Î· is the viscosity of the air, and r is the radius of the drop.

@@ -1,0 +1,1 @@
+The symbol for the moment magnitude scale is Mw, with the subscript "w" meaning mechanical work accomplished. The moment magnitude Mw is a dimensionless value defined by Hiroo Kanamori[12] as

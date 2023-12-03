@@ -1,0 +1,1 @@
+The general form of the solution is a curve with I decreasing as V increases (see graphs lower down). The slope at small or negative V (where the W function is near zero) approaches     − 1  /  (  R  S   +  R  S H   )   {\displaystyle -1/(R_{S}+R_{SH})}  , whereas the slope at high V approaches     − 1  /   R  S     {\displaystyle -1/R_{S}}  .

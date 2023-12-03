@@ -1,0 +1,1 @@
+The distributed.net project was started in 1997. The NASA Advanced Supercomputing facility (NAS) ran genetic algorithms using the Condor cycle scavenger running on about 350 Sun Microsystems and SGI workstations.

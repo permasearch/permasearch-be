@@ -1,0 +1,1 @@
+The passwd command may be used to change passwords for local accounts, and on most systems, can also be used to change passwords managed in a distributed authentication mechanism such as NIS, Kerberos, or LDAP.

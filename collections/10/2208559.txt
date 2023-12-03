@@ -1,0 +1,1 @@
+Web Mercator shares some of the same properties of the standard Mercator projection: north is up everywhere, meridians are equally spaced vertical lines, but areas near the poles are greatly exaggerated.

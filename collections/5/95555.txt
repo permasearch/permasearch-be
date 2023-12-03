@@ -1,0 +1,1 @@
+Grand is a special case of Suit game, in which only the Jacks are trumps in the same order as in the Suit game:

@@ -1,0 +1,1 @@
+PNG and TIFF also allows partial transparency, which solves the edge limitation problem. However, support is even more patchy. Internet Explorer prior to version 7 does not support partial transparency in a PNG graphic. Very few applications correctly process TIFF files with alpha channels.

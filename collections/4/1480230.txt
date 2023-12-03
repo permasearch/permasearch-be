@@ -1,0 +1,1 @@
+Synchronous clocking is required for such protocols as SDLC, HDLC, and X.25.

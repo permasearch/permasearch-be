@@ -1,0 +1,1 @@
+(noun) a specification of an object, manifested by an agent, intended to accomplish goals, in a particular environment, using a set of primitive components, satisfying a set of requirements, subject to constraints; (verb, transitive) to create a design, in an environment (where the designer operates)[2]

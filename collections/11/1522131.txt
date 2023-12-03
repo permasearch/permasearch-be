@@ -1,0 +1,1 @@
+When AngularJS compiles the HTML, it processes the ng-controller directive, which in turn asks the injector to create an instance of the controller and its dependencies.

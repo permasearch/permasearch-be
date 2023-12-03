@@ -1,0 +1,1 @@
+HTML5 has both a regular text/html serialization and an XML serialization, which is also known as XHTML5.[62] The language is more compatible with HTML 4 and XHTML 1.x than XHTML 2.0, due to the decision to keep the existing HTML form elements and events model. It adds many new elements not found in XHTML 1.x, however, such as section and aside tags.

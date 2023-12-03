@@ -1,0 +1,1 @@
+But the first function is NOT a function of T2, therefore the product of the final two functions MUST result in the removal of T2 as a variable. The only way is therefore to define the function f as follows:

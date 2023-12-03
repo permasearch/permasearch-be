@@ -1,0 +1,1 @@
+The format of the PPS number was defined as being nine characters in length, consisting of 7 digits in positions 1 to 7, followed by a check character in position 8, with either a space or the letter “W” in position 9. However, from 1 January 2013 a new range of PPS numbers were introduced by including an additional alphabetic character, other than “W”, in position 9.[3]

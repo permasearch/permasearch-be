@@ -1,0 +1,1 @@
+The computational complexity of computing the natural logarithm (using the arithmetic-geometric mean) is O(M(n) ln n). Here n is the number of digits of precision at which the natural logarithm is to be evaluated and M(n) is the computational complexity of multiplying two n-digit numbers.

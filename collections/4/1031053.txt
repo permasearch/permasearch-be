@@ -1,0 +1,1 @@
+To get the total volume that flows through the tube, we need to add up the contributions from each lamina. To calculate the flow through each lamina, we multiply the velocity (from above) and the area of the lamina.

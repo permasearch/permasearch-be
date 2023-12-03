@@ -1,0 +1,1 @@
+Applied similarly to the parabolic reflector, the slotted waveguide is moved mechanically to scan and is particularly suitable for non-tracking surface scan systems, where the vertical pattern may remain constant. Owing to its lower cost and less wind exposure, shipboard, airport surface, and harbour surveillance radars now use this approach in preference to a parabolic antenna.

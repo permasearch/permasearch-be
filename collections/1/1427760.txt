@@ -1,0 +1,1 @@
+A test with a higher specificity has a lower type I error rate.

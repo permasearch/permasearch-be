@@ -1,0 +1,1 @@
+By the Pythagorean theorem we have b2 = h2 + d2 and a2 = h2 + (c − d)2 according to the figure at the right. Subtracting these yields a2 − b2 = c2 − 2cd. This equation allows us to express d in terms of the sides of the triangle:

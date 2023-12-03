@@ -1,0 +1,1 @@
+equating to Lagrange's equations and defining the Lagrangian as L = T − V obtains Lagrange's equations of the second kind or the Euler–Lagrange equations of motion

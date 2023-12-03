@@ -1,0 +1,1 @@
+Offset controls the timing of the start of the major street green and/or the end of the major street green, to keep the signal in coordination with other signals in the overall timing plan. This timing can be set by the master controller for the particular plan used.

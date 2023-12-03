@@ -1,0 +1,1 @@
+Observe that while Wiener "reduced" the relational *12.11 form of the axiom of reducibility he did not reduce nor otherwise change the propositional-function form *12.1; indeed he declared this "essential to the treatment of identity, descriptions, classes and relations".[86]

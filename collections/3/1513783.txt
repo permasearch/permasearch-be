@@ -1,0 +1,1 @@
+Specifying how stress and strain are to be measured, including directions, allows for many types of elastic moduli to be defined. The three primary ones are:

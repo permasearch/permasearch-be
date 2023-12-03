@@ -1,0 +1,1 @@
+A sphere can be taken to be made up of two stacks of infinitesimally thin, solid discs, where the radius differs from 0 to r (or a single stack, where the radius differs from -r to r).

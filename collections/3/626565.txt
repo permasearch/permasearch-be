@@ -1,0 +1,1 @@
+Relocating one of the named angles yields a variant of the diagram that demonstrates the angle difference formulas for sine and cosine.[11] (The diagram admits further variants to accommodate angles and sums greater than a right angle.) Dividing all elements of the diagram by cos α cos β provides yet another variant (shown) illustrating the angle sum formula for tangent.

@@ -1,0 +1,1 @@
+The summaries (arrays) output by the algorithm are mergeable, in the sense that combining summaries of two streams s and r by adding their arrays keywise and then decrementing each counter in the resulting array until only k keys remain results in a summary of the same (or better) quality as compared to running the Misra-Gries algorithm over the concatenation of s with r.

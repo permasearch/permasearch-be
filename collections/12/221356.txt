@@ -1,0 +1,1 @@
+where A and B are the (signed) angles between the line and the two ends of the segment.

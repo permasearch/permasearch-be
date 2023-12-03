@@ -1,0 +1,1 @@
+which takes the square root of the number of data points in the sample (used by Excel histograms and many others).[14]

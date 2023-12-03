@@ -1,0 +1,1 @@
+Note that a necessary condition for n is that for any a coprime to n, a and n - a must satisfy the condition above, therefore at least one of a and n - a must only have factor 2 and 5.

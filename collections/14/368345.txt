@@ -1,0 +1,1 @@
+NAT64 translates IPv6 requests from clients to IPv4 requests. This avoids the need to provision any IPv4 addresses to clients and allows clients that only support IPv6 to access IPv4 resources. However this approach requires a DNS server with DNS64 capability and cannot support IPv4-only client devices.

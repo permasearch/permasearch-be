@@ -1,0 +1,1 @@
+Where      π  z   f   =    ∂  π  ∗   f     ∂  z  f        {\displaystyle \pi _{z}^{f}={\frac {\partial \pi _{*}^{f}}{\partial z^{f}}}}   and      π  ∗   f   ( p ,  z  f   )   {\displaystyle \pi _{*}^{f}(p,z^{f})}   is the firm's maximum profit function. But since q=t+p, we have that dq/dt=IN-1+dp/dt. Therefore, substituting dq/dt in the equation above and rearranging terms gives:

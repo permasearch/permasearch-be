@@ -1,0 +1,1 @@
+In the esoteric programming language INTERCAL, the colon is called "two-spot" and is used to identify a 32-bit variableâ€”distinct from a spot (.) which identifies a 16-bit variable.

@@ -1,0 +1,1 @@
+For example, rounding x = 2.1784 dollars to whole cents (i.e., to a multiple of 0.01) entails computing 2.1784/0.01 = 217.84, then rounding that to 218, and finally computing 218 × 0.01 = 2.18.

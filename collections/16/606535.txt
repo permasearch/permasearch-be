@@ -1,0 +1,1 @@
+For the T, N and M parameters exist subclassifications for some cancer-types (e.g. T1a, Tis, N1i)

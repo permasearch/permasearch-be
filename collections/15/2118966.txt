@@ -1,0 +1,1 @@
+If all the edges are forced to be identical, a frustum becomes a uniform prism.

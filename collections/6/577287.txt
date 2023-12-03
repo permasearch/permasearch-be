@@ -1,0 +1,1 @@
+Development of a display with ~900 ppi allows for three pixels with 16-bit color to act as sub-pixels to form a pixel cluster. These pixel clusters act as regular pixels at ~300 ppi to produce a 48-bit color display.

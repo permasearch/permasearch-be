@@ -1,0 +1,1 @@
+Suppose a process had 3 steps. Step 1 produced 10 units and 2 were defective, the yield of step 1 would be 8/10 or 0.80, Step 2 had a yield of 0.9 and step 3 had yield of 100%. The rolled throughput yield for this entire process would be:

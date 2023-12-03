@@ -1,0 +1,1 @@
+(derived using the properties of expected value).

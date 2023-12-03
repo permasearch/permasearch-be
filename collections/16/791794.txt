@@ -1,0 +1,1 @@
+A Cauchy sequence is a sequence whose terms become arbitrarily close together as n gets very large. The notion of a Cauchy sequence is important in the study of sequences in metric spaces, and, in particular, in real analysis. One particularly important result in real analysis is Cauchy characterization of convergence for sequences:

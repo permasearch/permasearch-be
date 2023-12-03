@@ -1,0 +1,1 @@
+Also, the unit newton metre is dimensionally equivalent to the joule, which is the unit of energy. However, in the case of torque, the unit is assigned to a vector, whereas for energy, it is assigned to a scalar.

@@ -1,0 +1,1 @@
+To create a footnote, use the <ref>...</ref> syntax at the appropriate place in the article text, for example:

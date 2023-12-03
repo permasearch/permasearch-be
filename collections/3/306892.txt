@@ -1,0 +1,1 @@
+For convenience, an IPv6 address may be abbreviated to shorter notations by application of the following rules.

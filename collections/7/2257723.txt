@@ -1,0 +1,1 @@
+C++ has a separate Boolean data type bool, but with automatic conversions from scalar and pointer values that are very similar to those of C. This approach was adopted also by many later languages, especially by some scripting languages such as AWK.

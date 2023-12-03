@@ -1,0 +1,1 @@
+Comparison and arithmetic on far pointers is problematic: there can be several different segment-offset address pairs pointing to one  physical address.

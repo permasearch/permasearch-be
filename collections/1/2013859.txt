@@ -1,0 +1,1 @@
+Moves to the program counter are allowed and perform jumps. Return from subroutine, for example, is implemented as MOV @SP+,PC.

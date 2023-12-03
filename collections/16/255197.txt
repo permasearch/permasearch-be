@@ -1,0 +1,1 @@
+Additionally, PWM (pulse-width modulation) anemometers are also used, wherein the velocity is inferred by the time length of a repeating pulse of current that brings the wire up to a specified resistance and then stops until a threshold "floor" is reached, at which time the pulse is sent again.

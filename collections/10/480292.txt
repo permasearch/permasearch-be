@@ -1,0 +1,1 @@
+The receiver has high dynamic range to support high clutter levels caused by close returns from range-ambiguous Doppler effect waveforms. The receiver has both narrow band and wideband channels, as well as multichannel capabilities to support monopulse radar processing and side lobe blanking. The receiver generates digital data and sends the data to the signal processors.

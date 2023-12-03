@@ -1,0 +1,1 @@
+where the F â‹… v is the power over the instant dt. The sum of these small amounts of work over the trajectory of the point yields the work,

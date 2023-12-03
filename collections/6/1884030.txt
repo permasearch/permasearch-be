@@ -1,0 +1,1 @@
+The PostScript language has limited support for full (not partial) transparency, depending on the PostScript level. Partial transparency is available with the pdfmark extension,[1] available on many PostScript implementations.

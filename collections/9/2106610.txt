@@ -1,0 +1,1 @@
+A, therefore, is twice the difference between identical and fraternal twin correlations : the additive genetic effect (Falconer's formula). C is simply the MZ correlation minus this estimate of A. The random (unique) factor E is 1 − rmz: i.e., MZ twins differ due to unique environments only. (Jinks & Fulker, 1970; Plomin, DeFries, McClearn, & McGuffin, 2001).

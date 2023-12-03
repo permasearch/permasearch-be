@@ -1,0 +1,1 @@
+If the volume compresses (ΔV = final volume − initial volume < 0), then W < 0. That is, during isobaric compression the gas does negative work, or the environment does positive work. Restated, the environment does positive work on the gas.

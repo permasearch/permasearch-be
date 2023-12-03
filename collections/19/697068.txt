@@ -1,0 +1,1 @@
+In object-oriented programming, interfaces and abstract methods serve much the same purpose.

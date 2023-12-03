@@ -1,0 +1,1 @@
+where Newton's notation has been used for the time derivative. Taking the curl of this equation and applying vector identities eventually gives:

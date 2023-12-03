@@ -1,0 +1,1 @@
+With a small variation, this is exactly what is expressed by the IDF component of BM25.

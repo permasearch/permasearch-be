@@ -1,0 +1,1 @@
+Secure Provenance refers to providing integrity and confidentiality guarantees to provenance information. In other words, secure provenance means to ensure that history cannot be rewritten, and users can specify who else can look into their actions on the object.[59][60]

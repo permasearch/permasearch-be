@@ -1,0 +1,1 @@
+and represents the amount of time that the process spends at the point x in the range of the process. More precisely, in one dimension this integral can be written

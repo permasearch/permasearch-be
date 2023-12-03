@@ -1,0 +1,1 @@
+UML was originally motivated by the desire to standardize the disparate notational systems and approaches to software design developed by Grady Booch, Ivar Jacobson and James Rumbaugh at Rational Software in 1994â€“1995, with further development led by them through 1996.[1]

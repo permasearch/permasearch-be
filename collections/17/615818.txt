@@ -1,0 +1,1 @@
+During 1982, the first third-party video card for the PC appeared when Hercules Computer Technologies released a clone of the MDA that could use bitmap graphics. Although not supported by the BIOS, the Hercules Graphics Adapter became extremely popular for business use due to allowing sharp, high resolution graphics plus text and itself was widely cloned by other manufacturers.

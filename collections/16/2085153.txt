@@ -1,0 +1,1 @@
+Mahjong tiles were added to the Unicode Standard in April, 2008 with the release of version 5.1.

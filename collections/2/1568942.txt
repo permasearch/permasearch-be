@@ -1,0 +1,1 @@
+Monthly inflation   = 100 ×  (    (  1 +    inflation  100    )    1 12    − 1  )    {\displaystyle {\hbox{Monthly inflation}}=100\times \left(\left(1+{\frac {\hbox{inflation}}{100}}\right)^{\frac {1}{12}}-1\right)}

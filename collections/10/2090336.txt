@@ -1,0 +1,1 @@
+The above form of L does not hold in relativistic Lagrangian mechanics, and must be replaced by a function consistent with special or general relativity. Also, for dissipative forces another function must be introduced alongside L.

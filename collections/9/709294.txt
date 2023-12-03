@@ -1,0 +1,1 @@
+With numbers: 100 = xf × 28 + (1 − xf) × 230, so xf = 0.64. This means that the mass fraction of the liquid in the liquid–gas mixture that leaves the throttling valve is 64%.

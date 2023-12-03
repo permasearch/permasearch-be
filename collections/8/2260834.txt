@@ -1,0 +1,1 @@
+SAIF is a way of thinking about producing specifications that explicitly describe the governance, conformance, compliance, and behavioral semantics that are needed to achieve computable semantic working interoperability. The intended information transmission technology might use a messaging, document exchange, or services approach.

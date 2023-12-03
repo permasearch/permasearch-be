@@ -1,0 +1,1 @@
+states this. When steady state conditions are assumed the total time derivate of phonon number is zero, because the temperature is constant in time and therefore the phonon number stays also constant. Time variation due to phonon decay is described with a relaxation time (Ï„) approximation

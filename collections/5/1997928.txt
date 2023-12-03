@@ -1,0 +1,1 @@
+For entropy, the situation is a little different. Because entropy can be measured as an absolute value, not relative to those of the elements in their reference states (as with ΔHo and ΔGo), there is no need to use the entropy of formation; one simply uses the absolute entropies for products and reactants:

@@ -1,0 +1,1 @@
+Each successive stroke is preceded by intermediate dart leader strokes that have a faster rise time but lower amplitude than the initial return stroke. Each subsequent stroke usually re-uses the discharge channel taken by the previous one, but the channel may be offset from its previous position as wind displaces the hot channel.[34]

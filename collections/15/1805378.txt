@@ -1,0 +1,1 @@
+The more that a product falls into category 1, the further its price will be from the currency exchange rate, moving towards the PPP exchange rate. Conversely, category 2 products tend to trade close to the currency exchange rate. (See also Penn effect).

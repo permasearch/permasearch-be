@@ -1,0 +1,1 @@
+It is also possible to consider the ancestry of individual genes (or groups of genes, haplotypes) instead of an organism as a whole. Coalescent theory describes a stochastic model of how the ancestry of such genetic markers maps to the history of a population.

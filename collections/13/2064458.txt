@@ -1,0 +1,1 @@
+Most modern webcams are capable of capturing arterial pulse rate by the use of a simple algorithmic trick. Researchers claim that this method is accurate to Â±5 bpm.

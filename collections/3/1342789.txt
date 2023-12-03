@@ -1,0 +1,1 @@
+All these versions continued version 3.0's impressive sales pace. Even though the 3.1x series still lacked most of the important features of OS/2, such as long file names, a desktop, or protection of the system against misbehaving applications, Microsoft quickly took over the OS and GUI markets for the IBM PC. The Windows API became the de facto standard for consumer software.

@@ -1,0 +1,1 @@
+The liquid level (as in, e.g., water level) is the height associated with the liquid free surface, especially when it's the top-most surface. It may be measured with a level sensor.

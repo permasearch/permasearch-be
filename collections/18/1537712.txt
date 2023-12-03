@@ -1,0 +1,1 @@
+Split-core current transformers either have a two-part core or a core with a removable section. This allows the transformer to be placed around a conductor without having to disconnect it first. Split-core current transformers are typically used in low current measuring instruments, often portable, battery-operated, and hand-held (see illustration lower right).

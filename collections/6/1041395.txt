@@ -1,0 +1,1 @@
+Some programming languages make it easy to use a value of one type as if it were a value of another type. This is sometimes described as "weak typing".

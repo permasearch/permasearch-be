@@ -1,0 +1,1 @@
+This feature refers to updating a cell's contents periodically with a value from an external sourceâ€”such as a cell in a "remote" spreadsheet. For shared, Web-based spreadsheets, it applies to "immediately" updating cells another user has updated. All dependent cells must be updated also.

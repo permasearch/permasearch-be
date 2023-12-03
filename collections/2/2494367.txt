@@ -1,0 +1,1 @@
+where F = farad, A = ampere, V = volt, C = coulomb, J = joule, m = metre, N = newton, s = second, W = watt, kg = kilogram, Î© = ohm, Hz = hertz, H = henry.

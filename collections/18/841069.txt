@@ -1,0 +1,1 @@
+The prefix holds the binary value 11111111 for any multicast address.

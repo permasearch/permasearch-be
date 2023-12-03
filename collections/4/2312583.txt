@@ -1,0 +1,1 @@
+To find the y coordinate, all we need to do is substitute the value of x into either one of the two line equations, for example, into the first:

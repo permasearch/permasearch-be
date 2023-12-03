@@ -1,0 +1,1 @@
+The first official release, Ubuntu Kylin 13.04, was released on 25 April 2013, on the same day as Ubuntu 13.04 (Raring Ringtail).[5] Features include Chinese input methods, Chinese calendars, a weather indicator, and online music search from the Dash.[5]

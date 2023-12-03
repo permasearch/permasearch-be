@@ -1,0 +1,1 @@
+PCI Express protocol can be used as data interface to flash memory devices, such as memory cards and solid-state drives (SSDs).

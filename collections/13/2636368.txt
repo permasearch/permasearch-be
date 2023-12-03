@@ -1,0 +1,1 @@
+Journals are used by journaling file systems, prevalent systems and database management systems where they are also called "transaction logs" or "redo logs".

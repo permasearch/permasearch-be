@@ -1,0 +1,1 @@
+Euclid proved that 2p−1(2p − 1) is an even perfect number whenever 2p − 1 is prime (Euclid, Prop. IX.36).

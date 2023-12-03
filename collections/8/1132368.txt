@@ -1,0 +1,1 @@
+Other more complex laws may be needed if the network contains nonlinear or reactive components. Non-linear self-regenerative heterodyning systems can be approximated. Applying these laws results in a set of simultaneous equations that can be solved either algebraically or numerically.

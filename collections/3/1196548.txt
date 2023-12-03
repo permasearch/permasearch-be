@@ -1,0 +1,1 @@
+One of these parts generates a magnetic field, the other has a wire winding in which the changing field induces an electric current

@@ -1,0 +1,1 @@
+An efficient payoff vector is called a pre-imputation, and an individually rational pre-imputation is called an imputation. Most solution concepts are imputations.

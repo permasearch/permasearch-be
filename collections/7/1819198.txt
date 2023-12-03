@@ -1,0 +1,1 @@
+Previous mobile processors based on the Core microarchitecture were marketed as Pentium Dual-Core, while the current models are called Pentium.  Note however, that several resellers will still refer to them as Pentium Dual-Core.

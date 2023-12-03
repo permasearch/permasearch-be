@@ -1,0 +1,1 @@
+The upper end of multimeter measurement ranges varies considerably; measurements over perhaps 600 volts, 10 amperes, or 100 megohms may require a specialized test instrument.

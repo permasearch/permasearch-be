@@ -1,0 +1,1 @@
+where the second equality in the first line is by definition of     φ   {\displaystyle \varphi }  . The integral in the first term is equal to one by the definition of probability, and the second and other even terms (i.e. first and other odd moments) vanish because of space symmetry. What is left gives rise to the following relation:

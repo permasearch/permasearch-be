@@ -1,0 +1,1 @@
+By the 1960s the improved switching speed of bipolar junction transistors had allowed for high frequency DC/DC converters. In 1976 power MOSFETs became commercially available. In 1982 the Insulated Gate Bipolar Transistor (IGBT) was introduced.

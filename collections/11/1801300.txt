@@ -1,0 +1,1 @@
+In all these cases of scaling. if densities are multiplied by 4, times are halved; if velocities are doubled, forces are multiplied by 16.

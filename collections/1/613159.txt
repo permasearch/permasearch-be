@@ -1,0 +1,1 @@
+The diffusion equation yields an approximation of the time evolution of the probability density function associated to the position of the particle going under a Brownian movement under the physical definition. The approximation is valid on short timescales.

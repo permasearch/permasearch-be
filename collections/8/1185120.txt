@@ -1,0 +1,1 @@
+Version 16.04.05 was released on March 30, 2016, supporting iOS 8.0 and above. Features include:

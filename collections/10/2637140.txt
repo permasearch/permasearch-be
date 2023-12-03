@@ -1,0 +1,1 @@
+The diagram is greatly exaggerated, because in reality, S = 390 L, and φ is extremely close to 90°. Aristarchus determined φ to be a thirtieth of a quadrant (in modern terms, 3°) less than a right angle: in current terminology, 87°. Trigonometric functions had not yet been invented, but using geometrical analysis in the style of Euclid, Aristarchus determined that

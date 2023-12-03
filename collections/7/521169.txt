@@ -1,0 +1,1 @@
+where      j  =  ρ  Q    v    {\displaystyle \mathbf {j} =\rho _{Q}\mathbf {v} }   and      ρ  Q     {\displaystyle \rho _{Q}}   is the charge density of the moving charged particles.

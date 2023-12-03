@@ -1,0 +1,1 @@
+The iPhone was formally released on June 29, 2007. It includes a version of Safari based on the same WebKit rendering engine as the desktop version, but with a modified feature set better suited for a mobile device. The version number of Safari as reported in its user agent string is 3.0,[17] in line with the contemporary desktop versions of Safari.

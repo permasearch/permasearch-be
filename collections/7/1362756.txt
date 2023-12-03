@@ -1,0 +1,1 @@
+There are a couple of kernel internal APIs utilized between the different subsystems and subsystems of subsystems. Some of them have been kept stable over several releases, others have not. There are no guarantees regarding the in-kernel APIs. Maintainers and contributors are free to augment or change them at any time.[73]

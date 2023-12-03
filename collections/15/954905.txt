@@ -1,0 +1,1 @@
+Dynamically-valued constants do not designate a variable as residing in a specific region of memory, nor are the values set at compile time. In C++ code such as

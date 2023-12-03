@@ -1,0 +1,1 @@
+Modern VINs are based on two related standards, originally issued by the International Organization for Standardization (ISO) in 1979 and 1980: ISO 3779[4] and ISO 3780,[5] respectively. Compatible but different implementations of these ISO standards have been adopted by the European Union and the United States, respectively.[6]

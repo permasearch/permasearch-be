@@ -1,0 +1,1 @@
+Labour Turnover  =   NELDY (NEBY + NEEY)/2     {\displaystyle {\mbox{Labour Turnover}}={\frac {\mbox{NELDY}}{\mbox{(NEBY + NEEY)/2}}}}

@@ -1,0 +1,1 @@
+The current VIX concept formulates a theoretical expectation of stock market volatility in the near future. The current VIX index value quotes the expected annualized change in the S&P 500 index over the following 30 days, as computed from options-based theory and current options-market data.[3]

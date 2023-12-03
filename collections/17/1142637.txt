@@ -1,0 +1,1 @@
+Note: UPC-A 042100005264 is equivalent to UPC-E 425261 with the "EOEEOO" parity pattern, which is defined by UPC-A number system 0 and UPC-A check digit 4.

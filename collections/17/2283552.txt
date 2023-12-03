@@ -1,0 +1,1 @@
+When r the common ratio is chosen such that r = √φ it generates a right triangle that is always similar to the Kepler triangle.

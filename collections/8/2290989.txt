@@ -1,0 +1,1 @@
+Monel is used for safety wiring in aircraft maintenance to ensure that fasteners cannot come undone, usually in high-temperature areas; stainless wire is used in other areas for economy.

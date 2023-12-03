@@ -1,0 +1,1 @@
+where the position of particle n is rn and the gradient operators are partial derivatives with respect to the particle's position coordinates. In Cartesian coordinates, for particle n, the position vector is rn = (xn, yn, zn) while the gradient and Laplacian operator are respectively:

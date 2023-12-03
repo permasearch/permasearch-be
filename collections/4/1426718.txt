@@ -1,0 +1,1 @@
+Separately, the chroma-keying computer is told what colors of the field are okay to draw over (basically grass) and that information is sent to the camera computers.

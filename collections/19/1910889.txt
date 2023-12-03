@@ -1,0 +1,1 @@
+Since normality shifts in time and environment, the mean and standard deviation are only useful for describing normality from the environment from which they are collected.

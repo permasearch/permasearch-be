@@ -1,0 +1,1 @@
+The current version is Visual Studio Tools for Office 2012 (VSTO 4.5) which is compatible with Office 2013, Office 2010, and Office 2007.

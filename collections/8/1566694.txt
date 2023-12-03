@@ -1,0 +1,1 @@
+Define a discrete-time Markov chain Yn to describe the nth jump of the process and variables S1, S2, S3, ... to describe holding times in each of the states where Si follows the exponential distribution with rate parameter âˆ’qYiYi.

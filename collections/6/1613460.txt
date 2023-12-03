@@ -1,0 +1,1 @@
+If      n  i     {\displaystyle n_{i}}   is much smaller than      n   t o t      {\displaystyle n_{\mathrm {tot} }}  , the mole ratio is almost identical to the mole fraction.

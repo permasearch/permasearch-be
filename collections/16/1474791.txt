@@ -1,0 +1,1 @@
+â€¢ Graphical User Interface for planning as well as for running daily operations with full checking mechanism.

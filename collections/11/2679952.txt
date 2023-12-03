@@ -1,0 +1,1 @@
+To facilitate automatic processing of film, a unique DX number is assigned to the different types of film.

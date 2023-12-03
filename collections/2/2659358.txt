@@ -1,0 +1,1 @@
+∂ u   ∂ t    − α     ∂  2   u   ∂  x  2      = h ( x , t )   {\displaystyle {\frac {\partial u}{\partial t}}-\alpha {\frac {\partial ^{2}u}{\partial x^{2}}}=h(x,t)}

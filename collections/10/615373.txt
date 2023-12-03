@@ -1,0 +1,1 @@
+Searching for files containing a given text string became problematic with Vista unless the files have been indexed. An alternative is to use the findstr command-line function.[20] After right-clicking on a folder one can open a command-line prompt in that folder.

@@ -1,0 +1,1 @@
+The amount of entropy should be independent of how the process is regarded as being divided into parts.

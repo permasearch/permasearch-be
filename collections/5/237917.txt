@@ -1,0 +1,1 @@
+The density of humid air may be calculated by treating it as a mixture of ideal gases. In this case, the partial pressure of water vapor is known as the vapor pressure. Using this method, error in the density calculation is less than 0.2% in the range of −10 °C to 50 °C. The density of humid air is found by:

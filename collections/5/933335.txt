@@ -1,0 +1,1 @@
+where     S ( T )   {\displaystyle S(T)}   is a temperature-dependent material property known as the Seebeck coefficient.

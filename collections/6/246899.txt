@@ -1,0 +1,1 @@
+If a and b are distances from the fulcrum to points A and B and if force FA applied to A is the input force and FB exerted at B is the output, the ratio of the velocities of points A and B is given by a/b, so the ratio of the output force to the input force, or mechanical advantage, is given by

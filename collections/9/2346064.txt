@@ -1,0 +1,1 @@
+That is,     B   {\displaystyle B}   possible values with the largest equal to the first slope's smallest step, or one (base 10) digit of resolution per slope. Generalizing this, we can represent the number of slopes,     N   {\displaystyle N}  , in terms of the base and the required resolution,     M   {\displaystyle M}  :

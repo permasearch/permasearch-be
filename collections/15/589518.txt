@@ -1,0 +1,1 @@
+More advanced, and usually commercially distributed, web-based file management scripts allow the administrator of the file manager to configure secure, individual user accounts, each with individual account permissions. Authorized users have access to documents stored on the server or in their individual user directories anytime, from anywhere, via a web browser.

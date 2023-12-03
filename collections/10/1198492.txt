@@ -1,0 +1,1 @@
+The formula works not only for a single repeating figure, but also for a repeating group of figures. For example:

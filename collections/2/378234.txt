@@ -1,0 +1,1 @@
+By default, man typically uses a terminal pager program such as more or less to display its output.

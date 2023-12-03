@@ -1,0 +1,1 @@
+Alternatively, if the tree root is at index 1, with valid indices 1 through n, then each element a at index i has

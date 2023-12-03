@@ -1,0 +1,1 @@
+v =  |  v  |  =  |    d x   d t    |    {\displaystyle v=\left|\mathbf {v} \right|=\left|{\frac {dx}{dt}}\right|}

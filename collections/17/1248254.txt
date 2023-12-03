@@ -1,0 +1,1 @@
+2. Serial main and sub-controllers. All door hardware is connected to sub-controllers (a.k.a. door controllers or door interfaces). Sub-controllers usually do not make access decisions, and instead forward all requests to the main controllers. Main controllers usually support from 16 to 32 sub-controllers.

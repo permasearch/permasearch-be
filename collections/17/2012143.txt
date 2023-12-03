@@ -1,0 +1,1 @@
+Transceivers should be installed only at precise 2.5-metre intervals. This distance was chosen to not correspond to the wavelength of the signal; this ensures that the reflections from multiple taps are not in phase.[5] These suitable points are marked on the cable with black bands. The cable is required to be one continuous run; T-connections are not allowed.

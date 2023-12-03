@@ -1,0 +1,1 @@
+Virtual drives are typically read-only, being used to mount existing disk images which are not modifiable by the drive. However some software provides virtual CD/DVD drives which can produce new disk images; this type of virtual drive goes by a variety of names, including "virtual burner".

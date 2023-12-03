@@ -1,0 +1,1 @@
+For example, for any set X, its power set P(X) is the set of all subsets of X. Any function     f : X → Y ,   {\displaystyle f:X\to Y,}   may be extended to a function on power sets by

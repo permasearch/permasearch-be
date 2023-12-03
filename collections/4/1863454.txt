@@ -1,0 +1,1 @@
+The solutions to the Laplace equation in a system with cylindrical symmetry are called cylindrical harmonics.

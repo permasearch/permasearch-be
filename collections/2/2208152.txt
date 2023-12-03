@@ -1,0 +1,1 @@
+NFC and Bluetooth are both relatively short-range communication technologies available on mobile phones. NFC operates at slower speeds than Bluetooth and has a much shorter range, but consumes far less power and doesn't require pairing.[62]

@@ -1,0 +1,1 @@
+Another application of reverse biasing is Varicap diodes, where the width of the depletion zone (controlled with the reverse bias voltage) changes the capacitance of the diode.

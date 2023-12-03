@@ -1,0 +1,1 @@
+where Î¸ is known to be limited to between 0 and 45 degrees, we may use the above identity for the product to give:

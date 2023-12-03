@@ -1,0 +1,1 @@
+For the expected value of     g ( X )   {\displaystyle g(X)}   (where     g :   R   →   R     {\displaystyle g:{\mathbb {R} }\to {\mathbb {R} }}   is a Borel function), we can use this inversion formula to obtain

@@ -1,0 +1,1 @@
+So, even if the performance of the vector unit is very high (    r = ∞   {\displaystyle r=\infty }  ) we get a speedup less than     1  /  ( 1 − f )   {\displaystyle 1/(1-f)}  , which suggests that the ratio f is crucial to the performance. This ratio depends on the efficiency of the compilation like adjacency of the elements in memory.

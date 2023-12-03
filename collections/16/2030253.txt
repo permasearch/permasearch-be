@@ -1,0 +1,1 @@
+Given that we have done our job correctly, we add the starting conditions and see “where the theorem goes”. The resulting configuration—the number 110—is the PROOF.

@@ -1,0 +1,1 @@
+Although the general proportionality constant between stress and strain in three dimensions is a 4th-order tensor called stiffness, systems that exhibit symmetry, such as a one-dimensional rod, can often be reduced to applications of Hooke's law.

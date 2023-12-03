@@ -1,0 +1,1 @@
+A derived value of FEV1% is FEV1% predicted, which is defined as FEV1% of the patient divided by the average FEV1% in the population for any person of similar age, sex and body composition.

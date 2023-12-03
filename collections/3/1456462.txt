@@ -1,0 +1,1 @@
+1a. If     X   {\displaystyle X}   and     Y   {\displaystyle Y}   are simple and non-negative, taking intersections where necessary, one can re-write     X   {\displaystyle X}   and     Y   {\displaystyle Y}   in the form

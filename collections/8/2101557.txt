@@ -1,0 +1,1 @@
+These logs can be analyzed by using third-party tools such as S3Stat, Cloudlytics, Qloudstat, or AWS Stats.[citation needed]

@@ -1,0 +1,1 @@
+where β is a p×1 vector of unknown parameters; εi's are unobserved scalar random variables (errors) which account for the discrepancy between the actually observed responses yi and the "predicted outcomes" xiTβ; and T denotes matrix transpose, so that xTβ is the dot product between the vectors x and β. This model can also be written in matrix notation as

@@ -1,0 +1,1 @@
+PTC ceramic material is semi-conductive and when voltage is applied to it, the power decreases quickly as it reaches a certain temperature according to the particular composition of the ceramic. This means its temperature is self-regulating.

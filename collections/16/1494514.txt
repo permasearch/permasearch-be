@@ -1,0 +1,1 @@
+Specific signals can trigger a sudden increase in the cytoplasmic Ca2+ level up to 500â€“1,000 nM by opening channels in the endoplasmic reticulum or the plasma membrane. The most common signaling pathway that increases cytoplasmic calcium concentration is the phospholipase C pathway.

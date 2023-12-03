@@ -1,0 +1,1 @@
+Each UNI-D port can be activated by the retail service provider for a different NBN service. The NTD cannot be used as a router for in premises networking. If only one data connection is required it can be achieved through the active NTD UNI-D jack.

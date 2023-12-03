@@ -1,0 +1,1 @@
+As electrons accumulate they create an electric field which attracts hydrogen ions and repels sulfate ions, leading to a double-layer near the surface. The hydrogen ions screen the charged electrode from the solution which limits further reactions unless charge is allowed to flow out of electrode.

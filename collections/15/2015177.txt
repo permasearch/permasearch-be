@@ -1,0 +1,1 @@
+d  v  y     d t    =    − k  m    v  y   − g   {\displaystyle {\frac {dv_{y}}{dt}}={\frac {-k}{m}}v_{y}-g}   (2)

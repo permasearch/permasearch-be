@@ -1,0 +1,1 @@
+A general deformation of a body can be expressed in the form x = F(X) where X is the reference position of material points in the body. Such a measure does not distinguish between rigid body motions (translations and rotations) and changes in shape (and size) of the body. A deformation has units of length.

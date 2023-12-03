@@ -1,0 +1,1 @@
+There is a half-life describing any exponential-decay process. For example:

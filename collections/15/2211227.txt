@@ -1,0 +1,1 @@
+Continuous-time signal processing is for signals that vary with the change of continuous domain(without considering some individual interrupted points).

@@ -1,0 +1,1 @@
+on the other hand any parameter of type istream can now be passed to the same function and the function will print to screen from the source specified as the parameter to the function. Consider:

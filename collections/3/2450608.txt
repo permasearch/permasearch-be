@@ -1,0 +1,1 @@
+Depending on the parameter values, the potential function may have three, two, or one different local minima, separated by the loci of fold bifurcations. At the butterfly point, the different 3-surfaces of fold bifurcations, the 2-surfaces of cusp bifurcations, and the lines of swallowtail bifurcations all meet up and disappear, leaving a single cusp structure remaining when a>0

@@ -1,0 +1,1 @@
+where     s ∈ { 0 , 0.5 , 1 , 1.5 , … }   {\displaystyle s\in \{0,0.5,1,1.5,\ldots \}}   and

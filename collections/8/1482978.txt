@@ -1,0 +1,1 @@
+In 2001, The OpenEEG Project[77] was initiated by a group of DIY neuroscientists and engineers. The ModularEEG was the primary device created the OpenEEG community; it was a 6-channel signal capture board that cost between $200 and $400 to make at home. The OpenEEG Project marked a significant moment in the emergence of DIY brain-computer interfacing.

@@ -1,0 +1,1 @@
+In the typical case, only the __init__ method need be defined. (The most common exception is for immutable objects.)

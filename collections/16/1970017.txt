@@ -1,0 +1,1 @@
+In SAP systems, a process order is created in the SAP system from a master recipe and contains all the information specified during planning. Process orders are used for detailed planning and execution of process manufacturing. These provide plant personnel with instructions for manufacturing semi-finished or finished products.[3]

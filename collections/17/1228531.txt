@@ -1,0 +1,1 @@
+When risks apply mainly to small sub-populations, there is uncertainty at which point intervention is necessary. For example, there may be a risk that is very low for everyone, other than 0.1% of the population. It is necessary to determine whether this 0.1% is represented by:

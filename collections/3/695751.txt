@@ -1,0 +1,1 @@
+It is often possible to separate the effects of size and strain. When size broadening is independent of q (K=1/d), strain broadening increases with increasing q-values. In most cases there will be both size and strain broadening. It is possible to separate these by combining the two equations in what is known as the Hallâ€“Williamson method:

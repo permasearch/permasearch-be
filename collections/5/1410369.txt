@@ -1,0 +1,1 @@
+The determination of the day of the week for any date may be performed with a variety of algorithms. In addition, perpetual calendars require no calculation by the user, and are essentially lookup tables. A typical application is to calculate the day of the week on which someone was born or a specific event occurred.

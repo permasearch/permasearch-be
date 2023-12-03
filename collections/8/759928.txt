@@ -1,0 +1,1 @@
+is ≥ 0 and the other one is ≤ 0 (in the extended real line). If the right- and left-hand limits agree for every x, then they agree in particular for c, hence the derivative of f exists at c and is equal to zero.

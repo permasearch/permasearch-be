@@ -1,0 +1,1 @@
+Intel releases official Linux drivers through the IEGD (Intel Embedded Graphic Driver) supporting some Linux distributions dedicated to the embedded market.[51]

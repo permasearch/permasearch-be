@@ -1,0 +1,1 @@
+The good quantum numbers for a diatomic molecule, as well as good approximations of rotational energy levels, can be obtained by modeling the molecule using Hund's cases.

@@ -1,0 +1,1 @@
+This extension of Tamil script is not yet recognized by Unicode. The place where the numbers should be placed is immediately neighbouring the root consonant character; fonts currently renders them as கௌ₂ or க₂ௌ on possible permutations.

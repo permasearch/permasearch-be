@@ -1,0 +1,1 @@
+Synchronous generators are the majority source of commercial electrical energy. They are commonly used to convert the mechanical power output of steam turbines, gas turbines, reciprocating engines and hydro turbines into electrical power for the grid. Some designs of Wind turbines also use this generator type.

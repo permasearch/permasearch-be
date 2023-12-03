@@ -1,0 +1,1 @@
+Most DVDÂ±R/RWs are advertised using the definition of 1 Gigabyte = 1,000,000,000 bytes instead of the more traditional definition of 1 GB = 1,073,741,824 bytes = 1 Gibibyte.[13]  This can be confusing for many users since a DVD advertised as having 4.7 GB (4.7 billion bytes) may show up on their device as only having 4.38 GB.[14]

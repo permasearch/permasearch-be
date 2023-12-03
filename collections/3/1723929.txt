@@ -1,0 +1,1 @@
+# Pareto is stronger than necessary in the proof of the theorem that follows above. But it is invoked in Arrow (1963, ch. VIII) for a simpler proof than in Arrow (1951). In the latter, Arrow uses 2 other conditions, that with (2) above imply Pareto (1963, p. 97; 1987, p. 127):

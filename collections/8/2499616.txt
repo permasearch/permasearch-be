@@ -1,0 +1,1 @@
+Exchange Server uses a proprietary protocol called MAPI. Over time, however, it added support for POP3, IMAP, SMTP, and EAS.

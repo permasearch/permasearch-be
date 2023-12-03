@@ -1,0 +1,1 @@
+We compute the nines' complement of 218, which is 781. Because 218 is three digits long, this is the same as subtracting 218 from 999.

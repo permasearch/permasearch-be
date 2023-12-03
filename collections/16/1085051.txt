@@ -1,0 +1,1 @@
+A random variable X has a two-piece normal distribution if it has a distribution

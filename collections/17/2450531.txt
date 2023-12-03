@@ -1,0 +1,1 @@
+For every set of weights      w  1   , … ,  w  n     {\displaystyle w_{1},\dots ,w_{n}}  , the following functions are homogeneous of degree 1:

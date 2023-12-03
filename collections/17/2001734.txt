@@ -1,0 +1,1 @@
+A normal plane is normal to a tooth surface at a pitch point, and perpendicular to the pitch plane. In a helical rack, a normal plane is normal to all the teeth it intersects. In a helical gear, however, a plane can be normal to only one tooth at a point lying in the plane surface. At such a point, the normal plane contains the line normal to the tooth surface.

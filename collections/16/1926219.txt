@@ -1,0 +1,1 @@
+For many centuries, up to 1925, astronomers counted the hours and days from noon, because it was the easiest solar event to measure accurately. An advantage of this method (used in the Julian Date system, in which a new Julian Day begins at noon) is that the date doesn't change during a single night's observing.

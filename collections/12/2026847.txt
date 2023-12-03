@@ -1,0 +1,1 @@
+So for a Poisson-distributed random variable,      σ  2   = μ   {\displaystyle \sigma ^{2}=\mu }  .

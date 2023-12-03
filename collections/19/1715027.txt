@@ -1,0 +1,1 @@
+Since the permanent magnets in a PM machine already introduce considerable magnetic reluctance, then the reluctance in the air gap and coils are less important. This gives considerable freedom when designing PM machines.

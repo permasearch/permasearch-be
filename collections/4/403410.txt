@@ -1,0 +1,1 @@
+An STS-1 payload can also be subdivided into seven virtual tributary groups (VTGs). Each VTG can then be subdivided into four VT1.5 signals, each of which can carry a PDH DS1 signal. A VTG may instead be subdivided into three VT2 signals, each of which can carry a PDH E1 signal. The SDH equivalent of a VTG is a TUG-2; VT1.5 is equivalent to VC-11, and VT2 is equivalent to VC-12.

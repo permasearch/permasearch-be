@@ -1,0 +1,1 @@
+For example, in base 10, the factors of 101 include 2, 5, and 10. Therefore, divisibility by 2, 5, and 10 only depend on whether the last 1 digit is divisible by those divisors. The factors of 102 include 4 and 25, and divisibility by those only depend on the last 2 digits.

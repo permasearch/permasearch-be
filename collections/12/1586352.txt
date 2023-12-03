@@ -1,0 +1,1 @@
+2. Adjacency: properties which are intrinsic at one level become extrinsic at the next. (The properties are there at the Visualization level, but the student is not yet consciously aware of them until the Analysis level. Properties are in fact related at the Analysis level, but students are not yet explicitly aware of the relationships.)

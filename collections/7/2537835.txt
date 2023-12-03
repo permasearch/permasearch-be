@@ -1,0 +1,1 @@
+'Total' shows the number of ties for medals in Olympics history, while 'Events' shows the number of events with at least one medal tie. There can be more than one tie for medals for one event as there can be ties for gold, silver and bronze.

@@ -1,0 +1,1 @@
+But that means q1 has a proper factorization, so it is not a prime number. This contradiction shows that s does not actually have two different prime factorizations. As a result, there is no smallest positive integer with multiple prime factorizations, hence all positive integers greater than 1 factor uniquely into primes.

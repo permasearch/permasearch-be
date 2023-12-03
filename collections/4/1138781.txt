@@ -1,0 +1,1 @@
+The fundamental building block of any industrial control system is the control loop, which controls just one process variable. An example is shown in the accompanying diagram, where the flow rate in a pipe is controlled by a PID controller, assisted by what is effectively a cascaded loop in the form of a valve servo-controller to ensure correct valve positioning.

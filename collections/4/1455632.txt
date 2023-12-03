@@ -1,0 +1,1 @@
+The maximal number of nodes is limited by the address space and also by the total bus capacitance of 400Â pF, which restricts practical communication distances to a few meters. The relatively high impedance and low noise immunity requires a common ground potential, which again restricts practical use to communication within the same PC board or small system of boards.

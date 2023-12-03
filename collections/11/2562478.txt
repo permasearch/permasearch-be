@@ -1,0 +1,1 @@
+Many RPA platforms present a flowchart designer, much like Microsoft Visio: process definitions are created graphically by dragging, dropping and linking icons that represent steps in a process.

@@ -1,0 +1,1 @@
+The main focus of digital forensics investigations is to recover objective evidence of a criminal activity (termed actus reus in legal parlance). However, the diverse range of data held in digital devices can help with other areas of inquiry.[3]

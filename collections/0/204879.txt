@@ -1,0 +1,1 @@
+As an example of the above, a random sample of size 400 will give a margin of error, at a 95% confidence level, of 0.98/20 or 0.049 - just under 5%. A random sample of size 1600 will give a margin of error of 0.98/40, or 0.0245 - just under 2.5%. A random sample of size 10 000 will give a margin of error at the 95% confidence level of 0.98/100, or 0.0098 - just under 1%.

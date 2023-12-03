@@ -1,0 +1,1 @@
+Present high performance CPUs use metal gate technology, together with high-κ dielectrics, a combination known as high-κ, metal gate (HKMG). The disadvantages of metal gates are overcome by a few techniques:[36]

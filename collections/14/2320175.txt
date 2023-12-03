@@ -1,0 +1,1 @@
+The effects of trying to mitigate cascading failures near the critical point in an economically feasible fashion are often shown to not be beneficial and often even detrimental. Four mitigation methods have been tested using the OPA blackout model:[1]

@@ -1,0 +1,1 @@
+small magnitude and direction normal to surface S

@@ -1,0 +1,1 @@
+This formula gives the amount of gold in cubic centimeters or in milliliters in an alloy:

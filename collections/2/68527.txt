@@ -1,0 +1,1 @@
+FRIEND is a semi-autonomous robot designed to support disabled and elderly people in their daily life activities, like preparing and serving a meal. FRIEND make it possible for patients who are paraplegic, have muscle diseases or serious paralysis (due to strokes etc.), to perform tasks without help from other people like therapists or nursing staff.

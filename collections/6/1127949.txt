@@ -1,0 +1,1 @@
+By definition, if a mass m is under SHM its acceleration is directly proportional to displacement.

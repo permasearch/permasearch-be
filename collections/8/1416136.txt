@@ -1,0 +1,1 @@
+This dimension indicates that each instance of behavior occupies some amount of timeâ€”i.e., how long the behavior occurs.

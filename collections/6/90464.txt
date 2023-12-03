@@ -1,0 +1,1 @@
+This equation of an elliptic cylinder is a generalization of the equation of the ordinary, circular cylinder (a = b). Elliptic cylinders are also known as cylindroids, but that name is ambiguous, as it can also refer to the Plücker conoid.

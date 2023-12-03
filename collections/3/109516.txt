@@ -1,0 +1,1 @@
+Mozilla's Firefox web browser can use smart cards to store certificates for use in secure web browsing.[27]

@@ -1,0 +1,1 @@
+Nouns, adjectives, and pronouns can be marked for gender, number and case. Adjectives and pronouns must agree in all features with the noun they are bound to.

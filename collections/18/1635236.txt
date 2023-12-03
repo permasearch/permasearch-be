@@ -1,0 +1,1 @@
+To avoid the problems that exist in C++, and to increase productivity,[69] some people suggest alternative languages newer than C++, such as D, Go, Rust and Vala.[70]

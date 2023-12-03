@@ -1,0 +1,1 @@
+The first form of the van der Waals equation of state given above can be recast in the following reduced form:

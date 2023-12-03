@@ -1,0 +1,1 @@
+Modern artificially-constructed vectors contain essential components found in all vectors, and may contain other additional features found only in some vectors:

@@ -1,0 +1,1 @@
+There are also electronic automated colorimeters; before these machines are used, they must be calibrated with a cuvette containing the control solution. The concentration of a sample can be calculated from the intensity of light before and after it passes through the sample by using the Beer–Lambert law. Photoelectric analyzers came to dominate in the 1960s.

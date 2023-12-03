@@ -1,0 +1,1 @@
+This function is a logarithm because it satisfies the fundamental property of a logarithm:

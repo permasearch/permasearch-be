@@ -1,0 +1,1 @@
+To define angles in an abstract real inner product space, we replace the Euclidean dot product ( · ) by the inner product     ⟨ ⋅ , ⋅ ⟩   {\displaystyle \langle \cdot ,\cdot \rangle }  , i.e.

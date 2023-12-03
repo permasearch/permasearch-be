@@ -1,0 +1,1 @@
+Logarithmic one-forms df/f appear in complex analysis and algebraic geometry as differential forms with logarithmic poles.[105]

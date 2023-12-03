@@ -1,0 +1,1 @@
+A lever is modeled as a rigid bar connected to a ground frame by a hinged joint called a fulcrum. The lever is operated by applying an input force FA at a point A located by the coordinate vector rA on the bar. The lever then exerts an output force FB at the point B located by rB. The rotation of the lever about the fulcrum P is defined by the rotation angle Î¸ in radians.

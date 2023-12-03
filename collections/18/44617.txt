@@ -1,0 +1,1 @@
+The concentrations of H+ and OH− are not independent quantities. Most commonly [OH−] is replaced by Kw[H+]−1 in equilibrium constant expressions which would otherwise include hydroxide ion.

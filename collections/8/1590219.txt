@@ -1,0 +1,1 @@
+Resistance, R, is proportional to the distance, l, between the electrodes and is inversely proportional to the cross-sectional area of the sample, A (noted S on the Figure above). Writing ρ (rho) for the specific resistance (or resistivity),

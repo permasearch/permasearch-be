@@ -1,0 +1,1 @@
+Fixes issues that were causing Apple Watch to join unauthenticated (captive) Wi-Fi networks, such as those often found in public places like coffee shops and hotels, which direct the user to a web page before the network can be accessed.

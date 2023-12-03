@@ -1,0 +1,1 @@
+The Carlyle circle, named after Thomas Carlyle, has the property that the solutions of the quadratic equation are the horizontal coordinates of the intersections of the circle with the horizontal axis.[35] Carlyle circles have been used to develop ruler-and-compass constructions of regular polygons.

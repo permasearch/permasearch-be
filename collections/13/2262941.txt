@@ -1,0 +1,1 @@
+Electronic devices operated by infrared remote control can interpret the infrared light emitted by CFLs as a signal; this may limit the use of CFLs near televisions, radios, remote controls, or mobile phones. Energy Star certified CFLs must meet FCC standards, and so are required to list all known incompatibilities on the package.[59][60]

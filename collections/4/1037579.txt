@@ -1,0 +1,1 @@
+The pH value at the isoelectric point can be calculated from the acid dissociation constants of the acidic and basic groups of the zwitterion (except at high dilution):

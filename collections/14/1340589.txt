@@ -1,0 +1,1 @@
+Aperture is the sum of setup and hold time. The data input should be held steady throughout this time period.[27]

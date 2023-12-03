@@ -1,0 +1,1 @@
+A Voltage regulator and Linear regulator convert DC to DC.[further explanation needed]

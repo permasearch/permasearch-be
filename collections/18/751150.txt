@@ -1,0 +1,1 @@
+and finally, of course,        c ^    = (    c ^    −    a ^    ) +    a ^      {\displaystyle {\hat {c}}=({\hat {c}}-{\hat {a}})+{\hat {a}}}  .

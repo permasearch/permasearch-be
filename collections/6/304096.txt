@@ -1,0 +1,1 @@
+where i is the imaginary unit, ħ is the Planck constant divided by 2π, the symbol ∂/∂t indicates a partial derivative with respect to time t, Ψ (the Greek letter psi) is the wave function of the quantum system, and Ĥ is the Hamiltonian operator (which characterizes the total energy of any given wave function and takes different forms depending on the situation).

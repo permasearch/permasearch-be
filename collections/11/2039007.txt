@@ -1,0 +1,1 @@
+In semiconductors with non-simple band structures, this relationship is used to define an effective mass, known as the density of states effective mass of electrons. The name "density of states effective mass" is used since the above expression for NC is derived via the density of states for a parabolic band.

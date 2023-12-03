@@ -1,0 +1,1 @@
+The reflective and transmissive cases are very similar to the emissive case, with a few differences. The spectral radiance Le,Ω,λ is replaced by the spectral reflectance (or transmittance) S(λ) of the object being measured, multiplied by the spectral power distribution of the illuminant I(λ).

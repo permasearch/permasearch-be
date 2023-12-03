@@ -1,0 +1,1 @@
+When modular connectors are used, the latch release of the connector should be on the ridge side of flat phone wire in order to maintain polarity.

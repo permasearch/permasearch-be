@@ -1,0 +1,1 @@
+That is, the payment of the winner in the sealed first-price auction is equal to the expected revenue in the sealed second-price auction.

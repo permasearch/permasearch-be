@@ -1,0 +1,1 @@
+The yield point determines the limits of performance for mechanical components, since it represents the upper limit to forces that can be applied without permanent deformation. In structural engineering, this is a soft failure mode which does not normally cause catastrophic failure or ultimate failure unless it accelerates buckling.

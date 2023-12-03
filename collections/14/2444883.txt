@@ -1,0 +1,1 @@
+with Nt representing the hosts, and Pt the parasites, at timeÂ t.

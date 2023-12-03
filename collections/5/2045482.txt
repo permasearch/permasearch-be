@@ -1,0 +1,1 @@
+The time from when a software exploit first becomes active to the time when the number of vulnerable systems shrinks to insignificance, is known as the Window of Vulnerability (WoV).[7] The time-line for each software vulnerability is defined by the following main events:

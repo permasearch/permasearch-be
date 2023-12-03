@@ -1,0 +1,1 @@
+Taking square roots reintroduces bias (because the square root is a nonlinear function, which does not commute with the expectation), yielding the corrected sample standard deviation, denoted by s:

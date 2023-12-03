@@ -1,0 +1,1 @@
+This value is independent of the velocity/momentum that the particle travels along the path. For a conservative force field, it is also independent of the path itself, depending only on the starting and ending points. Therefore, if the starting and ending points are the same, the work is zero for a conservative field:

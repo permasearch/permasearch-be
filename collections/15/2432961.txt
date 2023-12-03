@@ -1,0 +1,1 @@
+If the deformation is isochoric (volume preserving) then det(F) = 1 and we have

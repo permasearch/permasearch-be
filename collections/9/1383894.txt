@@ -1,0 +1,1 @@
+There is a compressive (negative) strain at the top of the beam, and a tensile (positive) strain at the bottom of the beam. Therefore by the Intermediate Value Theorem, there must be some point in between the top and the bottom that has no strain, since the strain in a beam is a continuous function.

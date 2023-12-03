@@ -1,0 +1,1 @@
+Ratings data is from OzTAM and represents the average viewership from the 5 largest Australian metropolitan centres (Sydney, Melbourne, Brisbane, Perth and Adelaide).

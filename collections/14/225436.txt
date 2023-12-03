@@ -1,0 +1,1 @@
+The fastest grid computing system is the distributed computing project Folding@home. F@h reported 101 PFLOPS of x86 processing power As of October 2016[update]. Of this, over 100 PFLOPS are contributed by clients running on various GPUs, and the rest from various CPU systems.[81]

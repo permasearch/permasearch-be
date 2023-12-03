@@ -1,0 +1,1 @@
+On November 28, 2011, a preview release of the SQL Server ODBC driver for Linux was released.[27]

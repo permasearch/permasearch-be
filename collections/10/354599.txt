@@ -1,0 +1,1 @@
+Dan Willard (2001) has studied some weak families of arithmetic systems which allow enough arithmetic as relations to formalise GÃ¶del numbering, but which are not strong enough to have multiplication as a function, and so fail to prove the second incompleteness theorem; these systems are consistent and capable of proving their own consistency (see self-verifying theories).

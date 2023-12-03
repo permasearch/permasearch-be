@@ -1,0 +1,1 @@
+The Gerber format (aka Extended Gerber, RS-274X) was developed by Gerber Systems Corp., now Ucamco, and is a 2D bi-level image description format. It is the de facto standard format used by printed circuit board or PCB software. It is also widely used in other industries requiring high-precision 2D bi-level images.[3]

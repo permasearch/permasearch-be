@@ -1,0 +1,1 @@
+The Earth can be modeled as a sphere in many ways. This section describes the common ways. The various radii derived here use the notation and dimensions noted above for the Earth as derived from the WGS-84 ellipsoid;[10] namely,

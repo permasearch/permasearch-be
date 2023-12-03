@@ -1,0 +1,1 @@
+The Combined Community Codec Pack, more commonly referred to as the CCCP, is a collected archive of codecs (video compression filters) packed for Microsoft Windows, designed originally for the playback of anime fansubs.[2] The CCCP is developed and maintained by members of various fansubbing groups.

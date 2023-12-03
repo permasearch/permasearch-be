@@ -1,0 +1,1 @@
+Server-side scripts are completely processed by the servers instead of clients. When clients request a page containing server-side scripts, the applicable server processes the scripts and returns an HTML page to the client.

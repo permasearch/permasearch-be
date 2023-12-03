@@ -1,0 +1,1 @@
+47 C.F.R. 15.5 contains a general provision that devices may not cause interference and must accept interference from other sources.  It also prohibits the operation of devices once the operator is notified by the FCC that the device is causing interference.

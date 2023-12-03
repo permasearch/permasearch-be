@@ -1,0 +1,1 @@
+If S is a finite set with |S| = n elements, then the number of subsets of S is |P(S)| = 2n. This fact, which is the motivation for the notation 2S, may be demonstrated simply as follows,

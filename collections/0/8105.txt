@@ -1,0 +1,1 @@
+In 1885, Hermann Ebbinghaus collected data to plot a forgetting curve. Today, we approximate forgetting with an exponential curve[3]:

@@ -1,0 +1,1 @@
+Those considerations create a limitation not allowing a switch to a future encoding different from UTF-8.

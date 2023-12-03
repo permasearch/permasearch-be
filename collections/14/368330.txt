@@ -1,0 +1,1 @@
+In April 2017, AFRINIC became the last Regional Internet Registry to run down to its last /8 block of IPv4 addresses (102/8), thus triggering the final phase of its IPv4 exhaustion policy.[44] According to Geoff Huston's projection, AFRINIC will reach the /11 block left marking exhaustion in the first half of 2018.[45]

@@ -1,0 +1,1 @@
+For a triangle with length of sides a, b, c and angles of α, β, γ respectively, given two known lengths of a triangle a and b, and the angle between the two known sides γ (or the angle opposite to the unknown side c), to calculate the third side c, the following formula can be used:

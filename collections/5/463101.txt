@@ -1,0 +1,1 @@
+If it is necessary to define a unique set of spherical coordinates for each point, one must restrict their ranges. A common choice is:

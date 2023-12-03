@@ -1,0 +1,1 @@
+The vectors        u →      {\displaystyle {\vec {u}}}   and        v →      {\displaystyle {\vec {v}}}   are called left-singular and right-singular vectors for σ, respectively.

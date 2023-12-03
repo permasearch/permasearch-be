@@ -1,0 +1,1 @@
+where 0.522 comes from the points near square boundary which have fewer neighbours, and Christine L. Valenzuela and Antonia J. Jones [37] obtained the following other numerical lower bound:

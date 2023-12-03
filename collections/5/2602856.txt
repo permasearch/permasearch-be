@@ -1,0 +1,1 @@
+Δ ( x , n , m ) =    ∣  S  n   ∣   ∣  S  n   ∣ − 1    ⋅ ‖  μ  n   − x  ‖  2   −    ∣  S  m   ∣   ∣  S  m   ∣ + 1    ⋅ ‖  μ  m   − x  ‖  2     {\displaystyle \Delta (x,n,m)={\frac {\mid S_{n}\mid }{\mid S_{n}\mid -1}}\cdot \lVert \mu _{n}-x\rVert ^{2}-{\frac {\mid S_{m}\mid }{\mid S_{m}\mid +1}}\cdot \lVert \mu _{m}-x\rVert ^{2}}  ,

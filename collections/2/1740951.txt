@@ -1,0 +1,1 @@
+The Jacobian matrix, according to Magnus and Neudecker,[2] is

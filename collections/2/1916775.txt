@@ -1,0 +1,1 @@
+Pilot privileges are further broken down into category, class, and type ratings.

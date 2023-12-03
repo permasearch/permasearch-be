@@ -1,0 +1,1 @@
+Photoreceptors that are part of the receptive fields of more than one ganglion cell are able to excite or inhibit postsynaptic neurons because they release the neurotransmitter glutamate at their synapses, which can act to depolarize or to hyperpolarize a cell, depending on whether there is a metabotropic or ionotropic receptor on that cell.

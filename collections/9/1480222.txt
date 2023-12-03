@@ -1,0 +1,1 @@
+Equipment using this protocol must be prepared to buffer some extra data, since the remote system may have begun transmitting just before the local system deasserts RTR.

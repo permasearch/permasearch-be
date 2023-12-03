@@ -1,0 +1,1 @@
+Multiple texture images may be combined in texture atlases or array textures to reduce state changes for modern hardware. (They may be considered a modern evolution of tile map graphics). Modern hardware often supports cube map textures with multiple faces for environment mapping.

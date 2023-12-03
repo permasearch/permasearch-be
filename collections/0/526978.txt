@@ -1,0 +1,1 @@
+Average bone mineral density = BMC / W [g/cm2]

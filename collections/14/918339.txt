@@ -1,0 +1,1 @@
+The Consumer group has three groups: Media, Connections, and Commerce. The customers of this group are the users of Yahoo!.

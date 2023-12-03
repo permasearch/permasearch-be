@@ -1,0 +1,1 @@
+SpeedFan also monitors S.M.A.R.T. readings for EIDE, SATA and SCSI hard disks. Starting with version 4.35, SpeedFan fully supports Areca RAID controllers. Version 4.38 added full support for AMCC/3ware SATA and RAID controllers.[1]

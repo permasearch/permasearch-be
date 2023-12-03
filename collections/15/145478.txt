@@ -1,0 +1,1 @@
+GCECs and CCCs have an exponential number of constraints so it is practically impossible to solve the linear relaxation. A possible way to solve this is to consider a limited subset of these constraints and add the rest if needed.

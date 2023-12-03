@@ -1,0 +1,1 @@
+It is not possible for sk to equal s∞ for any finite k: as Impagliazzo, Paturi & Zane (2001) showed, there exists a constant α such that sk ≤ s∞(1 − α/k). Therefore, if the exponential time hypothesis is true, there must be infinitely many values of k for which sk differs from sk + 1.

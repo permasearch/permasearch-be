@@ -1,0 +1,1 @@
+The DECT physical layer uses FDMA/TDMA access with TDD.

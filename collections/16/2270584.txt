@@ -1,0 +1,1 @@
+Bellman explains the reasoning behind the term dynamic programming in his autobiography, Eye of the Hurricane: An Autobiography (1984, page 159). He explains:

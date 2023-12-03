@@ -1,0 +1,1 @@
+In string theory, the situation remains analogous. For instance, a wave function in momentum space has the role of Fourier expansion coefficient in a general state of a particle (string) with momentum that is not sharply defined.[25]

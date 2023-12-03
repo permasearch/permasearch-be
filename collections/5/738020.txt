@@ -1,0 +1,1 @@
+Since      R  s   2   ≫  (  X  s   +  X  m    )  2      {\displaystyle R_{s}^{2}\gg {(X_{s}+X_{m})^{2}}}   and      X  s   ≪   X  m      {\displaystyle X_{s}\ll {X_{m}}}  , and letting      K  T E   =    X  m     X  s   +  X  m        {\displaystyle K_{TE}={\frac {X_{m}}{X_{s}+X_{m}}}}

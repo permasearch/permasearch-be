@@ -1,0 +1,1 @@
+This says that the ratio of gravitational to inertial mass of any object is equal to some constant K if and only if all objects fall at the same rate in a given gravitational field. This phenomenon is referred to as the "universality of free-fall". (In addition, the constant K can be taken to be 1 by defining our units appropriately.)

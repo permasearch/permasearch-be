@@ -1,0 +1,1 @@
+In non-relational systems, hierarchical databases, the distant counterpart of a table is a structured file, representing the rows of a table in each row of the file and each column in a row. This structure implies that a row can have repeating information, generally in the child data segments. Data are stored in sequence of physical records.

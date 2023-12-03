@@ -1,0 +1,1 @@
+One of the main deficiencies in various factor analyses is a lack of consensus in cutting points for determining the number of latent factors. A usual procedure is to stop factoring when eigenvalues drop below one because the original sphere shrinks. The lack of the cutting points concerns other multivariate methods, also.[citation needed]

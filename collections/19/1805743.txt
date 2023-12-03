@@ -1,0 +1,1 @@
+Palindromic sequences play an important role in molecular biology. Because a DNA sequence is double stranded, the base pairs are read, (not just the bases on one strand), to determine a palindrome. Many restriction endonucleases (restriction enzymes) recognize specific palindromic sequences and cut them. The restriction enzyme EcoR1 recognizes the following palindromic sequence:

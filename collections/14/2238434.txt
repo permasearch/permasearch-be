@@ -1,0 +1,1 @@
+These layers produce the effect of isolating the implementation details of one component and its assorted internal methods from the others. Object-oriented programming embraces and extends this concept.

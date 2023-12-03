@@ -1,0 +1,1 @@
+In a Euclidean space, any translation is an isometry. The set of all translations forms the translation group T, which is isomorphic to the space itself, and a normal subgroup of Euclidean group E(n ). The quotient group of E(n ) by T is isomorphic to the orthogonal group O(n ):

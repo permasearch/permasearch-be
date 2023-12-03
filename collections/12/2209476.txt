@@ -1,0 +1,1 @@
+The GMA 900 is theoretically capable of running Windows Vista's Aero interface and is certified as DirectX 9 compliant. However, no WHQL certified WDDM driver has been made available. Presumably this is due to the lack of a "hardware scheduler" in the GPU.[53]

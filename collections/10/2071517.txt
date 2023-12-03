@@ -1,0 +1,1 @@
+equally spaced along a vertical line, are all mapped to the same number by the exponential function. This means that the exponential function does not have an inverse function in the standard sense.[2][3] There are two solutions to this problem.

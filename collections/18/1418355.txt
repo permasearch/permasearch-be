@@ -1,0 +1,1 @@
+Lift is a result of pressure differences and depends on angle of attack, airfoil shape, air density, and airspeed.

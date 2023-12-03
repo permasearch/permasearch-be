@@ -1,0 +1,1 @@
+so     E ⁡ [  X  2   ] ≠   E  2    ⁡ [ X ]   {\displaystyle \operatorname {E} [X^{2}]\neq \operatorname {E^{2}} [X]}  .

@@ -1,0 +1,1 @@
+Other OLAP clients are JPivot, Dundas, IcCube (Client Library).

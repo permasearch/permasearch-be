@@ -1,0 +1,1 @@
+MIDI beat clock (also known as MIDI timing clock or simply MIDI clock) is a clock signal that is broadcast via MIDI to ensure that several MIDI-enabled devices such as a synthesizer or music sequencer stay in synchronization. It is not MIDI timecode.

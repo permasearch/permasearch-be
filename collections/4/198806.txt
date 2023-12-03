@@ -1,0 +1,1 @@
+Some national identity cards (for example in the Netherlands, Albania and Brazil) are fully ICAO9303 compliant biometric travel documents; however others, such as the United States Passport Card, are not.

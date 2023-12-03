@@ -1,0 +1,1 @@
+A Java class can contain three types of variables:[13]

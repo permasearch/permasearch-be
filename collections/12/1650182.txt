@@ -1,0 +1,1 @@
+Most search engines have their own spider that is a single application responsible for crawling IRC and indexing data itself; however, others are "user based" indexers. The latter rely on users to install their "add-on" to their IRC client; the add-on is what sends the database the channel information of whatever channels the user happens to be on.[citation needed]

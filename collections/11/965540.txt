@@ -1,0 +1,1 @@
+If for some δ > 0, Lyapunov’s condition

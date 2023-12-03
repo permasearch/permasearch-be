@@ -1,0 +1,1 @@
+After canceling out any dimensional units that appear both in the numerators and denominators of the fractions in the above equation, the NOx concentration of 10 ppmv converts to mass flow rate of 24.63Â grams per hour.

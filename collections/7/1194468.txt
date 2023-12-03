@@ -1,0 +1,1 @@
+On June 5, 2018, Apple deprecated OpenGL across all OSes and urges developers to use Metal as the alternative.[191]

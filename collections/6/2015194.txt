@@ -1,0 +1,1 @@
+v  x   =   {      1    1  v   x  o       +    k t  m      ,    if    v   x  o       is not 0      0 ,    if    v   x  o       is 0        =    d  s  x     d t      {\displaystyle v_{x}={\begin{cases}{\frac {1}{{\frac {1}{v_{x_{o}}}}+{\frac {kt}{m}}}},&{\text{if }}v_{x_{o}}{\text{ is not 0}}\\0,&{\text{if }}v_{x_{o}}{\text{ is 0}}\end{cases}}={\frac {ds_{x}}{dt}}}

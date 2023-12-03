@@ -1,0 +1,1 @@
+Although widely recommended, performing HTML entity encoding only on the five XML significant characters is not always sufficient to prevent many forms of XSS attacks. As encoding is often difficult, security encoding libraries are usually easier to use.[26]

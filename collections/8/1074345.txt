@@ -1,0 +1,1 @@
+The basic pitot tube consists of a tube pointing directly into the fluid flow. As this tube contains fluid, a pressure can be measured; the moving fluid is brought to rest (stagnates) as there is no outlet to allow flow to continue. This pressure is the stagnation pressure of the fluid, also known as the total pressure or (particularly in aviation) the pitot pressure.

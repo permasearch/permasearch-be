@@ -1,0 +1,1 @@
+It is sometimes convenient to reduce a quadratic equation so that its leading coefficient is one. This is done by dividing both sides by a, which is always possible since a is non-zero. This produces the reduced quadratic equation:[8]

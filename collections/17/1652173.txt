@@ -1,0 +1,1 @@
+To generate a 2D-image, the ultrasonic beam is swept. A transducer may be swept mechanically by rotating or swinging. Or a 1D phased array transducer may be used to sweep the beam electronically. The received data is processed and used to construct the image. The image is then a 2D representation of the slice into the body.

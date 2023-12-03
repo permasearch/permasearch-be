@@ -1,0 +1,1 @@
+"PC radios", or radios that are designed to be controlled by a standard PC are controlled by specialized PC software using a serial port connected to the radio. A "PC radio" may not have a front-panel at all, and may be designed exclusively for computer control, which reduces cost.

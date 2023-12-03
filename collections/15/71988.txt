@@ -1,0 +1,1 @@
+where the matrices R1, ..., Rk are 2 × 2 rotation matrices, and with the remaining entries zero. Exceptionally, a rotation block may be diagonal, ±I. Thus, negating one column if necessary, and noting that a 2 × 2 reflection diagonalizes to a +1 and −1, any orthogonal matrix can be brought to the form

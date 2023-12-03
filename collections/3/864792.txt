@@ -1,0 +1,1 @@
+The equilibrium concentrations of the products and reactants do not directly depend on the total pressure of the system. They may depend on the partial pressures of the products and reactants, but if the number of moles of gaseous reactants are equal to number of moles of gaseous products, pressure has no effect on equilibrium.

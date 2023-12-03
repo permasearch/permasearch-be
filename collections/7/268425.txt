@@ -1,0 +1,1 @@
+Electric current is defined in terms of the force between two infinite parallel conductors, separated by a specified distance. This definition is too abstract for practical measurement, so a device known as a current balance is used to define the ampere operationally.

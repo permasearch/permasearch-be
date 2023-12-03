@@ -1,0 +1,1 @@
+The advantage of DR DOS 5.0 over the combination of an older DOS plus QEMM was that the DR DOS kernel itself and almost all of its data structures could be loaded into high memory. This left virtually all the base memory free, allowing configurations with up to 620 KB out of 640 KB free.

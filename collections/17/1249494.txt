@@ -1,0 +1,1 @@
+If we now circumscribe a regular n-gon, with side A″B″ parallel to AB, then OAB and OA″B″ are similar triangles, with A″B″ : AB = OC : OP. Call the circumscribed side Sn; then this is Sn : sn = 1 : 1⁄2cn. (We have again used that OP is half the length of A′B.) Thus we obtain

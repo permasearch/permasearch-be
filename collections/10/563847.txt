@@ -1,0 +1,1 @@
+Greater directionality can be obtained using beam-forming techniques such as a parabolic reflector or a horn. Since high directivity in an antenna depends on it being large compared to the wavelength, narrow beams of this type are more easily achieved at UHF and microwave frequencies.

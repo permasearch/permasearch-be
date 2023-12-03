@@ -1,0 +1,1 @@
+Literals for integers can be written as regular Arabic numerals, consisting of a sequence of digits and with negation indicated by a minus sign before the value. However, most programming languages disallow use of commas for or spaces digit grouping.  Examples of integer literals are:

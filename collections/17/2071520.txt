@@ -1,0 +1,1 @@
+Branches have the advantage that they can be evaluated at complex numbers. On the other hand, the function on the Riemann surface is elegant in that it packages together all branches of the logarithm and does not require an arbitrary choice as part of its definition.

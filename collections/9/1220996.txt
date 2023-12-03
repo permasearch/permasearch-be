@@ -1,0 +1,1 @@
+When the machine moves backward from point 2 to point 1 with the load force doing work on the input force, the work lost to friction      W  fric      {\displaystyle W_{\text{fric}}\,}   is the same

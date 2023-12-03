@@ -1,0 +1,1 @@
+When there are more than two gravitating bodies it is referred to as an n-body problem. Most n-body problems have no closed form solution, although some special cases have been formulated.

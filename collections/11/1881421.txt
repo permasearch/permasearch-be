@@ -1,0 +1,1 @@
+The main differences between the Israeli standard and the W3C standard concern the requirements to provide captions and texts for audio and video media. The Israeli standards are somewhat more lenient, reflecting the current technical difficulties in providing such captions and texts in Hebrew.[36]

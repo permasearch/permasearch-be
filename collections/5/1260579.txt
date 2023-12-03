@@ -1,0 +1,1 @@
+By one convention, a probability distribution      μ   {\displaystyle \,\mu }   is called continuous if its cumulative distribution function     F ( x ) = μ ( − ∞ , x ]   {\displaystyle F(x)=\mu (-\infty ,x]}   is continuous and, therefore, the probability measure of singletons     μ { x }  =  0   {\displaystyle \mu \{x\}\,=\,0}   for all      x   {\displaystyle \,x}  .

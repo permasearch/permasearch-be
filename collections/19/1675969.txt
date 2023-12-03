@@ -1,0 +1,1 @@
+x32 ABI (Application Binary Interface), introduced in Linux 3.4, allows programs compiled for the x32 ABI to run in the 64-bit mode of x86-64 while only using 32-bit pointers and data fields.[61][62][63] Though this limits the program to a virtual address space of 4Â GB it also decreases the memory footprint of the program and in some cases can allow it to run faster.[61][62][63]

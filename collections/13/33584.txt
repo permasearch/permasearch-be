@@ -1,0 +1,1 @@
+Shell models must be manifold (having no holes or cracks in the shell) to be meaningful as a real object. Polygonal meshes (and to a lesser extent subdivision surfaces) are by far the most common representation. Level sets are a useful representation for deforming surfaces which undergo many topological changes such as fluids.

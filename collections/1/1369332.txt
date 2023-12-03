@@ -1,0 +1,1 @@
+where mi is the molality of component i.

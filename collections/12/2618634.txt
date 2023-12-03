@@ -1,0 +1,1 @@
+A surge or stall line identifies the boundary to the left of which the compressor performance rapidly degrades and identifies the maximum pressure ratio that can be achieved for a given mass flow. Contours of efficiency are drawn as well as performance lines for operation at particular rotational speeds.

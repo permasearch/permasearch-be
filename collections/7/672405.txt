@@ -1,0 +1,1 @@
+Calculation of fuel requirements (especially trip fuel and reserve fuel) is the most safety-critical aspect of flight planning. This calculation is somewhat complicated:

@@ -1,0 +1,1 @@
+Likewise, when the body is described by stating its entropy S as a function of its internal energy U, and other state variables V, N, with S = S (U, V, N), then the reciprocal of the temperature is equal to the partial derivative of the entropy with respect to the internal energy:

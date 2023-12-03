@@ -1,0 +1,1 @@
+Inscribing tetrahedra inside the regular compound of five cubes gives two more regular compounds, containing five and ten tetrahedra.

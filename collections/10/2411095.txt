@@ -1,0 +1,1 @@
+Optical fibre goes from the exchange to a node. A run of brand new copper goes from the node to the existing DA (Distribution Area) pillars, then a copper pair runs to each home or business. Each node can serve up to 384 homes.

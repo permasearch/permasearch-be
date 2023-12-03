@@ -1,0 +1,1 @@
+In Perl, there is no main function. Statements are executed from top to bottom.

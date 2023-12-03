@@ -1,0 +1,1 @@
+There are 3 main stages in the generation of an action potential in a pacemaker cell. Since the stages are analogous to contraction of cardiac muscle cells, they have the same naming system. This can lead to some confusion. There is no phase 1 or 2, just phases 0, 3, and 4.

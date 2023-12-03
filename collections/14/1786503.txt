@@ -1,0 +1,1 @@
+where ω is angular velocity, θ is angular extent. In order to get an accurate measurement, it is necessary to make two observations separated by time Δt. Subsequently, we can use

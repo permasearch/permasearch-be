@@ -1,0 +1,1 @@
+All PCI express cards may consume up to 7000300000000000000♠3 A at 7000330000000000000♠+3.3 V (7000990000000000000♠9.9 W). The amount of +12 V and total power they may consume depends on the type of card:[14]:35–36[15]

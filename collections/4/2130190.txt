@@ -1,0 +1,1 @@
+Harel statecharts[5] are gaining widespread usage since a variant has become part of the Unified Modeling Language (UML). The diagram type allows the modeling of superstates, orthogonal regions, and activities as part of a state.

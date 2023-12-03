@@ -1,0 +1,1 @@
+There are several implementations on POSIX systems, including rewrites from scratch like GNU netcat[4] or OpenBSD netcat,[5] the latter of which supports IPv6 and TLS. The OpenBSD version has been ported to the FreeBSD base[6] and Windows/Cygwin.[7] Mac OS X users can use MacPorts to install a netcat variant.[8] There is also a Microsoft Windows version of netcat available.[9]

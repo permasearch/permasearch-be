@@ -1,0 +1,1 @@
+Some satellites with long conductive tethers can also experience orbital decay because of electromagnetic drag from the Earth's magnetic field. As the wire cuts the magnetic field it acts as a generator, moving electrons from one end to the other. The orbital energy is converted to heat in the wire.

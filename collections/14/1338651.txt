@@ -1,0 +1,1 @@
+Proving this mathematically follows easily from the previous two properties of entropy.

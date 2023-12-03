@@ -1,0 +1,1 @@
+A bug in iOS 11 was present that causes the device to constantly respring and crash if an app sends local notifications on or after 00:15 on December 2, 2017. Apple responded by releasing iOS 11.2 early, which fixed the bug.[207]

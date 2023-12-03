@@ -1,0 +1,1 @@
+Pre-existing pager numbers were already scattered under various codes in the 02xx to 09xx range and had 9 digits. Several services used non-standard 01 numbers.[13] These would all eventually be moved to 076 codes and to 10 digits in the Big Number Change in 2000.

@@ -1,0 +1,1 @@
+Memorex in 1968 shipped the first HDD, the Memorex 630, plug compatible to an IBM model 2311 marking the beginning of independent competition (Plug Compatible Manufacturers or PCMs) for HDDs attached to IBM systems.  It was followed in 1969 by the Memorex 660, an IBM 2314 compatible, which was OEM'ed to DEC and resold as the RP02.

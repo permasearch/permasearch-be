@@ -1,0 +1,1 @@
+RSS is XML-formatted plain text. The RSS format itself is relatively easy to read both by automated processes and by humans alike. An example feed could have contents such as the following:

@@ -1,0 +1,1 @@
+However, in practice, a pure differentiator is neither physically realizable nor desirable[8] due to amplification of noise and resonant modes in the system. Therefore, a phase-lead compensator type approach or a differentiator with low-pass roll-off are used instead.

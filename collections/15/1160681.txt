@@ -1,0 +1,1 @@
+The primary tasks in object-oriented analysis (OOA) are:

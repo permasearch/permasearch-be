@@ -1,0 +1,1 @@
+Facebook will display warnings when users are about to be duped by clickjacking and cross-site scripting attacks in which they think they are following a link to an interesting news story or taking action to see a video and instead end up spamming their friends.[178]

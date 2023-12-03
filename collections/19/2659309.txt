@@ -1,0 +1,1 @@
+If one can evaluate the two integrals, one can find a solution to the differential equation.  Observe that this process effectively allows us to treat the derivative        d y   d x      {\displaystyle {\frac {dy}{dx}}}   as a fraction which can be separated.  This allows us to solve separable differential equations more conveniently, as demonstrated in the example below.

@@ -1,0 +1,1 @@
+Echo can also be an issue for PSTN integration.[29] Common causes of echo include impedance mismatches in analog circuitry and acoustic coupling of the transmit and receive signal at the receiving end.

@@ -1,0 +1,1 @@
+During manufacture, dopants can be diffused into the semiconductor body by contact with gaseous compounds of the desired element, or ion implantation can be used to accurately position the doped regions.

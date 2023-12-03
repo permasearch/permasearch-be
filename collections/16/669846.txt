@@ -1,0 +1,1 @@
+However, the same parallelogram can also be cut along a diagonal into two congruent triangles, as shown in the figure to the right. It follows that the area of each triangle is half the area of the parallelogram:[2]

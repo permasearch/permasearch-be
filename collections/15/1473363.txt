@@ -1,0 +1,1 @@
+Plus-minus is a statistic that indicates the relative goal differential when a player is on the ice. If the player is on the ice when his team scores even-strength or short-handed, he is given +1; if he is on the ice when the opposing team scores even-strength or short-handed, he is given -1.

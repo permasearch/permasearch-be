@@ -1,0 +1,1 @@
+which is     O (  h  p   )   {\displaystyle O(h^{p})}  . The error estimate is used to control the step size. The Butcher tableau for this kind of method is extended to give the values of      b  i   ∗     {\displaystyle b_{i}^{*}}  :

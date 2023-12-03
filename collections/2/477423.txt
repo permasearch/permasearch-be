@@ -1,0 +1,1 @@
+For this purpose, a cumulative distribution function (CDF) can be used to estimate the dependent dummy variable regression. Figure 4 shows an 'S'-shaped curve, which resembles the CDF of a random variable. In this model, the probability is between 0 and 1 and the non-linearity has been captured. The choice of the CDF to be used is now the question.

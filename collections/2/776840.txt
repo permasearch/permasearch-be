@@ -1,0 +1,1 @@
+The form of the propagator can be more easily found by using the equation of motion for the field. From the Lagrangian, the equation of motion is:

@@ -1,0 +1,1 @@
+There are three main types of hardness measurements: scratch, indentation, and rebound. Within each of these classes of measurement there are individual measurement scales. For practical reasons conversion tables are used to convert between one scale and another.

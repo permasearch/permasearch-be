@@ -1,0 +1,1 @@
+this expression is analogous to any number in base 10 with a hundreds, tens and ones place. FOIL can also be looked at as a number with F being the hundreds, OI being the tens and L being the ones.

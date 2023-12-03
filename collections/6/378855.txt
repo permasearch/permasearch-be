@@ -1,0 +1,1 @@
+Wirtinger's inequality also generalizes to higher-dimensional Poincaré inequalities that provide best constants for the Dirichlet energy of an n-dimensional membrane. Specifically, π is the greatest constant such that

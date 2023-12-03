@@ -1,0 +1,1 @@
+The difference in Gibbs free energy between the supercoiled circular DNA and uncoiled circular DNA with N > 2000 bp is approximated by:

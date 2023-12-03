@@ -1,0 +1,1 @@
+On Android devices however, the original GSM formula may prevail for UMTS.[3] Tools like Network Signal Info[4] can directly show the signal strength (in dBm), as well as the underlying ASU.

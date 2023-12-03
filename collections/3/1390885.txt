@@ -1,0 +1,1 @@
+Avogadro's law states that the volume occupied by an ideal gas is proportional to the number of moles (or molecules) present in the container. This gives rise to the molar volume of a gas, which at STP is 22.4 dm3 (or litres). The relation is given by

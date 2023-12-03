@@ -1,0 +1,1 @@
+The standard ampere is most accurately realized using a Kibble balance, but is in practice maintained via Ohm's law from the units of electromotive force and resistance, the volt and the ohm, since the latter two can be tied to physical phenomena that are relatively easy to reproduce, the Josephson junction and the quantum Hall effect, respectively.[14]

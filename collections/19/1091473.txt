@@ -1,0 +1,1 @@
+For radiative transfer between two objects, the equation is as follows:

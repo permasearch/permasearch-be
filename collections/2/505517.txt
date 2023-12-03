@@ -1,0 +1,1 @@
+Assuming the underlying field to be R, the inner product becomes symmetric, and we obtain

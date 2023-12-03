@@ -1,0 +1,1 @@
+Some engines have Variable Valve Timing. In such an engine, the ECU controls the time in the engine cycle at which the valves open. The valves are usually opened sooner at higher speed than at lower speed. This can increase the flow of air into the cylinder, increasing power and fuel economy.

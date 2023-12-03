@@ -1,0 +1,1 @@
+As a consequence, the rank of M equals the number of non-zero singular values which is the same as the number of non-zero diagonal elements in Î£. In numerical linear algebra the singular values can be used to determine the effective rank of a matrix, as rounding error may lead to small but non-zero singular values in a rank deficient matrix.

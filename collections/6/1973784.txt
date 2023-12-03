@@ -1,0 +1,1 @@
+The structure and interpretation thereof is entirely dependent on how the file is interpreted by software.

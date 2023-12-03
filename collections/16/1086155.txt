@@ -1,0 +1,1 @@
+where     r =     c a       {\displaystyle r={\sqrt {\tfrac {c}{a}}}}   and     θ =  cos  − 1   ⁡  (     − b   2   a c       )  .   {\displaystyle \theta =\cos ^{-1}\left({\tfrac {-b}{2{\sqrt {ac}}}}\right).}

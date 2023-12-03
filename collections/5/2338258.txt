@@ -1,0 +1,1 @@
+Thermal radiation is one of the principal mechanisms of heat transfer. It entails the emission of a spectrum of electromagnetic radiation due to an object's temperature. Other mechanisms are convection and conduction. The interplay of energy exchange by thermal radiation is characterized by the following equation:

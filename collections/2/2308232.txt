@@ -1,0 +1,1 @@
+I am really quite surprised that I cannot find a standards body that distinguishes capacity from volume -- What is the volume of a cubic container each of 6 sides a square of 11x11 cm, with each side 5 mm thick? What is its capacity? Remove 1 side and recalculate. There's some difference between volume & capacity, right?

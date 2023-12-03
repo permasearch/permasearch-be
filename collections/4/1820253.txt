@@ -1,0 +1,1 @@
+The POSIX standard defines several extensions to stdio in its Base Definitions, among which are a readline function that allocates memory, the fileno and fdopen functions that establish the link between FILE objects and file descriptors, and a group of functions for creating FILE objects that refer to in-memory buffers.[4]

@@ -1,0 +1,1 @@
+In fact, this follows abstractly from the fact that for the standard basis      e  1   ,  e  2   ,  e  3     {\displaystyle e_{1},e_{2},e_{3}}   we have

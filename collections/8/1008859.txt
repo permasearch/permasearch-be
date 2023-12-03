@@ -1,0 +1,1 @@
+This equation is modified slightly to take into account a variety of situations such as diffraction through a single gap, diffraction through multiple slits, or diffraction through a diffraction grating that contains a large number of slits at equal spacing.[58] More complicated models of diffraction require working with the mathematics of Fresnel or Fraunhofer diffraction.[59]

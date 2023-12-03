@@ -1,0 +1,1 @@
+where V is the number of vertices, E is the number of edges, and F is the number of faces. This equation is known as Euler's polyhedron formula. Thus the number of edges is 2 less than the sum of the numbers of vertices and faces. For example, a cube has 8 vertices and 6 faces, and hence 12 edges.

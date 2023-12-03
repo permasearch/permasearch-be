@@ -1,0 +1,1 @@
+In addition to language changes, significant changes have been made to the Java class library over the years, which has grown from a few hundred classes in JDK 1.0 to over three thousand in J2SE 5.0. Entire new APIs, such as Swing and Java 2D, have evolved, and many of the original JDK 1.0 classes and methods have been deprecated.

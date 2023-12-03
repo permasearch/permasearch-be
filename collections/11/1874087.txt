@@ -1,0 +1,1 @@
+For an atom or molecule with J = L + S, the term symbol gives the quantum numbers associated with the operators      L  2   ,  S  2   ,  J  2     {\displaystyle L^{2},S^{2},J^{2}}  .

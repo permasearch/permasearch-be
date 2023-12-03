@@ -1,0 +1,1 @@
+Many other programming languages have been influenced by C++, including C#, D, Java, and newer versions of C.

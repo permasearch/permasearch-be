@@ -1,0 +1,1 @@
+To express the statement "y is directly proportional to x" mathematically, we write an equation y = cx, where c is the proportionality constant. Symbolically, this is written as y ∝ x.

@@ -1,0 +1,1 @@
+RISC architectures are now used across a wide range of platforms, from cellular telephones and tablet computers to some of the world's fastest supercomputers such as the K computer, the fastest on the TOP500 list in 2011.[3][4]

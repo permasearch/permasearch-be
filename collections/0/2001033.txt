@@ -1,0 +1,1 @@
+A variant of the IMP existed, called the TIP, which connected terminals instead of computers to the network; it was based on the 316. Initially, some Honeywell-based IMPs were replaced with multiprocessing BBN Pluribus IMPs, but ultimately BBN developed a microprogrammed clone of the Honeywell processor.

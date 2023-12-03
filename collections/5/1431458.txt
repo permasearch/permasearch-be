@@ -1,0 +1,1 @@
+Diffusion's exponential dependence upon temperature makes precipitation strengthening, like all heat treatments, a fairly delicate process. Too little diffusion (under aging), and the particles will be too small to impede dislocations effectively; too much (over aging), and they will be too large and dispersed to interact with the majority of dislocations.

@@ -1,0 +1,1 @@
+It follows that      y  i    ℓ  i   (  x  i   ) =  y  i     {\displaystyle y_{i}\ell _{i}(x_{i})=y_{i}}  , so at each point      x  i     {\displaystyle x_{i}}  ,     L (  x  i   ) =  y  i   + 0 + 0 + ⋯ + 0 =  y  i     {\displaystyle L(x_{i})=y_{i}+0+0+\dots +0=y_{i}}  , showing that     L   {\displaystyle L}   interpolates the function exactly.

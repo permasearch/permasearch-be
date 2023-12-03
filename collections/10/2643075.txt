@@ -1,0 +1,1 @@
+In epidemiology and public health, both standard life tables to calculate life expectancy and Sullivan and multistate life tables to calculate health expectancy are commonly used. The latter include information on health in addition to mortality.

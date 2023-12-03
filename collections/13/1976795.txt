@@ -1,0 +1,1 @@
+There are a number of standards that describe OTA functions. One of the first was the GSM 03.48 series. The ZigBee suite of standards includes the ZigBee Over-the-Air Upgrading Cluster which is part of the ZigBee Smart Energy Profile and provides an interoperable (vendor-independent) way of updating device firmware.

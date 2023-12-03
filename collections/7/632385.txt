@@ -1,0 +1,1 @@
+where      s  i j     {\displaystyle s_{ij}}   are the components of the stress deviator tensor       σ   d e v     {\displaystyle {\boldsymbol {\sigma }}^{dev}}  :

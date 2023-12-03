@@ -1,0 +1,1 @@
+From October 2014, Java 8 was the default version to download from the official website.[240] "Oracle will not post further updates of Java SE 8 to its public download sites for commercial use after September 2018".[241]

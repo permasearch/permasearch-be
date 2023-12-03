@@ -1,0 +1,1 @@
+Notice that the position and velocity of the mass m are given by

@@ -1,0 +1,1 @@
+These software tools can automatically collect data of your network equipment. The data could be for inventory and for configuration information. The ITIL Library requests to create such a database as a basis for all information for the IT responsible. It's also the basis for IT documentation. Examples include XIA Configuration[15].

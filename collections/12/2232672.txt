@@ -1,0 +1,1 @@
+The logic programming paradigm views computation as automated reasoning over a body of knowledge. Facts about the problem domain are expressed as logic formulas, and programs are executed by applying inference rules over them until an answer to the problem is found, or the set of formulas is proved inconsistent.

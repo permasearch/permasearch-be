@@ -1,0 +1,1 @@
+Since the kinetic energy increases with the square of the speed, an object doubling its speed has four times as much kinetic energy. For example, a car traveling twice as fast as another requires four times as much distance to stop, assuming a constant braking force. As a consequence of this quadrupling, it takes four times the work to double the speed.

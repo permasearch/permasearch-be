@@ -1,0 +1,1 @@
+In magnetic tape recording, the term bias is also used for a high-frequency signal added to the audio signal applied to the recording head, to improve the quality of the recording on the tape. This is called tape bias.

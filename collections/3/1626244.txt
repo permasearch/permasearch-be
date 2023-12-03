@@ -1,0 +1,1 @@
+for some value of t, where     ∂ F  /  ∂ t   {\displaystyle \partial F/\partial t}   is the partial derivative of F with respect to t.[1]

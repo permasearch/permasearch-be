@@ -1,0 +1,1 @@
+WQXGA (Wide Quad Extended Graphics Array) is a display resolution of 2560×1600 pixels with a 16:10 aspect ratio. The name comes from it being a wide version of QXGA and having four times as many pixels as an WXGA (1280×800) display.

@@ -1,0 +1,1 @@
+There is ongoing work in the field of brain simulation, including partial and whole simulations of some animals. For example, the C. elegans roundworm, Drosophila fruit fly, and mouse have all been simulated to various degrees.[citation needed]

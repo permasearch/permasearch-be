@@ -1,0 +1,1 @@
+Various features of repeating decimals extend to the representation of numbers in all other integer bases, not just base 10:

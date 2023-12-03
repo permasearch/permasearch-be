@@ -1,0 +1,1 @@
+While this formula is more involved than the equivalent for a circle, if the major and minor axis of each ellipse are equal, the result is the more familiar formula for the frustum of a right circular cone.

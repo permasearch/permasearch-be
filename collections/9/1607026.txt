@@ -1,0 +1,1 @@
+A working fluid contains potential energy (pressure head) and kinetic energy (velocity head). The fluid may be compressible or incompressible. Several physical principles are employed by turbines to collect this energy:

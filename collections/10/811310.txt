@@ -1,0 +1,1 @@
+Pin 34 is connected to ground inside the blue connector of an 80-conductor cable but not attached to any conductor of the cable. It is attached normally on the gray and black connectors.[34]

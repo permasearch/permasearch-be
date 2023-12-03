@@ -1,0 +1,1 @@
+The kernel page write protection limit in Windows XP is enabled on systems up to 256Â MB of RAM beyond which large pages are enabled for increased address translation performance.

@@ -1,0 +1,1 @@
+An open reading frame (ORF) is a reading frame that has the potential to be transcribed into RNA and translated into protein. It requires a continuous sequence of DNA from a start codon, through a subsequent region which usually has a length that is a multiple of 3 nucleotides, to a stop codon in the same reading frame.[5]

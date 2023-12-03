@@ -1,0 +1,1 @@
+Some have also used encryption as a way to secure or lock down the botnet from others, most of the time when they use encryption it is public-key cryptography and has presented challenges in both implementing it and breaking it.

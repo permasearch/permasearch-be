@@ -1,0 +1,1 @@
+The new inner loop shifts elements to the right to clear a spot for x = A[i].

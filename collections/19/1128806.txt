@@ -1,0 +1,1 @@
+The expression "time sharing" usually designated computers shared by interactive users at terminals, such as IBM's TSO, and VM/CMS. The term "time-sharing" is no longer commonly used, having been replaced by "multitasking", following the advent of personal computers and workstations rather than shared interactive systems.

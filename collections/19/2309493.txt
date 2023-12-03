@@ -1,0 +1,1 @@
+Terrain east and west of the airport greatly impacts the available runway length. Runway 27 (heading west) has a climb gradient of 353 ft/nmi (58.1 m/km) feet per nautical mile. Taking off to the east requires a 610 ft/nmi (100 m/km) climb rate.

@@ -1,0 +1,1 @@
+PL/I has some 22 standard conditions (e.g., ZERODIVIDE SUBSCRIPTRANGE ENDFILE) which can be raised and which can be intercepted by: ON condition action; Programmers can also define and use their own named conditions.

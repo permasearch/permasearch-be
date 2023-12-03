@@ -1,0 +1,1 @@
+Longest period between one goal and another

@@ -1,0 +1,1 @@
+Insulators for very high voltages, exceeding 200 kV, may have grading rings installed at their terminals.  This improves the electric field distribution around the insulator and makes it more resistant to flash-over during voltage surges.

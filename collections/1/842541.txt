@@ -1,0 +1,1 @@
+Instruction sets may be categorized by the maximum number of operands explicitly specified in instructions.

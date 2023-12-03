@@ -1,0 +1,1 @@
+The second moment of area for an arbitrary shape R with respect to an arbitrary axis     B  B ′    {\displaystyle BB'}   is defined as

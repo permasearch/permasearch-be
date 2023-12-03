@@ -1,0 +1,1 @@
+Computer memory caches usually operate on blocks of memory that consist of several consecutive words. These units are customarily called cache blocks, or, in CPU caches, cache lines.

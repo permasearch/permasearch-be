@@ -1,0 +1,1 @@
+Peak loss is very important for low voltage rectifiers (for example, 12Â V or less) but is insignificant in high-voltage applications such as HVDC power transmission systems.

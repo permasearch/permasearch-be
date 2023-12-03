@@ -1,0 +1,1 @@
+For simplicity and clarity, the generic notion of critical point is best introduced by discussing a specific example, the liquid-vapor critical point. This was the first critical point to be discovered, and it is still the best known and most studied one.

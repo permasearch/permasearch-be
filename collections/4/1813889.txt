@@ -1,0 +1,1 @@
+The IDRBT collaborated with Euronet Worldwide and Opus Software to build a platform to allow banks to connect their own switches to the NFS. The NFS consisted of an inter-ATM switch and a e-commerce payment gateway.

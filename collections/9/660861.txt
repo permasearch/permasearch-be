@@ -1,0 +1,1 @@
+Like other structured biopolymers such as proteins, one can define topology of a folded RNA molecule. This is often done based on arrangement of intra-chain contacts within a folded RNA, termed as circuit topology.

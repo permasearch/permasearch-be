@@ -1,0 +1,1 @@
+Where p is prime and p+2 is either a prime or semiprime.

@@ -1,0 +1,1 @@
+Typically, stochastic gradient descent (SGD) is used to train the network. The gradient is computed using backpropagation through structure (BPTS), a variant of backpropagation through time used for recurrent neural networks.

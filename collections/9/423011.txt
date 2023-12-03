@@ -1,0 +1,1 @@
+Apple explained how the formula it used to calculate the number of bars to display was "wrong". Apple promised to correct the issue and release a software update within a few weeks that would address the "mistake", which had been present since the original iPhone.[90] The New York Times commented that "the failure to detect this longstanding problem earlier is astonishing."[91]

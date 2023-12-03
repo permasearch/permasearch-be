@@ -1,0 +1,1 @@
+Classical assumptions for regression analysis include:

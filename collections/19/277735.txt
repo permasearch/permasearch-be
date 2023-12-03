@@ -1,0 +1,1 @@
+If S is the set {x, y, z}, then the subsets of S are

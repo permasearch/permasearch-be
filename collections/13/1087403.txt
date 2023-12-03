@@ -1,0 +1,1 @@
+Figure 3 shows the same EV curve (green) with the actual cost data from Figure 1 (in red). It can be seen that the project was actually under budget, relative to the amount of work accomplished, since the start of the project. This is a much better conclusion than might be derived from Figure 1.

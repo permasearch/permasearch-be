@@ -1,0 +1,1 @@
+The pH of a buffer solution depends solely on the ratio of the molar concentrations of the weak acid to the weak base. The higher the concentration of the weak acid in the solution (compared to the weak base) the lower the resulting pH of the solution. Similarly, if the weak base predominates the higher the resulting pH.

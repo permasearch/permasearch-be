@@ -1,0 +1,1 @@
+If the container contains particles of different sizes, the downward-moving region at the sides is often narrower than the largest particles. Thus, larger particles tend to become sorted to the top of such a mixture. This is one possible explanation of the Brazil nut effect.

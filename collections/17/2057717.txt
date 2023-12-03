@@ -1,0 +1,1 @@
+A common way to conduct these simulations is to replicate the settlement logics of the real payment or securities settlement systems under analysis and then use real observed payment data. In case of system comparison or system development, naturally also the other settlement logics need to be implemented.

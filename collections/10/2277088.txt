@@ -1,0 +1,1 @@
+The DOS-based Windows ME, Windows 98, Windows 95, and previous versions of non-NT Windows only operated on the FAT filesystem and did not support filesystem permissions.,[2] and therefore privileges are effectively defeated on Windows NT-based systems that do not use the NTFS file system.

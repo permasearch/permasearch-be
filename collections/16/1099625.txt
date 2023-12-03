@@ -1,0 +1,1 @@
+CLC channels also have dependence on H+, but for gating rather than Cl− exchange. Instead of utilizing gradients to exchange two Cl− for one H+, the CLC channels transport one H+ while simultaneously transporting millions of anions.[6] This corresponds with one cycle of the slow gate.

@@ -1,0 +1,1 @@
+A typical home in a developed country is likely to have only four general-purpose microprocessors but around three dozen microcontrollers. A typical mid-range automobile has about 30 microcontrollers. They can also be found in many electrical devices such as washing machines, microwave ovens, and telephones.

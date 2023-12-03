@@ -1,0 +1,1 @@
+For lytic replication to occur, the viral genome must be linear. The latent EBV genome is circular, so it must linearize in the process of lytic reactivation. During lytic replication, viral DNA polymerase is responsible for copying the viral genome. This contrasts with latency, in which host cell DNA polymerase copies the viral genome.[13]

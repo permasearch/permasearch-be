@@ -1,0 +1,1 @@
+The adaptive methods are designed to produce an estimate of the local truncation error of a single Runge–Kutta step. This is done by having two methods in the tableau, one with order     p   {\displaystyle p}   and one with order     p − 1   {\displaystyle p-1}  .

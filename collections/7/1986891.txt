@@ -1,0 +1,1 @@
+Each tooth is divided into four gingival units (mesial, distal, buccal, and lingual) and given a score from 0-3 based on the gingival index. The four scores are then averaged to give each tooth a single score.

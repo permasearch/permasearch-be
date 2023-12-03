@@ -1,0 +1,1 @@
+Key light â€“ The primary light source used during a scene.

@@ -1,0 +1,1 @@
+Substituting     Δ  I    L   On       {\displaystyle \Delta I_{{\text{L}}_{\text{On}}}}   and     Δ  I    L   Off       {\displaystyle \Delta I_{{\text{L}}_{\text{Off}}}}   by their expressions yields:

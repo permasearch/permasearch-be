@@ -1,0 +1,1 @@
+It is the eighth hexagonal number and the fifteenth triangular number, as well as the sum of the first eight triangular numbers, making it also a tetrahedral number. 120 is divisible by the first 5 triangular numbers and the first 4 tetrahedral numbers.

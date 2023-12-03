@@ -1,0 +1,1 @@
+A strong-motion seismometer measures acceleration. This can be mathematically integrated later to give velocity and position. Strong-motion seismometers are not as sensitive to ground motions as teleseismic instruments but they stay on scale during the strongest seismic shaking.

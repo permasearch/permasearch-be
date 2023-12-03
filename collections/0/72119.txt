@@ -1,0 +1,1 @@
+The Address Verification System (AVS) is a system used to verify the address of a person claiming to own a credit card.[1] The system will check the billing address of the credit card provided by the user with the address on file at the credit card company. The other security features for the credit card include the CVV2 number.

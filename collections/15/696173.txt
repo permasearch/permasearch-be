@@ -1,0 +1,1 @@
+The terminology for referencing pages is set by the MediaWiki software, where three variables name every page: pagename, namespace, and fullpagename.[2] Note that "pagename" (without a space in the middle), has a different meaning than "page name"

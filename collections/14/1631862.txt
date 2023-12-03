@@ -1,0 +1,1 @@
+The combinatorial form may initially seem forbidding, so let us examine a concrete case, and see what the pattern is:

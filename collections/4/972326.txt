@@ -1,0 +1,1 @@
+which can be written in terms of free charge and bound charge densities (by considering the relationship between the charges, their volume charge densities and the given volume):

@@ -1,0 +1,1 @@
+Einstein's light quanta hypothesis (1905) states that the energy E of a photon is proportional to the frequency ν (or angular frequency, ω = 2πν) of the corresponding quantum wavepacket of light:

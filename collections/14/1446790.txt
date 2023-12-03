@@ -1,0 +1,1 @@
+1. A random estimate of the model parameters (same as in supervised learning) is utilized.

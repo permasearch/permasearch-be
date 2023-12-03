@@ -1,0 +1,1 @@
+Structured flow charts and HIPO diagrams typify the class of software design tools and these provide a high-level overview of a program. The advantages of such a design tool is that it yields a design specification that is understandable to nonprogrammers and it provides a good pictorial display of the module dependencies.

@@ -1,0 +1,1 @@
+Recycle reactors are PFRs with a recycle loop. Consequently, they behave like a hybrid between PFRs and CSTRs.

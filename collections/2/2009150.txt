@@ -1,0 +1,1 @@
+Support: Not supported by Internet Explorer 8 and below.

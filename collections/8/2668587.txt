@@ -1,0 +1,1 @@
+In mathematics, a constant term is a term in an algebraic expression that has a value that is constant or cannot change, because it does not contain any modifiable variables. For example, in the quadratic polynomial

@@ -1,0 +1,1 @@
+The integers, together with the operation +, form a mathematical object belonging to a broad class sharing similar structural aspects. To appropriately understand these structures as a collective, the following abstract definition is developed.

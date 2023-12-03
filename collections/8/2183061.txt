@@ -1,0 +1,1 @@
+The cardinal equalities        c    2   =   c   ,   {\displaystyle {\mathfrak {c}}^{2}={\mathfrak {c}},}          c     ℵ  0     =   c   ,   {\displaystyle {\mathfrak {c}}^{\aleph _{0}}={\mathfrak {c}},}   and        c     c    =  2   c      {\displaystyle {\mathfrak {c}}^{\mathfrak {c}}=2^{\mathfrak {c}}}   can be demonstrated using cardinal arithmetic:

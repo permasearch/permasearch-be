@@ -1,0 +1,1 @@
+There are various techniques available that enable the browser to retain a single page even when the application requires server communication.

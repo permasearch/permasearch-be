@@ -1,0 +1,1 @@
+There are two standardized protocols for managing MPLS paths: the Label Distribution Protocol (LDP) and RSVP-TE, an extension of the Resource Reservation Protocol (RSVP) for traffic engineering.[11][12] Furthermore, there exist extensions of the Border Gateway Protocol (BGP) that can be used to manage an MPLS path.[8][13][14]

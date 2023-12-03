@@ -1,0 +1,1 @@
+Plating now can be processed. The quality of plating varies with the length of time the metal is soaked in the plating liquid.

@@ -1,0 +1,1 @@
+Specifying the desired presentation is done by following the base emoji with either U+FE0E VARIATION SELECTOR-15 (VS15) for text or U+FE0F VARIATION SELECTOR-16 (VS16) for emoji-style.[66]

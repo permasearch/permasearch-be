@@ -1,0 +1,1 @@
+Note that 'e' indicates 'essential' and 'p' indicates 'performance' variants.

@@ -1,0 +1,1 @@
+A typical application in molecular recognition involved the determination of formation constants for complexes formed between a tripodal substituted urea molecule and various saccharides.[32] The study was carried out using a non-aqueous solvent and NMR chemical shift measurements. The object was to examine the selectivity with respect to the saccharides.

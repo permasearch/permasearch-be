@@ -1,0 +1,1 @@
+Research has successfully constructed the full connectome of one animal: the roundworm C. elegans (White et al., 1986,[2] Varshney et al., 2011[3]). Partial connectomes of a mouse retina[4] and mouse primary visual cortex[5] have also been successfully constructed. Bock et al.'s complete 12Â TB data set is publicly available at the Open Connectome Project.[6]

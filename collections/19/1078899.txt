@@ -1,0 +1,1 @@
+There are various notations used to represent word length and radix point in a binary fixed-point number. In the following list, f represents the number of fractional bits, m the number of magnitude or integer bits, s the number of sign bits, and b the total number of bits.

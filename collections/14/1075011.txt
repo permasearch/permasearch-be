@@ -1,0 +1,1 @@
+EPCglobal, a joint venture between GS1 and GS1 US, is working on international standards for the use of mostly passive RFID and the Electronic Product Code (EPC) in the identification of many items in the supply chain for companies worldwide.

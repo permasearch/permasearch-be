@@ -1,0 +1,1 @@
+Similarly the relative velocity of object B moving with velocity w, relative to object A moving with velocity v is:

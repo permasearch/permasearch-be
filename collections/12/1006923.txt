@@ -1,0 +1,1 @@
+Due to this specialization of lines and because transmission was inefficient for low-voltage high-current circuits, generators needed to be near their loads. It seemed, at the time, that the industry would develop into what is now known as a distributed generation system with large numbers of small generators located near their loads.[5]

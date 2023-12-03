@@ -1,0 +1,1 @@
+The cross product has applications in various contexts: e.g. it is used in computational geometry, physics and engineering. A non-exhaustive list of examples follows.

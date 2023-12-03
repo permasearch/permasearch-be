@@ -1,0 +1,1 @@
+These correspond to the fact that the length of the diagonal of a regular pentagon is Ï† times the length of its side, and similar relations in a pentagram.

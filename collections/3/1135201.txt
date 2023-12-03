@@ -1,0 +1,1 @@
+(1000000000000000000000000000000; 100010; short scale: one nonillion; long scale: one quintillion)

@@ -1,0 +1,1 @@
+XHTML Transitional DTD is like the XHTML Strict DTD, but deprecated tags are allowed.

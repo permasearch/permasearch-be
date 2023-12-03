@@ -1,0 +1,1 @@
+In a wider context, there was an attempt to base all of mathematics on Cantor's set theory. Here the emergence of Russell's paradox, and similar antinomies of naïve set theory raised the possibility that any such system could turn out to be inconsistent.

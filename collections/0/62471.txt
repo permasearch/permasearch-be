@@ -1,0 +1,1 @@
+A DTD is associated with an XML or SGML document by means of a document type declaration (DOCTYPE). The DOCTYPE appears in the syntactic fragment doctypedecl near the start of an XML document.[2] The declaration establishes that the document is an instance of the type defined by the referenced DTD.

@@ -1,0 +1,1 @@
+Drag loss of vehicles like aircraft or ships generally increases less than proportional with increasing cargo volume, although the physical details can be quite complicated. Therefore, making them larger usually results in less fuel consumption per ton of cargo at a given speed.

@@ -1,0 +1,1 @@
+Intuitively, the assertion "f(x) is o(g(x))" (read "f(x) is little-o of g(x)") means that g(x) grows much faster than f(x). Let as before f be a real or complex valued function and g a real valued function, both defined on some unbounded subset of the real positive numbers, such that g(x) is strictly positive for all large enough values of x. One writes

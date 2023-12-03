@@ -1,0 +1,1 @@
+λ = h  /  p      f = E  /  h       {\displaystyle {\begin{aligned}&\lambda =h/p\\&f=E/h\end{aligned}}}

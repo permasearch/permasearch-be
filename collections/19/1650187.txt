@@ -1,0 +1,1 @@
+Today, the UTF-8 encoding of Unicode/ISO 10646 would be the most likely contender for a single future standard character encoding for all IRC communication, if such standard ever relaxed the 510-byte message size restriction. UTF-8 is ASCII compatible and covers the superset of all other commonly used coded character set standards.

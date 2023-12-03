@@ -1,0 +1,1 @@
+A disadvantage of overhead cams is that a much longer chain (or belt) is needed to drive the cams than with a camshaft located in the cylinder block, usually a tensioner is also needed.  A break in the belt may destroy the engine if pistons touch open valves at top dead center.

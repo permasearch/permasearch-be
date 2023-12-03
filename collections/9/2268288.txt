@@ -1,0 +1,1 @@
+The Microchip PIC16C84, introduced in 1993,[30] was the first microcontroller to use EEPROM to store firmware. In the same year, Atmel introduced the first microcontroller using NOR Flash memory to store firmware.[3] Today's microcontrollers almost exclusively use flash memory, with a few models using FRAM, and some ultra-low-cost parts still use OTP or Mask-ROM.

@@ -1,0 +1,1 @@
+whereupon the induction principle "automates" log log n applications of this inference in getting from P(0) to P(n). This form of induction has been used, analogously, to study log-time parallel computation.[citation needed]

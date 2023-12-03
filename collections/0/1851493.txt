@@ -1,0 +1,1 @@
+UV mapping may use repeating textures, or an injective 'unique' mapping as a prerequisite for baking.

@@ -1,0 +1,1 @@
+As this example shows, pipelining does not decrease the latency, that is, the total time for one item to go through the whole system.  It does however increase the system's throughput, that is, the rate at which new items are processed after the first one.

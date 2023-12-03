@@ -1,0 +1,1 @@
+This also follows from Ampère's law and is analogous to Kirchhoff's voltage law for adding resistances in series. Also, the sum of magnetic fluxes       Φ  1   ,    Φ  2   ,   …    {\displaystyle \scriptstyle \Phi _{1},\ \Phi _{2},\ \dots }   into any node is always zero:

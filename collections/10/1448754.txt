@@ -1,0 +1,1 @@
+The Walsh price index is the weighted sum of the current period prices divided by the weighted sum of the base period prices with the geometric average of both period quantities serving as the weighting mechanism:

@@ -1,0 +1,1 @@
+The enzyme complex is composed of three different subunits called RecB, RecC, and RecD and hence the complex is named RecBCD (Figure 1). Before the discovery of the recD gene,[4] the enzyme was known as “RecBC.” Each subunit is encoded by a separate gene:

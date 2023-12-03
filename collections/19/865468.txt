@@ -1,0 +1,1 @@
+If n is large and k is linear in n, various precise asymptotic estimates exist for the binomial coefficient        (   n k   )      {\displaystyle {\binom {n}{k}}}  . For example, if      |  n  /  2 − k  |  = o (  n  2  /  3   )   {\displaystyle |n/2-k|=o(n^{2/3})}   then[13]

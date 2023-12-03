@@ -1,0 +1,1 @@
+Note that this formula generalizes the one given earlier for the number of elements in a conjugacy class (let S = {a}).

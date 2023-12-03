@@ -1,0 +1,1 @@
+Half Rate (HR or GSM-HR or GSM 06.20) is a speech coding system for GSM, developed in the early 1990s.

@@ -1,0 +1,1 @@
+A globe is the only way to represent the earth with constant scale throughout the entire map in all directions. A map cannot achieve that property for any area, no matter how small. It can, however, achieve constant scale along specific lines.

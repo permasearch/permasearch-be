@@ -1,0 +1,1 @@
+Earthquake warning systems have been developed that can provide regional notification of an earthquake in progress, but before the ground surface has begun to move, potentially allowing people within the system's range to seek shelter before the earthquake's impact is felt.

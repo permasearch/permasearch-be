@@ -1,0 +1,1 @@
+First-past-the-post is a monotonic voting system, while AV meets independence of clones and mutual majority criteria.

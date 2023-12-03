@@ -1,0 +1,1 @@
+A polyhedral compound is made of two or more polyhedra sharing a common centre. Symmetrical compounds often share the same vertices as other well-known polyhedra and may often also be formed by stellation. Some are listed in the list of Wenninger polyhedron models.

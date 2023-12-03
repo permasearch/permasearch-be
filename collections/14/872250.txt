@@ -1,0 +1,1 @@
+A Geiger counter consists of a Geiger-MÃ¼ller tube, the sensing element which detects the radiation, and the processing electronics, which displays the result.

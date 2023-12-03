@@ -1,0 +1,1 @@
+When both parameters are less than one (α, β < 1), this is the anti-mode: the lowest point of the probability density curve.[3]

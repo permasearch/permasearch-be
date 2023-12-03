@@ -1,0 +1,1 @@
+Under null hypothesis that the sample comes from the hypothesized distribution F(x),

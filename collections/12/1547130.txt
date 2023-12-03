@@ -1,0 +1,1 @@
+The radius in terms of h and c can be derived above by using the Intersecting Chords Theorem, where 2R (the diameter) and c are perpendicularly intersecting chords.

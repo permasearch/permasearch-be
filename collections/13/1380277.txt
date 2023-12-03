@@ -1,0 +1,1 @@
+Class 4 can only be used by IEEE 802.3at (type 2) devices, requiring valid Class 2 and Mark 2 currents for the power up stages. An 802.3af device presenting a class 4 current is considered non-compliant and, instead, will be treated as a Class 0 device.[36]

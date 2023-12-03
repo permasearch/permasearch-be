@@ -1,0 +1,1 @@
+where extra zero rows are added or removed to make the number of zero rows equal the number of columns of U2, and hence the overall dimensions of      Σ    {\displaystyle {\boldsymbol {\Sigma }}}   equal to     m × n   {\displaystyle m\times n}  . Then

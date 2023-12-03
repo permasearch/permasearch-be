@@ -1,0 +1,1 @@
+The number of chromosomes found in a single complete set of chromosomes is called the monoploid number (x). The haploid number (n) is unique to gametes (sperm or egg cells), and refers to the total number of chromosomes found in a gamete, which under normal conditions is half the total number of chromosomes in a somatic cell.

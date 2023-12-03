@@ -1,0 +1,1 @@
+When an is a non-negative real number for every n, the sequence SN of partial sums is non-decreasing. It follows that a series âˆ‘an with non-negative terms converges if and only if the sequence SN of partial sums is bounded.

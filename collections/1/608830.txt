@@ -1,0 +1,1 @@
+Other types of records simply provide some types of information (for example, an HINFO record gives a description of the type of computer/OS a host uses), or others return data used in experimental features. The "type" field is also used in the protocol for various operations.

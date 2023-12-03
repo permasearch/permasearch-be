@@ -1,0 +1,1 @@
+Electronic wattmeters are used for direct, small power measurements or for power measurements at frequencies beyond the range of electrodynamometer-type instruments.

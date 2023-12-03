@@ -1,0 +1,1 @@
+In 1983, the U.S. Department of Justice settled its second antitrust case against AT&T and broke up the Bell System. This relieved AT&T of the 1956 consent decree that had prevented them from turning Unix into a product. AT&T promptly rushed to commercialize Unix System V, a move that nearly killed Unix.[12] The GNU Project was founded in the same year by Richard Stallman.

@@ -1,0 +1,1 @@
+A commonly used alternative parametrization is to define the probability density function (pdf) of an exponential distribution as

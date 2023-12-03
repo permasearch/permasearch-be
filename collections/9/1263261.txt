@@ -1,0 +1,1 @@
+If color returns as described, Allen's test is considered to be normal. If color fails to return, the test is considered abnormal and it suggests that the ulnar artery supply to the hand is not sufficient.[2] This indicates that it may not be safe to cannulate or needle the radial artery.

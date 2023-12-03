@@ -1,0 +1,1 @@
+From the "exact" equations for near and far limits of DOF, the DOF in front of the subject is

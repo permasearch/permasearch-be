@@ -1,0 +1,1 @@
+When one of the parallel sides has shrunk to a point (say a = 0), this formula reduces to Heron's formula for the area of a triangle.

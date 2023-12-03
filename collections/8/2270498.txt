@@ -1,0 +1,1 @@
+The value of any quantity of capital at any previous time can be calculated by backward induction using the Bellman equation. In this problem, for each     t = 0 , 1 , 2 , … , T   {\displaystyle t=0,1,2,\ldots ,T}  , the Bellman equation is

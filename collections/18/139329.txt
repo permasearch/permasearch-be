@@ -1,0 +1,1 @@
+Number of home runs in the season divided by number of games in schedule (not games played)

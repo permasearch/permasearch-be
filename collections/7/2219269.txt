@@ -1,0 +1,1 @@
+Common Language Infrastructure (CLI) provides a language-neutral platform for application development and execution. By implementing the core aspects of .NET Framework within the scope of CLI, these functions will not be tied to one language but will be available across the many languages supported by the framework.

@@ -1,0 +1,1 @@
+These settings alter the new-messages bar, Special:Notifications, and the "(thank)" buttons:

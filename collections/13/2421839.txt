@@ -1,0 +1,1 @@
+Alternatively, one can calculate P using      P =  P  0      ( 1 −  initial margin requirement  )   ( 1 −  maintenance margin requirement  )       {\displaystyle \textstyle P=P_{0}{\frac {(1-{\text{initial margin requirement}})}{(1-{\text{maintenance margin requirement}})}}}   where P0 is the initial price of the stock. Let's use the same example to demonstrate this:

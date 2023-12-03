@@ -1,0 +1,1 @@
+The type of gravity model used for the Earth depends upon the degree of fidelity required for a given problem. For many problems such as aircraft simulation, it may be sufficient to consider gravity to be a constant, defined as:[4]

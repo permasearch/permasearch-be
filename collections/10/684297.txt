@@ -1,0 +1,1 @@
+The main function performed by an icon editor is generation of icons from images. An icon editor resamples a source image to the resolution and color depth required for an icon. Other functions performed by icon editors are icon extraction from executable files (exe, dll), creation of icon libraries, or saving individual images of an icon.

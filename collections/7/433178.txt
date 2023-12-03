@@ -1,0 +1,1 @@
+In a solid, the electron states become very numerous. They cease to be discrete, and effectively blend into continuous ranges of possible states (an electron band). The notion of electron configuration ceases to be relevant, and yields to band theory.

@@ -1,0 +1,1 @@
+In Agile software development, high-performance teams will exhibit a swarm behavior as they come together, collaborate, and focus on solving a single problem. Swarming is sometimes referred to as Mob programming.

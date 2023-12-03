@@ -1,0 +1,1 @@
+Resource Monitor includes an improved RAM usage display and supports display of TCP/IP ports being listened to, filtering processes using networking, filtering processes with disk activity and listing and searching process handles (e.g. files used by a process) and loaded modules (files required by an executable file, e.g. DLL files).

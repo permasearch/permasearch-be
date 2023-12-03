@@ -1,0 +1,1 @@
+Since 28 April 2001, almost all geographic numbers and most non-geographic numbers have 9 or 10 national (significant) numbers after the "0" trunk code. All mobile telephone numbers have 10 national (significant) numbers after the "0" trunk code. The overall structure of the UK's National Numbering Plan is:[1]

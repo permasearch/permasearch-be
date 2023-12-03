@@ -1,0 +1,1 @@
+k  1     {\displaystyle k_{1}}   lies typically within the range 0.05-0.5      d  − 1     {\displaystyle d^{-1}}   and      k  2     {\displaystyle k_{2}}   lies typically within the range 0.4-1.5      d  − 1     {\displaystyle d^{-1}}  .[2] The Streeter–Phelps equation is also known as the DO sag equation. This is due to the shape of the graph of the DO over time.

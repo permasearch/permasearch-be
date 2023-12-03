@@ -1,0 +1,1 @@
+Like blackjack and video poker, player decisions in Let It Ride affect the house edge. The strategy outlined below assumes the standard payout structure shown above. With correct strategy, the casino's edge in Let It Ride is about 3.5% of the final, non-withdrawable third of the initial wager.

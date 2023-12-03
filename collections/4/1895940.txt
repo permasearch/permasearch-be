@@ -1,0 +1,1 @@
+Some motherboards feature a "Memory Hole at 15 Megabytes" option required for certain VGA video cards that require exclusive access to one particular megabyte for video memory. Newer video cards on AGP (PCI memory space) bus can have 256 MB memory with 1 GB aperture size.

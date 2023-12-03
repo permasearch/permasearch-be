@@ -1,0 +1,1 @@
+In M22, {M1,1, M1,2, M2,1, M2,2}, where M22 is the set of all 2×2 matrices. and Mm,n is the 2×2 matrix with a 1 in the m,n position and zeros everywhere else.

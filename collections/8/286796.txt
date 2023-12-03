@@ -1,0 +1,1 @@
+In multicellular organisms, gene regulation drives cellular differentiation and morphogenesis in the embryo, leading to the creation of different cell types that possess different gene expression profiles from the same genome sequence. This explains how evolution actually works at a molecular level, and is central to the science of evolutionary developmental biology ("evo-devo").

@@ -1,0 +1,1 @@
+Firstly, there exists a rhodopsin kinase (RK) which would phosphorylate the cytosolic tail of the activated rhodopsin on the multiple serines, partially inhibiting the activation of transducin. Also, an inhibitory protein - arrestin then binds to the phosphorylated rhodopsins to further inhibit the rhodopsin's activity.

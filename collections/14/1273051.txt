@@ -1,0 +1,1 @@
+A space frame truss is a three-dimensional framework of members pinned at their ends. A tetrahedron shape is the simplest space truss, consisting of six members that meet at four joints.[13] Large planar structures may be composed from tetrahedrons with common edges, and they are also employed in the base structures of large free-standing power line pylons.

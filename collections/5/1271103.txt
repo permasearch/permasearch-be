@@ -1,0 +1,1 @@
+Under the Null Hypothesis that the treatments have no effect, then each of the      T  i     {\displaystyle T_{i}}   will be zero.

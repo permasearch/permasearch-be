@@ -1,0 +1,1 @@
+Since 1/f is the power of a lens, it can be seen that the powers of thin lenses in contact are additive.

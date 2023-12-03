@@ -1,0 +1,1 @@
+In 1983, Berkeley sockets, also known as the BSD socket API, originated with the 4.2BSD Unix operating system (released in 1983) as an API. Only in 1989, however, could UC Berkeley release versions of its operating system and networking library free from the licensing constraints of AT&T's copyright-protected Unix.[9]

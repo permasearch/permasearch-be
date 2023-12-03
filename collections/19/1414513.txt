@@ -1,0 +1,1 @@
+If the volume expands (ΔV = final volume − initial volume > 0), then W > 0. That is, during isobaric expansion the gas does positive work, or equivalently, the environment does negative work. Restated, the gas does positive work on the environment.

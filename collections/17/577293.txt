@@ -1,0 +1,1 @@
+Note that these calculations may not be very precise. Frequently, screens advertised as “X inch screen” can have their real physical dimensions of viewable area differ, for example:

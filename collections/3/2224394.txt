@@ -1,0 +1,1 @@
+Underneath the root there is a large set of top level domains that must be signed in order to achieve full DNSSEC deployment. The List of Internet top-level domains provides details about which of the existing top level domains have been signed and linked to the root.

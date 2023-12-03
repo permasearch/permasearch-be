@@ -1,0 +1,1 @@
+If n is a positive integer, it follows that:

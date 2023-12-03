@@ -1,0 +1,1 @@
+Several ISPs have started to deploy DNSSEC-validating DNS recursive resolvers. Comcast became the first major ISP to do so in the United States, announcing their intentions on October 18, 2010[64][65] and completing deployment on January 11, 2012.[66]

@@ -1,0 +1,1 @@
+This rule is the only visible effect of the exclusion principle in internal lines. When there are external lines, the amplitudes are antisymmetric when two Fermi insertions for identical particles are interchanged. This is automatic in the source formalism, because the sources for Fermi fields are themselves Grassmann valued.

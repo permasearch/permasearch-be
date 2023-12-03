@@ -1,0 +1,1 @@
+Dell tried to prolong the lifetime of the Nvidia chips with a BIOS update which causes the fan to run more continuously and thus reduce the strain from repeated heating/cooling cycles on the graphics chip.

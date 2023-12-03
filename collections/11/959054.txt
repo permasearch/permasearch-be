@@ -1,0 +1,1 @@
+Of all the versions of XHTML, XHTML Basic 1.0 provides the fewest features. With XHTML 1.1, it is one of the two first implementations of modular XHTML. In addition to the Core Modules (Structure, Text, Hypertext, and List), it implements the following abstract modules: Base, Basic Forms, Basic Tables, Image, Link, Metainformation, Object, Style Sheet, and Target.[51][52]

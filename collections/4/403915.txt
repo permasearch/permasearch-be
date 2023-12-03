@@ -1,0 +1,1 @@
+A transmission may be simplex, half-duplex, or full-duplex.

@@ -1,0 +1,1 @@
+Inkscape on macOS typically runs on XQuartz, although the underlying GTK+ toolkit can be compiled to run natively under Quartz.[24]

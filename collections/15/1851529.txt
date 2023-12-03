@@ -1,0 +1,1 @@
+The parameters that appear in Hubble’s law: velocities and distances, are not directly measured. In reality we determine, say, a supernova brightness, which provides information about its distance, and the redshift z = ∆λ/λ of its spectrum of radiation. Hubble correlated brightness and parameter z.

@@ -1,0 +1,1 @@
+This is a special case of the standard form where A = 0 and B = 1, or of the slope-intercept form where the slope m = 0. The graph is a horizontal line with y-intercept equal to b. There is no x-intercept, unless b = 0, in which case the graph of the line is the x-axis, and so every real number is an x-intercept.

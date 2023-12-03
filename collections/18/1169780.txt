@@ -1,0 +1,1 @@
+where     σ =    1 2    ( u v x + v x y + x y u + y u v )   {\displaystyle \sigma ={\tfrac {1}{2}}(uvx+vxy+xyu+yuv)}  .[15]

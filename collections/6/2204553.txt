@@ -1,0 +1,1 @@
+Object classes facilitate ease of maintenance via encapsulation. When developers need to change the behavior of an object they can localize the change to just that object and its component parts. This reduces the potential for unwanted side effects from maintenance enhancements.

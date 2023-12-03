@@ -1,0 +1,1 @@
+So for a 32-bit single precision floating point number in IEEE format (where notably, the power has a bias of 127 added for the represented form) you can get the approximate logarithm by interpreting its binary representation as a 32-bit integer, scaling it by      2  − 23     {\displaystyle 2^{-23}}  , and removing a bias of 127, i.e.

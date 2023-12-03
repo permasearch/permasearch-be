@@ -1,0 +1,1 @@
+where      t  Δ     {\displaystyle t_{\Delta }}   is the sampling period,      N  p     {\displaystyle N_{p}}   is the number of periods in which the positive reference is switched in,      N  n     {\displaystyle N_{n}}   is the number of periods in which the negative reference is switched in, and     N   {\displaystyle N}   is the total number of periods in the run-up phase.

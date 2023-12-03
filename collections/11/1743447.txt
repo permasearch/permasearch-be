@@ -1,0 +1,1 @@
+Zend Server, built by Zend Technologies, provides application server functionality for the PHP-based applications.

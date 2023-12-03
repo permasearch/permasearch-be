@@ -1,0 +1,1 @@
+Every polynomial function is continuous, smooth, and entire.

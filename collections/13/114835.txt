@@ -1,0 +1,1 @@
+1980: Reduced instruction set computing (RISC) architecture

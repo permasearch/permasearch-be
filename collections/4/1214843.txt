@@ -1,0 +1,1 @@
+In this problem     a = 1   {\displaystyle a=1}  ,     r = 2   {\displaystyle r=2}   and     n = 64   {\displaystyle n=64}  .

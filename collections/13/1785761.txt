@@ -1,0 +1,1 @@
+WiMAX was initially designed to provide 30 to 40 megabit-per-second data rates,[3] with the 2011 update providing up to 1Â Gbit/s[3] for fixed stations.

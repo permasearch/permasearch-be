@@ -1,0 +1,1 @@
+Two types of diffraction are distinguished, depending upon the separation between the source and the screen: Fraunhofer diffraction or far-field diffraction at large separations and Fresnel diffraction or near-field diffraction at close separations.

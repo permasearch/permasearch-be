@@ -1,0 +1,1 @@
+Einstein thought of the cosmological constant as an independent parameter, but its term in the field equation can also be moved algebraically to the other side, written as part of the stressâ€“energy tensor:

@@ -1,0 +1,1 @@
+Define the event to have spacetime coordinates (t,x,y,z) in system S and (t′,x′,y′,z′) in a reference frame moving at a velocity v with respect to that frame, S′. Then the Lorentz transformation specifies that these coordinates are related in the following way:

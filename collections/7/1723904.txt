@@ -1,0 +1,1 @@
+Thus, alternation ('or') and conjunction ('and') of R relations represent both the properties of an ordering for all the objects of choice.

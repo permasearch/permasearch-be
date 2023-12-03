@@ -1,0 +1,1 @@
+Write amplification is the major reason for the change in performance of an SSD over time. Designers of enterprise-grade drives try to avoid this performance variation by increasing over-provisioning, and by employing wear-leveling algorithms that move data only when the drives are not heavily utilized.[221]

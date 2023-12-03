@@ -1,0 +1,1 @@
+In the formula above we consider n observations of one dependent variable and p independent variables. Thus, Yi is the ith observation of the dependent variable, Xij is ith observation of the jth independent variable, j = 1, 2, ..., p. The values βj represent parameters to be estimated, and εi is the ith independent identically distributed normal error.

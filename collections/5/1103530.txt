@@ -1,0 +1,1 @@
+External power supply could send data about itself (power, current and voltage ratings) to the computer. For example, genuine Dell power source uses 1-Wire protocol to send data by third wire to the laptop. The laptop then refuse non-matching adapter.[28]

@@ -1,0 +1,1 @@
+Discount capital gains are distributed in already discounted form, i.e. already reduced by 50% for assets held at least 1 year. The investor must gross it up by doubling, apply any capital losses, then re-discount the remainder. (If one has no capital losses to apply then there's no change and the amount received is the amount taxed.)

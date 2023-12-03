@@ -1,0 +1,1 @@
+Some of the degree coordinates have 12 or 13 digits past the decimal point, meaning that the imprecision in the last digit is on the order of a micrometer or less. What is the rationale for such excessive precision? I am going to round these to a more reasonable precision in the meantime. Baccyak4HÂ (Yak!) 18:07, 13 January 2010 (UTC)

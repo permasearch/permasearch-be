@@ -1,0 +1,1 @@
+This definition is very similar to the previous one but the population need not be at its stable age distribution. Moreover, it can be computed for different cohorts and thus provides more information about the generation time in the population. This measure is given by:[2][3]

@@ -1,0 +1,1 @@
+For the parabola, the segment VBV, the area enclosed by the chord VB and the arc VB, is equal to âˆ†VBQ / 3, also     B Q =    V  Q  2     4 S V      {\displaystyle BQ={\frac {VQ^{2}}{4SV}}}

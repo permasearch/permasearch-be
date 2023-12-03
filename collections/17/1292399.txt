@@ -1,0 +1,1 @@
+By convention, rotation periods of planets are given in sidereal terms unless otherwise specified.

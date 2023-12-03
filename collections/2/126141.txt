@@ -1,0 +1,1 @@
+This means that array a has 2 rows and 3 columns, and the array is of integer type. Here we can store 6 elements they are stored linearly but starting from first row linear then continuing with second row. The above array will be stored as a11, a12, a13, a21, a22, a23.

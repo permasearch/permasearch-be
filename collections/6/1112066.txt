@@ -1,0 +1,1 @@
+As compared to executing statements directly, prepared statements offer two main advantages:[1]

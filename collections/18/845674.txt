@@ -1,0 +1,1 @@
+Doug Lea has developed dlmalloc ("Doug Lea's Malloc") as a general-purpose allocator, starting in 1987. The GNU C library (glibc) uses ptmalloc,[12] an allocator based on dlmalloc.[13]

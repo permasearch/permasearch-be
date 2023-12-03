@@ -1,0 +1,1 @@
+where p is the pressure of the gas, T is its temperature, and       V _     {\displaystyle {\underline {V}}}   is its molar volume.  In the case of an ideal gas, the compressibility factor Z is equal to unity, and the familiar ideal gas law is recovered:

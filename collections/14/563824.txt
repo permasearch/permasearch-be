@@ -1,0 +1,1 @@
+For example, in the figure above the solutions are CuSO4 and ZnSO4. Each solution has a corresponding metal strip in it, and a salt bridge or porous disk connecting the two solutions and allowing SO42âˆ’ ions to flow freely between the copper and zinc solutions. To calculate the standard potential one looks up copper and zinc's half reactions and finds:

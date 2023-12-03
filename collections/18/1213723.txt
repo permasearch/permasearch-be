@@ -1,0 +1,1 @@
+In UK, Royal Mail [11] provides address verification directly on their site and also licence their data (Powered by PAF) to 3rd party providers such as PCA Predict and CraftyClicks to allow address checking services to be provided to organizations wishing to capture accurate addresses in their ecommerce checkout and online forms.[12]

@@ -1,0 +1,1 @@
+Thus, a variety of heuristic algorithms such as Lloyd's algorithm given above are generally used.

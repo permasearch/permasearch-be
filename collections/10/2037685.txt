@@ -1,0 +1,1 @@
+Drilling capacity indicates the maximum diameter a given power drill or drill press can produce in a certain material. It is essentially a proxy for the continuous torque the machine is capable of producing. Typically a given drill will have its capacity specified for different materials, i.e., 10mm for steel, 25mm for wood, etc.

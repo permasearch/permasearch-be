@@ -1,0 +1,1 @@
+A  rising point of inflection is an inflection point where the derivative has a local minimum, and a falling point of inflection is a point where the derivative has a local maximum.

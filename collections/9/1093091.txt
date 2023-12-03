@@ -1,0 +1,1 @@
+As a further example of column based multiplication, consider multiplying 23 long tons (t), 12 hundredweight (cwt) and 2 quarters (qtr) by 47. This example uses avoirdupois measures: 1 t = 20 cwt, 1 cwt = 4 qtr.

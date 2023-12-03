@@ -1,0 +1,1 @@
+Upon successful initialization of a request, the setRequestHeader method of the XMLHttpRequest object can be invoked to send HTTP headers with the request.

@@ -1,0 +1,1 @@
+This example, modeled according to the Berkeley socket interface, sends the string "Hello, world!" via TCP to port 80 of the host with address 1.2.3.4. It illustrates the creation of a socket (getSocket), connecting it to the remote host, sending the string, and finally closing the socket:

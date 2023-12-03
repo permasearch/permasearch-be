@@ -1,0 +1,1 @@
+TCAS and its variants are only able to interact with aircraft that have a correctly operating mode C or mode S transponder. A unique 24-bit identifier is assigned to each aircraft that has a mode S transponder.

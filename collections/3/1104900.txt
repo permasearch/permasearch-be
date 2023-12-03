@@ -1,0 +1,1 @@
+However, you may instead wish to send data as one block as opposed to 100 ints. To do this define a "contiguous block" derived data type:

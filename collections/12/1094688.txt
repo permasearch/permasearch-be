@@ -1,0 +1,1 @@
+More generally, on an open set U in the n-dimensional Euclidean space Rn, the Dirac delta distribution centered at a point a âˆˆ U is defined by[43]

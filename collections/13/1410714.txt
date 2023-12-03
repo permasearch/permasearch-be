@@ -1,0 +1,1 @@
+The following algorithm is framed as Knuth's four-step version of Euclid's and Nicomachus', but, rather than using division to find the remainder, it uses successive subtractions of the shorter length s from the remaining length r until r is less than s. The high-level description, shown in boldface, is adapted from Knuth 1973:2â€“4:

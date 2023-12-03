@@ -1,0 +1,1 @@
+The current Unicode reference glyph for U+301C has been corrected[24] to match the JIS standard[30] in response to a 2014 proposal, which noted that while the existing Unicode reference glyph had been matched by fonts from the discontinued Windows XP, all other major platforms including later versions of Microsoft Windows matched the JIS reference glyph for U+301C.[31]

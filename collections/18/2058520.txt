@@ -1,0 +1,1 @@
+When the class is named after a member of the class, italicize the class name, for example the Lion class of battlecruisers is named after HMS Lion. But when the class is not named after a member of the class, the class name is not italicized, for example the Battle class of destroyers is named after battles; there is no HMS Battle that is a member of that class.

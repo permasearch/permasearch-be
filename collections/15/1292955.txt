@@ -1,0 +1,1 @@
+To prove that the PQ is perpendicular to AB, use the SSS congruence theorem for ' and QPB' to conclude that angles OPA' and OPB' are equal. Then use the SAS congruence theorem for triangles OPA' and OPB' to conclude that angles POA and POB are equal.

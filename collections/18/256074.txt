@@ -1,0 +1,1 @@
+Currently users can download their maps as .kml files which can be used by Google Earth and third-party apps, and also import the maps into Google Maps Engine.

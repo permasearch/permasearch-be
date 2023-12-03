@@ -1,0 +1,1 @@
+Higher amounts of methanol/ethanol (or other additives) than the engine is equipped to handle may trigger the MIL (see E85). These burn differently from gasoline, and the EFI system may mistakenly interpret the oxygen sensor's readings as being incorrect. Oxygenated gasoline can cause this false triggering in early EFI systems.[citation needed]

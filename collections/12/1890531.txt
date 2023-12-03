@@ -1,0 +1,1 @@
+It also includes an ILP solver based on generalized basis reduction, transitive closures on maps (which may encode infinite graphs), dependence analysis and bounds on piecewise step-polynomials.

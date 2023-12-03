@@ -1,0 +1,1 @@
+Additionally, a snap must be a continuous motion.  If a center halts the snap motion, this draws the penalty of "illegal snap."

@@ -1,0 +1,1 @@
+F =    d U   d r    = (  G  p   −  G  m   )  b  2   =  G  m    b  2   (  G  p   −  G  m   )  /   G  m   =  G  m    b  2    ε  G p     {\displaystyle F={dU \over dr}=(G_{p}-G_{m})b^{2}=G_{m}b^{2}(G_{p}-G_{m})/G_{m}=G_{m}b^{2}\varepsilon _{Gp}}   and     τ = F  /  b L   {\displaystyle \tau =F/bL}  .

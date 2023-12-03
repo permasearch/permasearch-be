@@ -1,0 +1,1 @@
+This example follows the rules of the verbs which conjugate according to the model -em, esz. The other models are -am, asz, -ę, esz, -ę, isz and -ę, ysz. Irregular verbs may change their root, but never their desinence (like in the example above where the root powi changes to powiedz in the third person plural).

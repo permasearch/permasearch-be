@@ -1,0 +1,1 @@
+This article attempts to set out the various similarities and differences between the various programming paradigms as a summary in both graphical and tabular format with links to the separate discussions concerning these similarities and differences in extant Wikipedia articles.

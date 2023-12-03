@@ -1,0 +1,1 @@
+When a gamma ray passes through matter, the probability for absorption is proportional to the thickness of the layer, the density of the material, and the absorption cross section of the material. The total absorption shows an exponential decrease of intensity with distance from the incident surface:

@@ -1,0 +1,1 @@
+Prior to C++/WinRT being officially released in the Windows SDK, from October 2016,[19] Microsoft offered on GitHub C++/WinRT.[20] It does not rely on C++/CX code, with the result of producing smaller binaries and faster code.[21]

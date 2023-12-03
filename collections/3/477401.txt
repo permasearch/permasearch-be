@@ -1,0 +1,1 @@
+Say the regression output for this model is

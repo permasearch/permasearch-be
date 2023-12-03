@@ -1,0 +1,1 @@
+We know the classification vector        w →      {\displaystyle {\vec {w}}}   in the transformed space satisfies

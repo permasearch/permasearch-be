@@ -1,0 +1,1 @@
+For a finite population with equal probabilities at all points, we have

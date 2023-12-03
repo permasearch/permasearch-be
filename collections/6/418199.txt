@@ -1,0 +1,1 @@
+If the net force experienced by a particle changes as a function of time, F(t), the change in momentum (or impulse J ) between times t1 and t2  is

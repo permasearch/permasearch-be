@@ -1,0 +1,1 @@
+A voidable contract, unlike a void contract, is a valid contract which may be either affirmed or rejected at the option of one of the parties. At most, one party to the contract is bound. The unbound party may repudiate (reject) the contract, at which time the contract becomes void.

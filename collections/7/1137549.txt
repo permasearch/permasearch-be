@@ -1,0 +1,1 @@
+One can now check that the relation ≤ introduced in this way defines a partial ordering within which binary meets and joins are given through the original operations ∨ and ∧.

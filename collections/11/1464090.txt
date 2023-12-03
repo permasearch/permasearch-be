@@ -1,0 +1,1 @@
+While this appears to be very useful to remove unstable poles, it is in practical application not the case. The closed loop transfer function from disturbance to output still contains the unstable poles.

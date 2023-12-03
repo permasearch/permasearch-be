@@ -1,0 +1,1 @@
+and we operate as follows to go from       L   u ( x , t ) = 0   {\displaystyle {\mathcal {L}}u(x,t)=0}   to       L   v (  x  1   ,  x  2   ) = 0 :   {\displaystyle {\mathcal {L}}v(x_{1},x_{2})=0:}

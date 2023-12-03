@@ -1,0 +1,1 @@
+This type of interaction arises when we have two categorical variables. In order to probe this type of interaction, one would code using the system that addresses the researcher's hypothesis most appropriately. The product of the codes yields the interaction. One may then calculate the b value and determine whether the interaction is significant.[2]

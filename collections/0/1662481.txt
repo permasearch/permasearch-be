@@ -1,0 +1,1 @@
+A converter may be designed to operate in continuous mode at high power, and in discontinuous mode at low power.

@@ -1,0 +1,1 @@
+For information on Chromecast's app history and software development kit, see Chromecast software development kit and compatible apps.

@@ -1,0 +1,1 @@
+Given an area, A, of any shape, and division of that area into n number of very small, elemental areas (dAi). Let xi and yi be the distances (coordinates) to each elemental area measured from a given x-y axis. Now, the first moment of area in the x and y directions are respectively given by:

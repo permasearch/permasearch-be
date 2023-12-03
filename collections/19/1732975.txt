@@ -1,0 +1,1 @@
+A set fixture describes the initial state of the database before entering the testing. After setting fixtures, database behavior is tested for defined test cases. Depending on the outcome, test cases are either modified or kept as is. The "tear down" stage either results in terminating testing or continuing with other test cases.[5]

@@ -1,0 +1,1 @@
+Then utilizing the known expression for suitably normalized eigenstates of momentum in the position representation solutions of the free SchrÃ¶dinger equation

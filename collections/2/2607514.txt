@@ -1,0 +1,1 @@
+A set consists of commuting normal matrices if and only if it is simultaneously diagonalisable by a unitary matrix; that is, there exists a unitary matrix U such that U*AU is diagonal for every A in the set.

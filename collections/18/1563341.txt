@@ -1,0 +1,1 @@
+If Y is also well-ordered and X is finite, then the resulting order is a well-order. As shown above, if X is infinite this is not the case.

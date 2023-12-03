@@ -1,0 +1,1 @@
+COBOL was intended to be a highly portable, "common" language. However, by 2001, around 300 dialects had been created.[147] One source of dialects was the standard itself: the 1974 standard was composed of one mandatory nucleus and eleven functional modules, each containing two or three levels of support. This permitted 104,976 official variants.[148]

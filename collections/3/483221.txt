@@ -1,0 +1,1 @@
+If you need technical help in a simple pagemove situation which is blocked by history at the target of the move, list the page at WP:RMT following the listing procedure outlined there.

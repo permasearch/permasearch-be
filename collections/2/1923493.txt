@@ -1,0 +1,1 @@
+The intrinsic value for a test is defined as follows:

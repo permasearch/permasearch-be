@@ -1,0 +1,1 @@
+To overcome the increase in power consumption due to gate current leakage, a high-κ dielectric is used instead of silicon dioxide for the gate insulator, while polysilicon is replaced by metal gates (see Intel announcement[6]).

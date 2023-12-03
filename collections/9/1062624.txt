@@ -1,0 +1,1 @@
+Whiteness measures the degree to which a surface is white in colorimetry.

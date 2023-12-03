@@ -1,0 +1,1 @@
+In Ruby, there is no distinct main function. The code written without additional "class .. end", "module .. end" enclosures is executed directly, step by step, in context of special "main" object. This object can be referenced using:

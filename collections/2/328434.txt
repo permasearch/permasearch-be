@@ -1,0 +1,1 @@
+Asset-backed risk is the risk that changes in one or more assets that support an asset-backed security will significantly impact the value of the supported security. Risks include interest rate, term modification, and prepayment risk.

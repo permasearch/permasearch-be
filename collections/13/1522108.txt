@@ -1,0 +1,1 @@
+Because these injections happen independently there is no way to tell when the injector is finished wiring the client.  A dependency can be left null simply by the injector failing to call its setter.  This forces the check that injection was completed from when the client is assembled to whenever it is used.

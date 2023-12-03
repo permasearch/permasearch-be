@@ -1,0 +1,1 @@
+The top-level domains (TLDs) such as com, net and org are the highest level of domain names of the Internet. Top-level domains form the DNS root zone of the hierarchical Domain Name System. Every domain name ends with a top-level domain label.

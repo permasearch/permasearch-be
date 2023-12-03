@@ -1,0 +1,1 @@
+Consequently, if all the observations have equal variance,      σ  i   2   =  σ  0   2     {\displaystyle \sigma _{i}^{2}=\sigma _{0}^{2}}  , the weighted sample mean will have variance

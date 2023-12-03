@@ -1,0 +1,1 @@
+To calculate the future value of a stream of savings deposit in the future requires two steps, or, alternatively, combining the two steps into one large formula. First, calculate the present value of a stream of deposits of $1,000 every year for 20 years earning 7% interest:

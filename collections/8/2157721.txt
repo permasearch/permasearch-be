@@ -1,0 +1,1 @@
+Like all liquids, water boils when its vapor pressure reaches its surrounding pressure.  In nature, the atmospheric pressure is lower at higher elevations and water boils at a lower temperature.  The boiling temperature of water for atmospheric pressures can be approximated by the Antoine equation:

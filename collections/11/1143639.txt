@@ -1,0 +1,1 @@
+Formal ways for describing the syntax of the communications are Abstract Syntax Notation One (an ISO standard) or Augmented Backus-Naur form (an IETF standard).

@@ -1,0 +1,1 @@
+Dataflow networks deliver the instruction tokens to the execution units and return the data tokens to the CAM. In contrast to the conventional von Neumann architecture, data tokens are not permanently stored in memory, rather they are transient messages that only exist when in transit to the instruction storage.

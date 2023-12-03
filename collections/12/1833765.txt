@@ -1,0 +1,1 @@
+The earliest use of statistical hypothesis testing is generally credited to the question of whether male and female births are equally likely (null hypothesis), which was addressed in the 1700s by John Arbuthnot (1710),[19] and later by Pierre-Simon Laplace (1770s).[20]

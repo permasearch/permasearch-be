@@ -1,0 +1,1 @@
+If the resources available are not fixed or not perishable, the problem is limited to logistics, i.e. inventory or production management. If all customers would pay the same price for using the same amount of resources, the challenge would perhaps be limited to selling as quickly as possible, e.g. if there are costs for holding inventory.

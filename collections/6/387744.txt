@@ -1,0 +1,1 @@
+Miniature indicator LEDs are normally driven from low voltage DC via a current-limiting resistor. Currents of 2 mA, 10 mA and 20 mA are common. Sub-mA indicators may be made by driving ultrabright LEDs at very low current. Efficiency tends to reduce at low currents[citation needed], but indicators running on 100 Î¼A are still practical.

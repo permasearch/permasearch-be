@@ -1,0 +1,1 @@
+Single-variable or one-dimensional recurrence relations are about sequences (i.e. functions defined on one-dimensional grids). Multi-variable or n-dimensional recurrence relations are about n-dimensional grids. Functions defined on n-grids can also be studied with partial difference equations.[1]

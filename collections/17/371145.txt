@@ -1,0 +1,1 @@
+The "large" box is represented by a heavier line weight than the small boxes.

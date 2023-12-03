@@ -1,0 +1,1 @@
+Voice over IP services on FTTN may require the use of a VDSL modem supplied by the retail service provider (RSP). Whilst a number of RSPs publish the necessary settings to enable Voice over IP whilst connecting to the NBN using third party modems, others, including Telstra do not.[67]

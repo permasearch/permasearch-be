@@ -1,0 +1,1 @@
+Evaluate the condition, and only if it is true, then it execute the remainder of the command line Otherwise, it skips the remainder of the line and continues with next command line.

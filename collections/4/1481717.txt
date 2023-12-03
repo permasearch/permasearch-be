@@ -1,0 +1,1 @@
+The Bit Set/Reset (BSR) mode is available on port C only. Each line of port C (PC0 - PC7) can be set or reset by writing a suitable value to the control word register. BSR mode and I/O mode are independent and selection of BSR mode does not affect the operation of other ports in I/O mode.[8]

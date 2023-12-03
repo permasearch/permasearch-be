@@ -1,0 +1,1 @@
+( a , a ) = ( Λ a , Λ a ) = (  a ′  ,  a ′  ) ,  Λ ∈  O  ( 1 , 3 ) ,  a ,  a ′  ∈ M ,   {\displaystyle (a,a)=(\Lambda a,\Lambda a)=(a',a'),\quad \Lambda \in \mathrm {O} (1,3),\quad a,a'\in M,}

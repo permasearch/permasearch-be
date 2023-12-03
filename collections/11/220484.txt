@@ -1,0 +1,1 @@
+For a wide variety of materials and conditions, V and I are directly proportional to each other, and therefore R and G are constant (although they can depend on other factors like temperature or strain). This proportionality is called Ohm's law, and materials that satisfy it are called ohmic materials.

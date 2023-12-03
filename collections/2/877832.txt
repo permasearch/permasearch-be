@@ -1,0 +1,1 @@
+Transfinite numbers: Numbers that are greater than any natural number.

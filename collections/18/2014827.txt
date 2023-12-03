@@ -1,0 +1,1 @@
+In geometry, a secant of a curve is a line that (locally) intersects two points on the curve.[1] A chord is the interval of a secant that lies between the points at which it intersects the curve.[2] The word secant comes from the Latin word secare, meaning to cut.[3]

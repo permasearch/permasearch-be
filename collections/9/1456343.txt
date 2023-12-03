@@ -1,0 +1,1 @@
+for some positive parameter a. The definition does not require that all points from a neighborhood separate from the base point x, but it requires one positive Lyapunov exponent.

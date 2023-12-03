@@ -1,0 +1,1 @@
+One notable way in which ISO character sets differ from code pages is that the character positions 128 to 159, corresponding to ASCII control characters with the high-order bit set, are specifically unused and undefined in the ISO standards, though they had often been used for printable characters in proprietary code pages, a breaking of ISO standards that was almost universal.

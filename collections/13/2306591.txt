@@ -1,0 +1,1 @@
+The land grid array (LGA) is a type of surface-mount packaging for integrated circuits (ICs) that is notable for having the pins on the socket (when a socket is used) rather than the integrated circuit.[1] An LGA can be electrically connected to a printed circuit board (PCB) either by the use of a socket or by soldering directly to the board.

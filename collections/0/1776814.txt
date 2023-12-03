@@ -1,0 +1,1 @@
+An optional default case is typically also allowed, specified by a default, otherwise, or else keyword. This executes when none of the other cases match the control expression. In some languages, such as C, if no case matches and the default is omitted the switch statement simply exits. In others, like PL/I, an error is raised.

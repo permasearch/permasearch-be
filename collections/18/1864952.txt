@@ -1,0 +1,1 @@
+A Javadoc comment is set off from code by standard multi-line comment tags /* and */. The opening tag (called begin-comment delimiter), has an extra asterisk, as in /**.

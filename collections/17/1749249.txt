@@ -1,0 +1,1 @@
+Architectures can operate independently of specific technologies and can therefore be implemented using a wide range of technologies, including:

@@ -1,0 +1,1 @@
+If external factors are allowed to change the probability of the events, the gambler's fallacy may not hold. For example, a change in the game rules might favour one player over the other, improving his or her win percentage. Similarly, an inexperienced player's success may decrease after opposing teams learn about and play against the weaknesses.

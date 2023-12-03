@@ -1,0 +1,1 @@
+Intel's first PCIe 2.0 capable chipset was the X38 and boards began to ship from various vendors (Abit, Asus, Gigabyte) as of October 21, 2007.[39] AMD started supporting PCIe 2.0 with its AMD 700 chipset series and nVidia started with the MCP72.[40] All of Intel's prior chipsets, including the Intel P35 chipset, supported PCIe 1.1 or 1.0a.[41]

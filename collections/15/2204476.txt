@@ -1,0 +1,1 @@
+If interdependencies are very high in both uncertainty and importance, then they are likely to produce chaotic situations.

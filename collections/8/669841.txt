@@ -1,0 +1,1 @@
+The most basic area formula is the formula for the area of a rectangle. Given a rectangle with length l and width w, the formula for the area is:[2][19]

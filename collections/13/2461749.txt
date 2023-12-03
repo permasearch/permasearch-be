@@ -1,0 +1,1 @@
+The above formulas can be generalized to variables (which we will again call y) depending on more than one other variable. f(x1, …, xn) shall denote the probability density function of the variables that y depends on, and the dependence shall be y = g(x1, …, xn). Then, the resulting density function is[citation needed]

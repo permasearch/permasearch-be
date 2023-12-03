@@ -1,0 +1,1 @@
+and since these virtual displacements Î´qj are independent and nonzero, the coefficients can be equated to zero, resulting in Lagrange's equations[25][26] or the generalized equations of motion,[27]

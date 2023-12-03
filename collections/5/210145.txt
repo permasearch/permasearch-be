@@ -1,0 +1,1 @@
+Another method that yields the same result, is to calculate the total annual cooling output:

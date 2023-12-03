@@ -1,0 +1,1 @@
+The final x and y velocities components of the first ball can be calculated as:[2]

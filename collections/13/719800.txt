@@ -1,0 +1,1 @@
+Example of an explicit cross join:

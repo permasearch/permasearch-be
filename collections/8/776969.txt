@@ -1,0 +1,1 @@
+leaving only the v-integral. This method, invented by Schwinger but usually attributed to Feynman, is called combining denominator. Abstractly, it is the elementary identity:

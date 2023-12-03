@@ -1,0 +1,1 @@
+The adapter module in turn was separated into a Retro module and an Equipment module.

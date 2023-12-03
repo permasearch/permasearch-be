@@ -1,0 +1,1 @@
+For simplicity, Newton's laws can be illustrated for one particle without much loss of generality (for a system of N particles, all of these equations apply to each particle in the system). The equation of motion for particle of mass m is Newton's second law of 1687, in modern vector notation

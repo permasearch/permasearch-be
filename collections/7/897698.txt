@@ -1,0 +1,1 @@
+These palettes each contain up to ten colors.[13] In most games, the four shades displayed on the original Game Boy would translate to different subsets of this 10-color palette, such as by displaying movable sprites in one subset and backgrounds, etc. in another. The grayscale (Left + B) palette produces an appearance similar to that experienced on the original Game Boy.

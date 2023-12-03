@@ -1,0 +1,1 @@
+As a result, one can easily decompose any power of φ into a multiple of φ and a constant. The multiple and the constant are always adjacent Fibonacci numbers. This leads to another property of the positive powers of φ:

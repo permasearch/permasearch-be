@@ -1,0 +1,1 @@
+The main attraction of quadcopters is their mechanical simplicity, since a quadcopter using electric motors and fixed-pitch rotors has only four moving parts.[31]

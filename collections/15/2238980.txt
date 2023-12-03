@@ -1,0 +1,1 @@
+Note that i, j, and k all have order four in Q and any two of them generate the entire group. Another presentation of Q[4] demonstrating this is:

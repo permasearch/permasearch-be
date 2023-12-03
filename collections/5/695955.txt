@@ -1,0 +1,1 @@
+The standard kind of layer is called simply "Layer" in most programs. It contains just a picture which can be superimposed on another one. The picture can cover the same area as the resulting picture, just a part of it, or, in some cases, a bigger part than the final picture.

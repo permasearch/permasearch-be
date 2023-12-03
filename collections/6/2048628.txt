@@ -1,0 +1,1 @@
+Since any common factors of (p − 1) and (q − 1) are present in the factorisation of n − 1 = pq − 1 = (p − 1)(q − 1) + (p − 1) + (q − 1),[15] it is recommended that (p − 1) and (q − 1) have only very small common factors, if any besides the necessary 2.[2][16][17]

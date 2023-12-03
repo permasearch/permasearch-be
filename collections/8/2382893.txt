@@ -1,0 +1,1 @@
+The table is sortable by column by clicking on the  at the top of the appropriate column; alphanumerically for the Site, Area, and Year columns; by state party for the Location column; and by criteria type for the Criteria column. Transborder sites sort at the bottom.

@@ -1,0 +1,1 @@
+For a measurable subset     B   {\displaystyle B}   of      S  T     {\displaystyle S^{T}}  , the pre-image of     X   {\displaystyle X}   gives

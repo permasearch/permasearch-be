@@ -1,0 +1,1 @@
+There are many published approximations for calculating saturated vapour pressure over water and over ice. Some of these are (in approximate order of increasing accuracy):

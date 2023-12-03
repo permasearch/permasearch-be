@@ -1,0 +1,1 @@
+Generally, in electric power systems, the loads are distributed as evenly as is practical between the phases. It is usual practice to discuss a balanced system first and then describe the effects of unbalanced systems as deviations from the elementary case.

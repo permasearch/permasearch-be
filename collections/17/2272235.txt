@@ -1,0 +1,1 @@
+Resolution: 256x224 - 640x480 Sprite/BG drawing Adjustable frame buffer No line restriction Unlimited CLUTs (Color Look-Up Tables) 4,000 8x8 pixel sprites with individual scaling and rotation Simultaneous backgrounds (Parallax scrolling) 620,000 polygons/sec

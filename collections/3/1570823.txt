@@ -1,0 +1,1 @@
+High speed CAN uses a 120 Î© resistor at each end of a linear bus. Low speed CAN uses resistors at each node. Other types of terminations may be used such as the Terminating Bias Circuit defined in ISO11783 [8]

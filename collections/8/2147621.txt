@@ -1,0 +1,1 @@
+By common convention, right-handedness is the default handedness for screw threads. Therefore, most threaded parts and fasteners have right-handed threads. Left-handed thread applications include:

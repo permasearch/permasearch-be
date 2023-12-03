@@ -1,0 +1,1 @@
+Quantum field theory models have shown that it is possible for theories in two different space-time backgrounds, like AdS/CFT or T-duality, to be equivalent.

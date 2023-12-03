@@ -1,0 +1,1 @@
+In general, the term RAM refers solely to solid-state memory devices (either DRAM or SRAM), and more specifically the main memory in most computers.  In optical storage, the term DVD-RAM is somewhat of a misnomer since, unlike CD-RW or DVD-RW it does not need to be erased before reuse.  Nevertheless, a DVD-RAM behaves much like a hard disc drive if somewhat slower.

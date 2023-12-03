@@ -1,0 +1,1 @@
+As there are rules for determining the number of significant figures in directly measured quantities, there are rules for determining the number of significant figures in quantities calculated from these measured quantities.

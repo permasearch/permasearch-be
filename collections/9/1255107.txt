@@ -1,0 +1,1 @@
+The details of doing this properly are complex and language-dependent, and can interact with other orthographic and typesetting practices. Hyphenation algorithms, when employed in concert with dictionaries, are sufficient for all but the most formal texts. See also justification.

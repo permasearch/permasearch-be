@@ -1,0 +1,1 @@
+where it would be possible to compute the integral if we knew the conditional density function ƒx*|x. If this function could be known or estimated, then the problem turns into standard non-linear regression, which can be estimated for example using the NLLS method. Assuming for simplicity that η1, η2 are identically distributed, this conditional density can be computed as

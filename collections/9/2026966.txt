@@ -1,0 +1,1 @@
+Statistical analysis of dose-response curves may be performed by regression methods such as the probit model or logit model, or other methods such as the Spearman-Karber method.[5] Empirical models based on nonlinear regression are usually preferred over the use of some transformation of the data that linearizes the dose-response relationship.[6]

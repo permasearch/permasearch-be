@@ -1,0 +1,1 @@
+A Major.minor branch point schedule is published.[22] Branch points occur roughly every 6â€“7 weeks.[23] The published dates are a last branch date of each Chromium (Major) release and are tied to the Google Chrome development cycle. They lag the initial Chromium release by about 40 days and precede the next by about 2. Details are described in Chrome Release cycles.

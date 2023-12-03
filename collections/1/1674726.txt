@@ -1,0 +1,1 @@
+The D programming language provides bit arrays in its standard library, Phobos, in std.bitmanip. As in C++, the [] operator does not return a reference, since individual bits are not directly addressable on most hardware, but instead returns a bool.

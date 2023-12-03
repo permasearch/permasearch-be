@@ -1,0 +1,1 @@
+The above excludes Bluetooth Low Energy, introduced in the 4.0 specification, which uses the same spectrum but somewhat differently.

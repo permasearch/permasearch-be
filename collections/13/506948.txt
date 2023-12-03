@@ -1,0 +1,1 @@
+for strain displacement u. Plugging the latter into the former yields:

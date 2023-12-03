@@ -1,0 +1,1 @@
+The PFR model works well for many fluids: liquids, gases, and slurries. Although turbulent flow and axial diffusion cause a degree of mixing in the axial direction in real reactors, the PFR model is appropriate when these effects are sufficiently small that they can be ignored.

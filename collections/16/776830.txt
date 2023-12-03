@@ -1,0 +1,1 @@
+To find any correlation function, generate a field again and again by this procedure, and find the statistical average:

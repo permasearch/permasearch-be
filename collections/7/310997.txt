@@ -1,0 +1,1 @@
+Extrusion in 3-D printing using material extrusion involves a cold end and a hot end.

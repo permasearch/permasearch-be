@@ -1,0 +1,1 @@
+Although the definition of the measurement of an angle does not support the concept of a negative angle, it is frequently useful to impose a convention that allows positive and negative angular values to represent orientations and/or rotations in opposite directions relative to some reference.

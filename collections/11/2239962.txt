@@ -1,0 +1,1 @@
+Up to Fortran 77, the language Fortran has an "arithmetic if" statement which is halfway between a computed IF and a case statement, based on the trichotomy x < 0, x = 0, x > 0. This was the earliest conditional statement in Fortran:[5]

@@ -1,0 +1,1 @@
+Overloading a converter can result in several failure modes, some of them potentially dangerous in nature:

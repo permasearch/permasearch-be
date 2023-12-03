@@ -1,0 +1,1 @@
+The map shows the locations of the lakes with a volume over 4 x 106 mÂ³ and gives an indication of the volume of water in each lake. The markers suggest this by showing the size of a drop of water where the volume of the drop would be in proportion to the quantity of water in the lake (the diameter of the drop is proportional to the cube root of the lake's volume).[3]

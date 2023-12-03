@@ -1,0 +1,1 @@
+The specification does not define the operation or functionality of a conditional access system application on the module. The applications that may be performed by a module communicating across the interface are not limited to conditional access or to those described in this specification. More than one module may be supported concurrently.

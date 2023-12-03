@@ -1,0 +1,1 @@
+The two types are not easily exchangeable, since they do not have the same pinout, and the command sets are incompatible.

@@ -1,0 +1,1 @@
+where the      c  i     {\displaystyle c_{i}}   are obtained by solving the optimization problem

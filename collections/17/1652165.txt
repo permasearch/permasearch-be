@@ -1,0 +1,1 @@
+To make an image, the ultrasound scanner must determine two things from each received echo:

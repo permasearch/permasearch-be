@@ -1,0 +1,1 @@
+For an analogy, one could imagine a multistoried building with an elevator structure. The building has an integer number of floors, and a (well-functioning) elevator which can only stop at a particular floor. Furthermore, the elevator can only travel an integer number of levels. As with the principal quantum number, higher numbers are associated with higher potential energy.

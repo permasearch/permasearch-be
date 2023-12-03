@@ -1,0 +1,1 @@
+Semantic layer maps tables to classes and rows to objects.

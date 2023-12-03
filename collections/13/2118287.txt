@@ -1,0 +1,1 @@
+Electrode placement is extremely important to elicit a good VEP response free of artifact. In a typical (one channel) setup, one electrode is placed 2.5 cm above the inion and a reference electrode is placed at Fz. For a more detailed response, two additional electrodes can be placed 2.5  cm to the right and left of Oz.

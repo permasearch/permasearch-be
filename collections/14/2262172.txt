@@ -1,0 +1,1 @@
+If the wrong type was used on an installation, the level of protection given could be substantially less than that intended.

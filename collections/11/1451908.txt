@@ -1,0 +1,1 @@
+This segmentation and targeting approach can be further generalized to include multiple customer attributes rather than a single customer attribute – for example, customers' age AND gender – to identify more nuanced patterns that may exist in the test results.

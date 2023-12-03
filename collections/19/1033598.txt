@@ -1,0 +1,1 @@
+If L > 0 and AL - 1 = T, then AL - 1 is the rightmost element that equals T. Even if T is not in the array, (n - 1) - L is the number of elements in the array that are greater than T.

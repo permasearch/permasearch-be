@@ -1,0 +1,1 @@
+Windows Registry can be edited manually using programs such as RegEdit.exe, although these tools do not expose some of the registry's metadata such as the last modified date.

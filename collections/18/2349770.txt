@@ -1,0 +1,1 @@
+With this inner product defined, we note that the variance for position can be written as

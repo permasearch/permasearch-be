@@ -1,0 +1,1 @@
+For radio systems that aren't moving quickly, another advantage is that the uplink and downlink radio paths are likely to be very similar. This means that techniques such as beamforming work well with TDD systems.

@@ -1,0 +1,1 @@
+Extracting the ith element from both sides gives

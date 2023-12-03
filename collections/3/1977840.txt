@@ -1,0 +1,1 @@
+Additionally, operations like quantize when either operand is infinite, or when the result does not fit the destination format, will also signal invalid operation exception.[23]

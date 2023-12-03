@@ -1,0 +1,1 @@
+The initial definition of NAD 83(1986) was intended to match GRS 80 and WGS 84, so many older publications indicate no difference. Subsequent measurements found a difference on the order of a meter over much of the United States. Each datum has undergone refinements with more accurate and later measurements.

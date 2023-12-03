@@ -1,0 +1,1 @@
+Note that the last row also gives critical points: a t-distribution with infinitely many degrees of freedom is a normal distribution. (See Related distributions above).

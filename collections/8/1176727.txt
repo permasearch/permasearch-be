@@ -1,0 +1,1 @@
+This rule is intended to implement Iowa Code section 425.17.

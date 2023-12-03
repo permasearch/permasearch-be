@@ -1,0 +1,1 @@
+Each half-reaction has a standard electrode potential (E0cell), which is equal to the potential difference or voltage at equilibrium under standard conditions of an electrochemical cell in which the cathode reaction is the half-reaction considered, and the anode is a standard hydrogen electrode where hydrogen is oxidized:

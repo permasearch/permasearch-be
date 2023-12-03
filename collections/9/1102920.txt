@@ -1,0 +1,1 @@
+Antireflective coatings are often used in microelectronic photolithography to help reduce image distortions associated with reflections off the surface of the substrate.  Different types of antireflective coatings are applied either before or after the photoresist, and help reduce standing waves, thin-film interference, and specular reflections.[3][4]

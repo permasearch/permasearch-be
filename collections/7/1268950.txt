@@ -1,0 +1,1 @@
+In addition, a reversible heat engine operating between temperatures T1 and T3 must have the same efficiency as one consisting of two cycles, one between T1 and another (intermediate) temperature T2, and the second between T2 and T3. This can only be the case if

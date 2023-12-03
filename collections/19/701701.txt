@@ -1,0 +1,1 @@
+which negates all the spatial coordinates only, and time reversal

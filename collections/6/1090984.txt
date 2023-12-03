@@ -1,0 +1,1 @@
+The traditional software lifecycle in many open source projects is release early, release often, or a regular time-based release schedule. In either case, each new release includes both fixes for security vulnerabilities and new functionality.

@@ -1,0 +1,1 @@
+where the input sprocket or pulley A meshes with the chain or belt along the pitch radius rA and the output sprocket or pulley B meshes with this chain or belt along the pitch radius rB,

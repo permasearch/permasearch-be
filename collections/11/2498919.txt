@@ -1,0 +1,1 @@
+These indicators tell whether to increase or decrease the supply. Measures that include not only money but other liquid assets are called money aggregates under the name M1, M2, M3, etc.

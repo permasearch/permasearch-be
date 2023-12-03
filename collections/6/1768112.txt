@@ -1,0 +1,1 @@
+The CPUID opcode is a processor supplementary instruction (its name derived from CPU IDentification) for the x86 architecture allowing software to discover details of the processor. It was introduced by Intel in 1993 when it introduced the Pentium and SL-enhanced 486 processors.[1]

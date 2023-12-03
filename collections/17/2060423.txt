@@ -1,0 +1,1 @@
+Ride share services (or transportation network companies) such as Uber are available via their respective mobile app. Due to local regulations, curbside pick up must occur at each terminal's departure (not arrival) level.

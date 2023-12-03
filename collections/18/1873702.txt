@@ -1,0 +1,1 @@
+The CRC-4 method is mainly used to protect the communication against a wrong frame alignment word, and also to provide a certain degree of monitoring of the bit error rate (BER), when this has low values (around 10−6). This method is not suitable for cases in which the BER is around 10−3 (where each block contains at least one errored bit).

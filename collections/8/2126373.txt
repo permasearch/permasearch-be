@@ -1,0 +1,1 @@
+MMCSS is used by the multimedia applications in Windows Vista, including Windows Media Player and Windows Media Center to provide glitch-free audio playback.

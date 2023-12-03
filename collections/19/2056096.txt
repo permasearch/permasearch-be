@@ -1,0 +1,1 @@
+There is no closed form solution for this equation.

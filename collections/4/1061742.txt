@@ -1,0 +1,1 @@
+Oracle Database (commonly referred to as Oracle RDBMS or simply as Oracle) is a multi-model database[4] management system produced and marketed by Oracle Corporation.

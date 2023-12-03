@@ -1,0 +1,1 @@
+The eigenvectors have very important properties called orthogonality properties. These properties can be used to greatly simplify the solution of multi-degree of freedom models. It can be shown that the eigenvectors have the following properties:

@@ -1,0 +1,1 @@
+then the variability of the data set can be measured using three sums of squares formulas:

@@ -1,0 +1,1 @@
+An ordinary least squares model in which the dependent variable Y is a dichotomous dummy, taking the values of 0 and 1, is the linear probability model (LPM).[8] Suppose we consider the following regression:

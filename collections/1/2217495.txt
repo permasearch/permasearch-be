@@ -1,0 +1,1 @@
+In some cases formwork is not necessary - for instance, a ground slab surrounded by brick or block foundation walls, where the walls act as the sides of the tray and hardcore acts as the base.

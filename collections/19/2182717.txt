@@ -1,0 +1,1 @@
+In battery or electric vehicles, calculating efficiency of useful work begins with the chargeâ€“discharge rate of the battery pack, generally 80% to 90%. Next is the conversion of potential energy (BTU) of the charge to distance traveled under power. See table below translating retail electricity costs for a GGE in BTU.

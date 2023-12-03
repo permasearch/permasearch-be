@@ -1,0 +1,1 @@
+Arc lengths are denoted by s, since the Latin word for length (or size) is spatium.

@@ -1,0 +1,1 @@
+There are five hardening processes: Hall-Petch strengthening, work hardening, solid solution strengthening, precipitation hardening, and martensitic transformation.

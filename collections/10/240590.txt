@@ -1,0 +1,1 @@
+In uniform circular motion, total acceleration of an object in a circular path is equal to the radial acceleration.  Due to the presence of tangential acceleration in non uniform circular motion, that does not hold true any more.  To find the total acceleration of an object in non uniform circular, find the vector sum of the tangential acceleration and the radial acceleration.

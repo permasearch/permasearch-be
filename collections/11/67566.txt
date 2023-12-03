@@ -1,0 +1,1 @@
+More details on specifying a username and password may be found in the browsers' documentation (e.g., Firefox[14] and Internet Explorer[15]). By default, most web browsers use passive (PASV) mode, which more easily traverses end-user firewalls.

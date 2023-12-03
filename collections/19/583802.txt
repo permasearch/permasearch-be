@@ -1,0 +1,1 @@
+The above formulae are written in terms of the globe radius R. It is often convenient to work directly with the map width W = 2πR. For example, the basic transformation equations become

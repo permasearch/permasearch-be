@@ -1,0 +1,1 @@
+There are several different quality- and speed-optimized techniques for implementing color keying in software.[18][19]

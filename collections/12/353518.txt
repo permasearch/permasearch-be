@@ -1,0 +1,1 @@
+The electromagnetic tensor, conventionally labelled F, is defined as the exterior derivative of the electromagnetic four-potential, A, a differential 1-form:[1][2]

@@ -1,0 +1,1 @@
+The POWERn family of processors were developed in the late 1980s and are still in active development nearly 30 years later. In the beginning, they utilized the POWER instruction set architecture (ISA), but that evolved into PowerPC in later generations and then to Power Architecture, so modern POWER processors do not use the POWER ISA, they use the Power ISA.

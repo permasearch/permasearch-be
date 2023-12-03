@@ -1,0 +1,1 @@
+The Oracle RDBMS typically relies on a group of processes running simultaneously in the background and interacting to monitor and expedite database operations. Typical operating environments might include – temporarily or permanently – some of the following individual processes (shown along with their abbreviated nomenclature):[92]

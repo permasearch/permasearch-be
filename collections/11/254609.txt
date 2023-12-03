@@ -1,0 +1,1 @@
+Branched alkanes can be chiral. For example, 3-methylhexane and its higher homologues are chiral due to their stereogenic center at carbon atom number 3. In addition to the alkane isomers, the chain of carbon atoms may form one or more loops. Such compounds are called cycloalkanes. Stereoisomers and cyclic compounds are excluded when calculating the number of isomers above.

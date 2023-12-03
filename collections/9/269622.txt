@@ -1,0 +1,1 @@
+A disadvantage of passive PFC is that it requires larger inductors or capacitors than an equivalent power active PFC circuit.[17][18][19] Also, in practice, passive PFC is often less effective at improving the power factor.[20][21][22][23][24]

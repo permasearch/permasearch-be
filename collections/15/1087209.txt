@@ -1,0 +1,1 @@
+WordPad was introduced in Windows 95, replacing Microsoft Write, which came with all previous versions of Windows (version 3.11 and earlier). The source code to WordPad was also distributed by Microsoft as a Microsoft Foundation Classes sample application with MFC 3.2 and later, shortly before the release of Windows 95. It is still available for download from the MSDN website.[9]

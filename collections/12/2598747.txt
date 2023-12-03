@@ -1,0 +1,1 @@
+In Digital Signal 1 (T1) service, the pairs 1 and 3 (T568A) are used, and the USOC-8 jack is wired as per spec RJ-48C. The Telco termination jack is often wired to spec RJ-48X, which provides for a Transmit-to-Receive loopback when the plug is withdrawn.

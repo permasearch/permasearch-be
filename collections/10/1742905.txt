@@ -1,0 +1,1 @@
+PCI Express, a serial computer bus, uses message-signalled interrupts exclusively.

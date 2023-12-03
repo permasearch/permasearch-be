@@ -1,0 +1,1 @@
+Professor Roger Bowley has shown a fascinating 4x4 magic square using calculator digits shapes. All rows, columns and diagonals total 176. Then the whole paper is turned upside down and still all rows, columns, diagonal of new numbers formed by turning paper upside down is 176. Next reflection of this magic square also displays the same property.

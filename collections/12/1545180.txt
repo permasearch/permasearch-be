@@ -1,0 +1,1 @@
+Software platforms can either be an operating system or programming environment, though more commonly it is a combination of both. A notable exception to this is Java, which uses an operating system independent virtual machine for its compiled code, known in the world of Java as bytecode. Examples of software platforms are:

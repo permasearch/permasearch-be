@@ -1,0 +1,1 @@
+yields     n = 2   {\displaystyle n=2}   ions, so that     i = 1 + α   {\displaystyle i=1+\alpha }

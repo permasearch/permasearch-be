@@ -1,0 +1,1 @@
+There are generally two forms of media access control: distributed and centralized.[3] Both of these may be compared to communication between people. In a network made up of people speaking, i.e. a conversation, they will each pause a random amount of time and then attempt to speak again, effectively establishing a long and elaborate game of saying "no, you first".

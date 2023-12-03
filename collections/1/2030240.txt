@@ -1,0 +1,1 @@
+Thus a "sentence" is a string of symbols, and a theorem is a string of strings of symbols.

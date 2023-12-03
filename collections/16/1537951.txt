@@ -1,0 +1,1 @@
+Another method is to use software to record the signals being sent through the audio or video cards, or to plug analog recording devices into the analog outputs of the media player. These techniques utilize the "analog hole".

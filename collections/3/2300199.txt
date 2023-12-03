@@ -1,0 +1,1 @@
+Modern GPUs include an array of shader pipelines which may be driven by compute kernels, which can be considered vector processors (using a similar strategy for hiding memory latencies).

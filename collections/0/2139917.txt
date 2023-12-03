@@ -1,0 +1,1 @@
+Current alternatives to SpeedFan include Open Hardware Monitor, Motherboard Monitor and RealTemp.

@@ -1,0 +1,1 @@
+The maximum thermal efficiency of a Diesel cycle is dependent on the compression ratio and the cut-off ratio. It has the following formula under cold air standard analysis:

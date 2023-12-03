@@ -1,0 +1,1 @@
+These are used for high frequency work. The lack of a core means very low inductance. All current excites current and induces secondary voltage which is proportional to the mutual inductance.[17] Such transformers may be nothing more than a few turns of wire soldered onto a printed circuit board.

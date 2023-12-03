@@ -1,0 +1,1 @@
+If the player has one or more cards remaining, he must discard one card to the discard pile. If this is his last card, play ends. He is the winner, and each player pays him the stake. If the player has one or more cards left in his hand after discarding, his turn ends.

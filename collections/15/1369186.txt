@@ -1,0 +1,1 @@
+X1, ... , XN are quadratic and independent degrees of freedom if the energy associated with a microstate of the system they represent can be written as:

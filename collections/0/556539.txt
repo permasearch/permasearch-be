@@ -1,0 +1,1 @@
+More simply, the sum of the emfs in any closed loop is equivalent to the sum of the potential drops in that loop, or: The algebraic sum of the products of the resistances of the conductors and the currents in them in a closed loop is equal to the total emf available in that loop.

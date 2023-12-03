@@ -1,0 +1,1 @@
+Bluetooth protocols simplify the discovery and setup of services between devices.[40] Bluetooth devices can advertise all of the services they provide.[41] This makes using services easier, because more of the security, network address and permission configuration can be automated than with many other network types.[40]

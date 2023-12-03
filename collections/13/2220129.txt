@@ -1,0 +1,1 @@
+Another typical configuration of op-amps is with positive feedback, which takes a fraction of the output signal back to the non-inverting input. An important application of it is the comparator with hysteresis, the Schmitt trigger.  Some circuits may use positive feedback and negative feedback around the same amplifier, for example triangle-wave oscillators and active filters.

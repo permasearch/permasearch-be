@@ -1,0 +1,1 @@
+The bilinear transform can be used to convert continuous-time filters (represented in the Laplace domain) into discrete-time filters (represented in the Z-domain), and vice versa. The following substitution is used:

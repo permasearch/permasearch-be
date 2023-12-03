@@ -1,0 +1,1 @@
+In case of a Heterogeneous System Architecture (processor architecture that integrates different types of processors, such as CPUs and GPUs, with shared memory), the memory management unit (MMU) of the CPU and the input–output memory management unit (IOMMU) of the GPU have to share certain characteristics, like a common address space.

@@ -1,0 +1,1 @@
+The Forth programming language prints ok when ready to accept input from the keyboard. This prompt is used on Sun, Apple, and other computers with the Forth-based Open Firmware (OpenBoot). The appearance of ok in inappropriate contexts is the subject of some humor.[63]

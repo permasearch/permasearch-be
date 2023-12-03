@@ -1,0 +1,1 @@
+States can have their name written in full, abbreviated in some way, or totally abbreviated to two letters (SP = São Paulo, RJ = Rio de Janeiro, etc.).

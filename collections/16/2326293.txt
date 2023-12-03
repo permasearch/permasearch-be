@@ -1,0 +1,1 @@
+A system to recognize hand-written zip code numbers[20] involved convolutions in which the kernel coefficients had been laboriously hand designed[21]

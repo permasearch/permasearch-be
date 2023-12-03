@@ -1,0 +1,1 @@
+In recipes, quantities of ingredients may be specified by mass (commonly called weight), by volume, or by count.

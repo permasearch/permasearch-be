@@ -1,0 +1,1 @@
+Apple released QuickTime 1.5 for Mac OS in the latter part of 1992. This added the SuperMac-developed Cinepak vector-quantization video codec (initially known as Compact Video). It could play video at 320×240 resolution at 30 frames per second on a 25 MHz Motorola 68040 CPU. It also added text tracks, which allowed for captioning, lyrics and other potential uses.

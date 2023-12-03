@@ -1,0 +1,1 @@
+Again, the units W/W are optional. Power gain is more usually expressed in decibels, thus:

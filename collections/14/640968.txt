@@ -1,0 +1,1 @@
+Circuits that interface or translate between digital circuits and analog circuits are known as mixed-signal circuits.

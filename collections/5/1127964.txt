@@ -1,0 +1,1 @@
+which makes angular acceleration directly proportional to Î¸, satisfying the definition of simple harmonic motion.

@@ -1,0 +1,1 @@
+A quasiregular polyhedron is a uniform polyhedron which has just two kinds of face alternating around each vertex.

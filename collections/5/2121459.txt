@@ -1,0 +1,1 @@
+HIL simulation is a key step in the process of developing human factors, a method of ensuring usability and system consistency using software ergonomics, human-factors research and design. For real-time technology, human-factors development is the task of collecting usability data from man-in-the-loop testing for components that will have a human interface.

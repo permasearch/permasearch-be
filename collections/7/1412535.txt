@@ -1,0 +1,1 @@
+The PS4 Pro does not support Ultra HD Blu-ray (UHD BD) discs, used for 4K content, as the BD-ROM internal drive does not support the BDXL format (100GB +) required for 4K video, on preliminary tests the console is able to recognize and play these discs on a 4K capable USB3.0 external disc drive. The decision not to upgrade was predicated primarily on cost.[19]

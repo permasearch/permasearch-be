@@ -1,0 +1,1 @@
+One can think of AOP as a debugging tool or as a user-level tool. Advice should be reserved for the cases where you cannot get the function changed (user level)[6] or do not want to change the function in production code (debugging).

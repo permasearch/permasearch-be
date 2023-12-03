@@ -1,0 +1,1 @@
+In the arithmetic of measurements having units, the units are treated as multiplicative factors to values. If they have prefixes, all but one of the prefixes must be expanded to their numeric multiplier, except when combining values with identical units. Hence,

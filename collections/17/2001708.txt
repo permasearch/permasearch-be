@@ -1,0 +1,1 @@
+The front angle, in a bevel gear, denotes the angle between an element of the front cone and a plane of rotation, and usually equals the pitch angle.[1]

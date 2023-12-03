@@ -1,0 +1,1 @@
+Common graphics drawing commands (many of them geometric) are sent to the graphics accelerator in their raw form. The accelerator then rasterizes the results of the command to the framebuffer. This method can save thousands or millions of CPU cycles per command, as the CPU is freed to do other work.

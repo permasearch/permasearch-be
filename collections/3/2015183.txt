@@ -1,0 +1,1 @@
+e    k m   t    v  y   =   m k    e    k m   t   ( − g ) + C   {\displaystyle e^{{\frac {k}{m}}t}v_{y}={\frac {m}{k}}e^{{\frac {k}{m}}t}(-g)+C}  (2f)

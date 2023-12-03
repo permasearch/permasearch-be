@@ -1,0 +1,1 @@
+To sort this table by nation, total medal count, or any other column, click on the  icon next to the column title.

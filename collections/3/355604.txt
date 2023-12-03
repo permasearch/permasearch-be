@@ -1,0 +1,1 @@
+String values do not require a <Value type> (see example), but backslashes ('\') need to be written as a double-backslash ('\\'), and quotes ('"') as backslash-quote ('\"').

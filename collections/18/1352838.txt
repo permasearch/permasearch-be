@@ -1,0 +1,1 @@
+For each u and v in S (v may possibly equal u), we shall define an operation Iv/u, which we shall call 'u/v inversion.'......[W]e conceive any sample s and its inversion I(s) [...] as balanced about the given u and v in a certain intervallic proportion. I(s) bears to v an intervallic relationship which is the inverse of the relation that s bears to u.

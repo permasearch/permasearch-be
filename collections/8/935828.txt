@@ -1,0 +1,1 @@
+On the DO sag curve a minimum concentration occurs at some point, along a stream. If the Streeterâ€“Phelps equation is differentiated with respect to time, and set equal to zero, the time at which the minimum DO occurs is expressed by

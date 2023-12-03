@@ -1,0 +1,1 @@
+Recently, real-time applications of NMR in liquid media have been developed using specifically designed flow probes (flow cell assemblies) which can replace standard tube probes.  This has enabled techniques that can incorporate the use of high performance liquid chromatography (HPLC) or other continuous flow sample introduction devices.[24]

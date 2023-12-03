@@ -1,0 +1,1 @@
+Multiple-cutting-edge tools have more than one cutting edge and usually achieve their motion relative to the workpart by rotating. Drilling and milling uses rotating multiple-cutting-edge tools. Although the shapes of these tools are different from a single-point tool, many elements of tool geometry are similar.

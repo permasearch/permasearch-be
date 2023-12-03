@@ -1,0 +1,1 @@
+Similarly, a set is said to be closed under a collection of operations if it is closed under each of the operations individually.

@@ -1,0 +1,1 @@
+A design is the order of a system that connects individual components. Often, it can interact with other systems. Design is important to achieve high reliability, low cost, and good maintain-ability.[2] We can distinguish two types of program design phases:

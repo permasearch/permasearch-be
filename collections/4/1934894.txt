@@ -1,0 +1,1 @@
+In solids,      K  S     {\displaystyle K_{S}}   and      K  T     {\displaystyle K_{T}}   have very similar values. Solids can also sustain transverse waves: for these materials one additional elastic modulus, for example the shear modulus, is needed to determine wave speeds.

@@ -1,0 +1,1 @@
+When designing mechanical components, mechanical engineers typically use dowel holes as reference points to control positioning variations and attain repeatable assembly quality. If no dowels are used for alignment (e.g., components are mated by bolts only), there can be significant variation, or "play", in component alignment.

@@ -1,0 +1,1 @@
+If a conventional audio cassette was played in Teddy Ruxpin, this would be detected and its right audio track would be ignored. Early versions of the toy used three servo motors, but this was reduced to two in later versions.[8]

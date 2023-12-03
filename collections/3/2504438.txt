@@ -1,0 +1,1 @@
+Version 2.0 of the Observations Data Model ("ODM2"),[10] developed by the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI)[11] and the Critical Zone Observatory project, adapts O&M.

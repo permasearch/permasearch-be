@@ -1,0 +1,1 @@
+Notice how closely the predictive parser below mirrors the grammar above. There is a procedure for each nonterminal in the grammar. Parsing descends in a top-down manner, until the final nonterminal has been processed. The program fragment depends on a global variable, sym, which contains the current symbol from the input, and the function nextsym, which updates sym when called.

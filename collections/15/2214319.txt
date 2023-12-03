@@ -1,0 +1,1 @@
+ZFS will automatically allocate data storage across all vdevs in a pool (and all devices in each vdev) in a way that generally maximises the performance of the pool. ZFS will also update its write strategy to take account of new disks added to a pool, when they are added.

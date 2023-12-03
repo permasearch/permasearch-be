@@ -1,0 +1,1 @@
+In geometry, an envelope of a family of curves in the plane is a curve that is tangent to each member of the family at some point. Classically, a point on the envelope can be thought of as the intersection of two "adjacent" curves, meaning the limit of intersections of nearby curves. This idea can be generalized to an envelope of surfaces in space, and so on to higher dimensions.

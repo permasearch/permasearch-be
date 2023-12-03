@@ -1,0 +1,1 @@
+The temperature:time interaction term is significant (p=0.000180). Based on the interaction test and the interaction plot, it appears that the effect of time on yield depends on temperature and vice versa.

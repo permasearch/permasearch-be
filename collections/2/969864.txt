@@ -1,0 +1,1 @@
+The total insolation received by the oceans (covering 70% of the earth's surface, with clearness index of 0.5 and average energy retention of 15%) is: 5.45×1018 MJ/yr × 0.7 × 0.5 × 0.15 = 2.87×1017 MJ/yr

@@ -1,0 +1,1 @@
+WYSIWYG HTML editors provide an editing interface which resembles how the page will be displayed in a web browser. Because using a WYSIWYG editor may not require any HTML knowledge, they are often easier for an inexperienced computer user to get started with.

@@ -1,0 +1,1 @@
+There is a similar non-standard ldaps URI scheme for LDAP over SSL. This should not be confused with LDAP with TLS, which is achieved using the StartTLS operation using the standard ldap scheme.

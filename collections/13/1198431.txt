@@ -1,0 +1,1 @@
+When a very small body is in a circular orbit barely above the surface of a sphere of any radius and mean density ρ (in kg/m3), the above equation simplifies to (since M = Vρ = 4/3πa3ρ)[3]>:

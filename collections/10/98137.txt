@@ -1,0 +1,1 @@
+The virtual 8086 mode is a mode for a protected-mode task. Consequently, the processor can switch between VM86 and non-VM86 tasks, enabling multitasking legacy (MS-DOS) applications.

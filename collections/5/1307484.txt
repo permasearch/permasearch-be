@@ -1,0 +1,1 @@
+Traditionally, most antibodies are produced by hybridoma cell lines through immortalization of antibody-producing cells by chemically-induced fusion with myeloma cells. In some cases, additional fusions with other lines have created "triomas" and "quadromas". The manufacturing process should be appropriately described and validated. Validation studies should at least includeÂ :

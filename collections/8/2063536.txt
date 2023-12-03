@@ -1,0 +1,1 @@
+Exponentiation may be extended to by, where b is a positive number and the exponent y is any real number.[1] For example, bâˆ’1 is the reciprocal of b, that is, 1/b. Raising b to the power 1/2 is the square root of b. More generally, raising b to a rational power p/q, where p and q are integers, is given by

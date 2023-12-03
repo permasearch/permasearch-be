@@ -1,0 +1,1 @@
+IRSs are bespoke financial products whose customisation can include changes to payment dates, notional changes (such as those in amortised IRSs), accrual period adjustment and calculation convention changes (such as a day count convention of 30/360E to ACT/360 or ACT/365).

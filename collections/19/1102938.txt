@@ -1,0 +1,1 @@
+This optimal value is given by the geometric mean of the two surrounding indices:

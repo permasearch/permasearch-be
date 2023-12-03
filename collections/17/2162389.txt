@@ -1,0 +1,1 @@
+Control (Signaling) Plane contains the stacks that signal different endpoints to create a call and/or a conference. Signals can be, but arenâ€™t limited to, H.323 and Session Initiation Protocol (SIP) Protocols. These signals control incoming and outgoing connections as well as session parameters.

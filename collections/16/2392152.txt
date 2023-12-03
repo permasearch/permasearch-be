@@ -1,0 +1,1 @@
+Another alternative is to create custom control that provides custom encoding.[3]

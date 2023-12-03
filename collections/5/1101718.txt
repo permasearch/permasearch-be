@@ -1,0 +1,1 @@
+Whenever a point is scored, the fencers will go back to their starting mark. The fight will start again after the following commands have been given by the referee (in French in international settings): "En garde" (On guard), "Êtes-vous prêts ?" (Are you ready?), "Allez" (Fence!).

@@ -1,0 +1,1 @@
+For example, tin-lead solder attaches very well to copper, but poorly to the various oxides of copper, which form quickly at soldering temperatures. By preventing the formation of metal oxides, flux enables the solder to adhere to the clean metal surface, rather than forming beads, as it would on an oxidized surface.

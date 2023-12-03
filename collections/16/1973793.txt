@@ -1,0 +1,1 @@
+Files are also called "regular files" to distinguish them from "special files". They show up in ls -l without a specific character in the mode field:

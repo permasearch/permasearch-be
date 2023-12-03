@@ -1,0 +1,1 @@
+Other technologies are emerging, including nanopore technology. Though nanopore sequencing technology is still being refined, its portability and potential capability of generating long reads are of relevance to whole-genome sequencing applications.[33]

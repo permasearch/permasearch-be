@@ -1,0 +1,1 @@
+A BSSID with a value of all 1s is used to indicate the wildcard BSSID, usable only during probe requests or for communications that take place outside the context of a BSS.[5]

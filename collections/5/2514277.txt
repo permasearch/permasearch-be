@@ -1,0 +1,1 @@
+If the phasors V were a perfectly synchronous system, the vertex of the outer triangle not on the base line would be at the same position as the corresponding vertex of the equilateral triangle representing the synchronous system. Any amount of inverse component would mean a deviation from this position. The deviation is exactly 3 times the inverse phase component.

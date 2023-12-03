@@ -1,0 +1,1 @@
+Applications using fuel cells (mixing hydrogen and oxygen together with a catalyst to produce electricity and water as byproducts) also produce only DC.

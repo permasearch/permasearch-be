@@ -1,0 +1,1 @@
+Any effect that can impact the internal validity of a research study may bias the results and impact the validity of statistical conclusions reached. These threats to internal validity include unreliability of treatment implementation (lack of standardization) or failing to control for extraneous variables.

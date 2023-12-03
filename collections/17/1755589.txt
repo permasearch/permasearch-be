@@ -1,0 +1,1 @@
+In some data structures, an array of structures is used. In such cases, the same sorting methods can be used to sort the structures according to some key as a structure element; for example, sorting records of students according to roll numbers or names or grades.

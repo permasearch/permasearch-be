@@ -1,0 +1,1 @@
+Logic is generally considered formal when it analyzes and represents the form of any valid argument type. The form of an argument is displayed by representing its sentences in the formal grammar and symbolism of a logical language to make its content usable in formal inference. Simply put, to formalize simply means to translate English sentences into the language of logic.

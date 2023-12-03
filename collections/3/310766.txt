@@ -1,0 +1,1 @@
+If any altitude, for example, AD, is extended to intersect the circumcircle at P, so that AP is a chord of the circumcircle, then the foot D bisects segment HP:[7]

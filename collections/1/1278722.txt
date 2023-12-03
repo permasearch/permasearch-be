@@ -1,0 +1,1 @@
+Some CDMA devices use a rake receiver, which exploits multipath delay components to improve the performance of the system. A rake receiver combines the information from several correlators, each one tuned to a different path delay, producing a stronger version of the signal than a simple receiver with a single correlation tuned to the path delay of the strongest signal.[12]

@@ -1,0 +1,1 @@
+As of 2017, all major browsers support at least the fifth edition ECMAScript which provides[15] a safe and fast method of decoding JSON:

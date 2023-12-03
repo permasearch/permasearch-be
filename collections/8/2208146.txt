@@ -1,0 +1,1 @@
+NFC-enabled devices can act as electronic identity documents and keycards.[3] NFC's short range and encryption support make it more suitable than less private RFID systems.

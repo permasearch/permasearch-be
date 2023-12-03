@@ -1,0 +1,1 @@
+Uniqueness results by multiplying the two sides of the equation x • a = b by a−1. The element b • a−1, often denoted b / a, is called the right quotient of b by a, or the result of the right division of b by a.

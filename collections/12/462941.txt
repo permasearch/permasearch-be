@@ -1,0 +1,1 @@
+In elementary terms, this is simply scaling by 1/a in the horizontal direction and by a in the vertical direction.  Area does not change under this transformation, but the region between a and ab is reconfigured.  Because the function a/(ax) is equal to the function 1/x, the resulting area is precisely ln(b).

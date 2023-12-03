@@ -1,0 +1,1 @@
+Most of the time, in limited overs cricket tournaments, there are round-robin groups among several teams, where each team plays all of the others. Just as explained in the scenarios above, the NRR is not the average of the NRRs of all the matches played, it is calculated considering the overall rate at which runs are scored for and against, within the whole group.

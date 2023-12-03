@@ -1,0 +1,1 @@
+Only characters A to Z (upper case), 0â€“9, and < (angle bracket) are allowed.

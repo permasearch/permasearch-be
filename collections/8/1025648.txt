@@ -1,0 +1,1 @@
+Variables in JavaScript can be defined using the var keyword:[45]

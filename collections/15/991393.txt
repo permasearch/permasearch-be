@@ -1,0 +1,1 @@
+This outermost layer of the cerebellar cortex contains two types of inhibitory interneurons: the stellate and basket cells. It also contains the dendritic arbors of Purkinje neurons and parallel fiber tracts from the granule cells. Both stellate and basket cells form GABAergic synapses onto Purkinje cell dendrites.

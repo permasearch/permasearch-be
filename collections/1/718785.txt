@@ -1,0 +1,1 @@
+Unlike some problem solving methods that assume that all the relevant issues and constraints and goals that constitute the problem are defined in advance or are uncontroversial, PSMs assume that there is no single uncontested representation of what constitutes the problem.[6]

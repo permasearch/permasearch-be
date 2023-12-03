@@ -1,0 +1,1 @@
+Multimedia databases should have the ability to uniformly query data (media data, textual data) represented in different formats and have the ability to simultaneously query different media sources and conduct classical database operations across them.  (Query support)

@@ -1,0 +1,1 @@
+Some emergency vehicles use signs made up of a large number of light sources (usually LEDs), which can be programmed to display messages to other road users.  This can be used to request other vehicles to pull over, indicate a special instruction, or just to display the name of the operating service (e.g. ‘Police’).

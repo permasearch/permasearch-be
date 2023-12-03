@@ -1,0 +1,1 @@
+The Miller–Rabin and the Solovay–Strassen primality tests are simple and are much faster than other general primality tests. One method of improving efficiency further in some cases is the Frobenius pseudoprimality test; a round of this test takes about three times as long as a round of Miller–Rabin, but achieves a probability bound comparable to seven rounds of Miller–Rabin.

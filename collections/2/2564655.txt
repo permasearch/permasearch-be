@@ -1,0 +1,1 @@
+∗Tie+Won and Tie+Lost indicates matches tied and then won or lost in a tiebreaker such as a bowlout or one-over-eliminator ("Super Over"). ∗The result percentage excludes no results and counts ties (irrespective of a tiebreaker) as half a win.

@@ -1,0 +1,1 @@
+(Note that the source should have a polarity that is aligned with the initial current)

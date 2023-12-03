@@ -1,0 +1,1 @@
+Quizlet provides an application programming interface that allows others to access Quizlet data. Available functions include uploading and downloading flashcards, modifying users' flashcards, and finding definitions created by Quizlet users. That is on android applications.[22]

@@ -1,0 +1,1 @@
+The table can be sorted to show the total number of Blue Flags per country and also the number of Blue Flags per population, per area or per the length of the coastline of each country.

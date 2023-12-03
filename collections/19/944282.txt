@@ -1,0 +1,1 @@
+The OLR is dependent on the temperature of the radiating body.  It is affected by the Earth's skin temperature, skin surface emissivity, atmospheric temperature, water vapor profile, and cloud cover.[3]

@@ -1,0 +1,1 @@
+The term was originally used when discussing early client–server systems to differentiate servers that contain application logic SQL services[3] and middleware servers as distinct from other types of data-servers.

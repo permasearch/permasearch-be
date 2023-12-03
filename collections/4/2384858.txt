@@ -1,0 +1,1 @@
+The IEC 61280-4-1 (now TIA-526-14-B) standard defines encircled flux which specifies test light injection sizes (for various fiber diameters) to make sure the fiber core is not over-filled or under-filled to allow more reproducible (and less variable) link-loss measurements.[22]

@@ -1,0 +1,1 @@
+we can solve for the magnetic field H, and from that (dependent on us having chosen the Lorenz gauge) the electric field E using

@@ -1,0 +1,1 @@
+In general, it is easier for consumers in PAL/SECAM countries to view NTSC DVDs than vice versa. Almost all DVD players sold in PAL/SECAM countries are capable of playing both kinds of discs, and most modern PAL TVs can handle the converted signal. NTSC discs may be output from a PAL DVD player in three different ways:

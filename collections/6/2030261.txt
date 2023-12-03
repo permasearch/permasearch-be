@@ -1,0 +1,1 @@
+8 circle-free â€” a successful computating machine. It prints, ad infinitum, the figures 0 or 1 that represent in binary the number it computes

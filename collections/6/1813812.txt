@@ -1,0 +1,1 @@
+Twelve key lengths of a triangle are the three side lengths, the three altitudes, the three medians, and the three angle bisectors. Together with the three angles, these give 95 distinct combinations, 63 of which give rise to a constructible triangle, 30 of which do not, and two of which are underdefined.[11]:pp. 201â€“203

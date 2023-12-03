@@ -1,0 +1,1 @@
+Resonance occurs when an LC circuit is driven from an external source at an angular frequency Ï‰0 at which the inductive and capacitive reactances are equal in magnitude. The frequency at which this equality holds for the particular circuit is called the resonant frequency. The resonant frequency of the LC circuit is

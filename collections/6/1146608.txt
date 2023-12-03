@@ -1,0 +1,1 @@
+While training management systems focus on managing instructor-led training, they can complete an LMS. In this situation, an LMS will manage e-learning delivery and assessment, while a training management system will manage ILT and back-office budget planning, logistic and reporting.[115]

@@ -1,0 +1,1 @@
+Smoothwall Server Edition was the first product from Smoothwall Ltd., released on 11 November 2001. It was essentially Smoothwall GPL 0.9.9 with support included from the company. This was — as were virtually all future products — made available to purchase on CD-ROM directly from Smoothwall Ltd. by mail order.

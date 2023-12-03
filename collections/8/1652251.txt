@@ -1,0 +1,1 @@
+Google Home includes home automation features, enabling owners to use it as a central hub to control smart devices. Examples of supported devices include the Chromecast digital media player, and products from Nest, SmartThings, Philips Hue, LIFX, LightwaveRF,[37] and Logitech Harmony.[38]

@@ -1,0 +1,1 @@
+If a crash occurs after step 1 and before step 2, there will be an orphaned inode and hence a storage leak. On the other hand, if only step 2 is performed first before the crash, the not-yet-deleted file will be marked free and possibly be overwritten by something else.

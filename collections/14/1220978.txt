@@ -1,0 +1,1 @@
+In the screw, which uses rotational motion, the input force should be replaced by the torque, and the velocity by the angular velocity the shaft is turned.

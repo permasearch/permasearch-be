@@ -1,0 +1,1 @@
+The real numbers are most often formalized using the Zermelo–Fraenkel axiomatization of set theory, but some mathematicians study the real numbers with other logical foundations of mathematics. In particular, the real numbers are also studied in reverse mathematics and in constructive mathematics.[11]

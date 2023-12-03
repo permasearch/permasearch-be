@@ -1,0 +1,1 @@
+Unlike previous standards, the USB 3.0 standard does not specify a maximum cable length, requiring only that all cables meet an electrical specification: for copper cabling with AWG 26 wires, the maximum practical length is 1.3 meters (4.3 ft).[11]

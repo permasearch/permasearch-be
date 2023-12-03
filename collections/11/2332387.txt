@@ -1,0 +1,1 @@
+The availability of inexpensive electronics has again changed the way speed control may be applied by allowing continuously variable motor speed from the maximum down to almost zero RPM. This had been tried in the late 19th century but was not found satisfactory at the time. Subsequent improvements in electric circuitry have made it viable again.

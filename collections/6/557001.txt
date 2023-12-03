@@ -1,0 +1,1 @@
+The lumen can be thought of casually as a measure of the total "amount" of visible light in some defined beam or angle, or emitted from some source. The number of candelas or lumens from a source also depends on its spectrum, via the nominal response of the human eye as represented in the luminosity function.

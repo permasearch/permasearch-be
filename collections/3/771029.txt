@@ -1,0 +1,1 @@
+Unix was originally meant to be a convenient platform for programmers developing software to be run on it and on other systems, rather than for non-programmers.[8][9] The system grew larger as the operating system started spreading in academic circles, as users added their own tools to the system and shared them with colleagues.[10]

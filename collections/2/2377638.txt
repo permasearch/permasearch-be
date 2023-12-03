@@ -1,0 +1,1 @@
+When considering more than one dimension, it is possible to get different results in different directions, for example stability with respect to displacements in the x-direction but instability in the y-direction, a case known as a saddle point. Generally an equilibrium is only referred to as stable if it is stable in all directions.

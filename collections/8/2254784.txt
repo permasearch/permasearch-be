@@ -1,0 +1,1 @@
+An equal-weighted index is one in which all components are assigned the same value.[6] For example, the Barron's 400 Index assigns an equal value of 0.25% to each of the 400 stocks included in the index, which together add up to the 100% whole.[7][8]

@@ -1,0 +1,1 @@
+Its primary use is for managing Compound File Binary Formats, but it is also used for transferring data between different applications using drag and drop and clipboard operations.

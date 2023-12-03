@@ -1,0 +1,1 @@
+The distance from the anode (source of X-rays) to the image receptor greatly influences the apparent magnitude of the anode heel effect. The shorter the distance, the less space the beam has to diverge. The effect is less noticeable at larger source-image distances (SID).[3][4]

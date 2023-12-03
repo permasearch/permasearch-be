@@ -1,0 +1,1 @@
+BOT610 Botanical Materia Medica III 36.00 36.00 3.00 HOM610 Homeopathy III 36.00 36.00 3.00 NUT611 Nutrition II 36.00 36.00 3.00 HOM620 Homeopathy IV 36.00 36.00 3.00 NUT622 Nutrition III 36.00 36.00 3.00 NPH610 Naturopathic Medical Phil Tutorial 18.00 18.00 1.50 NUT633 Nutrition IV 36.00 36.00 3.00

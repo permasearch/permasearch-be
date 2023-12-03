@@ -1,0 +1,1 @@
+δ (  x  ) = δ (  x  1   ) δ (  x  2   ) ⋯ δ (  x  n   ) .   {\displaystyle \delta (\mathbf {x} )=\delta (x_{1})\delta (x_{2})\cdots \delta (x_{n}).}

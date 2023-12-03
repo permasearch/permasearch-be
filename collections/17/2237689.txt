@@ -1,0 +1,1 @@
+In air, the angular aperture of the lens is approximately twice this value (within the paraxial approximation). The NA is generally measured with respect to a particular object or image point and will vary as that point is moved. In microscopy, NA generally refers to object-space NA unless otherwise noted.

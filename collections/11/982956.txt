@@ -1,0 +1,1 @@
+To protect pipelines, an ingot of buried or exposed magnesium (or zinc) is buried beside the pipeline and is connected electrically to the pipe above ground. The pipeline is forced to be a cathode and is protected from being oxidized and rusting. The magnesium anode is sacrificed. At intervals new ingots are buried to replace those lost.

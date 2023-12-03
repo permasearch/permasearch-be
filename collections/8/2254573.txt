@@ -1,0 +1,1 @@
+When the cell is operated at open circuit, I = 0 and the voltage across the output terminals is defined as the open-circuit voltage. Assuming the shunt resistance is high enough to neglect the final term of the characteristic equation, the open-circuit voltage VOC is:

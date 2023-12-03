@@ -1,0 +1,1 @@
+The Cygwin emulation layer is another way of running Perl under Windows. Cygwin provides a Unix-like environment on Windows, and both Perl and CPAN are available as standard pre-compiled packages in the Cygwin setup program. Since Cygwin also includes gcc, compiling Perl from source is also possible.

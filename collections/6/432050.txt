@@ -1,0 +1,1 @@
+For stocks that are subject to the circuit breaker program, trades will be broken at specified levels depending on the stock price:

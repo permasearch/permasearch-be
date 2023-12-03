@@ -1,0 +1,1 @@
+The shape parameter     q   {\displaystyle q}   appearing in the Attraction term and the term     Y   {\displaystyle Y}   are given by

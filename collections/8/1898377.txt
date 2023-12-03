@@ -1,0 +1,1 @@
+In particular, it follows that     λ ( p ) = p − 1   {\displaystyle \lambda (p)=p-1}   if and only if p is a prime and 10 is a primitive root modulo p. Then, the decimal expansions of n/p for n = 1, 2, …, p − 1, all have periods of length p − 1 and differ only by a cyclic permutation. Such numbers p are called full repetend primes.

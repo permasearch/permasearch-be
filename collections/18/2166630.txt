@@ -1,0 +1,1 @@
+Structured design (SD) is concerned with the development of modules and the synthesis of these modules in a so-called "module hierarchy".[22] In order to design optimal module structure and interfaces two principles are crucial:

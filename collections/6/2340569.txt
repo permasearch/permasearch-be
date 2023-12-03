@@ -1,0 +1,1 @@
+Software development kits (SDK) for QuickTime are available to the public with an Apple Developer Connection (ADC) subscription.

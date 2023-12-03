@@ -1,0 +1,1 @@
+Bode plot (a graph of the frequency response of a system) is also log-log plot.

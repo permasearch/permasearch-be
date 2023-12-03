@@ -1,0 +1,1 @@
+No countback exists if teams finish equal on points but with a different number of wins.

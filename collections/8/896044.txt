@@ -1,0 +1,1 @@
+Older versions of Microsoft Flight Simulator would begin with the player on the runway of Meigs Field, facing a virtual version of the tower.

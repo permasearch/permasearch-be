@@ -1,0 +1,1 @@
+Techniques introduced in the 1990s like prototyping, Unified Modeling Language (UML), use cases, and agile software development are also intended as solutions to problems encountered with previous methods.

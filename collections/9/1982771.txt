@@ -1,0 +1,1 @@
+Note that the COP of a heat pump depends on its duty. The heat rejected to the hot sink is greater than the heat absorbed from the cold source, so the heating COP is 1 greater than the cooling COP.

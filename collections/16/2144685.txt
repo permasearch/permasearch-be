@@ -1,0 +1,1 @@
+where the last sum is simply the first sum rewritten using the definitions ξn = n/T, and Δξ = n + 1/T − n/T = 1/T.

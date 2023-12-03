@@ -1,0 +1,1 @@
+The key to the rhythmic firing of pacemaker cells is that, unlike other neurons in the body, these cells will slowly depolarize by themselves and do not need any outside innervation from the autonomic nervous system to fire action potentials.

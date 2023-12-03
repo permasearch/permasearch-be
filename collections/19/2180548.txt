@@ -1,0 +1,1 @@
+All 3½-inch disks have a rectangular hole in one corner which, if obstructed, write-enabled the disk. A sliding detented piece can be moved to block or reveal the part of the rectangular hole that is sensed by the drive. The HD 1.44 MB disks have a second, unobstructed hole in the opposite corner which identifies them as being of that capacity.

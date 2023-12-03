@@ -1,0 +1,1 @@
+The color bone is displayed at left.  This color is a representation of the color of bones.

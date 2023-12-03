@@ -1,0 +1,1 @@
+In a neuron, the dendrite receives information from another neuron's axon at the synapse, and the axon sends information to the next neuron's dendrites, even though the dendrite may be covered with myelin.

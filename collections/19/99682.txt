@@ -1,0 +1,1 @@
+Individual cells within a battery can also short circuit, causing an explosion.

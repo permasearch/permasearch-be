@@ -1,0 +1,1 @@
+Method to generate data based on the union all

@@ -1,0 +1,1 @@
+The inertia matrix of a rigid system of particles depends on the choice of the reference point.[4] There is a useful relationship between the inertia matrix relative to the center of mass R and the inertia matrix relative to another point S. This relationship is called the parallel axis theorem.

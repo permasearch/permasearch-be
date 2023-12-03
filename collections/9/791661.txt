@@ -1,0 +1,1 @@
+The cash flows are calculated over a notional principal amount. Contrary to a future, a forward or an option, the notional amount is usually not exchanged between counterparties. Consequently, swaps can be in cash or collateral. Swaps can be used to hedge certain risks such as interest rate risk, or to speculate on changes in the expected direction of underlying prices.

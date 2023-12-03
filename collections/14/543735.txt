@@ -1,0 +1,1 @@
+Each letter has a position-independent encoding in Unicode, and the rendering software can infer the correct glyph form (initial, medial, final or isolated) from its joining context. That is the current recommendation. However, for compatibility with previous standards, the initial, medial, final and isolated forms can also be encoded separately.

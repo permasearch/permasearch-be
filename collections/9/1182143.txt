@@ -1,0 +1,1 @@
+Typically when a mean is calculated it is important to know the variance and standard deviation about that mean. When a weighted mean      μ  ∗     {\displaystyle \mu ^{*}}   is used, the variance of the weighted sample is different from the variance of the unweighted sample.

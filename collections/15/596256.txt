@@ -1,0 +1,1 @@
+In computer science it is known as prefix sum.

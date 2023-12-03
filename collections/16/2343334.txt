@@ -1,0 +1,1 @@
+UTF-8 is the default charset in Android (unlike what regular Java uses internally). The UTF-8 decoder is stricter as of Android P and follows the Unicode standards.[31]

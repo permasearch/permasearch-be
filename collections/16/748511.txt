@@ -1,0 +1,1 @@
+where e, the eccentricity of the ellipsoid, is related to the major and minor axes (the equatorial and polar radii respectively) by

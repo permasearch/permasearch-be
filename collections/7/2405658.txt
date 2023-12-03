@@ -1,0 +1,1 @@
+we can rewrite the Lagrange basis polynomials as

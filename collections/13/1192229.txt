@@ -1,0 +1,1 @@
+The fundamental plane is the plane of the Earth's orbit, called the ecliptic plane.  There are two principal variants of the ecliptic coordinate system: geocentric ecliptic coordinates centered on the Earth and heliocentric ecliptic coordinates centered on the center of mass of the solar system.

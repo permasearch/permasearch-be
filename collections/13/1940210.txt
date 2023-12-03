@@ -1,0 +1,1 @@
+If the drawing stack is run down and becomes empty, the playing stack or discard pile (except for the topmost card) is shuffled, and placed face down to become the new "pool."

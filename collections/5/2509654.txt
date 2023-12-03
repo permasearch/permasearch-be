@@ -1,0 +1,1 @@
+Status lines have been used for more than 30 years[2] to display advisory messages in a predefined area, rather than as pop-up messages in center screen which can block the view of related information.

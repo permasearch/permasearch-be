@@ -1,0 +1,1 @@
+The design of Japanese crossword grids often follows two additional rules: that shaded cells may not share a side (i.e. they may not be orthogonally contiguous) and that the corner squares must be white.

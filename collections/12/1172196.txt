@@ -1,0 +1,1 @@
+Given our current estimate of the parameters θ(t), the conditional distribution of the Zi is determined by Bayes theorem to be the proportional height of the normal density weighted by τ:

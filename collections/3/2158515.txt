@@ -1,0 +1,1 @@
+For an engine strongly integrated into the aerodynamic body, it may be more convenient to think of (     D  e     {\displaystyle D_{e}}  ) as the difference in drag from a known base configuration.

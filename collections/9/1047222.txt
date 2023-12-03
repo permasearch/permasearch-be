@@ -1,0 +1,1 @@
+where g is the acceleration due to gravity, 9.8 meters (32 feet) per second squared. Because g and Ï€ (3.14) are constants, the equation can be reduced to:

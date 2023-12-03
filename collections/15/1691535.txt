@@ -1,0 +1,1 @@
+As with all kinds of problem solving, trial and error may sometimes yield a solution, in particular where the form of the equation, or its similarity to another equation with a known solution, may lead to an "inspired guess" at the solution. If a guess, when tested, fails to be a solution, consideration of the way in which it fails may lead to a modified guess.

@@ -1,0 +1,1 @@
+Circuit simulation software, such as HSPICE (an analog circuit simulator),[2] and languages such as VHDL-AMS and verilog-AMS allow engineers to design circuits without the time, cost and risk of error involved in building circuit prototypes.

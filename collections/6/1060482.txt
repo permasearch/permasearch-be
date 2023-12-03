@@ -1,0 +1,1 @@
+Now, we will prove that the Kraft inequality holds whenever     S   {\displaystyle S}   is a uniquely decodable code. (The converse needs not be proven, since we have already proven it for prefix codes, which is a stronger claim.)

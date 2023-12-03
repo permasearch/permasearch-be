@@ -1,0 +1,1 @@
+In a rectangular cuboid, all angles are right angles, and opposite faces of a cuboid are equal. By definition this makes it a right rectangular prism, and the terms rectangular parallelepiped or orthogonal parallelepiped are also used to designate this polyhedron. The terms "rectangular prism" and "oblong prism", however, are ambiguous, since they do not specify all angles.

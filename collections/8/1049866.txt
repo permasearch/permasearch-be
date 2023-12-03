@@ -1,0 +1,1 @@
+The greatest of these is 6. That is, the greatest common divisor of 54 and 24. One writes:

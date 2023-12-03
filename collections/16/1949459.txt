@@ -1,0 +1,1 @@
+The location of the neutral plane can be an important factor in monocoque structures and pressure vessels. If the structure is a membrane supported by strength ribs, then placing the skin along the neutral surface avoids either compression or tension forces upon it. If the skin is already under external pressure, then this reduces the total force to which it is subject.

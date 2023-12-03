@@ -1,0 +1,1 @@
+Black hole binaries emit gravitational waves during their in-spiral, merger, and ring-down phases. The largest amplitude of emission occurs during the merger phase, which can be modeled with the techniques of numerical relativity.[42][43][44] The first direct detection of gravitational waves, GW150914, came from the merger of two black holes.

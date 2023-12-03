@@ -1,0 +1,1 @@
+Then the interpolating polynomial is formed as above using the topmost entries in each column as coefficients.

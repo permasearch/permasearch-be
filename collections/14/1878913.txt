@@ -1,0 +1,1 @@
+Switched shunts are rarely used for currents above 10 amperes.

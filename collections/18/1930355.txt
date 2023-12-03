@@ -1,0 +1,1 @@
+Hence, from the Bayesian-Carnapian point of view, the observation of a non-raven does not tell us anything about the color of ravens, but it tells us about the prevalence of ravens, and supports "All ravens are black" by reducing our estimate of the number of ravens that might not be black.

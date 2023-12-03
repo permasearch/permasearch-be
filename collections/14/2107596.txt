@@ -1,0 +1,1 @@
+Similarly, the expected value of the geometrically distributed random variable Y = X − 1 (where Y corresponds to the pmf listed in the right column) is q/p = (1 − p)/p, and its variance is (1 − p)/p2:

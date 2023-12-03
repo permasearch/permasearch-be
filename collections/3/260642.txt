@@ -1,0 +1,1 @@
+Empty table cells indicate that a book is absent from that canon.

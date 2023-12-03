@@ -1,0 +1,1 @@
+A Unix architecture is a computer operating system system architecture that embodies the Unix philosophy. It may adhere to standards such as the Single UNIX Specification (SUS) or similar POSIX IEEE standard. No single published standard describes all Unix architecture computer operating systems - this is in part a legacy of the Unix wars.

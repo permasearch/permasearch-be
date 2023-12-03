@@ -1,0 +1,1 @@
+One of the design objectives of the instrument is to disturb the circuit as little as possible and so the instrument should draw a minimum of current to operate. This is achieved by using a sensitive galvanometer in series with a high resistance, and then the entire instrument is connected in parallel with the circuit examined.

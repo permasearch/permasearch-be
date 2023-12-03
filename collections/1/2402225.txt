@@ -1,0 +1,1 @@
+A simple device, which is now called a relay, was included in the original 1840 telegraph patent of Samuel Morse.[7] The mechanism described acted as a digital amplifier, repeating the telegraph signal, and thus allowing signals to be propagated as far as desired. This overcame the problem of limited range of earlier telegraphy schemes.[citation needed]

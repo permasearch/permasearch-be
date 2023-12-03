@@ -1,0 +1,1 @@
+Malakooti (2013)[8] has introduced the multi-criteria EOQ models where the criteria could be minimizing the total cost, Order quantity (inventory), and Shortages.

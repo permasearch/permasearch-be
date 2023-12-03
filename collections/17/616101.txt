@@ -1,0 +1,1 @@
+N ∗ ( 1 + i  )  x     {\displaystyle N*(1+i)^{x}}

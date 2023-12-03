@@ -1,0 +1,1 @@
+In late 2015 the exploit of pressing backspace 28 times to bypass the login password was found and quickly fixed.[24][25]

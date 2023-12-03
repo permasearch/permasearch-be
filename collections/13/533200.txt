@@ -1,0 +1,1 @@
+Note: Births in table don't add up, because Hispanics are counted both by their ethnicity and by their race, giving a higher overall number.

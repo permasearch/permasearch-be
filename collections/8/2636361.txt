@@ -1,0 +1,1 @@
+Orthogonal persistence is widely adopted in operating systems for hibernation and in platform virtualization systems such as VMware and VirtualBox for state saving.

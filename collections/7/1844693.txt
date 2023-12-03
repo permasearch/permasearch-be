@@ -1,0 +1,1 @@
+For a data set with assumed mean x0 suppose:

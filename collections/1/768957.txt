@@ -1,0 +1,1 @@
+Apple offered two main APIs to develop software natively for macOS: Cocoa and Carbon. Cocoa was a descendant of APIs inherited from OPENSTEP with no ancestry from the classic Mac OS, while Carbon was an adaptation of classic Mac OS APIs, allowing Mac software to be minimally rewritten in order to run natively on Mac OS X.

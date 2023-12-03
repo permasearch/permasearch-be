@@ -1,0 +1,1 @@
+Dynamic compressors depend upon the inertia and momentum of a fluid.

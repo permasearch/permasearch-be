@@ -1,0 +1,1 @@
+One should be aware, however, that the parameters that minimize the residuals of the transformed equation not necessarily minimize the residuals of the original equation.

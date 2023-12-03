@@ -1,0 +1,1 @@
+Windows Server 2012 supports the following maximum hardware specifications.[35][49] Windows Server 2012 improves over its predecessor Windows Server 2008 R2:

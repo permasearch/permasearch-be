@@ -1,0 +1,1 @@
+Most of the C file input/output functions are defined in stdio.h (or in the C++ header cstdio, which contains the standard C functionality but in the std namespace).

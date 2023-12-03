@@ -1,0 +1,1 @@
+Creating more than one partition has the following disadvantages, as compared to having a single partition spanning the same disk area:

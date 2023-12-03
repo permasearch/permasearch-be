@@ -1,0 +1,1 @@
+For example, if Human is a metaobject representing the class Person, then instances of class Person can be created by using the facilities of the Human metaobject.

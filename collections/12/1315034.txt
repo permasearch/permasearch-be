@@ -1,0 +1,1 @@
+Of the form x2 + xy + 2y2, with non-negative integers x and y.

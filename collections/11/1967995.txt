@@ -1,0 +1,1 @@
+In addition, a short period forecast called a TREND may be added at the end of the METAR covering likely changes in weather conditions in the two hours following the observation. These are in the same format as a Terminal Aerodrome Forecast (TAF).

@@ -1,0 +1,1 @@
+Resources are allocated based on the process category with resources first dedicated to red processes, then yellow processes and finally green processes. In the event that resources become limited, resources are first withheld from Green Processes, then Yellow Processes. Resources are only withheld from Red Processes if failure to achieve outcomes/goals is acceptable.

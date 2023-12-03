@@ -1,0 +1,1 @@
+According to Plateau's laws, the circular arcs in two-dimensional soap bubble clusters meet at 120Â° angles, the same angle found at the corners of a Reuleaux triangle. Based on this fact, it is possible to construct clusters in which some of the bubbles take the form of a Reuleaux triangle.[63]

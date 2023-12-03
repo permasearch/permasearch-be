@@ -1,0 +1,1 @@
+Using circuit-switching or packet-switching technologies, a point-to-point circuit can be set up dynamically and dropped when no longer needed. Switched point-to-point topologies are the basic model of conventional telephony.

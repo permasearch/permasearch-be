@@ -1,0 +1,1 @@
+Telenor is currently using FDD-LTE Band 5 (850MHz) for LTE services, and using both Band 5 and Band 3 (1800 MHz) in Karachi and Islamabad. [8]

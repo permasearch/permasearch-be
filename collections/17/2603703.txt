@@ -1,0 +1,1 @@
+Concurrency control techniques are of three major types:

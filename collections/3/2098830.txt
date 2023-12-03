@@ -1,0 +1,1 @@
+where u is the drift velocity of electrons, j is the current density flowing through the material, n is the charge-carrier number density, and q is the charge on the charge-carrier.

@@ -1,0 +1,1 @@
+Plate carrée: special case having the equator as the standard parallel.

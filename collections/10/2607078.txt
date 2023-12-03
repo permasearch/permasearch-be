@@ -1,0 +1,1 @@
+In more detail, it may be implemented following the pseudocode below.

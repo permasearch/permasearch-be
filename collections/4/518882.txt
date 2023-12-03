@@ -1,0 +1,1 @@
+Although the term "coordinate system" is often used (particularly by physicists) in a nontechnical sense, the term "coordinate system" does have a precise meaning in mathematics, and sometimes that is what the physicist means as well.

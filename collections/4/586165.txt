@@ -1,0 +1,1 @@
+In 2014, a group of researchers from ETH Zürich, USC, Google and Microsoft reported a definition of quantum speedup, and were not able to measure quantum speedup with the D-Wave Two device, but did not explicitly rule it out.[94][95]

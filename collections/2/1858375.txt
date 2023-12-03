@@ -1,0 +1,1 @@
+General relativity can be understood by examining its similarities with and departures from classical physics. The first step is the realization that classical mechanics and Newton's law of gravity admit a geometric description. The combination of this description with the laws of special relativity results in a heuristic derivation of general relativity.[20]

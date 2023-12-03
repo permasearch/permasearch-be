@@ -1,0 +1,1 @@
+etc. Observe that at each step we have a remainder; the successive remainders displayed above are 56, 42, 50. When we arrive at 50 as the remainder, and bring down the "0", we find ourselves dividing 500 by 74, which is the same problem we began with. Therefore, the decimal repeats: 0.0675 675 675 ….

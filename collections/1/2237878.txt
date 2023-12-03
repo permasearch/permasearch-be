@@ -1,0 +1,1 @@
+While there is no single definition of a distributed system,[6] the following defining properties are commonly used:

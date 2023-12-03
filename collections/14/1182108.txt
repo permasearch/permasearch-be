@@ -1,0 +1,1 @@
+If all the weights are equal, then the weighted mean is the same as the arithmetic mean.  While weighted means generally behave in a similar fashion to arithmetic means, they do have a few counterintuitive properties, as captured for instance in Simpson's paradox.

@@ -1,0 +1,1 @@
+Voltmeters can sometimes be used to measure temperature probes, but this task is usually delegated to specialized instruments that will stimulate the probe's sensor (if necessary), measure the probe's output voltage, and convert the voltage to temperature units.

@@ -1,0 +1,1 @@
+In case the source voltage is a sinusoidal function (AC):

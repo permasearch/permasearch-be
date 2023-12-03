@@ -1,0 +1,1 @@
+In some permission systems additional symbols in the ls -l display represent additional permission features:

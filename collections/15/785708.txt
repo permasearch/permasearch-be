@@ -1,0 +1,1 @@
+The Old Mutual Implied Rate (OMIR) is calculated by dividing the Zimbabwe Stock Exchange price of the Old Mutual share by the London Stock Exchange Price for the same share. The answer is the Old Mutual Implied Rate for the Pound. Then a cross rate calculation is done for the USD rate. 6,240,837.51 (OMIR for 21st) 5,787,585.19 (OMIR for 25th) [127]

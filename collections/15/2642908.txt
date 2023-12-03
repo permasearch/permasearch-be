@@ -1,0 +1,1 @@
+Other programming languages, such as Objective-C, have class methods, which can include constructor-type methods, but are not restricted to merely instantiating objects.

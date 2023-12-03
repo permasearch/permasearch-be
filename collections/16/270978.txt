@@ -1,0 +1,1 @@
+This type of pump suffers from high power consumption(~1Â kW) compare to turbomolecular pump (<100W) at low pressure since most power is consumed to back atmospheric pressure. This can be reduced by nearly 10 times by backing with a small pump.[11]

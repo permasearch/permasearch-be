@@ -1,0 +1,1 @@
+After an incident occurs, database forensics can be employed to determine the scope of the breach, and to identify appropriate changes to systems and processes.

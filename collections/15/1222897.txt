@@ -1,0 +1,1 @@
+jQuery also has an interesting software license history.[12] Originally licensed under the CC BY-SA 2.5, it was relicensed to the MIT license in 2006.[13] At the end of 2006, it was dual-licensed under GPL and MIT licenses.[14] As this led to some confusion, in 2012 the GPL was dropped and is now only licensed under the MIT license.[15]

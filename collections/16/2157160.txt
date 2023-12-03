@@ -1,0 +1,1 @@
+A 3rd party sampling: It is introduced from 28.07.2016 first with NTPC. The CIMFR is the third party agency all SCCL dispatch points and now presently it is implemented with all power consumers.

@@ -1,0 +1,1 @@
+The desired level of confidence is set by the researcher (not determined by data). Most commonly, the 95% confidence level is used.[4] However, other confidence levels can be used, for example, 90% and 99%.

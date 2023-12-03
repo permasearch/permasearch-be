@@ -1,0 +1,1 @@
+Primes p for which there are no solutions to Hk ≡ 0 (mod p) and Hk ≡ −ωp (mod p) for 1 ≤ k ≤ p−2, where Hk denotes the k-th harmonic number and ωp denotes the Wolstenholme quotient.[10]

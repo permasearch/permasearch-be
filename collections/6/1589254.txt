@@ -1,0 +1,1 @@
+IBM also developed TSS/360, a time-sharing system for the System/360 Model 67. Overcompensating for their perceived importance of developing a timeshare system, they set hundreds of developers to work on the project. They ended up with a bloated, buggy project that took as long to boot as it did to crash, and ended the project without releasing it.[7]

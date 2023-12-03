@@ -1,0 +1,1 @@
+Thus, a and b are the eigenvalues corresponding to u and v, respectively. By linearity of matrix multiplication, we have that

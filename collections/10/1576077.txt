@@ -1,0 +1,1 @@
+Wi-Fi is "inherently unreliable" and even when two identical Wi-Fi receivers are placed within close proximity of each other, they do not exhibit similar patterns of packet loss, as one might expect.[5]

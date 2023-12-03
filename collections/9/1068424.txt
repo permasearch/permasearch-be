@@ -1,0 +1,1 @@
+Initially Canonical maintained two discrete versions of Unity, which were visually almost indistinguishable but technically different.

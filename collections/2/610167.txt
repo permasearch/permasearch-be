@@ -1,0 +1,1 @@
+The Galaxy S comes with support for many multimedia file formats, including audio codecs (FLAC, WAV, Vorbis, MP3, AAC, AAC+, eAAC+, WMA, AMR-NB, AMR-WB, MID, AC3, XMF), video codecs (mpeg4, H.264, H.263, Sorenson codec, DivX HD/ XviD, VC-1) and video formats (3GP (MPEG-4), WMV (Advanced Systems Format), AVI (divx), MKV, FLV).

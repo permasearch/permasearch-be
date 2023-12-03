@@ -1,0 +1,1 @@
+Together with the property of equal-length sides, this implies that every regular polygon also has an inscribed circle or incircle that is tangent to every side at the midpoint. Thus a regular polygon is a tangential polygon.

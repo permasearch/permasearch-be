@@ -1,0 +1,1 @@
+Windows 7 adds the ability to change the DPI by doing only a log off, not a full reboot and makes it a per-user setting. Additionally, Windows 7 reads the monitor DPI from the EDID and automatically sets the system DPI value to match the monitor's physical pixel density, unless the effective resolution is less than 1024 x 768.

@@ -1,0 +1,1 @@
+Unicode has two characters encoding the symbol, U+2625 â˜¥ in the widely-supported Miscellaneous Symbols block and U+132F9 ð“‹¹ in the more recent Egyptian Hieroglyphs block.

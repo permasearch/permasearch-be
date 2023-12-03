@@ -1,0 +1,1 @@
+In general, the incremental amount of work per unit volume δW needed to cause a small change of magnetic field δB is:

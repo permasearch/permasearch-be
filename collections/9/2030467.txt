@@ -1,0 +1,1 @@
+Square roots of negative numbers can be discussed within the framework of complex numbers. More generally, square roots can be considered in any context in which a notion of "squaring" of some mathematical objects is defined (including algebras of matrices, endomorphism rings, etc.)

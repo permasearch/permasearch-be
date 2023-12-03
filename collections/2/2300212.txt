@@ -1,0 +1,1 @@
+r  /  [ ( 1 − f ) ∗ r + f ]   {\displaystyle r/[(1-f)*r+f]}

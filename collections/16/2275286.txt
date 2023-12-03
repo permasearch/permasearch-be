@@ -1,0 +1,1 @@
+A YAC is built using an initial circular DNA plasmid, which is typically cut into a linear DNA molecule using restriction enzymes; DNA ligase is then used to ligate a DNA sequence or gene of interest into the linearized DNA, forming a single large, circular piece of DNA.[2] The basic generation of linear yeast artificial chromosomes can be broken down into 6 main steps:

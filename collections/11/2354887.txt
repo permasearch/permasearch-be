@@ -1,0 +1,1 @@
+The combined stylus motion is, in terms of the vector, the sum and difference of the two stereo channels. Effectively, all horizontal stylus motion conveys the L+R sum signal, and vertical stylus motion carries the Lâˆ’R difference signal. The advantages of the 45/45 system are that it has greater compatibility with monophonic recording and playback systems.

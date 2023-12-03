@@ -1,0 +1,1 @@
+which is valid for all real x, can be used to put the formula for the nth roots of unity into the form

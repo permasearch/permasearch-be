@@ -1,0 +1,1 @@
+In most programming languages, all basic data types are built-in. In addition, many languages also provide a set of composite data types. Opinions vary as to whether a built-in type that is composite should be considered "primitive".[citation needed]

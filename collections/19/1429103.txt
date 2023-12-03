@@ -1,0 +1,1 @@
+For example, think of A as Authors, and B as Books. An Author can write several Books, and a Book can be written by several Authors.

@@ -1,0 +1,1 @@
+Every state of a bipartite graph has an even period.

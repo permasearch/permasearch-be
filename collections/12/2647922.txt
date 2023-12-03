@@ -1,0 +1,1 @@
+Multiple inheritance allows programmers to use more than one totally orthogonal hierarchy simultaneously, such as allowing Cat to inherit from Cartoon character and Pet and Mammal and access features from within all of those classes.

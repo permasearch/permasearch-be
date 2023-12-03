@@ -1,0 +1,1 @@
+Because the before and after volumes and pressures of the fixed amount of gas, where the before and after temperatures are the same both equal the constant k, they can be related by the equation:

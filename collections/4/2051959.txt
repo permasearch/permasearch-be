@@ -1,0 +1,1 @@
+This shows that the two definitions are equivalent, but as mentioned above, the two encoding schemes (fixed values versus fixed polynomial) produce different codewords, and require different decoders.

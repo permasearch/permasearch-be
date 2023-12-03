@@ -1,0 +1,1 @@
+Using the binomial theorem, the expression on the right can be expanded, and then the real and imaginary parts can be taken to yield formulas for cos(nx) and sin(nx). For example, since

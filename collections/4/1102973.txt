@@ -1,0 +1,1 @@
+If both poles are small enough to be represented as single points then they can be considered to be point magnetic charges. Classically, the force between two magnetic poles is given by:[2]

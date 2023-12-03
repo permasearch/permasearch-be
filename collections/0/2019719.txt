@@ -1,0 +1,1 @@
+The Windows shell, as it is known today, is an evolution of what began with Windows 95, released in 1995. It is intimately identified with File Explorer, a Windows component that can browse the whole shell namespace.

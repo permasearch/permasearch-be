@@ -1,0 +1,1 @@
+The overall objective is to be the player with the fewest points by the end of the game.

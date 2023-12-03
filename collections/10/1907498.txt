@@ -1,0 +1,1 @@
+An attack usually is perpetrated by someone with bad intentions: black hatted attacks falls in this category, while other perform penetration testing on an organization information system to find out if all foreseen controls are in place.

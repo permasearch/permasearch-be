@@ -1,0 +1,1 @@
+A consequence is that Ï€ can be obtained from the functional determinant of the harmonic oscillator. This functional determinant can be computed via a product expansion, and is equivalent to the Wallis product formula.[179] The calculation can be recast in quantum mechanics, specifically the variational approach to the spectrum of the hydrogen atom.[180]

@@ -1,0 +1,1 @@
+To see how NOR gate logic was used in the Apollo Guidance Computer's ALU, visit http://klabs.org/history/ech/agc_schematics/index.htm, select any of the 4-BIT MODULE entries in the Index to Drawings, and expand images as desired.

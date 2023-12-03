@@ -1,0 +1,1 @@
+Hardware-based features can be combined with scripting to automate maintenance and service.[1]

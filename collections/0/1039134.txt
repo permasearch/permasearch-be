@@ -1,0 +1,1 @@
+The single-vehicle crashes are classified into two groups: run-off-road (ROR), and on-road (OR) crashes in which the vehicle remains on the road after the crash. ROR crashes can account for up to 70% of the fatal single-vehicle crashes.

@@ -1,0 +1,1 @@
+Compared to the expression of the output voltage gain for the continuous mode, this expression is much more complicated. Furthermore, in discontinuous operation, the output voltage not only depends on the duty cycle, but also on the inductor value, the input voltage and the output current.

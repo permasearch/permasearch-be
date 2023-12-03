@@ -1,0 +1,1 @@
+Adaptive cruise Control does not provide full autonomy: the system only provides some help to the driver, but does not drive the car by itself[2].

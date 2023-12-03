@@ -1,0 +1,1 @@
+Shortly after shared computing made its debut in the early 1960s individuals began seeking ways to exploit security vulnerabilities for personal gain.[1] As a result, engineers and computer scientists soon began developing threat modeling concepts for information technology systems.

@@ -1,0 +1,1 @@
+Wiring is subject to safety standards for design and installation. Allowable wire and cable types and sizes are specified according to the circuit operating voltage and electric current capability, with further restrictions on the environmental conditions, such as ambient temperature range, moisture levels, and exposure to sunlight and chemicals.

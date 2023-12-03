@@ -1,0 +1,1 @@
+Matrices have the Frobenius inner product, which is analogous to the vector inner product. It is defined as the sum of the products of the corresponding components of two matrices A and B having the same size:

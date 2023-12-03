@@ -1,0 +1,1 @@
+COBOL's conditional statements are IF and EVALUATE. EVALUATE is a switch-like statement with the added capability of evaluating multiple values and conditions. This can be used to implement decision tables. For example, the following might be used to control a CNC lathe:

@@ -1,0 +1,1 @@
+Thales' theorem states that an angle inscribed in a semicircle (with a vertex on the semicircle and its defining rays going through the endpoints of the semicircle) is a right angle.

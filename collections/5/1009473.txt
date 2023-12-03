@@ -1,0 +1,1 @@
+In addition, if the material is symmetric with respect to the transformation [L] then

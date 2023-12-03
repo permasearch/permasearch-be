@@ -1,0 +1,1 @@
+If the new title already exists and isn't just a redirect to the old title, with no history, and you are not an administrator, the wiki will tell you that you can't rename the page. If this happens, list the move at Requested moves, or (if the replacement of the existing page merits further discussion) nominate the existing page for deletion (typically via Articles for deletion).

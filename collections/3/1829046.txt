@@ -1,0 +1,1 @@
+Consider √2√2; if this is rational, then take a = b = √2. Otherwise, take a to be the irrational number √2√2 and b = √2. Then ab = (√2√2)√2 = √2√2·√2 = √22 = 2, which is rational.

@@ -1,0 +1,1 @@
+a =  (    COMP   ATT    − .3 )  × 5   {\displaystyle a=\left({{\text{COMP}} \over {\text{ATT}}}-.3\right)\times 5}

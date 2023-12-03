@@ -1,0 +1,1 @@
+The design goal of the Shuttle's DPS was fail-operational/fail-safe reliability. After a single failure, the Shuttle could still continue the mission. After two failures, it could still land safely.

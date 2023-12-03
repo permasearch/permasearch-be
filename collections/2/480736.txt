@@ -1,0 +1,1 @@
+has no solutions, as can be seen by subtracting the first equation from the second to obtain the impossible 0 = 1.

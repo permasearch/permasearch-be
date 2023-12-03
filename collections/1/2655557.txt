@@ -1,0 +1,1 @@
+Mixtures with two distinct components need not be bimodal and two component mixtures of unimodal component densities can have more than two modes. There is no immediate connection between the number of components in a mixture and the number of modes of the resulting density.

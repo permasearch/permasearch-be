@@ -1,0 +1,1 @@
+There are, however, people working on adding "device support" (device API) to the HTML5 specification, which would allow for videoconferencing, access to webcams, microphones, USB-thumbdrives and other USB- or serial devices.[81][82]

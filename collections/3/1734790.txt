@@ -1,0 +1,1 @@
+These electric circuits can also easily perform a wide variety of simulations. For example, voltage can simulate water pressure and electric current can simulate rate of flow in terms of cubic metres per second. An integrator can provide the total accumulated volume of liquid, using an input current proportional to the (possibly varying) flow rate.

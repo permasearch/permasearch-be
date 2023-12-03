@@ -1,0 +1,1 @@
+Rectangles are involved in many tiling problems, such as tiling the plane by rectangles or tiling a rectangle by polygons.

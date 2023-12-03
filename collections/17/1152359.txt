@@ -1,0 +1,1 @@
+but the intermolecular potential necessitates two modifications to z. First, because of the finite size of the particles, not all of V is available, but only V âˆ’ Nb', where (just as in the conventional derivation above)

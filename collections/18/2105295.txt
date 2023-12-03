@@ -1,0 +1,1 @@
+Let M be a monoid, with the binary operation denoted by • and the identity element denoted by e. Then a (left) M-act (or left act over M) is a set X together with an operation ⋅ : M × X → X which is compatible with the monoid structure as follows:

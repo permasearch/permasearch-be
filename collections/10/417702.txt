@@ -1,0 +1,1 @@
+where the      z  i     {\displaystyle z_{i}}   values are the standardized data values using the standard deviation defined using n rather than n − 1 in the denominator.

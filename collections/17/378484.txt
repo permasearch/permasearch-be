@@ -1,0 +1,1 @@
+The range of photonic energies emitted by the system can be adjusted by changing the applied voltage, and installing aluminum filters of varying thicknesses. Aluminum filters are installed in the path of the X-ray beam to remove "soft" (non-penetrating) radiation. The number of emitted X-ray photons, or dose, are adjusted by controlling the current flow and exposure time.

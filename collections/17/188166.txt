@@ -1,0 +1,1 @@
+More generally, this applies for an ordered field; see #Ordered fields.

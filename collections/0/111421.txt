@@ -1,0 +1,1 @@
+which increases without bound as n goes to infinity. Because the sequence of partial sums fails to converge to a finite limit, the series does not have a sum.

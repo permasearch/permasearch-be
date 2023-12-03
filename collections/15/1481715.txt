@@ -1,0 +1,1 @@
+There are two basic operational modes of 8255:

@@ -1,0 +1,1 @@
+The filter layer is used above the drainage layer in leachate collection. There are two types of filters typically used in engineering practices: granular and geotextile. Granular filters consist of one or more soil layers or multiple layers having a coarser gradation in the direction of the seepage than the soil to be protected.

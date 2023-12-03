@@ -1,0 +1,1 @@
+where      ω  2     {\displaystyle \omega ^{2}}   is the eigenvalue and     ω   {\displaystyle \omega }   is the (imaginary) angular frequency. Note that the principal vibration modes are different from the principal compliance modes, which are the eigenvectors of     k   {\displaystyle k}   alone. Furthermore, damped vibration, governed by

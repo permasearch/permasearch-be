@@ -1,0 +1,1 @@
+The space of integrable functions on a given domain     Ω   {\displaystyle \Omega }   (for example an interval) satisfying       ‖  f  ‖   p   < ∞   {\displaystyle \left\Vert {f}\right\Vert _{p}<\infty }  , and equipped with this norm are called Lebesgue spaces, denoted      L    p    ( Ω )    {\displaystyle L^{\;\!p}\left(\Omega \right)}  .[nb 10]

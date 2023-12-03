@@ -1,0 +1,1 @@
+A heating element, whose power may range from a few hundred to a few thousand watts, can also be incorporated to the stirrer to allow the reaction flask to be heated and stirred at the same time. The maximum reachable fluid temperature depends on the size of the flask, the quantity of solution to be heated, and the power of the heating element.

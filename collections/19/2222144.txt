@@ -1,0 +1,1 @@
+A binary heap is defined as a binary tree with two additional constraints:[3]

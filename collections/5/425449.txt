@@ -1,0 +1,1 @@
+A useful concept in understanding the perceived color of a non-monochromatic light source is the dominant wavelength, which identifies the single wavelength of light that produces a sensation most similar to the light source. Dominant wavelength is roughly akin to hue.

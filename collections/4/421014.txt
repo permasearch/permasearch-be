@@ -1,0 +1,1 @@
+By subsequently integrating over the solid angle     Ω   {\displaystyle \Omega }   (where     θ < π  /  2   {\displaystyle \theta <\pi /2}  ) the Stefan–Boltzmann law is calculated, stating that the power j* emitted per unit area of the surface of a black body is directly proportional to the fourth power of its absolute temperature:

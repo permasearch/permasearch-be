@@ -1,0 +1,1 @@
+NORMAL OPERATING MODE: Partial body SAR = 10 W/kg – (8 W/kg * exposed patient mass / patient mass) FIRST LEVEL CONTROLLED OPERATING MODE: Partial body SAR = 10 W/kg – (6 W/kg * exposed patient mass / patient mass)

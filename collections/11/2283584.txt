@@ -1,0 +1,1 @@
+A physical example of this inequality is the twin paradox in special relativity. The same reversed form of the inequality holds if both vectors lie in the past light cone, and if one or both are null vectors. The result holds in n+1 dimensions for any nâ‰¥1.  If x and y are both spacelike then the usual triangle inequality holds.

@@ -1,0 +1,1 @@
+A PCI Express card fits into a slot of its physical size or larger (with ×16 as the largest used), but may not fit into a smaller PCI Express slot; for example, a ×16 card may not fit into a ×4 or ×8 slot. Some slots use open-ended sockets to permit physically longer cards and negotiate the best available electrical and logical connection.

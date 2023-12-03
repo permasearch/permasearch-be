@@ -1,0 +1,1 @@
+The energy of oscillation, or the power dissipation, decays twice as fast, that is, as the square of the amplitude, as e−2αt or e− 2t⁄τ.

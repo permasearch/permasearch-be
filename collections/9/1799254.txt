@@ -1,0 +1,1 @@
+According to Wall, Perl has two slogans. The first is "There's more than one way to do it", commonly known as TMTOWTDI. The second slogan is "Easy things should be easy and hard things should be possible".[14]

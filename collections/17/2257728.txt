@@ -1,0 +1,1 @@
+In Ruby, in contrast, only nil (Ruby's null value) and a special false object are false, all else (including the integer 0 and empty arrays) is true.

@@ -1,0 +1,1 @@
+where      B  ⋅ ∇   {\displaystyle \mathbf {B} \cdot \nabla }   is the directional derivative in the direction of      B    {\displaystyle \mathbf {B} }   multiplied by its magnitude. Specifically, for the outer product of two vectors,

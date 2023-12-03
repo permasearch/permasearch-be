@@ -1,0 +1,1 @@
+For setuid binaries a possible solution is to use the seteuid() system call to change the effective user and then perform the open(). Differences in setuid() between operating systems can be problematic.[13]

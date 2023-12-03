@@ -1,0 +1,1 @@
+GP = Games played; TOI = Time on ice (in minutes); SA = Shots against; GA = Goals against; SO = Shutouts; GAA = Goals against average; SV% = Save percentage; W = Wins; L = Losses; OT = Overtime/shootout loss

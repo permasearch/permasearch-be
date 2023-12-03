@@ -1,0 +1,1 @@
+The road database is a vector map. Street names or numbers and house numbers, as well as points of interest (waypoints), are encoded as geographic coordinates. This enables users to find a desired destination by street address or as geographic coordinates. (See map database management.)

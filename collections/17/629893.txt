@@ -1,0 +1,1 @@
+The term "generalized linear model", and especially its abbreviation GLM, are sometimes confused with general linear model. Co-originator John Nelder has expressed regret over this terminology.[8]

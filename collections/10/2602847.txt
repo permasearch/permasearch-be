@@ -1,0 +1,1 @@
+Hartigan and Wong's method[8] provides a more sophisticated though more computationally expensive way to perform kmeans. It is still a heuristic method.

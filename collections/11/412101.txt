@@ -1,0 +1,1 @@
+The usual notation for the square of a number n is not the product n × n, but the equivalent exponentiation n2, usually pronounced as "n squared". The name square number comes from the name of the shape; see below.

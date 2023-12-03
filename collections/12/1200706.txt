@@ -1,0 +1,1 @@
+A control break is a value change detection method used within ordinary loops to trigger processing for groups of values.  Values are monitored within the loop and a change diverts program flow to the handling of the group event associated with them.

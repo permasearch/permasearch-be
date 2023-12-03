@@ -1,0 +1,1 @@
+where dF is the force on a small piece of the charge distribution with charge dq. If both sides of this equation are divided by the volume of this small piece of the charge distribution dV, the result is:

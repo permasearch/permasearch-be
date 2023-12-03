@@ -1,0 +1,1 @@
+Packet loss can reduce throughput for a given sender, whether unintentionally due to network malfunction, or intentionally as a means to balance available bandwidth between multiple senders when a given router or network link reaches nears its maximum capacity.[10]

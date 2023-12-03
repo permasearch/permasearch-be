@@ -1,0 +1,1 @@
+Support for virtual 8086 mode is not available in x86-64 long mode, although it is still present on 64-bit capable processors running in legacy mode.

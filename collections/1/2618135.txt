@@ -1,0 +1,1 @@
+When someone asks a person a question such as "What is your name?", the person automatically knows the answer. However, when someone asks a person a question such as "What was the fifth dinosaur ever discovered?", the person also automatically knows that he or she does not know the answer.

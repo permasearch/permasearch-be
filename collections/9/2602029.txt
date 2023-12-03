@@ -1,0 +1,1 @@
+(16) Definition of given: An utterance of U counts as given if it has a salient antecedent A and

@@ -1,0 +1,1 @@
+because this agrees with the earlier definition in the case where w is a positive real number and the (real) principal value of log w is used.

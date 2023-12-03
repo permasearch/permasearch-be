@@ -1,0 +1,1 @@
+where s is displacement along the line. If F is constant, in addition to being directed along the line, then the integral simplifies further to

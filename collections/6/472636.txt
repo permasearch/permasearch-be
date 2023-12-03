@@ -1,0 +1,1 @@
+DirectAccess With Windows Server 2008 R2 or UAG requires:

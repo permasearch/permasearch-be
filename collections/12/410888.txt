@@ -1,0 +1,1 @@
+Although this is supposed to be a metallic color, there is no mechanism for displaying metallic colors on a computer.

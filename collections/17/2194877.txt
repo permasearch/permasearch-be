@@ -1,0 +1,1 @@
+Interoperability requirements differ based on the implementation chosen. For example, virtualization implemented within a storage controller adds no extra overhead to host based interoperability, but will require additional support of other storage controllers if they are to be virtualized by the same software.

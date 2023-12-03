@@ -1,0 +1,1 @@
+With the same example, using a larger Gaussian surface outside the shell where r > R, Gauss's law will produce a non-zero electric field. This is determined as follows.

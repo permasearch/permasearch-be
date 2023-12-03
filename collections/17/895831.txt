@@ -1,0 +1,1 @@
+As well as DAO and ADO, developers can also use OLE DB and ODBC for developing native C/C++ programs for Access.[33] For ADPs and the direct manipulation of SQL Server data, ADO is required. DAO is most appropriate for managing data in Access/Jet databases, and the only way to manipulate the complex field types in ACCDB tables.

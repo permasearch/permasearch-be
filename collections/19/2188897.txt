@@ -1,0 +1,1 @@
+So, if the armature connects the ends of two such semi-infinite wires separated by a distance,     d   {\displaystyle d}  , a fairly good approximation assuming the length of the wires is much larger than     d   {\displaystyle d}  , the total field from both wires at any point on the armature is:

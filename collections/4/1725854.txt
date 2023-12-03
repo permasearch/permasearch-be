@@ -1,0 +1,1 @@
+Non-static environments, such as those containing other vehicles or pedestrians, continue to present research challenges. SLAM with DATMO is a model which tracks moving objects in a similar way to the agent itself.[14]

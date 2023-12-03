@@ -1,0 +1,1 @@
+The exclusive-or explicitly states "one or the other, but not neither nor both." However, the mapping correspondence between formal Boolean operators and natural language conjunctions is far from simple or one-to-one, and has been studied for decades in linguistics and analytic philosophy.[citation needed]

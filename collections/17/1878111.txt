@@ -1,0 +1,1 @@
+Ordinary things, such as existence of a file or time used for a computation, have been the medium through which a covert channel communicates. Covert channels are not easy to find because these media are so numerous and frequently used.

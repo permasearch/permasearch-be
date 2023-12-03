@@ -1,0 +1,1 @@
+It should be noted though that in some cases protocol standards are not sufficient to gain widespread acceptance i.e. sometimes the source code needs to be disclosed and enforced by law or the government in the interest of the public.

@@ -1,0 +1,1 @@
+To determine visibility, automated airport weather stations use one of two sensor types:

@@ -1,0 +1,1 @@
+As web technology developed, many of the purposes for which frames were used became possible in ways that avoided the problems identified with frames.

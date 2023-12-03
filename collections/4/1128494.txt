@@ -1,0 +1,1 @@
+A consequence of zone bit recording is that contiguous reads and writes are noticeably faster on outer tracks (corresponding to lower block addresses) than on inner tracks, as more bits pass under the head with each rotation; this difference can be 25% or more.

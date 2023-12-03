@@ -1,0 +1,1 @@
+Gradation is usually specified for each engineering application it is used for. For example, foundations might only call for coarse aggregates, and therefore an open gradation is needed.

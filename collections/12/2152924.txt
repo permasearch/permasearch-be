@@ -1,0 +1,1 @@
+Dialing plans vary from place to place depending on whether an area has overlays (multiple area codes serving the same area) and whether the state requires toll alerting (a leading 1+ for toll calls). The NANPA web site includes dialing plan information in their information on individual area codes.

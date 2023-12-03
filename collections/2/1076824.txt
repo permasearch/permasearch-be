@@ -1,0 +1,1 @@
+Some of these extensions to the relational model integrate concepts from technologies that pre-date the relational model. For example, they allow representation of a directed graph with trees on the nodes. The German company sones implements this concept in its GraphDB.

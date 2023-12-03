@@ -1,0 +1,1 @@
+The velocity v of the point of contact on the pitch circles is the same on both gears, and is given by

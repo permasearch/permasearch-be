@@ -1,0 +1,1 @@
+These numbers are six digits long, formatted into three pairs which are separated by hyphens.

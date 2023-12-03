@@ -1,0 +1,1 @@
+2. Avoid absolute judgment limits. Do not ask the user to determine the level of a variable on the basis of a single sensory variable (e.g. colour, size, loudness). These sensory variables can contain many possible levels.

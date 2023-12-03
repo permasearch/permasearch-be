@@ -1,0 +1,1 @@
+For every     x ∈  A  i   ,   {\displaystyle x\in A_{i},}       t ⋅ s ( x ) ≤  f  k   ( x )   {\displaystyle t\cdot s(x)\leq f_{k}(x)}   holds if and only if      f  k   ( x ) ∈ [ t ⋅  c  i   , + ∞ ] .   {\displaystyle f_{k}(x)\in [t\cdot c_{i},+\infty ].}   Given that the sets      A  i     {\displaystyle A_{i}}   are pairwise disjoint,

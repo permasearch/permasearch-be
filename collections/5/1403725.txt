@@ -1,0 +1,1 @@
+The self cross product of a vector is the zero vector:

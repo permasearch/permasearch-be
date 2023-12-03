@@ -1,0 +1,1 @@
+When sound spreads out evenly in all directions in three dimensions, the intensity drops in proportion to the inverse square of the distance. However, in the ocean there is a layer called the 'deep sound channel' or SOFAR channel which can confine sound waves at a particular depth.

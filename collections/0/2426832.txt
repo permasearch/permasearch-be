@@ -1,0 +1,1 @@
+ARM Mali T760 GPU (South Korea version)

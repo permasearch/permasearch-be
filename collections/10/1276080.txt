@@ -1,0 +1,1 @@
+With PNRP, peer names are composed of an "authority" and a "qualifier". The authority is identified by a secure hash of an associated public key, or by a place-holder (the number zero) if the peer name is "unsecured". The qualifier is a string, allowing an authority to have different peer names for different services.[154]

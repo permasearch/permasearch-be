@@ -1,0 +1,1 @@
+Smaller documents such as identity and passport cards are usually in the TD1 size, which is 85.6 × 54.0 mm (3.37 × 2.13 in), the same size as credit cards. The data of the machine-readable zone in a TD1 size card consists of three rows of 30 characters each. The only characters used are A–Z, 0–9 and the filler character <.

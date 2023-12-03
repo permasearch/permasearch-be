@@ -1,0 +1,1 @@
+Solar cells share some of the same processing and manufacturing techniques as other semiconductor devices. However, the stringent requirements for cleanliness and quality control of semiconductor fabrication are more relaxed for solar cells, lowering costs.

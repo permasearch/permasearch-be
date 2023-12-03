@@ -1,0 +1,1 @@
+In terms of the standard steps, this moves the base case check before the recursive step. Alternatively, these can be considered a different form of base case and recursive step, respectively. Note that this requires a wrapper function to handle the case when the tree itself is empty (root node is Null).

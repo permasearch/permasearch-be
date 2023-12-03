@@ -1,0 +1,1 @@
+If the two data points nearest the point      x  ∗     {\displaystyle x_{*}}   to be extrapolated are     (  x  k − 1   ,  y  k − 1   )   {\displaystyle (x_{k-1},y_{k-1})}   and     (  x  k   ,  y  k   )   {\displaystyle (x_{k},y_{k})}  , linear extrapolation gives the function:

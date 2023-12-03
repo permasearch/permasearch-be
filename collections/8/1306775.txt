@@ -1,0 +1,1 @@
+In medical data exchange according to the Health Level 7 (HL7) standard, the Âµ can be replaced by u as well.[14]

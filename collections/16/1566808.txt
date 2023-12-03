@@ -1,0 +1,1 @@
+with     ϕ   {\displaystyle \phi }   being a row vector, such that all elements in     ϕ   {\displaystyle \phi }   are greater than 0 and      |   |  ϕ  |    |   1     {\displaystyle ||\phi ||_{1}}   = 1. From this, π may be found as

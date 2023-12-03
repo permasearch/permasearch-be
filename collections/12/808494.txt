@@ -1,0 +1,1 @@
+In typical usage, the formal definition of O notation is not used directly; rather, the O notation for a function f is derived by the following simplification rules:

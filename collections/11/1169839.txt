@@ -1,0 +1,1 @@
+CERN operates a network of six accelerators and a decelerator. Each machine in the chain increases the energy of particle beams before delivering them to experiments or to the next more powerful accelerator. Currently active machines are:

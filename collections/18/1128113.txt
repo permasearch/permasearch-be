@@ -1,0 +1,1 @@
+This is a comparison of mail servers: mail transfer agents, mail delivery agents, and other computer software that provide e-mail services.

@@ -1,0 +1,1 @@
+If there is more air being forced into a system than being pumped out (due to an imbalance in the number of fans), this is referred to as a 'positive' airflow, as the pressure inside the unit is higher than outside.

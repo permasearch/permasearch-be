@@ -1,0 +1,1 @@
+During a migration of the walmart.com retail platform to Facebook React and Node.js, the Electrode[228] project was created to power the e-commerce platform which serves 80 million visitors per month and 15 million items.

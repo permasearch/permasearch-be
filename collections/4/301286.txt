@@ -1,0 +1,1 @@
+Stroke volume is intrinsically controlled by preload (the degree to which the ventricles are stretched prior to contracting). An increase in the volume or speed of venous return will increase preload and, through the Frank–Starling law of the heart, will increase stroke volume. Decreased venous return has the opposite effect, causing a reduction in stroke volume.

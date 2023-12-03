@@ -1,0 +1,1 @@
+Changes in bank rate are introduced with a view to controlling the price levels and business activity, by changing the demand for loans. Its working is based upon the principle that changes in the bank rate results in changed interest rate in the market.

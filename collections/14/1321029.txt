@@ -1,0 +1,1 @@
+A kinematic pair is a connection between two bodies that imposes constraints on their relative movement. Franz Reuleaux introduced the kinematic pair as a new approach to the study of machines[1] that provided an advance over the motion of elements consisting of simple machines.[2]

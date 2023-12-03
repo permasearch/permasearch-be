@@ -1,0 +1,1 @@
+Assemblies residing in the GAC must adhere to a specific versioning scheme which allows for side-by-side execution of different code versions. Specifically, such assemblies must be strongly named.

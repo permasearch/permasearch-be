@@ -1,0 +1,1 @@
+Converts an executable (.exe) file into a binary file with the extension .com, which is a memory image of the program.

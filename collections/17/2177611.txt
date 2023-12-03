@@ -1,0 +1,1 @@
+Although the protocol was designed to be very reliable, it was not designed to be secure from attacks by hackers and other malevolent forces that could potentially wish to disrupt control systems to disable critical infrastructure.[citation needed]

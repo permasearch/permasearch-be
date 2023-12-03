@@ -1,0 +1,1 @@
+Java bytecode is intended to be platform-independent and secure.[13] Some JVM implementations do not include an interpreter, but consist only of a just-in-time compiler.[14]

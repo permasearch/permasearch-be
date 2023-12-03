@@ -1,0 +1,1 @@
+Alternatively, an en-dash followed by a (non-breaking) space can be used to denote the beginning of quoted speech, in which case the end of the quotation is not specifically denoted (see section Quotation dash below). A line-break should not be allowed between the en-dash and the first word of the quotation.

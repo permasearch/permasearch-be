@@ -1,0 +1,1 @@
+If all the partial derivatives of a function exist and are continuous in a neighborhood of a point, then the function is differentiable at that point, and it is of class C1.

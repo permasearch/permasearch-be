@@ -1,0 +1,1 @@
+If an artifact is found to have radioactivity of 4 dpm per gram of its present C, we can find the approximate age of the object using the above equation:

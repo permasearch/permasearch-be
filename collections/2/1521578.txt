@@ -1,0 +1,1 @@
+IBM PC DOS 2.0 introduced the FDISK utility to set up and maintain MBR partitions. When a storage device has been partitioned according to this scheme, its MBR contains a partition table describing the locations, sizes, and other attributes of linear regions referred to as partitions.

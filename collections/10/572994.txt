@@ -1,0 +1,1 @@
+The rotating magnetic field is a key principle in the operation of alternating-current motors. A permanent magnet in such a field rotates so as to maintain its alignment with the external field. This effect was conceptualized by Nikola Tesla, and later utilized in his, and others', early AC (alternating current) electric motors.

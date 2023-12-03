@@ -1,0 +1,1 @@
+When sufficient forward voltage is applied, a current flows in the forward direction. A silicon diode has a typical forward voltage of 600–700 mV, while the Schottky's forward voltage is 150–450 mV. This lower forward voltage requirement allows higher switching speeds and better system efficiency.

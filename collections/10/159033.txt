@@ -1,0 +1,1 @@
+The synthetase first binds ATP and the corresponding amino acid (or its precursor) to form an aminoacyl-adenylate, releasing inorganic pyrophosphate (PPi). The adenylate-aaRS complex then binds the appropriate tRNA molecule's D arm, and the amino acid is transferred from the aa-AMP to either the 2'- or the 3'-OH of the last tRNA nucleotide (A76) at the 3'-end.

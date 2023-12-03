@@ -1,0 +1,1 @@
+The block names (s, p, d, f and g) are derived from the spectroscopic notation for the associated atomic orbitals: sharp, principal, diffuse and fundamental, and then g which follows f in the alphabet.

@@ -1,0 +1,1 @@
+The performance of aspect ratio AR  related to the lift-to-drag-ratio and wingtip vortices is illustrated in the formula used to calculate the drag coefficient of an aircraft      C  d      {\displaystyle C_{d}\;}  [12][13][14]

@@ -1,0 +1,1 @@
+For example, if the value being sought occurs once in the list, and all orderings of the list are equally likely, the expected number of comparisons is        n + 1  2     {\displaystyle {\frac {n+1}{2}}}  . However, if it is known that it occurs once, then at most n - 1 comparisons are needed, and the expected number of comparisons is

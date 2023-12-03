@@ -1,0 +1,1 @@
+Deadlocks can also occur among three or more transactions. The more transactions involved, the more difficult they are to detect, to the point that transaction processing systems find there is a practical limit to the deadlocks they can detect.

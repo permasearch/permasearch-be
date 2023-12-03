@@ -1,0 +1,1 @@
+Here is an example:  Suppose you have the data set 1.0, 1.0, 2.0, 3.0, 3.0, 4.0, 5.0, 5.0, 5.0.

@@ -1,0 +1,1 @@
+A 77 level-number indicates the item is stand-alone, and in such situations is equivalent to the level-number 01. For example, the following code declares two 77-level data items, property-name and sales-region, which are non-group data items that are independent of (not subordinate to) any other data items:

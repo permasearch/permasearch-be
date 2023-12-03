@@ -1,0 +1,1 @@
+Again all four quantities p, q, r, s are real numbers, and r may not be 0.

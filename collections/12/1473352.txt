@@ -1,0 +1,1 @@
+Shooting percentage is the percentage of shots on goal which result in a goal.

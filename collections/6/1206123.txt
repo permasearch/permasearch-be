@@ -1,0 +1,1 @@
+ω =   1  L C      {\displaystyle \omega ={\frac {1}{\sqrt {LC}}}}

@@ -1,0 +1,1 @@
+To reduce the memory consumed by the call stack when computing a large Fibonacci term, a tail-recursive version can be used. A tail-recursive function is implemented by the SequenceL compiler as a memory-efficient looping structure:

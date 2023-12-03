@@ -1,0 +1,1 @@
+The name dd is an allusion to the DD statement found in IBM's Job Control Language (JCL),[3][4] in which the initials stand for "Data Definition".[5] The command's syntax resembles the JCL statement more than it does other Unix commands, so the syntax may have been a joke.[3]

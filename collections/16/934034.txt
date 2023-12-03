@@ -1,0 +1,1 @@
+Let {P1 ,P2, P3, P4} be the points of a tetrahedron. Let Δi be the area of the face opposite vertex Pi and let θij be the dihedral angle between the two faces of the tetrahedron adjacent to the edge PiPj.

@@ -1,0 +1,1 @@
+and so     A = 2.   {\displaystyle A=2.}   One sees that imposing boundary conditions allowed one to determine a unique solution, which in this case is

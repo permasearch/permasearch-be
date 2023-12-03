@@ -1,0 +1,1 @@
+Let x1, ..., xn be the numbers observed in a sample from a continuously distributed population with expected value Î¼. The sample mean and sample variance are given by:

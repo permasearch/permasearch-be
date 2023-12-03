@@ -1,0 +1,1 @@
+For instance, working with a byte (the char type):

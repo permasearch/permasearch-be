@@ -1,0 +1,1 @@
+Microelectromechanical systems (or MEMS) barometers are extremely small devices between 1 and 100 micrometres in size (i.e. 0.001 to 0.1Â mm). They are created via photolithography or photochemical machining. Typical applications include miniaturized weather stations, electronic barometers and altimeters.[16]

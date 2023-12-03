@@ -1,0 +1,1 @@
+If Y is a vector of k i.i.d. standard normal random variables and A is a k×k symmetric, idempotent matrix with rank k−n then the quadratic form YTAY is chi-squared distributed with k−n degrees of freedom.

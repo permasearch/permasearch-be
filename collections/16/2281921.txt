@@ -1,0 +1,1 @@
+Differentiating equation 1.1 give an expression for how the rate of population increases as t increases.  At first, the population growth rate is fast, but it begins to slow as times goes on until it levels off to the maximum growth rate, after which it begins to decrease (figure 2).

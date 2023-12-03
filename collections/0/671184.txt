@@ -1,0 +1,1 @@
+Δ f =  ∇  2   f = ∇ ⋅ ∇ f   {\displaystyle \Delta f=\nabla ^{2}f=\nabla \cdot \nabla f}

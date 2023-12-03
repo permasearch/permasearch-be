@@ -1,0 +1,1 @@
+The Lazarus IDE may be used to develop Android applications using Object Pascal (and other Pascal dialects), based on the Free Pascal compiler starting from version 2.7.1.

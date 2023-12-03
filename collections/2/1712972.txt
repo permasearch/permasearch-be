@@ -1,0 +1,1 @@
+The number of real solutions of a polynomial equation with real coefficients may not exceed the degree, and equals the degree when the complex solutions are counted with their multiplicity. This fact is called the fundamental theorem of algebra.

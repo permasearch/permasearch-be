@@ -1,0 +1,1 @@
+Any quadrilateral that is not self-intersecting is a simple quadrilateral.

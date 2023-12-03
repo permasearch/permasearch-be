@@ -1,0 +1,1 @@
+For the untyped lambda calculus, Î²-reduction as a rewriting rule is neither strongly normalising nor weakly normalising.

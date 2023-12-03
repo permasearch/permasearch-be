@@ -1,0 +1,1 @@
+Most consecutive matches without a draw[note 143]

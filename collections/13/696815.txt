@@ -1,0 +1,1 @@
+The heater and protection thermostats were originally designed for the Command Module's 28-volt DC bus. The specifications for the heater and thermostat were later changed to allow a 65-volt ground supply, in order to pressurize the tanks more rapidly. Beechcraft, the tank subcontractor, did not upgrade the thermostat to handle the higher voltage.

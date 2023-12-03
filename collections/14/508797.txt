@@ -1,0 +1,1 @@
+The Ace-high straight flush or royal flush is slightly more frequent (4324) than the lower straight flushes (4140 each) because the remaining two cards can have any value; a King-high straight flush, for example, cannot have the Ace of its suit in the hand (as that would make it ace-high instead).

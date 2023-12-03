@@ -1,0 +1,1 @@
+The limit state criteria can also be set in terms of load rather than stress: using this approach the structural element being analysed (i.e. a beam or a column or other load bearing elements, such as walls) is shown to be safe when the "Magnified" loads are less than the relevant "Reduced" resistances.

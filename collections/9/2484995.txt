@@ -1,0 +1,1 @@
+In Microsoft Windows 7 and above, the loader is the LdrInitializeThunk function contained in ntdll.dll, that does the following:

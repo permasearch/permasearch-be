@@ -1,0 +1,1 @@
+the difference     x −  x  i     {\displaystyle x-x_{i}}   can be written as     ( s − i ) h   {\displaystyle (s-i)h}  .  So the Newton polynomial becomes

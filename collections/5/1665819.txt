@@ -1,0 +1,1 @@
+The approximation becomes exact in a kind of infinite limit; if either a or b is an infinite cardinal number, their cardinal sum is exactly equal to the greater of the two.[78] Accordingly, there is no subtraction operation for infinite cardinals.[79]

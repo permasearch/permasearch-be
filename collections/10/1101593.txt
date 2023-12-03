@@ -1,0 +1,1 @@
+Since electrical conductance     G   {\displaystyle G}   is reciprocal to resistance, the expression for total conductance of a parallel circuit of resistors reads:

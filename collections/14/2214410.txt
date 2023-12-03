@@ -1,0 +1,1 @@
+In statistics, the Bonferroni correction is one of several methods used to counteract the problem of multiple comparisons.

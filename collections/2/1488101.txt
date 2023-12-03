@@ -1,0 +1,1 @@
+where each basis vector      |  S ⟩   {\displaystyle |S\rangle }   is a spin configuration of a one-dimensional Ising model.

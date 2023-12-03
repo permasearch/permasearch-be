@@ -1,0 +1,1 @@
+Increasing the magnification and the numerical aperture of the objective reduces the working distance, i.e. the distance between front lens and specimen.

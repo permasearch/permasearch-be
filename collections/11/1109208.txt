@@ -1,0 +1,1 @@
+just replace the original unit     [ Z  ]  i     {\displaystyle [Z]_{i}}   with its meaning in terms of the desired unit     [ Z  ]  j     {\displaystyle [Z]_{j}}  , e.g. if     [ Z  ]  i   =  c  i j   × [ Z  ]  j     {\displaystyle [Z]_{i}=c_{ij}\times [Z]_{j}}  , then:

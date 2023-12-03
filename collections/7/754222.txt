@@ -1,0 +1,1 @@
+For polar crystals, for which P ≠ 0 holds without applying a mechanical load, the piezoelectric effect manifests itself by changing the magnitude or the direction of P or both.

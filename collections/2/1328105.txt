@@ -1,0 +1,1 @@
+A "Yes" indicates a weakness to something, with fatal weaknesses being marked as such. Entries which are marked as "No" are not seen as weaknesses. "?" indicates a lack of information on whether this is a weakness or not; other indicates weaknesses that do not fit in one of the other categories.

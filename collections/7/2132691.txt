@@ -1,0 +1,1 @@
+When selecting how many factors to include in a model, researchers must try to balance parsimony (a model with relatively few factors) and plausibility (that there are enough factors to adequately account for correlations among measured variables).[7]  It is better to include too many factors (overfactoring) than too few factors (underfactoring)[citation needed].

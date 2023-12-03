@@ -1,0 +1,1 @@
+Curb stoning is the term for instances where a surveyor completes a survey form by making up data. Because some of the data should conform with Benford's law, this practice can be detected using CAATTs which provide the capability of performing such tests.

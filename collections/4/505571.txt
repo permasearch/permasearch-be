@@ -1,0 +1,1 @@
+The inner product and outer product should not be confused with the interior product and exterior product, which are instead operations on vector fields and differential forms, or more generally on the exterior algebra.

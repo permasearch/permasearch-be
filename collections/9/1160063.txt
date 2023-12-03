@@ -1,0 +1,1 @@
+In 2001, Ron Jeffries proposed a "Three Cs" formula for user story creation:[4]

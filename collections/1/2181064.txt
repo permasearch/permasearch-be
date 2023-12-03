@@ -1,0 +1,1 @@
+Users may deliberately initiate a reboot. Rationale for such action may include:

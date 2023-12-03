@@ -1,0 +1,1 @@
+Equating the coefficients shows that for each i, we have  A Bi = Bi A  as desired. Having found the proper setting in which evA is indeed a homomorphism of rings, one can complete the proof as suggested above:

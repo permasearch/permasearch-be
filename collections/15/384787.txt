@@ -1,0 +1,1 @@
+If the item was made by the first machine, then the probability that it is defective is 0.05; that is, P(B | A1) = 0.05. Overall, we have

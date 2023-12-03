@@ -1,0 +1,1 @@
+Where the susceptibility     χ ( ω )   {\displaystyle \chi (\omega )}   links the amplitude of the oscillator to the driving force in frequency space:[11]

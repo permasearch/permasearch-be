@@ -1,0 +1,1 @@
+More conceptually, this rule expresses the fact that a change in the xi direction may change all of g1 through gm, and any of these changes may affect f.

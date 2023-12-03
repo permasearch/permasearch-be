@@ -1,0 +1,1 @@
+For homogeneous isotropic materials simple relations exist between elastic constants (Young's modulus E, shear modulus G, bulk modulus K, and Poisson's ratio Î½) that allow calculating them all as long as two are known:

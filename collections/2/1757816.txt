@@ -1,0 +1,1 @@
+Replication is not the same as repeated measurements of the same item: they are dealt with differently in statistical experimental design and data analysis.

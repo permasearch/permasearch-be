@@ -1,0 +1,1 @@
+Even functions can be const in C++. The meaning here is that only a const function may be called for an object instantiated as const; a const function doesn't change any non-mutable data.

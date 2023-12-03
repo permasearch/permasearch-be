@@ -1,0 +1,1 @@
+In addition, Cockburn suggests using two devices to indicate the nature of each use case: icons for design scope and goal level.

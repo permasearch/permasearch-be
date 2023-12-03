@@ -1,0 +1,1 @@
+In the context of abstract algebra, since the positive real numbers form a subgroup of the complex numbers under multiplication, equation (4) implies that we may think of absolute value as an endomorphism of the multiplicative group of the complex numbers.[11]

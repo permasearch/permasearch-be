@@ -1,0 +1,1 @@
+A graduated ND filter is similar, except that the intensity varies across the surface of the filter. This is useful when one region of the image is bright and the rest is not, as in a picture of a sunset.

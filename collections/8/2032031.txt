@@ -1,0 +1,1 @@
+Secure docs: Employees frequently copy attachments downloaded from corporate email to their personal devices and then misuse it. MDM can restrict or disable clipboard usage into or out of the secure container, restrict forwarding of attachments to external domains, or prevent saving attachments on SD card. This ensures corporate data is secure.

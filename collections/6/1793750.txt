@@ -1,0 +1,1 @@
+SVTs can be classified by whether the AV node is involved in maintaining the rhythm. If so, slowing conduction through the AV node will terminate it. If not, AV nodal blocking maneuvers will not work, although transient AV block is still useful as it may unmask an underlying abnormal rhythm.

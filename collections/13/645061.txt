@@ -1,0 +1,1 @@
+A final substrate-level phosphorylation now forms a molecule of pyruvate and a molecule of ATP by means of the enzyme pyruvate kinase. This serves as an additional regulatory step, similar to the phosphoglycerate kinase step.

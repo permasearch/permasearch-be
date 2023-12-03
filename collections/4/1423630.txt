@@ -1,0 +1,1 @@
+If     K   {\displaystyle K}   is trace-class, then for any orthonormal basis     (  φ  n    )  n     {\displaystyle (\varphi _{n})_{n}}  , the trace is given by

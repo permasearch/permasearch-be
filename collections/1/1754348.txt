@@ -1,0 +1,1 @@
+You can also display an image of a specified width. Typically, if you specify a width in pixels, it should be at least 300px. Widths greater than about 550px may cause problems with some browsers, as stated above.

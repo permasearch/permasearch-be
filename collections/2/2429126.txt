@@ -1,0 +1,1 @@
+P53-independent G2 arrest is mainly affected through the actions of Chk1 kinase. DNA damage is sensed by ATM and ATR (Rad3 and Mec1 in yeast), which then signal to Chk1 and Chk2. Chk1 then mediates the degradation of cdc25A, an activator of CDK1.[7] ATR/ATM also activate p53, indicating that these pathways may act synergistically in regulating G2 arrest.[5]

@@ -1,0 +1,1 @@
+Note. If we were using Fatou's lemma, the measurability would follow easily from Remark 3(a).

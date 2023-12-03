@@ -1,0 +1,1 @@
+A reaction is zero order if concentration data are plotted versus time and the result is a straight line. A plot of     [  A   ]  t     {\displaystyle [{\ce {A}}]_{t}}   vs. time t gives a straight line with a slope of     − k   {\displaystyle -k}  .

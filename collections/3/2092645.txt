@@ -1,0 +1,1 @@
+Automatic back-transcribing is not only wrong for names. Consider, for example, das neue Buch ("the new book"). This should never be changed to das neü Buch, as the second e is completely separate from the u and does not even belong in the same syllable; neue ([ˈnɔʏ.ə]) is neu (the root for new) followed by an e, an inflection. The word neü does not exist in German.

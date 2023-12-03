@@ -1,0 +1,1 @@
+The states corresponding to the stacked phrases are 0, 4, and 5. The current, rightmost state on the stack is state 5. When state 5 sees the lookahead int, it knows to shift that int onto the stack as its own phrase, and scan the next input symbol +, and advance to state 8.

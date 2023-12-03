@@ -1,0 +1,1 @@
+Practically all parallel communications protocols use synchronous transmission. For example, in a computer, address information is transmitted synchronouslyâ€”the address bits over the address bus, and the read or write 'strobe's of the control bus.

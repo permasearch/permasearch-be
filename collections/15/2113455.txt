@@ -1,0 +1,1 @@
+His curve is now      y  3   + Q ( x ) .  y  2   + R ( x ) . y + S ( x ) = 0   {\displaystyle y^{3}+Q(x).y^{2}+R(x).y+S(x)=0}  , where Q(x), R(x) and S(x) are continuous functions of x. Setting PDK, PDL and PDM to the 3 roots,

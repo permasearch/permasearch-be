@@ -1,0 +1,1 @@
+The exclamation point (!) may be used to mark comments in a Cisco router's configuration mode. Such comments are not, however, saved to non-volatile memory (which contains the startup-config), nor are they displayed by the "show run" command.[38][39]

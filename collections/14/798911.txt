@@ -1,0 +1,1 @@
+In set theory, chevrons or parentheses are used to denote ordered pairs and other tuples, whereas curly brackets are used for unordered sets.

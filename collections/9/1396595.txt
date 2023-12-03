@@ -1,0 +1,1 @@
+which follows from      v  2   2   =  v  1   2   + 2 a s   {\displaystyle v_{2}^{2}=v_{1}^{2}+2as}   (see Equations of motion).

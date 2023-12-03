@@ -1,0 +1,1 @@
+All students live in residence at the School. Each suites consists of two rooms and a bathroom, each room housing two students. There are common areas on each hall for studying, relaxing and spending time together.

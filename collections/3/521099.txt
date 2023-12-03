@@ -1,0 +1,1 @@
+An alternative definition is useful for thermodynamics calculations of the magnetic moment. In this definition, the magnetic dipole moment of a system is the negative gradient of its intrinsic energy, Uint, with respect to external magnetic field:

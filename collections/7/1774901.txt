@@ -1,0 +1,1 @@
+The length of the perimeter of a sector is the sum of the arc length and the two radii:

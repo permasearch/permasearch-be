@@ -1,0 +1,1 @@
+A simple example is the time an algorithm takes to find an element in an ordered vector with     n   {\displaystyle n}   elements, in the worst case.

@@ -1,0 +1,1 @@
+Faster algorithms, in binary and decimal or any other base, can be realized by using lookup tables—in effect trading more storage space for reduced run time.[5]

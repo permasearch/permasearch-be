@@ -1,0 +1,1 @@
+Blind carbon copy (abbreviated Bcc:) allows the sender of a message to conceal the person entered in the Bcc: field from the other recipients. This concept originally applied to paper correspondence and now also applies to email.[1]

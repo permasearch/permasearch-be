@@ -1,0 +1,1 @@
+Mathematically, the       M P C     {\displaystyle {\mathit {MPC}}}   function is expressed as the derivative of the consumption function     C   {\displaystyle C}   with respect to disposable income     Y   {\displaystyle Y}  , i.e., the instantaneous slope of the     C   {\displaystyle C}  -    Y   {\displaystyle Y}   curve.

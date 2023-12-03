@@ -1,0 +1,1 @@
+Many engineering problems are solved by following the mass distribution in time of a given system, this practice is known as mass balance.

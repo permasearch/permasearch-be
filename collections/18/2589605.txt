@@ -1,0 +1,1 @@
+The second-generation Secure Digital (SDSC or Secure Digital Standard Capacity) card was developed to improve on the MultiMediaCard (MMC) standard, which continued to evolve, but in a different direction. Secure Digital changed the MMC design in several ways:

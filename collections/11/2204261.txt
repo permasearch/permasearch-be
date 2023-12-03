@@ -1,0 +1,1 @@
+Quartic equations can also be solved in terms of cube roots and square roots.

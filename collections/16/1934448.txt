@@ -1,0 +1,1 @@
+Given the truth table of a logical function, it is possible to write the function as a "sum of products". This is a special form of disjunctive normal form. For example, if given the truth table for the arithmetic sum bit u of one bit position's logic of an adder circuit, as a function of x and y from the addends and the carry in, ci:

@@ -1,0 +1,1 @@
+This rationalisation was ostensibly made to improve the economics of making appliances by allowing manufacturers to produce a range of items with a rated voltage of 230 V. In 2000, Standards Australia issued a system Standard, AS60038, with 230V as the nominal voltage with a +10% to â€“6% variation at the point of supply. (253 V to 216.2 V)

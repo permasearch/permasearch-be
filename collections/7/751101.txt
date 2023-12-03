@@ -1,0 +1,1 @@
+where f(x; α, β) is the probability density function of the beta distribution:

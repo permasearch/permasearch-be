@@ -1,0 +1,1 @@
+As a complex manifold, R is biholomorphic with      C    {\displaystyle \mathbb {C} }   via logR. (The inverse map sends z to (ez,Im z).) This shows that R is simply connected, so R is the universal cover of       C   ×     {\displaystyle \mathbb {C} ^{\times }}  .

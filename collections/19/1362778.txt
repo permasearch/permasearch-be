@@ -1,0 +1,1 @@
+Version 3.0 was released on 22 July 2011.[23] On 30 May 2011, Torvalds announced that the big change was "NOTHING. Absolutely nothing." and asked "...let's make sure we really make the next release not just an all new shiny number, but a good kernel too."[117] After the expected 6â€“7 weeks of the development process, it would be released near the 20th anniversary of Linux.

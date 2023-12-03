@@ -1,0 +1,1 @@
+In general, the sum of solutions to (1) which satisfy the boundary conditions (2) also satisfies (1) and (3). Hence a complete solution can be given as

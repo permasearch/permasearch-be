@@ -1,0 +1,1 @@
+Identification of RBSs is particularly difficult, because they tend to be highly degenerated.[12] One approach to identifying RBS in E.coli is using neural networks.[13] Another approach is using the Gibbs sampling method.[10]

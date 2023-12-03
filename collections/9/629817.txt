@@ -1,0 +1,1 @@
+This model doesn't give the correct magnetic field inside the core, and thus gives incorrect results if the pole of one magnet gets too close to another magnet.

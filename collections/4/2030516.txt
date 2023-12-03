@@ -1,0 +1,1 @@
+where the last equality, √1 = −1, is a consequence of the choice of branch in the redefinition of √.

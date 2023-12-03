@@ -1,0 +1,1 @@
+Spinning can be a valid strategy in certain circumstances, most notably in the implementation of spinlocks within operating systems designed to run on SMP systems. In general, however, spinning is considered an anti-pattern and should be avoided,[1] as processor time that could be used to execute a different task is instead wasted on useless activity.

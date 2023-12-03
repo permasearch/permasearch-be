@@ -1,0 +1,1 @@
+For the kidney-donor example, with p = 0.1, the mean number of failures before the first success is E(Y) = (1 âˆ’ 0.1)/0.1 = 9.

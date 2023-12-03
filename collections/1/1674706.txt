@@ -1,0 +1,1 @@
+Given two bit arrays of the same size representing sets, we can compute their union, intersection, and set-theoretic difference using n/w simple bit operations each (2n/w for difference), as well as the complement of either:

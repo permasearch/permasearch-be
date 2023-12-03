@@ -1,0 +1,1 @@
+when approximated by rounding to a precision of 24 bits.

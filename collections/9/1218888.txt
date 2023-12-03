@@ -1,0 +1,1 @@
+In 2013, an IPv6 version of the ping of death vulnerability was discovered in Microsoft Windows. Windows TCP/IP stack didn't handle memory allocation correctly when processing incoming malformed ICMPv6 packets, which could cause remote denial of service. This vulnerability was fixed in MS13-065 in August 2013.[2][3] The CVE-ID for this vulnerability is CVE-2013-3183.[4]

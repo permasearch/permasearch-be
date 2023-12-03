@@ -1,0 +1,1 @@
+In IEEE 754 decimal floating point encoding, a negative zero is represented by an exponent being any valid exponent in the range for the encoding, the true significand being zero, and the sign bit being one.

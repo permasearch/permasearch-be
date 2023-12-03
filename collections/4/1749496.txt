@@ -1,0 +1,1 @@
+Standard Four Thirds lenses can be used on a Micro Four Thirds camera with full electronic communication using an adapter, but those that do not support contrast-detect autofocus will only autofocus slowly, if at all. Micro Four Thirds lenses can not be used on a standard Four Thirds camera.

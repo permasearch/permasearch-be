@@ -1,0 +1,1 @@
+It is necessary to have the stroked glyph available for some mathematical uses, and U+03D5 GREEK PHI SYMBOL is designed for this function. Prior to Unicode version 3.0 (1998), the glyph assignments in the Unicode code charts were the reverse, and thus older fonts may still show a loopy form     φ   {\displaystyle \varphi }   at U+03D5.[5]

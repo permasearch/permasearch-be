@@ -1,0 +1,1 @@
+An expansion on CABC that accounts for the significantly increased risk of hypothermia by a patient due to hypovolemia and the body's subsequent cold weather-like reaction.

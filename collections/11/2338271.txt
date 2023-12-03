@@ -1,0 +1,1 @@
+The wavelength     λ    {\displaystyle \lambda \,}  , for which the emission intensity is highest, is given by Wien's displacement law as:

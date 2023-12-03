@@ -1,0 +1,1 @@
+The resulting coordinate is then translated by adding midpoint coordinates. These frequent integer additions do not limit the performance much, as those square (root) computations can be spared in the inner loop in turn. Again, the zero in the transformed circle equation is replaced by the error term.

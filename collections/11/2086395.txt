@@ -1,0 +1,1 @@
+Also, the trace of a matrix is equal to that of its transpose, that is,

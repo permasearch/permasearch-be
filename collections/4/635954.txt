@@ -1,0 +1,1 @@
+Sodium-bonded fuel consists of fuel that has liquid sodium in the gap between the fuel slug (or pellet) and the cladding. This fuel type is often used for sodium-cooled liquid metal fast reactors. It has been used in EBR-I, EBR-II, and the FFTF. The fuel slug may be metallic or ceramic. The sodium bonding is used to reduce the temperature of the fuel.

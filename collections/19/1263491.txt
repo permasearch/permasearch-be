@@ -1,0 +1,1 @@
+The average power usage may also be calculated more simply by:

@@ -1,0 +1,1 @@
+k < 1   {\displaystyle k<1}   and depicts the loss in the relative velocity due to friction as the steam flows around the blades (    k = 1   {\displaystyle k=1}   for smooth blades).

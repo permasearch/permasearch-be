@@ -1,0 +1,1 @@
+Note that the Bertrand equilibrium is a weak Nash-equilibrium. The firms lose nothing by deviating from the competitive price: it is an equilibrium simply because each firm can earn no more than zero profits given that the other firm sets the competitive price and is willing to meet all demand at that price.

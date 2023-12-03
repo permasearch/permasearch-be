@@ -1,0 +1,1 @@
+A smart card may have the following generic characteristics:

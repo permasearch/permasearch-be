@@ -1,0 +1,1 @@
+This feedback circuit tends to draw the common base node of Q3/Q4 to a voltage Vcom − 2 VBE, where Vcom is the input common-mode voltage. At the same time, the magnitude of the quiescent current is relatively insensitive to the characteristics of the components Q1–Q4, such as hfe, that would otherwise cause temperature dependence or part-to-part variations.

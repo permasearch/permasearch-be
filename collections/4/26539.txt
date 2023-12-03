@@ -1,0 +1,1 @@
+Estimation of flash memory endurance is a challenging subject that depends on the SLC/MLC/TLC memory type, size of the flash memory chips, and actual usage pattern. As a result, a USB flash drive can last from a few days to several hundred years.[52]

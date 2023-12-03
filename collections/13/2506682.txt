@@ -1,0 +1,1 @@
+However, it still contains some redundancy: this set is not a minimal functionally complete set, because the conditional and biconditional can be defined in terms of the other connectives as

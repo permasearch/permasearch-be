@@ -1,0 +1,1 @@
+Electrical impedance is the measure of the opposition that a circuit presents to a current when a voltage is applied. The term complex impedance may be used interchangeably.

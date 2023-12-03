@@ -1,0 +1,1 @@
+In mathematics, a rate is the ratio between two related quantities.[1] If the denominator of the ratio is expressed as a single unit of one of these quantities, and if it is assumed that this quantity can be changed systematically (i.e., is an independent variable), then the numerator of the ratio expresses the corresponding rate of change in the other (dependent) variable.

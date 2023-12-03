@@ -1,0 +1,1 @@
+Honduran telephone numbers have either 7 digits (for landlines), which are usually written NNN-NNNN, or 8 digits (for mobile numbers), which are written NNNN-NNNN. The fact that landline and mobile numbers are different lengths sometimes causes confusion.

@@ -1,0 +1,1 @@
+AND gates are available in IC packages. The 7408 IC is a well known QUAD 2-Input AND GATES and contains four independent gates each of which performs the logic AND function.

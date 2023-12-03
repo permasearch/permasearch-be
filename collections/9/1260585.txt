@@ -1,0 +1,1 @@
+As a more specific example of an application, the cache language models and other statistical language models used in natural language processing to assign probabilities to the occurrence of particular words and word sequences do so by means of probability distributions.

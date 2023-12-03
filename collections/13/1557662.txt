@@ -1,0 +1,1 @@
+In formal notation, let M = ({s0, s1, s2, s3, s4}, {0, 1}, Δ, s0, {s1, s3}) where the transition relation Δ can be defined by this state transition table:

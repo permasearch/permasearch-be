@@ -1,0 +1,1 @@
+IEEE 754 specifies five arithmetic exceptions that are to be recorded in the status flags ("sticky bits"):

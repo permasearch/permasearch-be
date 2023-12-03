@@ -1,0 +1,1 @@
+In general, the stresses within a flow can be attributed partly to the deformation of the material from some rest state (elastic stress), and partly to the rate of change of the deformation over time (viscous stress). In a fluid, by definition, the elastic stress includes only the hydrostatic pressure.

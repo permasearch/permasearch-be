@@ -1,0 +1,1 @@
+A triggered spark gap in an air-gap flash is used to produce photographic light flashes in the sub-microsecond domain.

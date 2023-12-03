@@ -1,0 +1,1 @@
+Balanced equations are written with smallest whole-number coefficients. If there is no coefficient before a chemical formula, the coefficient 1 is understood.

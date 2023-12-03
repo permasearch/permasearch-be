@@ -1,0 +1,1 @@
+A variable-frequency transformer is a specialized three-phase power transformer which allows the phase relationship between the input and output windings to be continuously adjusted by rotating one half. They are used to interconnect electrical grids with the same nominal frequency but without synchronous phase coordination.

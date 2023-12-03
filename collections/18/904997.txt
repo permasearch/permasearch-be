@@ -1,0 +1,1 @@
+A method which holds the column at the same temperature for the entire analysis is called "isothermal."  Most methods, however, increase the column temperature during the analysis, the initial temperature, rate of temperature increase (the temperature "ramp"), and final temperature are called the "temperature program."

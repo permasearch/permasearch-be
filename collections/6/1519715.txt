@@ -1,0 +1,1 @@
+Absolute magnitudes for solar system objects are frequently quoted based on a distance of 1 AU.  These are referred to with a capital H symbol.  Since these objects are lit primarily by reflected light from the sun, an H magnitude is defined as the apparent magnitude of the object at 1 AU from the sun and 1 AU from the observer.[9]

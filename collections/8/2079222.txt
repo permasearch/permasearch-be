@@ -1,0 +1,1 @@
+In more general terms, the return in a second currency is the result of compounding together the two returns:

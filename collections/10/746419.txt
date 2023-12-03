@@ -1,0 +1,1 @@
+Enzymes can couple two or more reactions, so that a thermodynamically favorable reaction can be used to "drive" a thermodynamically unfavourable one so that the combined energy of the products is lower than the substrates. For example, the hydrolysis of ATP is often used to drive other chemical reactions.[60]

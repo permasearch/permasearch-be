@@ -1,0 +1,1 @@
+Information about what common accessibility features are implemented natively (without third-party add-ons).

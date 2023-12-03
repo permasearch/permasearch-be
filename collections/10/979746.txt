@@ -1,0 +1,1 @@
+The centroid of each part can be found in any list of centroids of simple shapes (c). Then the centroid of the figure is the weighted average of the three points. The horizontal position of the centroid, from the left edge of the figure is

@@ -1,0 +1,1 @@
+The PSTN network architecture had to evolve over the years to support increasing numbers of subscribers, calls, connections to other countries, direct dialing and so on. The model developed by the United States and Canada was adopted by other nations, with adaptations for local markets.

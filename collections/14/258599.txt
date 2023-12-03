@@ -1,0 +1,1 @@
+The ribbon can be read vertically, although only if it has not been typed over more than once. This can be very hard to do as it does not include spaces, but can be done, giving every typewriter a "memory".

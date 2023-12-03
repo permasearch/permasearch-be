@@ -1,0 +1,1 @@
+While the space of solutions as a whole is a Hilbert space there are many other Hilbert spaces that commonly occur as ingredients.

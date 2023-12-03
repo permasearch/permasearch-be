@@ -1,0 +1,1 @@
+For the case in which x is negative and n is odd, there is one real root r which is also negative. This can be found by first multiplying both sides of the defining equation by −1 to obtain      |  r   |   n   =  |  x  |  ,   {\displaystyle |r|^{n}=|x|,}   then proceeding as before to find |r|, and using r = −|r|.

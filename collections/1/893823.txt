@@ -1,0 +1,1 @@
+A physical system that exchanges energy may be described by the amount of energy exchanged per time-interval, also called power or flux of energy.

@@ -1,0 +1,1 @@
+Platform Update for Windows Vista was released on 27 October 2009. It includes major new components that shipped with Windows 7, as well as updated runtime libraries.[147][148] It requires Service Pack 2 of Windows Vista or Windows Server 2008 and is listed on Windows Update as a Recommended download.

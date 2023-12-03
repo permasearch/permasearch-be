@@ -1,0 +1,1 @@
+Delaware does not use leading zeros on its plates, so serials are composed of a variable number of digits.

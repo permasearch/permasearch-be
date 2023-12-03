@@ -1,0 +1,1 @@
+We can see that the diffusion coefficient in the mean free path approximation grows with T as T3/2 and decreases with P as 1/P. If we use for P the ideal gas law P = RnT with the total concentration n, then we can see that for given concentration n the diffusion coefficient grows with T as T1/2 and for given temperature it decreases with the total concentration as 1/n.

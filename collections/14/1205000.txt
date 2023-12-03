@@ -1,0 +1,1 @@
+Note that all these formulations are based on Gilbert's model, which is usable in relatively great distances. In other models (e.g., AmpÃ¨re's model), a more complicated formulation is used that sometimes cannot be solved analytically. In these cases, numerical methods must be used.

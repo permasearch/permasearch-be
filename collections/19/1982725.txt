@@ -1,0 +1,1 @@
+By analogy, the term "debounce" has arisen in the software development industry to describe rate-limiting or throttling the frequency of a method's execution.[6]

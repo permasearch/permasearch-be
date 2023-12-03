@@ -1,0 +1,1 @@
+Circular motion can be described using complex numbers. Let the x axis be the real axis and the     y   {\displaystyle y}   axis be the imaginary axis. The position of the body can then be given as     z   {\displaystyle z}  , a complex "vector":

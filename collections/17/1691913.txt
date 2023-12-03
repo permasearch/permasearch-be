@@ -1,0 +1,1 @@
+Let c be the total number of electors voting in the election.  Let w be the number of electoral votes cast for the candidate with the most electoral votes, and let r be the number of votes for the runner-up.

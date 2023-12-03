@@ -1,0 +1,1 @@
+An uninterruptible power supply (UPS) uses batteries and an inverter to supply AC power when mains power is not available. When mains power is restored, a rectifier supplies DC power to recharge the batteries.

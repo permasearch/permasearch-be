@@ -1,0 +1,1 @@
+In a simple binary case, r1, the distance from the center of the first star to the center of mass or barycenter, is given by:

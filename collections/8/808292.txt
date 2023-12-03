@@ -1,0 +1,1 @@
+In June 2005, after some criticism from KHTML developers over lack of access to change logs, Apple moved the development source code and bug tracking of WebCore and JavaScriptCore to OpenDarwin.org. WebKit itself was also released as open source. The source code for non-renderer aspects of the browser, such as its GUI elements, remains proprietary.

@@ -1,0 +1,1 @@
+Port arrays in which the port orientation is perpendicular to the array orientation generally have fewer blockage problems. External "Octopus" or "Squid" hubs (with each socket at the end of a very short cable maybe 2 inches long), or "star" hubs (with each port facing in a different direction, as pictured) avoid this problem completely.

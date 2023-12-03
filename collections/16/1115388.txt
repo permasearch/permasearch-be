@@ -1,0 +1,1 @@
+A new Magnifier setting was added which allows users to triple-click the home button and iOS will open the Camera app with magnification on.[69][70][71][72]

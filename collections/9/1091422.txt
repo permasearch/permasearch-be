@@ -1,0 +1,1 @@
+Unlike in IPv4, IPv6 routers never fragment IPv6 packets. Packets exceeding the size of the Maximum transmission unit (or MTU) of the destination link are dropped and this condition is signaled by a Packet too Big ICMPv6 type 2 message to the originating node, similarly to the IPv4 method when the Don't Fragment bit is set.[1]

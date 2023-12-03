@@ -1,0 +1,1 @@
+A "ripple current" is the RMS value of a superimposed AC current of any frequency and any waveform of the current curve for continuous operation within the specified temperature range. It arises mainly in power supplies (including switched-mode power supplies) after rectifying an AC voltage and flows as charge and discharge current through the decoupling or smoothing capacitor.

@@ -1,0 +1,1 @@
+or, letting     r =    α  Δ t   Δ  x  2        {\displaystyle r={\frac {\alpha \,\Delta t}{\Delta x^{2}}}}  :

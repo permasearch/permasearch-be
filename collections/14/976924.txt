@@ -1,0 +1,1 @@
+The result of encapsulation is that each lower layer provides a service to the layer or layers above it, while at the same time each layer communicates with its corresponding layer on the receiving node. These are known as adjacent-layer interaction and same-layer interaction, respectively.[3]

@@ -1,0 +1,1 @@
+The acceleration of solar system body number i is, according to Newton's laws:

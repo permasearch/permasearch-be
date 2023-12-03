@@ -1,0 +1,1 @@
+Google Maps interface links through the "Wikipedia layer" to the geo-tags placed in English Wikipedia articles, but does not support non-English ones, reducing its usefulness in non-English languages and in non-English speaking territories. It also links to photos with GPS tags from Panoramio.[citation needed]

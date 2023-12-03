@@ -1,0 +1,1 @@
+Manipulators are objects that can modify a stream using the << or >> operators.

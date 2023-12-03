@@ -1,0 +1,1 @@
+This formula, the Heawood conjecture, was conjectured by P. J. Heawood in 1890 and proved by Gerhard Ringel and J. W. T. Youngs in 1968. The only exception to the formula is the Klein bottle, which has Euler characteristic 0 (hence the formula gives p = 7) and requires only 6 colors, as shown by P. Franklin in 1934 (Weisstein).

@@ -1,0 +1,1 @@
+Long multiplication methods can be generalised to allow the multiplication of algebraic formulae:

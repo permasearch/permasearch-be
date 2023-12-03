@@ -1,0 +1,1 @@
+where the base rectangle is a by b, c is the apex edge length parallel to a, and h the height from the base rectangle to the apex edge

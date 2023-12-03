@@ -1,0 +1,1 @@
+The Greek mathematicians had regarded as perfect that number which equals the sum of its divisors that are smaller than itself. Such a number is neither 3 nor 7 nor 10, but 6, for 1 + 2 + 3 = 6.[8]

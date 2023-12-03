@@ -1,0 +1,1 @@
+In this differential the maximum torque difference between the two outputs, Trq d , is a fixed value at all times regardless of torque input to the differential or speed difference between the two outputs. Typically this differential used spring-loaded clutch assemblies.

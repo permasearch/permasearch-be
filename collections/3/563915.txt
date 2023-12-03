@@ -1,0 +1,1 @@
+Array antennas consist of multiple antennas working as a single antenna. Typically they consist of arrays of identical driven elements, usually dipoles fed in phase, giving increased gain over that of a single dipole.[16][20][21]

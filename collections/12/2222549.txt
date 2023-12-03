@@ -1,0 +1,1 @@
+Structural analysis is often used by mechanical engineers after a failure has occurred, or when designing to prevent failure. Engineers often use online documents and books such as those published by ASM[29] to aid them in determining the type of failure and possible causes.

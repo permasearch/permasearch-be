@@ -1,0 +1,1 @@
+Weather radar is a very useful tool to detect the presence of hail-producing thunderstorms. However, radar data has to be complemented by a knowledge of current atmospheric conditions which can allow one to determine if the current atmosphere is conducive to hail development.

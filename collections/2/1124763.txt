@@ -1,0 +1,1 @@
+Crew members are colour-coded, indicating whether they were saved or perished.      The crew member did not survive      The crew member survived

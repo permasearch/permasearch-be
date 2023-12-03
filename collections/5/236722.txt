@@ -1,0 +1,1 @@
+This is the same condition as for continuous functions, except that it is required to hold for x strictly larger than c only. Requiring it instead for all x with c − δ < x < c yields the notion of left-continuous functions. A function is continuous if and only if it is both right-continuous and left-continuous.

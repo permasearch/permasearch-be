@@ -1,0 +1,1 @@
+Through any point on the indifference curve, dU/dx = 0, because U = c, where c is a constant. It follows from the above equation that:

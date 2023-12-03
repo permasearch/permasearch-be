@@ -1,0 +1,1 @@
+For a hyperbola        x  2    a  2     −    y  2    b  2     = 1 ,  a > b   {\displaystyle {\frac {x^{2}}{a^{2}}}-{\frac {y^{2}}{b^{2}}}=1,\,a>b}   the intersection points of orthogonal tangents lie on the circle      x  2   +  y  2   =  a  2   −  b  2     {\displaystyle x^{2}+y^{2}=a^{2}-b^{2}}  . This circle is called the orthoptic of the given hyperbola.

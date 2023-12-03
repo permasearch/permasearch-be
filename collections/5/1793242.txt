@@ -1,0 +1,1 @@
+Step two: Two sets of related keys of size      2  d     {\displaystyle 2^{d}}   is chosen. The keys are chosen such that:

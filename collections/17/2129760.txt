@@ -1,0 +1,1 @@
+where k is a constant known as the rate or spring constant. It can also be stated as a relationship between stress σ and strain     ε   {\displaystyle \varepsilon }  :

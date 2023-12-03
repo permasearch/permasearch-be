@@ -1,0 +1,1 @@
+The most simple method to find a single root fast is Newton's method. One can use Horner's method twice to efficiently evaluate the value of the polynomial function and its first derivative; this combination is called Birge–Vieta's method. This method provides quadratic convergence for simple roots at the cost of two polynomial evaluations per step.

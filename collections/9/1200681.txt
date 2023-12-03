@@ -1,0 +1,1 @@
+In other languages such as C and Ada, a label is an identifier, usually appearing at the start of a line and immediately followed by a colon.  For example, in C:

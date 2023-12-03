@@ -1,0 +1,1 @@
+In particular the characteristic function of their sum is the product of their marginal characteristic functions:

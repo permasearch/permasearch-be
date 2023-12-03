@@ -1,0 +1,1 @@
+While the ARPANET was being developed, computers connected to the network were typically mainframe computer systems that could be accessed from dumb terminals connected via serial ports. Since these terminals did not host software or perform computations themselves, they were not considered hosts as they were not connected to any IP network, and were not assigned IP addresses.

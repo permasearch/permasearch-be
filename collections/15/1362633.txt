@@ -1,0 +1,1 @@
+For spherical bodies, when the occulting object is smaller than the star, the length (L) of the umbra's cone-shaped shadow is given by:

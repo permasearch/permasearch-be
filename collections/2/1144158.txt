@@ -1,0 +1,1 @@
+Responses are sent by the user agent server indicating the result of a received request. Several classes of responses are recognized, determined by the numerical range of result codes:[19]

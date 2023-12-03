@@ -1,0 +1,1 @@
+In many applications of compressible flow, changes in elevation are negligible compared to the other terms, so the term gz can be omitted. A very useful form of the equation is then:

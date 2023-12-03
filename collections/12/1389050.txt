@@ -1,0 +1,1 @@
+|  A B  |     |  B D  |     =    sin ⁡ ∠ B D A   sin ⁡ ∠ B A D      {\displaystyle {\frac {|AB|}{|BD|}}={\frac {\sin \angle BDA}{\sin \angle BAD}}}

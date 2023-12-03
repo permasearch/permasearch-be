@@ -1,0 +1,1 @@
+The only registry file is called REG.DAT and it is stored in the %WINDIR% directory.

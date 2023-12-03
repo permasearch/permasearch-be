@@ -1,0 +1,1 @@
+Each of these constants can be associated with a fundamental physical theory or concept: c with special relativity, G with general relativity, ħ with quantum mechanics, ε0 with electromagnetism, and kB with the notion of temperature/energy (statistical mechanics and thermodynamics).

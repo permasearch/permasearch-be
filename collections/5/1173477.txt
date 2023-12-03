@@ -1,0 +1,1 @@
+In this case if the division has no finite representation, as when one computes e.g. 1/3=0.33333..., the divide() method can raise an exception if no rounding mode is defined for the operation. Hence the library, rather than the language, guarantees that the object respects the contract implicit in the class definition.

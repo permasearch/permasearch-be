@@ -1,0 +1,1 @@
+If two events A and B occur on a single performance of an experiment, this is called the intersection or joint probability of A and B, denoted as     P ( A ∩ B )   {\displaystyle P(A\cap B)}  .

@@ -1,0 +1,1 @@
+In multi-match games, match scores are reset to zero with the start of each match, while game scores accumulate until a predetermined winning score is reached, perhaps 500 or higher. Each individual match ends when one player scores 100 match points. At the end of the match, players' match scores are credited toward their game scores, as well as:

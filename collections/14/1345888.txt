@@ -1,0 +1,1 @@
+in which the limiting case γ = 0 corresponds to a Cobb–Douglas function,     Y = A  K  α    L  1 − α   ,   {\displaystyle Y=AK^{\alpha }L^{1-\alpha },}   with constant returns to scale.[9]

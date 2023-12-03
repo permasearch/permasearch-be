@@ -1,0 +1,1 @@
+The resolution used is usually from 150 to 300 dpi, although the hardware may be capable of 600[17] or higher resolution; this produces images of text good enough to read and for optical character recognition (OCR), without the higher demands on storage space required by higher-resolution images.

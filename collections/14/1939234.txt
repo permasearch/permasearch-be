@@ -1,0 +1,1 @@
+The second law of thermodynamics states that for a closed system,     T d S ≥ δ Q   {\displaystyle TdS\geq \delta Q}  , and so it follows that:

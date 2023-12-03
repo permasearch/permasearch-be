@@ -1,0 +1,1 @@
+(a, b, c) is an ordered triple (or 3-tuple).

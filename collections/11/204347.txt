@@ -1,0 +1,1 @@
+Temperature scales differ in two ways: the point chosen as zero degrees, and the magnitudes of incremental units or degrees on the scale.

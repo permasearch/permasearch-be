@@ -1,0 +1,1 @@
+With the proposal of the stored-program computer, this changed. A stored-program computer includes, by design, an instruction set and can store in memory a set of instructions (a program) that details the computation.

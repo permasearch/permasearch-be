@@ -1,0 +1,1 @@
+Fugacity is closely related to the chemical potential μ. In a pure substance, μ is equal to the Gibbs energy Gm for a mole of the substance,[2]:207 and

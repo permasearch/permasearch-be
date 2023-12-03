@@ -1,0 +1,1 @@
+Suppose that a skydiver jumps from an aircraft. Assume that t seconds after his jump, his height above sea level in meters is given by g(t) = 4000 − 4.9t2. One model for the atmospheric pressure at a height h is f(h) = 101325 e−0.0001h. These two equations can be differentiated and combined in various ways to produce the following data:

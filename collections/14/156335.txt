@@ -1,0 +1,1 @@
+Since its discontinuation, remnants of classful network concepts have remained in practice only in limited scope in the default configuration parameters of some network software and hardware components, most notably in the default configuration of subnet masks.

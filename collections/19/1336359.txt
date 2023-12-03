@@ -1,0 +1,1 @@
+Hybrid disc formats include the ability to be read by different devices, operating systems, or hardware. In the past, one example of this use was for a disc that supported both Microsoft Windows and Macintosh installations from a single disk image (by containing several file systems).

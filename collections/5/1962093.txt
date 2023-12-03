@@ -1,0 +1,1 @@
+The rational numbers (including 0) also form a group under addition. Intertwining addition and multiplication operations yields more complicated structures called rings and—if division is possible, such as in Q—fields, which occupy a central position in abstract algebra. Group theoretic arguments therefore underlie parts of the theory of those entities.n[›]

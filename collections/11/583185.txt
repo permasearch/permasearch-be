@@ -1,0 +1,1 @@
+The CDR and LMP transfer back to the CM with their material samples, then the LM ascent stage is jettisoned, to eventually fall out of orbit and crash on the surface.

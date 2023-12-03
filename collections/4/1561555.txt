@@ -1,0 +1,1 @@
+In mathematical statistics, a random variable X is standardized by subtracting its expected value     E ⁡ [ X ]   {\displaystyle \operatorname {E} [X]}   and dividing the difference by its standard deviation     σ ( X ) =   Var ⁡ ( X )   :   {\displaystyle \sigma (X)={\sqrt {\operatorname {Var} (X)}}:}

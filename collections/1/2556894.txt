@@ -1,0 +1,1 @@
+In analysis of the small signal's contribution to the circuit, the non-linear components are modeled as linear components.

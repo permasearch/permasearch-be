@@ -1,0 +1,1 @@
+Congestion on the host bus to which the ATA adapter is attached may also limit the maximum burst transfer rate. For example, the maximum data transfer rate for conventional PCI bus is 133Â MB/s, and this is shared among all active devices on the bus.

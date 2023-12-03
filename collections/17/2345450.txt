@@ -1,0 +1,1 @@
+A great number of software tools for protein structure prediction exist. Approaches include homology modeling, protein threading, ab initio methods, secondary structure prediction, and transmembrane helix and signal peptide prediction. Some recent successful methods based on the CASP experiments include I-TASSER and HHpred. For complete list see main article.

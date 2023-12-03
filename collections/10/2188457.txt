@@ -1,0 +1,1 @@
+Suppose     X   {\displaystyle X}   is a random variable with a standard normal distribution, whose density is

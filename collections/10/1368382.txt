@@ -1,0 +1,1 @@
+A conceptual model's primary objective is to convey the fundamental principles and basic functionality of the system which it represents. Also, a conceptual model must be developed in such a way as to provide an easily understood system interpretation for the models users. A conceptual model, when implemented properly, should satisfy four fundamental objectives.[4]

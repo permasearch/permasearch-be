@@ -1,0 +1,1 @@
+According to IUPAC's Gold Book definition[1] the reaction rate r for a chemical reaction occurring in a closed system under isochoric conditions, without a build-up of reaction intermediates, is defined as:

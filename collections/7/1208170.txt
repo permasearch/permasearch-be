@@ -1,0 +1,1 @@
+If one were to apply conventional non-dimensionalization, more information on the motion of the blade would be required. However the discussion on Horizontal Axis Wind Turbines will show that the maximum      C  P     {\displaystyle C_{P}}   there is 16/27. Thus, even by conventional non-dimensional analysis lift based machines are superior to drag based machines.

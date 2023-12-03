@@ -1,0 +1,1 @@
+The Condorcet winner criterion states that "if a candidate would win a head-to-head competition against every other candidate, then that candidate must win the overall election". It is incompatible with the later-no-harm criterion, so IRV does not meet this criterion.

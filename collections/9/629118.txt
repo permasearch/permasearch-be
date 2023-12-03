@@ -1,0 +1,1 @@
+AutoSummarize highlights passages or phrases that it considers valuable. The amount of text to be retained can be specified by the user as a percentage of the current amount of text.

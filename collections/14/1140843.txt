@@ -1,0 +1,1 @@
+For example, if performing activity X has a probability of 0.01 of suffering an accident of A, with a loss of 1000, then total risk is a loss of 10, the product of 0.01 and 1000.

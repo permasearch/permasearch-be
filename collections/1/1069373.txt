@@ -1,0 +1,1 @@
+High-Sensitivity GPS is an allied technology that addresses some of these issues in a way that does not require additional infrastructure. However, unlike some forms of A-GPS, high-sensitivity GPS cannot provide a fix instantaneously when the GPS receiver has been off for some time.

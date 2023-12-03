@@ -1,0 +1,1 @@
+Deep learning architectures are often constructed with a greedy layer-by-layer method.[clarification needed][further explanation needed][citation needed] Deep learning helps to disentangle these abstractions and pick out which features improve performance.[1]

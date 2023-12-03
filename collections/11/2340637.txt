@@ -1,0 +1,1 @@
+QuickTime 7.4 was found to disable Adobe's video compositing program, After Effects.[94][95][96] This was due to the DRM built into version 7.4 since it allowed movie rentals from iTunes. QuickTime 7.4.1 resolved this issue.[97]

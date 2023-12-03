@@ -1,0 +1,1 @@
+Overall costs of capital projects are known to be subject to economies of scale. A crude estimate is that if the capital cost for a given sized piece of equipment is known, changing the size will change the capital cost by the 0.6 power of the capacity ratio (the point six power rule).[8][9]

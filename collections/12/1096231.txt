@@ -1,0 +1,1 @@
+where      R  Δ     {\displaystyle R_{\Delta }}   are all impedances in the Δ circuit. This yields the specific formulae

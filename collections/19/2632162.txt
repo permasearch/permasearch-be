@@ -1,0 +1,1 @@
+Some authors explain pixel as picture cell, as early as 1972.[10] In graphics and in image and video processing, pel is often used instead of pixel.[11] For example, IBM used it in their Technical Reference for the original PC.

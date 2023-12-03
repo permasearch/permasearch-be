@@ -1,0 +1,1 @@
+There are different types of rank reversals. Also, other methods besides the AHP may exhibit such rank reversals. More discussion on rank reversals with the AHP and other MCDM methods is provided in the rank reversals in decision-making page.

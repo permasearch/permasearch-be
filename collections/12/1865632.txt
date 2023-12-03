@@ -1,0 +1,1 @@
+If Lambda > 1 = lean mixture, excess of air. If Lambda < 1 = rich mixture, excess of gasoline.

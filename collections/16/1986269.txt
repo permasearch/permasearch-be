@@ -1,0 +1,1 @@
+This latter technique can be particularly efficient in systems with long chains of serialized dependencies or interactions among its components. It is simply the application of a binary search across the range of dependencies and is often referred to as "half-splitting".[3]

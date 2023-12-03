@@ -1,0 +1,1 @@
+Imagine an election to choose which food to eat for dessert. There are 25 people having dessert and four candidates: Ice cream, Apple pie, Fruit and Celery. Runoff voting is used to find the winner.

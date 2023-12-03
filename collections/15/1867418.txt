@@ -1,0 +1,1 @@
+All functions with this property are linear combinations of sinh and cosh, in particular the exponential functions      e  x     {\displaystyle e^{x}}   and      e  − x     {\displaystyle e^{-x}}  , and the zero function     f ( x ) = 0   {\displaystyle f(x)=0}  .

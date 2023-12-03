@@ -1,0 +1,1 @@
+The chain rule for total derivatives implies a chain rule for partial derivatives. Recall that when the total derivative exists, the partial derivative in the ith coordinate direction is found by multiplying the Jacobian matrix by the ith basis vector. By doing this to the formula above, we find:

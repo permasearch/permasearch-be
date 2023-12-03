@@ -1,0 +1,1 @@
+Functions of the form     ϕ   =   R ( r )   Θ ( θ )   Φ ( φ )   {\displaystyle \phi \ =\ R(r)\ \Theta (\theta )\ \Phi (\varphi )}   where (r, θ, φ) are the spherical coordinates which satisfy the partial differential equation (6) (the Laplace equation) are called spherical harmonic function.

@@ -1,0 +1,1 @@
+where {ML} is the activity of the chemical species ML etc. KâŠ– is dimensionless since activity is dimensionless. Activities of the products are placed in the numerator, activities of the reactants are placed in the denominator. See activity coefficient for a derivation of this expression.

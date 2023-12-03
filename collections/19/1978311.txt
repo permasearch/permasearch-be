@@ -1,0 +1,1 @@
+where     C  >  0   {\displaystyle C\;>\;0}  . Applying a positive current to a negative capacitance will cause it to discharge; its voltage will decrease. Similarly, a negative inductance will have an I–V characteristic and impedance      Z  L   ( j ω )   {\displaystyle Z_{\text{L}}(j\omega )}   of

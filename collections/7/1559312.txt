@@ -1,0 +1,1 @@
+The architecture introduces additional complexity and new problems to deal with, such as network latency, message formats, load balancing and fault tolerance.[38][36]

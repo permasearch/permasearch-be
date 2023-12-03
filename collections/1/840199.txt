@@ -1,0 +1,1 @@
+The 8086 has 64 K of 8-bit (or alternatively 32 K of 16-bit word) I/O port space.

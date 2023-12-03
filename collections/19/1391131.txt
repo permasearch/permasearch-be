@@ -1,0 +1,1 @@
+Data produced by the BLS is often categorized into groups of states known as Census Regions. There are 4 Census Regions, which are further categorized by Census Division as follows:

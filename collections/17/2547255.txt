@@ -1,0 +1,1 @@
+3D graphics, compared to 2D graphics, are graphics that use a three-dimensional representation of geometric data. For the purpose of performance, this is stored in the computer. This includes images that may be for later display or for real-time viewing.

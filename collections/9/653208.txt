@@ -1,0 +1,1 @@
+When a photographic lens is set to "infinity", its rear nodal point is separated from the sensor or film, at the focal plane, by the lens's focal length. Objects far away from the camera then produce sharp images on the sensor or film, which is also at the image plane.

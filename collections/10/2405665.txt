@@ -1,0 +1,1 @@
+We can further simplify the first form by first considering the barycentric interpolation of the constant function     g ( x ) ≡ 1   {\displaystyle g(x)\equiv 1}  :

@@ -1,0 +1,1 @@
+because money and bags were declared with different types. To suppress the compiler warning, it must be made explicit that you do indeed wish to make the assignment by typecasting it

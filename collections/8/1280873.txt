@@ -1,0 +1,1 @@
+In practice, today many desktop and server operating systems share similar code bases, differing mostly in configuration.

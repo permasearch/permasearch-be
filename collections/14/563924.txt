@@ -1,0 +1,1 @@
+On the other hand, vertically polarized radiation is not well reflected by the ground except at grazing incidence or over very highly conducting surfaces such as sea water.[31] However the grazing angle reflection important for ground wave propagation, using vertical polarization, is in phase with the direct wave, providing a boost of up to 6 db, as is detailed below.

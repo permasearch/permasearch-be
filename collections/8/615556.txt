@@ -1,0 +1,1 @@
+On 19 May, it was reported that hackers were trying to use a Mirai botnet variant to effect a distributed attack on WannaCry's kill-switch domain with the intention of knocking it offline.[35] On 22 May, @MalwareTechBlog protected the domain by switching to a cached version of the site, capable of dealing with much higher traffic loads than the live site.[36]

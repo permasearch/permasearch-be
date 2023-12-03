@@ -1,0 +1,1 @@
+A Video Event Data Recorder (VEDR) is a device that records video in a vehicle to create a record of accidents and for evaluating driver and vehicle performance.

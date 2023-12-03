@@ -1,0 +1,1 @@
+Unit vectors enable two convenient identities: the dot product of two unit vectors yields the cosine (which may be positive or negative) of the angle between the two unit vectors. The magnitude of the cross product of the two unit vectors yields the sine (which will always be positive).

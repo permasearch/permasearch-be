@@ -1,0 +1,1 @@
+OS/2's batch file interpreter also supports an EXTPROC command. This passes the batch file to the program named on the EXTPROC file as a data file. The named program can be a script file; this is similar to the #! mechanism.

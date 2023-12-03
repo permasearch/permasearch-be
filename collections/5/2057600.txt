@@ -1,0 +1,1 @@
+Physical simulation refers to simulation in which physical objects are substituted for the real thing (some circles[4] use the term for computer simulations modelling selected laws of physics, but this article does not). These physical objects are often chosen because they are smaller or cheaper than the actual object or system.

@@ -1,0 +1,1 @@
+However, if you provide this dummy code where your address label will be electronically created (e.g. Amazon.com), the system may change the destination country to "Hong Kong S.A.R, CHINA". The addition of "CHINA" can significantly delay delivery. Use an alternate dummy instead (e.g. 00000).

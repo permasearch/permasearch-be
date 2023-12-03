@@ -1,0 +1,1 @@
+The notion of path difference and constructive or destructive interference used above for the double-slit experiment applies as well to the display of a single slit of light intercepted on a screen. The main result of this interference is to spread out the light from the narrow slit into a broader image on the screen. This distribution of wave energy is called diffraction.

@@ -1,0 +1,1 @@
+Bohr worried whether the energy spacing 1/T should be best calculated with the period of the energy state      E  n     {\displaystyle E_{n}}  , or      E  n + 1     {\displaystyle E_{n+1}}  , or some averageâ€”in hindsight, this model is only the leading semiclassical approximation.

@@ -1,0 +1,1 @@
+This is a minor revision from June 2004. An errant reference for the −5 V rail was removed. Other minor changes were introduced.[20]

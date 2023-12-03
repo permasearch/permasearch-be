@@ -1,0 +1,1 @@
+When NetBIOS is run in conjunction with Internet protocols (e.g., NBT), each computer may have multiple names: one or more NetBIOS name service names and one or more Internet host names.

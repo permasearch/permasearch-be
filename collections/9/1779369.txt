@@ -1,0 +1,1 @@
+Theorem. If characteristic function Ï†X is integrable, then FX is absolutely continuous, and therefore X has the probability density function given by

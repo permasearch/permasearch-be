@@ -1,0 +1,1 @@
+where ρ is the correlation between X and Y and where      σ  X   > 0   {\displaystyle \sigma _{X}>0}   and      σ  Y   > 0   {\displaystyle \sigma _{Y}>0}  . In this case,

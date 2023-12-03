@@ -1,0 +1,1 @@
+To overcome typical real time difficulties, the Java Community introduced a specification for real-time Java, JSR001. A number of implementations of the resulting Real-Time Specification for Java (RTSJ) have emerged, including a reference implementation from Timesys, IBM's WebSphere Real Time, Sun Microsystems's Java SE Real-Time Systems,[1] Aonix PERC or JamaicaVM from aicas.

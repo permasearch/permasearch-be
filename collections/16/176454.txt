@@ -1,0 +1,1 @@
+The extremely popular HDLC protocol uses a 3-bit sequence number, and has optional provision for selective repeat. However, if selective repeat is to be used, the requirement that nt+nr ≤ 8 must be maintained; if wr is increased to 2, wt must be decreased to 6.

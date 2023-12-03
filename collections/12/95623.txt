@@ -1,0 +1,1 @@
+It's possible to play a modified version of the game with only two players. The cards that would be dealt to a third player are simply laid down as a “dummy” hand instead and not used.

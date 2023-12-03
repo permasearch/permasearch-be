@@ -1,0 +1,1 @@
+To allow 3 full days off following a shift of nights, the day off between three days and three nights is removed. This example allows for a recover day after 3 nights before a weekend off and for some workers more appropriately balances work/life.

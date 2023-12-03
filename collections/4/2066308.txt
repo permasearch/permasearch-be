@@ -1,0 +1,1 @@
+Versions designed for decade to century time scale climate applications were originally created by Syukuro Manabe and Kirk Bryan at the Geophysical Fluid Dynamics Laboratory in Princeton, New Jersey.[1] These models are based on the integration of a variety of fluid dynamical, chemical and sometimes biological equations.

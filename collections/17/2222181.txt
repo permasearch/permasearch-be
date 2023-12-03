@@ -1,0 +1,1 @@
+Each of these     j   {\displaystyle j}   nodes must have exactly 2 children, so there must be     2 j   {\displaystyle 2j}   nodes separating     i   {\displaystyle i}  's right child from the end of its layer (    L + 1   {\displaystyle L+1}  ).

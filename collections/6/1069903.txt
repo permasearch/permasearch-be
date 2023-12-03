@@ -1,0 +1,1 @@
+A standard expression independent of the molecule size is the "specific linking difference" or "superhelical density" denoted Ïƒ, that represents the number of turns added or removed relative to the total number of turns in the relaxed molecule/plasmid, indicating the level of supercoiling.

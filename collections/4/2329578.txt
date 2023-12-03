@@ -1,0 +1,1 @@
+The pooled variance is an estimate of the fixed common variance      σ  2     {\displaystyle \sigma ^{2}}   underlying various populations that have different means.

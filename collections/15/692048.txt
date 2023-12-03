@@ -1,0 +1,1 @@
+The BIOS Parameter Block (BPB) was introduced with PC DOS 2.0 as well, and this version also added read-only, archive, volume label, and directory attribute bits for hierarchical sub-directories.[26]

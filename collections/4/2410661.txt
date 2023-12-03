@@ -1,0 +1,1 @@
+It is also a component of the definition of the t-distribution and the F-distribution used in t-tests, analysis of variance, and regression analysis.

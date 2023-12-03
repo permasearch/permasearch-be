@@ -1,0 +1,1 @@
+3. Territory: An ordered system shall have a territory where the universal computation sponsored by the system will produce an optimal solution still within the territory.

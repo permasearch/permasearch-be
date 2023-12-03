@@ -1,0 +1,1 @@
+A wide variety of penalties have been employed that correspond to different definitions of complexity.  For example, consider the case where the function     g   {\displaystyle g}   is a linear function of the form

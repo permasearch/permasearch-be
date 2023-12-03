@@ -1,0 +1,1 @@
+The standard also includes quick conversion tables for adult shoe sizes; they provide matching sizes for shoes marked in Mondopoint, UK and US systems. Converted values are rounded to a larger shoe size to increase comfort.

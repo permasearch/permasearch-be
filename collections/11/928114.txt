@@ -1,0 +1,1 @@
+In the late 1990s many computer manufacturers began to replace plug-in soundcards with a "codec" chip (actually a combined audio AD/DA-converter) integrated into the motherboard. Many of these used Intel's AC'97 specification. Others used inexpensive ACR slot accessory cards.

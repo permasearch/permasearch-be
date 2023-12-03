@@ -1,0 +1,1 @@
+Because parts of the core closer to the fiber axis have a higher refractive index than the parts near the cladding, light rays follow sinusoidal paths down the fiber. The most common refractive index profile for a graded-index fiber is very nearly parabolic. The parabolic profile results in continual refocusing of the rays in the core, and minimizes modal dispersion.

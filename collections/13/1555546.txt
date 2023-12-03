@@ -1,0 +1,1 @@
+Note: GP = Games played; G = Goals; A = Assists; Pts = Points; +/- = Plus-minus PIM = Penalty minutes; PPG = Power-play goals; SHG = Short-handed goals; GWG = Game-winning goals;       MIN = Minutes played; W = Wins; L = Losses; T = Ties; GA = Goals against; GAA = Goals-against average;  SO = Shutouts; SA=Shots Against; SV=Shots saved; SV% = Save Percentage;

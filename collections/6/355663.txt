@@ -1,0 +1,1 @@
+The Application Compatibility Toolkit[44] provides shims that can transparently redirect HKEY_LOCAL_MACHINE or HKEY_CLASSES_ROOT Registry operations to HKEY_CURRENT_USER to address "LUA" bugs that cause applications not to work for users with insufficient rights.

@@ -1,0 +1,1 @@
+AppleTalk versions were also released for the IBM PC and compatibles, and the Apple IIGS. AppleTalk support was available in most networked printers, especially laser printers, some file servers and routers. AppleTalk support was terminated in 2009, replaced by TCP/IP protocols.[25]

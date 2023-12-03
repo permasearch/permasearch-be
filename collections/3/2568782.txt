@@ -1,0 +1,1 @@
+Similarly reactions with heterogeneous catalysis can be zero order if the catalytic surface is saturated. For example, the decomposition of phosphine (PH3) on a hot tungsten surface at high pressure is zero order in phosphine which decomposes at a constant rate.[11]

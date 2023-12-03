@@ -1,0 +1,1 @@
+In Cartesian coordinates, the Laplacian of a function     f ( x , y , z )   {\displaystyle f(x,y,z)}   is

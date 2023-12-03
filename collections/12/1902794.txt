@@ -1,0 +1,1 @@
+Cpf1 CRISPR-Cas domain architecture shows that Cpf1 is functionally unique, being classified as Class 2, type V CRISPR system. The Cpf1 loci encode Cas1, Cas2 and Cas4 proteins more similar to types I and III than from type II systems. Database searches suggest the abundance of Cpf1-family proteins in many bacterial species.[4]

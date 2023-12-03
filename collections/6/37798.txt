@@ -1,0 +1,1 @@
+The Euclidean distance between two points in space (    A =    r →    ( 0 )   {\displaystyle A={\vec {r}}(0)}   and     B =    r →    ( T )   {\displaystyle B={\vec {r}}(T)}  ) may be written in a variational form where the distance is the minimum value of an integral:

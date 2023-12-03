@@ -1,0 +1,1 @@
+During the course of a blackjack shoe, the dealer exposes the dealt cards. Careful accounting of the exposed cards allows a player to make inferences about the cards which remain to be dealt. These inferences can be used in the following ways:

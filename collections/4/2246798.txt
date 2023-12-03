@@ -1,0 +1,1 @@
+A function that is not well-defined is not the same as a function that is undefined. For example, if f(x) = 1/x, then f(0) is undefined, but this has nothing to do with the question of whether f(x) = 1/x is well-defined. It is; 0 is simply not in the domain of the function.

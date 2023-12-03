@@ -1,0 +1,1 @@
+Wii Menu: No matter when the menu is accessed, the Wii Menu button will always be present. Selecting this will exit a game or a Wii Menu channel and return the player to the Wii Menu, where users can choose another channel. When playing certain Virtual Console titles, with the exception of the Nintendo 64 and Neo Geo, this will also create a suspend point.

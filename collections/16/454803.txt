@@ -1,0 +1,1 @@
+These basis vectors are by definition the tangent vectors of the curves obtained by varying one coordinate, keeping the others fixed:

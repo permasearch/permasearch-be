@@ -1,0 +1,1 @@
+This definition is useful in descriptive set theory to study the set of discontinuities and continuous points – the continuous points are the intersection of the sets where the oscillation is less than ε (hence a Gδ set) – and gives a very quick proof of one direction of the Lebesgue integrability condition.[10]

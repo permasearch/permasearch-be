@@ -1,0 +1,1 @@
+In some versions of BASIC, unary suffix & denotes a variable is of type long, or 32 bits in length.

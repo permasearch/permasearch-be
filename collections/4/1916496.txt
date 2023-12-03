@@ -1,0 +1,1 @@
+Although noise levels in a digital system can be expressed using SNR, it is more common to use Eb/No, the energy per bit per noise power spectral density.

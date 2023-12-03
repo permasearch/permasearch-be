@@ -1,0 +1,1 @@
+Microsoft Virtual Server uses virtual machines to make a "network in a box" for x86 systems. These containers can run different operating systems, such as Microsoft Windows or Linux, either associated with or independent of a specific network interface controller (NIC).

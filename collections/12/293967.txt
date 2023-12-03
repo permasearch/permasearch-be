@@ -1,0 +1,1 @@
+Mathematically, in its most general form, a hierarchy is a partially ordered set or poset.[7] The system in this case is the entire poset, which is constituted of elements. Within this system, each element shares a particular unambiguous property. Objects with the same property value are grouped together, and each of those resulting levels is referred to as a class.

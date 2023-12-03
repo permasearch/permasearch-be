@@ -1,0 +1,1 @@
+In a similar fashion, for the scalar multidimensional space, the integral form is:

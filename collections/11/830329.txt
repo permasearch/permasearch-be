@@ -1,0 +1,1 @@
+If the two frequencies were exactly the same, their phase relationship would not change and both would appear to be stationary on the oscilloscope display. Since the two frequencies are not exactly the same, the reference appears to be stationary and the test signal moves. By measuring the rate of motion of the test signal the offset between frequencies can be determined.

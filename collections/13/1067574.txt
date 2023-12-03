@@ -1,0 +1,1 @@
+In fiber optics, a graded index is an optical fiber whose core has a refractive index that decreases with increasing radial distance from the optical axis of the fiber.

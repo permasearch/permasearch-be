@@ -1,0 +1,1 @@
+End-of-life 52.x.x ESR product line on June 26, 2018.

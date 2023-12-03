@@ -1,0 +1,1 @@
+The Maxwellâ€“Boltzmann distribution for the speed follows immediately from the distribution of the velocity vector, above. Note that the speed is

@@ -1,0 +1,1 @@
+Isolated stationary points of a      C  1     {\displaystyle C^{1}}   real valued function     f :  R  →  R    {\displaystyle f\colon \mathbb {R} \to \mathbb {R} }   are classified into four kinds, by the first derivative test:

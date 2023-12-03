@@ -1,0 +1,1 @@
+cd . will leave you in the same directory you are currently in (i.e. your current directory won't change). This can be useful if your shell's internal code can't deal with the directory you are in being recreated; running cd . will place your shell in the recreated directory.

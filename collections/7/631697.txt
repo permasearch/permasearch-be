@@ -1,0 +1,1 @@
+Metric hex wrench sizes are sometimes referred to using the designation "M" followed by the size in millimeters of the tool or socket, e.g. "M6", although this may be confused with the standard use of "M6" which refers to the size of a metric screw or bolt.

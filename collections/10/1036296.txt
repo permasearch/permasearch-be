@@ -1,0 +1,1 @@
+Haemolysis: Will falsely increase the MCHC (measured haemoglobin is proportionally higher than HCT or PCV) and falsely decrease the calculated haemoglobin (fewer intact RBC)

@@ -1,0 +1,1 @@
+If a ball joint fails, the results can be dangerous as the wheel's angle becomes unconstrained, causing loss of control.  Because the tire will be at an unintended angle, the vehicle will come to an abrupt halt, damaging the tires.  Also, during failure, debris can damage other parts of the vehicle.[4]

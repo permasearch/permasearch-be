@@ -1,0 +1,1 @@
+((NOTE: Most of the wave speeds calculated from the wave length divided by the period are proportional to sqrt (length). Thus, except for the shortest wave length, the waves follow the deep water theory described in the next section. The 28Â ft long wave must be either in shallow water or between deep and shallow.))

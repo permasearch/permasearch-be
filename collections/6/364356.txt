@@ -1,0 +1,1 @@
+As a proof of concept, the U.S. Navy's clinic at the Brunswick Naval Air Station had used an early version of the system software to develop an operational, automated, clinic-management and medical-record system that was "paperless".

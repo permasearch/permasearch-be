@@ -1,0 +1,1 @@
+The conversion is quite simple as one only needs to prefix "978" to the existing number and calculate the new checksum using the ISBN-13 algorithm.

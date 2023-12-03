@@ -1,0 +1,1 @@
+For general design, the elastic section modulus is used, applying up to the yield point for most metals and other common materials.

@@ -1,0 +1,1 @@
+Note: The shear stress varies across the radius for a parallel plate. The above formula refers to the 3/4 radius position if the test sample is Newtonian.

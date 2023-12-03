@@ -1,0 +1,1 @@
+A given (hydrogen-like) atomic orbital is identified by unique values of three quantum numbers: n, ℓ, and mℓ. The rules restricting the values of the quantum numbers, and their energies (see below), explain the electron configuration of the atoms and the periodic table.

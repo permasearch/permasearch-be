@@ -1,0 +1,1 @@
+where ∇ · P is the divergence of the field P through a given surface containing the bound charge density      ρ  b     {\displaystyle \rho _{b}}  .

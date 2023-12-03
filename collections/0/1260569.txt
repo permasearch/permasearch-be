@@ -1,0 +1,1 @@
+For a discrete random variable X, let u0, u1, ... be the values it can take with non-zero probability. Denote

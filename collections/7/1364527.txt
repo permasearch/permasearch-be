@@ -1,0 +1,1 @@
+In a logical multilayered architecture for an information system with an object-oriented design, the following four are the most common:

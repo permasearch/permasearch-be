@@ -1,0 +1,1 @@
+Given a table T, the query SELECT * FROM T will result in all the elements of all the rows of the table being shown.

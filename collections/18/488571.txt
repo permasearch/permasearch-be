@@ -1,0 +1,1 @@
+Elements should additionally support comparison (to determine which element has a higher priority and should be popped first).

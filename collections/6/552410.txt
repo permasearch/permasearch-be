@@ -1,0 +1,1 @@
+The standard way to implement a value-added tax involves assuming a business owes some fraction on the price of the product minus all taxes previously paid on the good.

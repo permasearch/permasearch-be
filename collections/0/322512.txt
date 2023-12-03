@@ -1,0 +1,1 @@
+Since the introduction of a national pension scheme in 1948, most persons resident in Switzerland are allocated a Social Security Number (AHV-Nr. [de] / No AVS [fr]), which is also used for other governmental purposes. The eleven-digit format in use since 1968 is of the form AAA.BB.CCC.DDD and encodes information about the name, birth date and sex of its holder:

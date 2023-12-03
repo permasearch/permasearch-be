@@ -1,0 +1,1 @@
+South Koreaâ€™s first Internet system, the System Development Network (SDN) began operation on 15 May 1982. SDN was connected to the rest of the world in August 1983 using UUCP (Unixto-Unix-Copy); connected to CSNET in December 1984; and formally connected to the U.S. Internet in 1990.[69]

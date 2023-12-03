@@ -1,0 +1,1 @@
+In magnetic motors, magnetic fields are formed in both the rotor and the stator. The product between these two fields gives rise to a force, and thus a torque on the motor shaft. One, or both, of these fields must be made to change with the rotation of the motor. This is done by switching the poles on and off at the right time, or varying the strength of the pole.

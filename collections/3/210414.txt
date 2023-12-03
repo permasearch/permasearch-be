@@ -1,0 +1,1 @@
+where a, b, and c are the lengths of the sides of a triangle, and A, B, and C are the opposite angles (see figure).

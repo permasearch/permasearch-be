@@ -1,0 +1,1 @@
+Several technological applications, such as NMR and MRI machines, rely on the use of double vacuum flasks. These flasks have two vacuum sections. The inner flask contains liquid helium and the outer flask contains liquid nitrogen, with one vacuum section in between. The loss of precious helium is limited in this way.

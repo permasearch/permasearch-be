@@ -1,0 +1,1 @@
+A molecule in S1 can relax by various competing pathways. It can undergo non-radiative relaxation in which the excitation energy is dissipated as heat (vibrations) to the solvent. Excited organic molecules can also relax via conversion to a triplet state, which may subsequently relax via phosphorescence, or by a secondary non-radiative relaxation step.

@@ -1,0 +1,1 @@
+Cameras that use a beam-splitter single-shot 3CCD approach, three-filter multi-shot approach, color co-site sampling or Foveon X3 sensor do not use anti-aliasing filters, nor demosaicing.

@@ -1,0 +1,1 @@
+Interference will be constructive if the optical path difference is equal to an integer multiple of the wavelength of light,     λ   {\displaystyle \lambda }  .

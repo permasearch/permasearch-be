@@ -1,0 +1,1 @@
+P =    n ⋅  V  stroke   ⋅ Δ p   η  mech       {\displaystyle P={n\cdot V_{\text{stroke}}\cdot \Delta p \over \eta _{\text{mech}}}}

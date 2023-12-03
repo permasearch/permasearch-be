@@ -1,0 +1,1 @@
+For X-ray and extreme ultraviolet radiation the complex refractive index deviates only slightly from unity and usually has a real part smaller than 1. It is therefore normally written as n = 1 − δ + iβ (or n = 1 − δ − iβ with the alternative convention mentioned above).[2] Far above the atomic resonance frequency delta can be given by

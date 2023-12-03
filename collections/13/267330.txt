@@ -1,0 +1,1 @@
+A typical action potential begins at the axon hillock[33] with a sufficiently strong depolarization, e.g., a stimulus that increases Vm. This depolarization is often caused by the injection of extra sodium cations into the cell; these cations can come from a wide variety of sources, such as chemical synapses, sensory neurons or pacemaker potentials.

@@ -1,0 +1,1 @@
+The level of variable cost is influenced by many factors, such as fixed cost, duration of project, uncertainty and discount rate. An analytical formula of variable cost as a function of these factors has been derived. It can be used to assess how different factors impact variable cost and total return in an investment.[5]

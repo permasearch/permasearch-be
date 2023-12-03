@@ -1,0 +1,1 @@
+Modulo a prime, the product of two nonresidues is a residue and the product of a nonresidue and a (nonzero) residue is a nonresidue.[5]

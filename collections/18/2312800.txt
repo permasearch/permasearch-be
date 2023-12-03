@@ -1,0 +1,1 @@
+All versions of the RCX have a unique number printed on it, necessary for technical support and used as the ID number of the RCX for your Lego Mindstorms account on the now-defunct Lego Mindstorms RCX website. The first RCX produced is marked "000001" and was on display at the Mindstorms 10th Anniversary event.[5]

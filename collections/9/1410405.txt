@@ -1,0 +1,1 @@
+Gauss' Method was applicable to the Gregorian calendar. He numbered the weekdays from 0 to 6 starting with Sunday. He defined the following operation: The weekday of 1 January in year number A is[5]

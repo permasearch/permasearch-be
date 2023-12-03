@@ -1,0 +1,1 @@
+As of 2012, the Haxe multiplatform language can build programs for Flash Player that perform faster than the same application built with the Adobe Flex SDK compiler.[57][unreliable source?]

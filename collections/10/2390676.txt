@@ -1,0 +1,1 @@
+Although this only provides an approximation of how a train will behave during low adhesion, it does ensure that the driver can recognize the onset of wheel slide and will know the correct actions to take when it occurs.

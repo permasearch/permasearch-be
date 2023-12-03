@@ -1,0 +1,1 @@
+The induction coil was the first type of electrical transformer. During its development between 1836 and the 1860s, mostly by trial and error, researchers discovered many of the principles that governed all transformers, such as the proportionality between turns and output voltage and the use of a "divided" iron core to reduce eddy current losses.

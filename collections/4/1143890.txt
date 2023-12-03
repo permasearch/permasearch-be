@@ -1,0 +1,1 @@
+CAS or conditional access system, is a digital mode of transmitting TV channels through a set-top box (STB). The transmission signals are encrypted and viewers need to buy a set-top box to receive and decrypt the signal. The STB is required to watch only pay channels.

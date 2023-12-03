@@ -1,0 +1,1 @@
+This expression describes quantitatively how the estimate becomes more precise as the sample size increases. Using the central limit theorem to justify approximating the sample mean with a normal distribution yields an approximate 95% confidence interval of the form

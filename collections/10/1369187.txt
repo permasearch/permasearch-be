@@ -1,0 +1,1 @@
+In the classical limit of statistical mechanics, at thermodynamic equilibrium, the internal energy of a system of N quadratic and independent degrees of freedom is:

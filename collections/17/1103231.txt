@@ -1,0 +1,1 @@
+Notice that if the process is an adiabatic process, then     δ Q = 0   {\displaystyle \delta Q=0}  , so     Δ S ≥ 0   {\displaystyle \Delta S\geq 0}  .

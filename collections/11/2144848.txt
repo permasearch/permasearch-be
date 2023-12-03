@@ -1,0 +1,1 @@
+Now this resembles the formula for the Fourier synthesis of a function. In fact, this is the real inverse Fourier transform of a± and b± in the variable x.

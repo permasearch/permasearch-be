@@ -1,0 +1,1 @@
+Pinouts for parallel port connectors are:

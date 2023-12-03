@@ -1,0 +1,1 @@
+A non-convex regular polygon is a regular star polygon. The most common example is the pentagram, which has the same vertices as a pentagon, but connects alternating vertices.

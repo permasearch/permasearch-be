@@ -1,0 +1,1 @@
+In 3D graphics, you usually must keep track of both the position and color of each vertex. One way to do this would be to create a Vertex composite type, using the previously created Vector and Color composite types:

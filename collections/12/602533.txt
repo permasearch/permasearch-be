@@ -1,0 +1,1 @@
+If the chord has length b, and is perpendicular to the parabola's axis of symmetry, and if the perpendicular distance from the parabola's vertex to the chord is h, the parallelogram is a rectangle, with sides of b and h. The area, A, of the parabolic segment enclosed by the parabola and the chord is therefore:

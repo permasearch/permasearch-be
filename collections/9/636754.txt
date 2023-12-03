@@ -1,0 +1,1 @@
+where IC is the inertia matrix relative to the centre of mass and M is the total mass.

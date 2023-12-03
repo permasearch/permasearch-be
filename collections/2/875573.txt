@@ -1,0 +1,1 @@
+Consequently, every primitive Pythagorean triple can be obtained in a unique way as a product of copies of the matrices U andÂ L.

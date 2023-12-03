@@ -1,0 +1,1 @@
+For example, in Donald Knuth's The Art of Computer Programming, Volume 3: Sorting and Searching he states in section 5.2.1 'Sorting by Insertion', that [the value] "settles to its proper level" and that this method of sorting has sometimes been called the sifting or sinking technique.[clarification needed]

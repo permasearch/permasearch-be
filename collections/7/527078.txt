@@ -1,0 +1,1 @@
+The output of a timer charger is terminated after a pre-determined time. Timer chargers were the most common type for high-capacity Ni-Cd cells in the late 1990s for example (low-capacity consumer Ni-Cd cells were typically charged with a simple charger).

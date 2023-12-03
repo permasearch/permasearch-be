@@ -1,0 +1,1 @@
+The shear modulus is one of several quantities for measuring the stiffness of materials. All of them arise in the generalized Hooke's law:

@@ -1,0 +1,1 @@
+Real images can be produced by concave mirrors and converging lenses, only if the object is placed further away from the mirror/lens than the focal point and this real image is inverted. As the object approaches the focal point the image approaches infinity, and when the object passes the focal point the image becomes virtual and is not inverted.

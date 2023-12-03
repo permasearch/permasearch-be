@@ -1,0 +1,1 @@
+The constant e ≈ 2.71828... is the unique base for which the constant of proportionality is 1, so that the function's derivative is itself:

@@ -1,0 +1,1 @@
+Thermodynamic and mechanical heat transfer is calculated with the heat transfer coefficient, the proportionality between the heat flux and the thermodynamic driving force for the flow of heat. Heat flux is a quantitative, vectorial representation of heat-flow through a surface.[2]

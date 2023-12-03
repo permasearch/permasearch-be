@@ -1,0 +1,1 @@
+Nginx ( /ˌɛndʒɪnˈɛks/ EN-jin-EKS) (stylized as NGINX, NGiИX or nginx) is a web server which can also be used as a reverse proxy, load balancer and HTTP cache. The software was created by Igor Sysoev and first publicly released in 2004.[8] A company of the same name was founded in 2011 to provide support.[9]

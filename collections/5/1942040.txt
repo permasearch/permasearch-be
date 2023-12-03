@@ -1,0 +1,1 @@
+A user named 'torvalds' who belongs primarily to the group 'torvalds' but secondarily to the group 'engineers' makes a directory named 'electronic' under the directory named 'music'. The group ownership of the new directory named 'electronic' inherits 'engineers.' This is the same when making a new file named 'imagine.txt'

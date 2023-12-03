@@ -1,0 +1,1 @@
+Since force is equal to mass, m, times acceleration, a, the force equation for a spring obeying Hooke's law looks like:

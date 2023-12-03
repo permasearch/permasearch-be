@@ -1,0 +1,1 @@
+RIP uses the User Datagram Protocol (UDP) as its transport protocol, and is assigned the reserved port number 520.[2]

@@ -1,0 +1,1 @@
+The speed of sound in a plasma for the common case that the electrons are hotter than the ions (but not too much hotter) is given by the formula (see here)

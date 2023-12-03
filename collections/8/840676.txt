@@ -1,0 +1,1 @@
+The electric force is a conservative force: work done by a static electric field is independent of the path taken by the charge. There is no change in the voltage (electric potential) around any closed path; when returning to the starting point in a closed path, the net of the external work done is zero. The same holds for electric fields.

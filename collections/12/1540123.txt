@@ -1,0 +1,1 @@
+where the superscripts     +   {\displaystyle +}   and     −   {\displaystyle -}   represent forward- and backward-traveling waves, respectively. A surge of energy on a finite transmission line will see an impedance of Z0 prior to any reflections arriving, hence surge impedance is an alternative name for characteristic impedance.

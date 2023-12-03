@@ -1,0 +1,1 @@
+Major SAS/SATA adapter manufacturers are Promise Technologies, Adaptec, HP, QLogic, Areca, LSI and ATTO Technology.

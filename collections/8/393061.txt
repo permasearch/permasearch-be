@@ -1,0 +1,1 @@
+Truncating the sum results in an "approximate" inverse which may be useful as a preconditioner. Note that a truncated series can be accelerated exponentially by noting that the Neumann series is a geometric sum. As such, it satisfies

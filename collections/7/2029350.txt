@@ -1,0 +1,1 @@
+A series motor should never be started at no load. With no mechanical load on the series motor, the current is low, the counter-Electro motive force produced by the field winding is weak, and so the armature must turn faster to produce sufficient counter-EMF to balance the supply voltage. The motor can be damaged by overspeed. This is called a runaway condition.

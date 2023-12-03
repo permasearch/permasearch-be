@@ -1,0 +1,1 @@
+For a given volume, the right circular cylinder with the smallest surface area has h = 2r. Equivalently, for a given surface area, the right circular cylinder with the largest volume has h = 2r, that is, the cylinder fits snugly in a cube of side length = altitude ( = diameter of base circle).[8]

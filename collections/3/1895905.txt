@@ -1,0 +1,1 @@
+Figure 6 shows an equivalent circuit for finding the input resistance of a feedback voltage amplifier (left) and for a feedback current amplifier (right). These arrangements are typical Miller theorem applications.

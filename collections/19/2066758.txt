@@ -1,0 +1,1 @@
+15.601 to 15.615 deal with broadband over power lines (BPL) devices operating in the 1.705–80 MHz band over medium- or low-voltage lines.

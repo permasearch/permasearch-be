@@ -1,0 +1,1 @@
+Given that       S F   ≠ ∅   {\displaystyle {\rm {SF}}\neq \emptyset }  , pick     f ∈   S F   .   {\displaystyle f\in {\rm {SF}}.}   For every      n >  sup  Ω   f ,    {\displaystyle \textstyle n>\sup _{\Omega }f,}   define

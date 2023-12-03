@@ -1,0 +1,1 @@
+Before the certification body can issue or renew a certificate, the auditor must be satisfied that the company being assessed has implemented the requirements of sections 4 to 10. Sections 1 to 3 are not directly audited against, but because they provide context and definitions for the rest of the standard, not that of the organization, their contents must be taken into account.

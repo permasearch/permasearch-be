@@ -1,0 +1,1 @@
+The in c clause specifies the container, which may be a list, set, sum, product, unevaluated function, array, or an object implementing an iterator.

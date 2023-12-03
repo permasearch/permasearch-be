@@ -1,0 +1,1 @@
+In general relativity, the stress–energy tensor serves as the source term for the gravitational field, in rough analogy to the way mass serves as the source term in the non-relativistic Newtonian approximation.[10]

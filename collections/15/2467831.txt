@@ -1,0 +1,1 @@
+Conversely, every abelian extension of the rationals is such a subfield of a cyclotomic field – this is the content of a theorem of Kronecker, usually called the Kronecker–Weber theorem on the grounds that Weber completed the proof.

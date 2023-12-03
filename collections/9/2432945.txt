@@ -1,0 +1,1 @@
+A displacement field is a vector field of all displacement vectors for all particles in the body, which relates the deformed configuration with the undeformed configuration. It is convenient to do the analysis of deformation or motion of a continuum body in terms of the displacement field. In general, the displacement field is expressed in terms of the material coordinates as

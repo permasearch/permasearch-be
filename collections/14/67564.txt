@@ -1,0 +1,1 @@
+FTP URL syntax is described in RFCÂ 1738, taking the form: ftp://[user[:password]@]host[:port]/url-path (the bracketed parts are optional).

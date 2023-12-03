@@ -1,0 +1,1 @@
+The transformation rules for three-dimensional velocities and accelerations are very awkward; even above in standard configuration the velocity equations are quite complicated owing to their non-linearity. On the other hand, the transformation of four-velocity and four-acceleration are simpler by means of the Lorentz transformation matrix.

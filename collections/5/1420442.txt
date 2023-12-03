@@ -1,0 +1,1 @@
+Finally, in order to run the tests, JBehave requires some plumbing code that identifies the text files which contain scenarios and which inject dependencies (like instances of Game) into the test code. This plumbing code is not illustrated here, since it is a technical requirement of JBehave and does not relate directly to the principle of BDD-style testing.

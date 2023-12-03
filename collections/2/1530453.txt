@@ -1,0 +1,1 @@
+Projections include maximum intensity projection (MIP), which enhance areas of high radiodensity, and so are useful for angiographic studies. MIP reconstructions tend to enhance air spaces so are useful for assessing lung structure.

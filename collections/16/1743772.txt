@@ -1,0 +1,1 @@
+that contains the physical content of affirming the existence of a state function (the internal energy) even when work depends on the path in general, in the same way that the zeroth law defines temperature. Later on, the expression can be extended to include non-adiabatic processes, from

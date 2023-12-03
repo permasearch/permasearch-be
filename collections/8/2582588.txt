@@ -1,0 +1,1 @@
+A void is when a player does not have any cards of a certain suit. Generally this is a highly advantageous situation, because it prevents the player from winning any points in that suit, and provides a means to dispose of poor cards. These can be intentionally created with good passing strategy, or appear by themselves.

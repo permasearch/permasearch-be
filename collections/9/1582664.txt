@@ -1,0 +1,1 @@
+An unrelated type of escrow is when a purchaser of a complex system, such as bespoke process control software or a large industrial installation, may require the supplier to place the design into source code escrow, so that the purchaser remains in a position to maintain and modify the system in case of the demise of the supplier.

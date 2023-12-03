@@ -1,0 +1,1 @@
+SAM represents the software component of IT asset management. This includes hardware asset management because effective hardware inventory controls are critical to efforts to control software. This means overseeing software and hardware that constitute an organization's computers and network.

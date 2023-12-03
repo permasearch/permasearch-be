@@ -1,0 +1,1 @@
+Webgraph is a graph, formed from web pages as vertices and hyperlinks, as directed edges.

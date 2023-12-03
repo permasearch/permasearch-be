@@ -1,0 +1,1 @@
+Catastrophic failure of a complex system with parallel redundancy can be evaluated based on relationship between local and external stresses. The model of the structural fracture mechanics is similar to the cusp catastrophe behavior. The model predicts reserve ability of a complex system.

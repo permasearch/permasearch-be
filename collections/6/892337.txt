@@ -1,0 +1,1 @@
+Slip angle or sideslip angle is the angle between a rolling wheel's actual direction of travel and the direction towards which it is pointing (i.e., the angle of the vector sum of wheel translational velocity      v  x     {\displaystyle v_{x}}   and sideslip velocity      v  y     {\displaystyle v_{y}}  ).

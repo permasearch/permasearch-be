@@ -1,0 +1,1 @@
+In many media, such as air, the speed of sound is approximately independent of frequency, so the wavelength of the sound waves (distance between repetitions) is approximately inversely proportional to frequency.

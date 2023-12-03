@@ -1,0 +1,1 @@
+A very rough example follows for a patient being reviewed following an appendectomy. This example resembles a surgical SOAP note; medical notes tend to be more detailed, especially in the subjective and objective sections.

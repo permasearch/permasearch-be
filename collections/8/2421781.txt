@@ -1,0 +1,1 @@
+Following are the probabilities of making hot dice in a single throw if all variant scoring combinations are allowed, depending on the number of dice thrown.

@@ -1,0 +1,1 @@
+The 2001 edition of the official manual of the International ISBN Agency says that the ISBN-10 check digit[38] – which is the last digit of the ten-digit ISBN – must range from 0 to 10 (the symbol X is used for 10), and must be such that the sum of all the ten digits, each multiplied by its (integer) weight, descending from 10 to 1, is a multiple of 11.

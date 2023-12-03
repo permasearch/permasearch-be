@@ -1,0 +1,1 @@
+Unicode defines a decimal separator key symbol (âŽ– in hex U+2396, decimal 9110) which looks similar to the apostrophe. This symbol is from ISO/IEC 9995 and is intended for use on a keyboard to indicate a key that performs decimal separation.

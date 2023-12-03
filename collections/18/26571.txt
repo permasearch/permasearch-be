@@ -1,0 +1,1 @@
+Flash drives can be set up to automatically launch stored presentations, websites, articles, and any other software immediately on insertion of the drive using the Microsoft Windows AutoRun feature.[72] Autorunning software this way does not work on all computers, and it is normally disabled by security-conscious users.

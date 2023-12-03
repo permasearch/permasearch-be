@@ -1,0 +1,1 @@
+For the case of a conservative force given by the gradient of some potential energy V, a function of the rk coordinates only, substituting the Lagrangian L = T âˆ’ V gives

@@ -1,0 +1,1 @@
+Because gcd(a, b) is a divisor of both a and b, it is more efficient to compute the LCM by dividing before multiplying:

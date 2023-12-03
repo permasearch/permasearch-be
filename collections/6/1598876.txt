@@ -1,0 +1,1 @@
+In early February 2006, Apple confirmed reports of video display problems on the new Intel-based iMacs. When playing video on Apple's Front Row media browser, some 20-inch iMacs (those built-to-order with upgraded video cards) showed random horizontal lines, ghosting, video tearing and other problems. The problem was fixed with a software update.

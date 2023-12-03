@@ -1,0 +1,1 @@
+Point mutations that occur in non-coding sequences are most often without consequences, although there are exceptions. If the mutated base pair is in the promoter sequence of a gene, then the expression of the gene may change. Also, if the mutation occurs in the splicing site of an intron, then this may interfere with correct splicing of the transcribed pre-mRNA.

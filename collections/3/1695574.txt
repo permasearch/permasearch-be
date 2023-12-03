@@ -1,0 +1,1 @@
+CAN provides an alternative to the Nef reaction; for example, for ketomacrolide synthesis where complicating side reactions usually encountered using other reagents. Oxidative halogenation can be promoted by CAN as an in situ oxidant for benzylic bromination, and the iodination of ketones and uracil derivatives.

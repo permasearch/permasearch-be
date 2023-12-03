@@ -1,0 +1,1 @@
+If the temperature in a system remains constant (an isothermal system), vapor at saturation pressure and temperature will begin to condense into its liquid phase as the system pressure is increased. Similarly, a liquid at saturation pressure and temperature will tend to flash into its vapor phase as system pressure is decreased.

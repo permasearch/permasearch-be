@@ -1,0 +1,1 @@
+Once a player runs out of cards they have won, the game goes on until there is only 1 person left.

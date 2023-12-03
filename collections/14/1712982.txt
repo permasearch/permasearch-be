@@ -1,0 +1,1 @@
+A trigonometric polynomial is a finite linear combination of functions sin(nx) and cos(nx) with n taking on the values of one or more natural numbers.[17] The coefficients may be taken as real numbers, for real-valued functions.

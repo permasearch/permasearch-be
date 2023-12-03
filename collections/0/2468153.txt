@@ -1,0 +1,1 @@
+The first generation of iDrive controllers in the 7 Series was only equipped with the turn knob. The GPS computer (located in the trunk) was only capable of reading map CDs. ("NAV01")

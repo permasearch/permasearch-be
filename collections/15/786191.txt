@@ -1,0 +1,1 @@
+If a = 0, then, when b = 0 every number is a solution of the equation, but if b â‰  0 there are no solutions (and the equation is said to be inconsistent.)

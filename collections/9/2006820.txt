@@ -1,0 +1,1 @@
+Other extensions to the standard include S-video; S-video is an extension to the standard because it uses parallel signal paths for luminance and for chrominance (color), of which both of them can be connected to a composite video input but with either monochrome (luma), or uniform-luma color (chroma) unless merging the signal paths with a filter was done.

@@ -1,0 +1,1 @@
+The line is assumed to be a reciprocal, symmetrical network, meaning that the receiving and sending labels can be switched with no consequence. The transmission matrix T also has the following properties:

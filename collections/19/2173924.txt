@@ -1,0 +1,1 @@
+Where an analog connection requires a modem, an ISDN connection requires a terminal adapter (TA). The function of an ISDN terminal adapter is often delivered in the form of a PC card with an S/T interface, and single-chip solutions seem to exist, considering the plethora of combined ISDN- and ADSL-routers.

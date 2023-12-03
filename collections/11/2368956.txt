@@ -1,0 +1,1 @@
+Creating a focused library requires some knowledge of which residues in the structure to mutate. For example, knowledge of the active site of an enzyme may allow just the residues known to interact with the  substrate to be randomised.[34][35] Alternatively, knowledge of which protein regions are variable in nature can guide mutagenesis in just those regions.[36][37]

@@ -1,0 +1,1 @@
+Safari 9 was announced at WWDC 2015 and released with OS X El Capitan. It included muting tabs and pinned tabs.

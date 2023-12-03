@@ -1,0 +1,1 @@
+Since both      x    {\displaystyle \mathbf {x} }   and      p    {\displaystyle \mathbf {p} }   can have an arbitrary number     N   {\displaystyle N}   of components, that kind of cross product can be extended to any dimension, holding the "physical" interpretation of the operation.

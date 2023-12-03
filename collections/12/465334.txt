@@ -1,0 +1,1 @@
+The characteristic equation of a D flip-flop is     Q (  next  ) = D   {\displaystyle Q({\text{next}})=D}

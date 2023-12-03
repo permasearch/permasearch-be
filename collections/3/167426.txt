@@ -1,0 +1,1 @@
+Using Git does not preclude the benefit of using TFS work item or build system. When checking code in with Git, referencing the work item ID in the check-in comment will associate the check-in with the given work item. Likewise, Team Build will also build Git projects.

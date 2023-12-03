@@ -1,0 +1,1 @@
+Information entropy is defined as the average amount of information produced by a probabilistic stochastic source of data.

@@ -1,0 +1,1 @@
+As South Australia's innings was interrupted once and re-started once, their resource is given by the general formula above as follows: Total resources available = 100% − Resources remaining at 1st interruption + Resources remaining at 1st restart = 100% − 68.6% + 46.7% = 78.1%.

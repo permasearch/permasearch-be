@@ -1,0 +1,1 @@
+Beacon frame is one of the management frames in IEEE 802.11 based WLANs. It contains all the information about the network. Beacon frames are transmitted periodically to announce the presence of a wireless LAN. Beacon frames are transmitted by the access point (AP) in an infrastructure basic service set (BSS). In IBSS network beacon generation is distributed among the stations.

@@ -1,0 +1,1 @@
+Inductors or reactors are coils which generate a magnetic field which interacts with the coil itself, to induce a back EMF which opposes changes in current through the coil. Inductors are used as circuit elements in electrical circuits, to temporarily store energy or resist changes in current. A few types:

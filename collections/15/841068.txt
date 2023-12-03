@@ -1,0 +1,1 @@
+Multicast addresses are formed according to several specific formatting rules, depending on the application.

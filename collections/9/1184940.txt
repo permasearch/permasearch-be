@@ -1,0 +1,1 @@
+Since the state space of such a particle is the tensor product of the state spaces associated with the individual one-dimensional wave functions, the time-independent SchrÃ¶dinger equation for such a system is given by-

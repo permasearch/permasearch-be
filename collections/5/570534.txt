@@ -1,0 +1,1 @@
+is not differentiable at (0, 0), but again all of the partial derivatives and directional derivatives exist.

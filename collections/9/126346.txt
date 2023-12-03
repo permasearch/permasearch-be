@@ -1,0 +1,1 @@
+PCI is later replaced by PCI-E (see below).

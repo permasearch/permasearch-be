@@ -1,0 +1,1 @@
+In contrast to pure spillover, portal site adsorption refers to surface diffusion to adjacent adsorption sites, not to non-adsorptive support surfaces.

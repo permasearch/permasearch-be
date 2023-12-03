@@ -1,0 +1,1 @@
+In theory CDMA, TDMA and FDMA have exactly the same spectral efficiency, but, in practice, each has its own challenges â€“ power control in the case of CDMA, timing in the case of TDMA, and frequency generation/filtering in the case of FDMA.

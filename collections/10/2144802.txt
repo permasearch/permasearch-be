@@ -1,0 +1,1 @@
+is valid for Lebesgue integrable functions f; that is, f ∈ L1(ℝn).

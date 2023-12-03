@@ -1,0 +1,1 @@
+To achieve internalisation of nanoparticles into cells, such as T cells, antibodies can be used to target the nanoparticles to specific receptors on the cell surface (such as CCR5).[5] This is one method of improving drug delivery to immune cells.

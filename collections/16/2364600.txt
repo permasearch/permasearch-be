@@ -1,0 +1,1 @@
+In cvc and CVSNT, a shadow or magic branch "shadows" changes made in the upstream branch, to make it easier to maintain small changes (cvc is an open-source package building system[citation needed] incorporating a revision-control system for packages produced by rPath.)

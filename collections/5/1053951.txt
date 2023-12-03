@@ -1,0 +1,1 @@
+Accelerometer pilot control (APC) uses an accelerometer to provide feedback on the engine's level of noise and vibration and thus instruct the ECU to inject the minimum amount of fuel that will produce quiet combustion and still provide the required power (especially while idling).[121]

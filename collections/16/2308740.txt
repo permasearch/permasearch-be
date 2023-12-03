@@ -1,0 +1,1 @@
+It has also been shown that k-anonymity can skew the results of a data set if it disproportionately suppresses and generalizes data points with unrepresentative characteristics.[12] The suppression and generalization algorithms used to k-anonymize datasets can be altered, however, so that they do not have such a skewing effect.[13]

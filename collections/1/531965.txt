@@ -1,0 +1,1 @@
+A similar analysis can be performed for the general case of the multivariate regression and part of this provides for Bayesian estimation of covariance matrices: see Bayesian multivariate linear regression.

@@ -1,0 +1,1 @@
+Chains with an odd-number of carbons are oxidized in the same manner as even-numbered chains, but the final products are propionyl-CoA and succinyl-CoA.

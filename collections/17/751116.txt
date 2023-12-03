@@ -1,0 +1,1 @@
+For example, for α = 1.0001 and β = 1.00000001:

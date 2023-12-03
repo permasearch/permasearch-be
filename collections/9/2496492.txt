@@ -1,0 +1,1 @@
+In computer architecture, 4-bit integers, memory addresses, or other data units are those that are 4 bits wide. Also, 4-bit CPU and ALU architectures are those that are based on registers, address buses, or data buses of that size. A group of four bits is also called a nibble and has sixteen (24) possible values.

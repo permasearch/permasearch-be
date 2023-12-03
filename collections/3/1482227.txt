@@ -1,0 +1,1 @@
+GPS data pullers are also known as GPS transponders. Unlike data pushers that send the position of the devices at regular intervals (push technology), these devices are always on, and can be queried as often as required (pull technology). This technology is not in widespread use, but an example of this kind of device is a computer connected to the Internet and running gpsd.

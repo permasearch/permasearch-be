@@ -1,0 +1,1 @@
+Additional tools generate standard 2D drawings, such as elevations and sections, from a 3D architectural model. Similarly, Civil Design, Civil Design 3D, and Civil Design Professional support data-specific objects facilitating easy standard civil engineering calculations and representations.

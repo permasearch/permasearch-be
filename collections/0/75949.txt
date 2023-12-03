@@ -1,0 +1,1 @@
+Flat maps are created using a map projection that inevitably introduces an increasing amount of distortion the larger the area that the map shows. A globe is the only representation of the Earth that does not distort either the shape or the size of large features – land masses, bodies of water, etc.

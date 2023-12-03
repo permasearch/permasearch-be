@@ -1,0 +1,1 @@
+As a result, the IETF reserved the address block fc00::/7 in October 2005 for use in private IPv6 networks and defined the associated term unique local addresses.[1]

@@ -1,0 +1,1 @@
+For a molecule with N atoms, the positions of all N nuclei depend on a total of 3N coordinates, so that the molecule has 3N degrees of freedom including translation, rotation and vibration. Translation corresponds to movement of the center of mass whose position can be described by 3 cartesian coordinates.

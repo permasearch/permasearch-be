@@ -1,0 +1,1 @@
+The slope of the world line (deviation from being vertical) gives the relative velocity to the observer. Note how in both pictures the view of spacetime changes when the observer accelerates.

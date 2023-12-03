@@ -1,0 +1,1 @@
+Disciplines whose data are mostly non-experimental, such as economics, usually employ observational data to establish causal relationships. The body of statistical techniques used in economics is called econometrics. The main statistical method in econometrics is multivariable regression analysis. Typically a linear relationship such as

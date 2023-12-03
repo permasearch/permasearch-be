@@ -1,0 +1,1 @@
+Carbon is compatible with all of the several executable formats available for PowerPC Mac OS. Binary compatibility between Mac OS X and previous versions requires use of a Preferred Executable Format file, which Apple never supported in their Xcode IDE.

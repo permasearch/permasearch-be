@@ -1,0 +1,1 @@
+Any change in the current through an inductor creates a changing flux, inducing a voltage across the inductor. By Faraday's law of induction, the voltage induced by any change in magnetic flux through the circuit is[5]

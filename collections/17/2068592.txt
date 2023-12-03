@@ -1,0 +1,1 @@
+Boot-Repair is a simple graphical tool for recovering from frequent boot-related problems with GRUB and Microsoft Windows bootloader. This application is available under GNU GPL license. Boot-Repair can repair GRUB on multiple Linux distributions including, but not limited to, Debian, Ubuntu, Mint, Fedora, openSUSE, and Arch Linux.[36]

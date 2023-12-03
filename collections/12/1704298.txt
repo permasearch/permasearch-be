@@ -1,0 +1,1 @@
+An example of this is the use of numerical approximations to the Navier–Stokes equations to describe aerodynamic flow over an aircraft, or the use of Miner's rule to calculate fatigue damage. Second, engineering research employs many semi-empirical methods that are foreign to pure scientific research, one example being the method of parameter variation.[citation needed]

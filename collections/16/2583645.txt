@@ -1,0 +1,1 @@
+This article summarizes the current definitions of profiles defined and adopted by the Bluetooth SIG and possible applications of each profile.

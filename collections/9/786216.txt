@@ -1,0 +1,1 @@
+Then dividing both side by     (  x  2   −  x  1   )   {\displaystyle (x_{2}-x_{1})}   would result in the “Two-point form” shown above, but leaving it here allows the equation to still be valid when      x  1   =  x  2     {\displaystyle x_{1}=x_{2}}  .

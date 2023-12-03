@@ -1,0 +1,1 @@
+Contingent response - the actions to be taken should the risk event actually occur.

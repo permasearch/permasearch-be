@@ -1,0 +1,1 @@
+It follows that square roots of even square numbers are even, and square roots of odd square numbers are odd.

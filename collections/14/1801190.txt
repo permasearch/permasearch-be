@@ -1,0 +1,1 @@
+where A is the frequency factor for the reaction, R is the universal gas constant, T is the absolute temperature (usually in kelvins), and k is the reaction rate coefficient. Even without knowing A, Ea can be evaluated from the variation in reaction rate coefficients as a function of temperature (within the validity of the Arrhenius equation).

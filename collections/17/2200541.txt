@@ -1,0 +1,1 @@
+OpenGL is a specification implemented in the programming language C, though it can be used in other languages. It is built on the concept of a state machine. As an API, OpenGL depends on no one programming language feature, and can be made callable from almost any language with the proper bindings. Such bindings exist for most current programming languages.[15]

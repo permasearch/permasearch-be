@@ -1,0 +1,1 @@
+DSP can involve linear or nonlinear operations. Nonlinear signal processing is closely related to nonlinear system identification[1] and can be implemented in the time, frequency, and spatio-temporal domains.

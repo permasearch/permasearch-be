@@ -1,0 +1,1 @@
+If the next card was the same rank as the card showing, it counted as a wrong guess; indeed, this is the only way to be wrong when an ace or deuce appeared. "You get nothing for a pair, not in this game" was Forsyth's catch phrase on such occasions.

@@ -1,0 +1,1 @@
+Surface roughness can be evaluated with the height and mean roughness index of micro-irregularities. Surface roughness is defined by the following terms:

@@ -1,0 +1,1 @@
+For its central processing unit (CPU), the NES uses an 8-bit microprocessor produced by Ricoh based on a MOS Technology 6502 core.

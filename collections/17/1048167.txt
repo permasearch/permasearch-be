@@ -1,0 +1,1 @@
+In November 2015, they launched an app-only version of the TV channel on Android TV (using Live Channels) and Apple TV. It has a similar newswheel format (with some changes) and overlays your local forecast at the bottom dynamically using GPS. It also includes on-demand video and local maps.

@@ -1,0 +1,1 @@
+Even if this process results in the numerator being irrational, like in the examples above, the process may still facilitate subsequent manipulations by reducing the number of irrationals one has to work with in the denominator.

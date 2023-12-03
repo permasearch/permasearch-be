@@ -1,0 +1,1 @@
+The Hessian matrix of a differentiable function ƒ: Rn → R consists of the second derivatives of ƒ with respect to the several coordinate directions, that is,[81]

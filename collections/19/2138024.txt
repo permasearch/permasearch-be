@@ -1,0 +1,1 @@
+It is named len in the language BASIC and its derivatives such as Visual Basic. It is named strlen in the language C and its derivatives such as PHP. In some other languages, the full word length is written out as the name of the function. For other languages see Comparison of programming languages (string functions).

@@ -1,0 +1,1 @@
+A commercial invoice is used to calculate tariffs, international commercial terms (like the Cost in a CIF) and is commonly used for customs purposes.

@@ -1,0 +1,1 @@
+for some analytic function f, provided it satisfies some appropriate bounds on its growth and some other technical criteria. (It works for some functions and fails for others. Polynomials are fine.) The exponential over a differential operator is understood as a power series.

@@ -1,0 +1,1 @@
+Subcooled liquid enters the evaporator. Due to the heat exchange with warm sea water, evaporation takes place and usually superheated vapor leaves the evaporator. This vapor drives the turbine and the 2-phase mixture enters the condenser. Usually, the subcooled liquid leaves the condenser and finally, this liquid is pumped to the evaporator completing a cycle.

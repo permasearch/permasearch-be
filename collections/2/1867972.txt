@@ -1,0 +1,1 @@
+Doppler radar tends to be lightweight because it eliminates heavy pulse hardware. The associated filtering removes stationary reflections while integrating signals over a longer time span, which improves range performance while reducing power. The military applied these advantages during the 1940s.

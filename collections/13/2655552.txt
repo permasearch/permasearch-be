@@ -1,0 +1,1 @@
+The distribution of the reciprocal of a t distributed random variable is bimodal when the degrees of freedom are more than one. Similarly the reciprocal of a normally distributed variable is also bimodally distributed.

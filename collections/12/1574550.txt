@@ -1,0 +1,1 @@
+The bandwidth (also called the 3 dB frequency) is the frequency where the signal drops to 1/ √2 of its low-frequency value. (In decibels, dB(√2) = 3.01 dB). A reduction to 1/ √2 occurs when ωCM RA = 1, making the input signal at this value of ω (call this value ω3 dB, say) vG = VA / (1+j). The magnitude of (1+j) = √2. As a result, the 3 dB frequency f3 dB = ω3 dB / (2π) is:

@@ -1,0 +1,1 @@
+Thales' theorem can be used to construct the tangent to a given circle that passes through a given point. (See figure.) We can refer to the image beside, this is one of the cases where Thales' Theorem is used very frequently.

@@ -1,0 +1,1 @@
+In any given interaction, weak isospin is conserved: the sum of the weak isospin numbers of the particles entering the interaction equals the sum of the weak isospin numbers of the particles exiting that interaction. For example, a (left-handed) π+, with a weak isospin of 1 normally decays into a ν μ (+​1⁄2) and a μ+ (as a right-handed antiparticle, +​1⁄2).[14]

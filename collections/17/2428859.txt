@@ -1,0 +1,1 @@
+When performing arithmetic in this notation, digits are carried to the left. It is also possible to write p-adic expansions so that the powers of p increase from left to right, and digits are carried to the right. With this left-to-right notation the 3-adic expansion of ​1⁄5 is

@@ -1,0 +1,1 @@
+Many advocates argue that open source software is inherently safer because any person can view, edit, and change code.[71] A study of the Linux source code has 0.17 bugs per 1000 lines of code while proprietary software generally scores 20â€“30 bugs per 1000 lines.[72]

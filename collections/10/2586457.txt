@@ -1,0 +1,1 @@
+Then, since there are no powers of x on the left, all of the coefficients on the right must be zero, from which it follows that

@@ -1,0 +1,1 @@
+The challenge is thus to find the right level of granularity so as to create abstractions at the proper scale, given a particular dataset.

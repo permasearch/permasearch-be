@@ -1,0 +1,1 @@
+C++ Solutions (ISBNÂ 0-201-30965-3) is a companion book to the finest third edition of The C++ Programming Language. It contains solutions to selected exercises of The C++ Programming Language.

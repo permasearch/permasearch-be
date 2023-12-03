@@ -1,0 +1,1 @@
+Note that "Super Group 3" faxes use V.34bis modulation that allows a data rate of up to 33.6 kbit/s.

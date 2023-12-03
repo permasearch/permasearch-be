@@ -1,0 +1,1 @@
+Although the radian is a unit of measure, it is a dimensionless quantity. This can be seen from the definition given earlier: the angle subtended at the centre of a circle, measured in radians, is equal to the ratio of the length of the enclosed arc to the length of the circle's radius. Since the units of measurement cancel, this ratio is dimensionless.

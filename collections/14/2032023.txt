@@ -1,0 +1,1 @@
+One of the next steps was to allow a client-initiated update, similar to when a user requests a Windows Update.

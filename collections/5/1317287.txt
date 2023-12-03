@@ -1,0 +1,1 @@
+In 2007, Microsoft blocked CDR file format in Microsoft Office 2003 with the release of Service Pack 3 for Office 2003.[47][48] Microsoft later apologized for inaccurately blaming the CDR file format and other formats for security problems in Microsoft Office and released some tools for solving this problem.[49]

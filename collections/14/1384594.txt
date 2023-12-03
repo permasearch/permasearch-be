@@ -1,0 +1,1 @@
+If declared, main() must be declared as if it has external linkage; it cannot be declared static or inline.

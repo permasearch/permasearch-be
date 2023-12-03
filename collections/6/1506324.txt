@@ -1,0 +1,1 @@
+The load need not be resistive for achieving a constant instantaneous power since, as long as it is balanced or the same for all phases, it may be written as

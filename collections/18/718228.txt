@@ -1,0 +1,1 @@
+The mean speed, most probable speed (mode), and root-mean-square can be obtained from properties of the Maxwell distribution.

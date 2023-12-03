@@ -1,0 +1,1 @@
+Note that a number of non-geographic postcode sectors are also contained within geographic postcode areas.

@@ -1,0 +1,1 @@
+The standard deviation of the most recent prices (e.g., the last 20) is often used as a buy or sell indicator.

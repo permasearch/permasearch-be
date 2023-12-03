@@ -1,0 +1,1 @@
+Infinitesimals: Nilpotent numbers. These are smaller than any positive real number, but are nonetheless greater than zero. These were used in the initial development of calculus, and are used in synthetic differential geometry.

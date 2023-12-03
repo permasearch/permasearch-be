@@ -1,0 +1,1 @@
+Service composition patterns have two broad, high-level architectural styles: choreography and orchestration. Lower level enterprise integration patterns that are not bound to a particular architectural style continue to be relevant and eligible in SOA design.[18][19][20]

@@ -1,0 +1,1 @@
+Some VLSI hardware implements inverse square root using a second degree polynomial estimation followed by a Goldschmidt iteration.[15]

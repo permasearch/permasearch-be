@@ -1,0 +1,1 @@
+Reaction rates are highly dependent on the conformation of the reactants. This theme is especially well elucidated in organic chemistry. One example is provided by the elimination reactions, which involve the simultaneous removal of a proton and a leaving group from vicinal positions under the influence of a base.

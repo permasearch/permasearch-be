@@ -1,0 +1,1 @@
+The angular momentum equation can be used to relate the moment of the resultant force on a body about an axis (sometimes called torque), and the rate of rotation about that axis.

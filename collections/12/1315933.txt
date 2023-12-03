@@ -1,0 +1,1 @@
+The composite of surjective functions is always surjective: If f and g are both surjective, and the codomain of g is equal to the domain of f, then f o g is surjective. Conversely, if f o g is surjective, then f is surjective (but g, the function applied first, need not be). These properties generalize from surjections in the category of sets to any epimorphisms in any category.

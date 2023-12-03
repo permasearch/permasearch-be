@@ -1,0 +1,1 @@
+The bulk modulus of s-N2 is 2.16 GPa at 20 K, and 1.47 GPa at 44 K.[3] At temperatures below 30 K solid nitrogen will undergo brittle failure, particularly if strain is applied quickly. Above this temperature the failure mode is ductile failure. Dropping 10 K makes the solid nitrogen 10 times as stiff.[3]

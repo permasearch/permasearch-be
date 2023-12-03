@@ -1,0 +1,1 @@
+Although Robocopy itself is a command-line tool, Microsoft TechNet provides a GUI front-end called Robocopy GUI. It was developed by Derk Benisch, a systems engineer with the MSN Search group at Microsoft, and required .NET Framework 2.0.[15] It includes a copy of Robocopy version XP026.

@@ -1,0 +1,1 @@
+When a stock has a significantly higher growth rate than its peers, it is sometimes assumed that the earnings growth rate will be sustained for a short time (say, 5 years), and then the growth rate will revert to the mean. This is probably the most rigorous approximation that is practical.

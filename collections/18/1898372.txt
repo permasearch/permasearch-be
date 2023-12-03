@@ -1,0 +1,1 @@
+Those reciprocals of primes can be associated with several sequences of repeating decimals. For example, the multiples of 1/13 can be divided into two sets, with different repetends. The first set is:

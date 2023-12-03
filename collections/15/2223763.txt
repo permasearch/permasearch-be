@@ -1,0 +1,1 @@
+Example: Library and Students. Here the student can exist without library, the relation between student and library is aggregation.

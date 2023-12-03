@@ -1,0 +1,1 @@
+Exponentiation of cardinal numbers is distinct from exponentiation of ordinal numbers, which is defined by a limit process involving transfinite induction.

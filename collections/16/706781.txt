@@ -1,0 +1,1 @@
+where     r   {\displaystyle r}   is the number of occurrences the probability is calculated for,     t   {\displaystyle t}   the time period of interest and     μ   {\displaystyle \mu }   is the counting rate.

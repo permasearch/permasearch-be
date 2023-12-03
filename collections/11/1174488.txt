@@ -1,0 +1,1 @@
+provides a first-order approximation for ex for x â‰ª 1:

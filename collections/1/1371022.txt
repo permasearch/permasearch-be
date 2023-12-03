@@ -1,0 +1,1 @@
+These terms, which seem to have been introduced by Hicks and Allen (1934), bear scant if any relation to the mathematicians' concept of ordinal and cardinal numbers; rather they are euphemisms for the concepts of order-homomorphism to the real numbers and group-homomorphism to the real numbers.

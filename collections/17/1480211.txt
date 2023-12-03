@@ -1,0 +1,1 @@
+The following table lists commonly used RS-232 signals (called "circuits" in the specifications) and their pin assignments on the recommended DB-25 connectors.[11] (See Serial port pinouts for other commonly used connectors not defined by the standard.)

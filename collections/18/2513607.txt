@@ -1,0 +1,1 @@
+Sometimes, the transport is handled by separate equipment. In an Integrated DLC, the COT is eliminated. Instead, the RT is connected digitally to equipment in the telephone switch. This reduces the total amount of equipment required.

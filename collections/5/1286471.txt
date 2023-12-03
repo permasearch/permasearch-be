@@ -1,0 +1,1 @@
+TABLE style="width:200px;float:left;border-collapse:collapse;margin:3px">          Annotated diagram of the Mars Polar Lander spacecraftÂ

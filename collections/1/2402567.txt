@@ -1,0 +1,1 @@
+where      Q  i     {\displaystyle Q_{i}}   is the net reactive power injected at bus i.

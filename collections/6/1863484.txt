@@ -1,0 +1,1 @@
+Ideals are important because they appear as kernels of ring homomorphisms and allow one to define factor rings. Different types of ideals are studied because they can be used to construct different types of factor rings.

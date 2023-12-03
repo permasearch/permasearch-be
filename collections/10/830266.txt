@@ -1,0 +1,1 @@
+The handheld includes two analog sticks, a 5-inch (130Â mm) OLED/LCD multi-touch capacitive touchscreen, and supports Bluetooth, Wi-Fi and optional 3G. Internally, the PS Vita features a 4 core ARM Cortex-A9 MPCore processor and a 4 core SGX543MP4+ graphics processing unit, as well as LiveArea software as its main user interface, which succeeds the XrossMediaBar.[151][152]

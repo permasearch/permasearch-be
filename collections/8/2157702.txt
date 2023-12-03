@@ -1,0 +1,1 @@
+In a medical context, vapor pressure is sometimes expressed in other units, specifically millimeters of mercury (mmHg). This is important for volatile anesthetics, most of which are liquids at body temperature, but with a relatively high vapor pressure. Anesthetics with a higher vapor pressure at body temperature will be excreted more quickly, as they are exhaled from the lungs.

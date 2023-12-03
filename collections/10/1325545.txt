@@ -1,0 +1,1 @@
+These numbers give the largest possible value of the Hosoya index for an n-vertex graph.[5] The number of perfect matchings of the complete graph Kn (with n even) is given by the double factorial (n − 1)!!.[6]

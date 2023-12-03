@@ -1,0 +1,1 @@
+Tournament replacement selection sorts are used to gather the initial runs for external sorting algorithms.

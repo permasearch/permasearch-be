@@ -1,0 +1,1 @@
+Most web pages contain hyperlinks to other related pages and perhaps to downloadable files, source documents, definitions and other web resources. In the underlying HTML, a hyperlink looks like this: <a href="http://www.example.org/home.html">Example.org Homepage</a>

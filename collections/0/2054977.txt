@@ -1,0 +1,1 @@
+Both axiomatic and naive forms of Zermelo's set theory as modified by Fraenkel (1922) and Skolem (1922) define "function" as a relation, define a relation as a set of ordered pairs, and define an ordered pair as a set of two "dissymetric" sets.

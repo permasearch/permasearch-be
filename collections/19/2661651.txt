@@ -1,0 +1,1 @@
+The transconductance is typically very high â€” this is where the large open loop gain of the amplifier is generated.  This also means that a fairly small input voltage can cause the input stage to saturate.  In saturation, the stage produces a nearly constant output current.

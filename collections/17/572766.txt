@@ -1,0 +1,1 @@
+In some browsers, prior Flash versions have had to be uninstalled before an updated version could be installed.[129][130] However, as of version 11.2 for Windows, there are now automatic updater options.[131] Linux is partially supported, as Adobe is cooperating with Google to implement it via Chrome web browser on all Linux platforms.[132]

@@ -1,0 +1,1 @@
+Rollout/Rollin was an optional feature of OS/360 Multiprogramming with a Variable number of Tasks (MVT)

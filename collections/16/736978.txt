@@ -1,0 +1,1 @@
+In this case, the application of the del operator to the work function yields,

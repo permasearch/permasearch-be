@@ -1,0 +1,1 @@
+The X Window System uses a similar XBM format for black-and-white images, and XPM (pixelmap) for color images. There are also a variety of "raw" formats, which save raw data with no other information. The Portable Pixmap (PPM) and Truevision TGA formats also exist, but are less often used – or only for special purposes; for example, TGA can contain transparency information.

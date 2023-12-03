@@ -1,0 +1,1 @@
+Many emulators have built-in functionality that allows players to modify data as the game is running, sometimes even emulating cheating hardware such as Game Genie. Some emulators take this method a step further and allow the player to export and import data edits. Edit templates of many games for a console are collected and redistributed as cheat packs.

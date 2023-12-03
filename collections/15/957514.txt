@@ -1,0 +1,1 @@
+At t = 0, the voltage across the capacitor is zero and the voltage across the resistor is V0. The initial current is then I(0)Â =V0/R. With this assumption, solving the differential equation yields

@@ -1,0 +1,1 @@
+where λ is Lamé's first parameter. Since the constitutive equation is simply a set of linear equations, the strain may be expressed as a function of the stresses as:[5]

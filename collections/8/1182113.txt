@@ -1,0 +1,1 @@
+Since only the relative weights are relevant, any weighted mean can be expressed using coefficients that sum to one. Such a linear combination is called a convex combination.

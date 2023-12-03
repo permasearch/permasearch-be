@@ -1,0 +1,1 @@
+In the special case where the set X is just a singleton {a} for some a in R, then the above definitions turn into the following:

@@ -1,0 +1,1 @@
+An interrupt that leaves the machine in a well-defined state is called a precise interrupt. Such an interrupt has four properties:

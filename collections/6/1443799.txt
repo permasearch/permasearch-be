@@ -1,0 +1,1 @@
+The public consultation process was coordinated by the Free Software Foundation with assistance from Software Freedom Law Center, Free Software Foundation Europe,[31] and other free software groups. Comments were collected from the public via the gplv3.fsf.org web portal,[32] using purpose-written software called stet.

@@ -1,0 +1,1 @@
+which negates the time coordinate only, because these transformations leave the spacetime interval invariant. Here I is the 3d identity matrix. These are both symmetric, they are their own inverses (see involution (mathematics)), and each have determinant âˆ’1. This latter property makes them improper transformations.

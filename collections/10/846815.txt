@@ -1,0 +1,1 @@
+This distribution has been extended to the bivariate case.[45] The generating function for this distribution is

@@ -1,0 +1,1 @@
+In mathematical analysis, the rational numbers form a dense subset of the real numbers. The real numbers can be constructed from the rational numbers by completion, using Cauchy sequences, Dedekind cuts, or infinite decimals.

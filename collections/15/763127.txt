@@ -1,0 +1,1 @@
+It has been shown[3] that except in uncommon (but predictable cases) primary and secondary substrates go exclusively by the SN2 mechanism while tertiary substrates go via the SN1 reaction. There are two factors which complicate determining the mechanism of nucleophilic substitution reactions at secondary carbons:

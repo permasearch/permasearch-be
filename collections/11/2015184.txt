@@ -1,0 +1,1 @@
+v  y   =    − m g  k   + C  e     − k  m   t     {\displaystyle v_{y}={\frac {-mg}{k}}+Ce^{{\frac {-k}{m}}t}}   (2g)  And by integration we find:

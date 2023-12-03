@@ -1,0 +1,1 @@
+Note that the theorem, as stated, is false if a differentiable function is complex-valued instead of real-valued. For example, define     f ( x ) =  e  x i     {\displaystyle f(x)=e^{xi}}   for all real     x   {\displaystyle x}   . Then

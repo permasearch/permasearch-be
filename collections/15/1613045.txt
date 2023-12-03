@@ -1,0 +1,1 @@
+In Mayâ€”June 2016, Alibaba group provided the Citizen Lab with updated versions of UC Browser in order to verify their security fixes to these issues. The subsequent update published by the Citizen Lab indicated that, not all of the previously identified data leaks and privacy breaches had been fixed in UC Browser.[31][21]

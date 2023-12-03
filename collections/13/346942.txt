@@ -1,0 +1,1 @@
+Before iOS 4, multitasking was limited to a selection of the applications Apple included on the device. Users could, however "jailbreak" their device in order to unofficially multitask.[88] Starting with iOS 4, on third-generation and newer iOS devices, multitasking is supported through seven background APIs:[89]

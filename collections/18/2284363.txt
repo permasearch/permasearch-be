@@ -1,0 +1,1 @@
+Freenet is fully distributed, but employs a heuristic key-based routing in which each file is associated with a key, and files with similar keys tend to cluster on a similar set of nodes. Queries are likely to be routed through the network to such a cluster without needing to visit many peers.[1] However, Freenet does not guarantee that data will be found.

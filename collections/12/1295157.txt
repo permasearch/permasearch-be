@@ -1,0 +1,1 @@
+Each platform is usually dedicated to some particular route. The current organization is as follows, although temporary changes may occur.

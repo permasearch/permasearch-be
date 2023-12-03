@@ -1,0 +1,1 @@
+Datasets consisting primarily of images or videos for tasks such as object detection, facial recognition, and multi-label classification.

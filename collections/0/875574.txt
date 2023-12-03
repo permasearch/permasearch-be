@@ -1,0 +1,1 @@
+By a result of Berggren (1934), all primitive Pythagorean triples can be generated from the (3, 4, 5) triangle by using the three linear transformations T1, T2, T3 below, where a, b, c are sides of a triple:

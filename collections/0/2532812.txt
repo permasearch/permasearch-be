@@ -1,0 +1,1 @@
+By setting      n  1     {\displaystyle n_{1}}   to 1 and letting      n  2     {\displaystyle n_{2}}   run from 2 to infinity, the spectral lines known as the Lyman series converging to 91Â nm are obtained, in the same manner:

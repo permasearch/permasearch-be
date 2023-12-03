@@ -1,0 +1,1 @@
+Constructive interference occurs when the phase difference between the waves is an even multiple of π (180°) , whereas destructive interference occurs when the difference is an odd multiple of π. If the difference between the phases is intermediate between these two extremes, then the magnitude of the displacement of the summed waves lies between the minimum and maximum values.

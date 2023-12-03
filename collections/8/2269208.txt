@@ -1,0 +1,1 @@
+ACS supports all modern web platforms such as .NET Framework, PHP, Python, Java and Ruby. It can be used with both web applications and web services.

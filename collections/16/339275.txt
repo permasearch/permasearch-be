@@ -1,0 +1,1 @@
+User 'George Jones' suggested on the NSLog(); blog that a simple approximation could be banker's offer = average value * turn number / 10.[61]

@@ -1,0 +1,1 @@
+Context diagrams are diagrams that represent the actors outside a system that could interact with that system.[13] This diagram is the highest level view of a system, similar to block diagram, showing a, possibly software-based, system as a whole and its inputs and outputs from/to external factors.

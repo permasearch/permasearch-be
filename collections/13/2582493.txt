@@ -1,0 +1,1 @@
+In solid-state physics, the electron mobility characterizes how quickly an electron can move through a metal or semiconductor, when pulled by an electric field. In semiconductors, there is an analogous quantity for holes, called hole mobility. The term carrier mobility refers in general to both electron and hole mobility in semiconductors.

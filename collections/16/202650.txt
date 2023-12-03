@@ -1,0 +1,1 @@
+When compared to a V6 or V8, an inline four will generally have somewhat lower frictional losses at a comparable engine speed due to having fewer pistons, connecting rods and bearings, although the lower frictional loss is offset in practice by the inline four's need to operate at a higher RPM compared to a larger engine in order to produce equivalent power.

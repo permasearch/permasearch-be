@@ -1,0 +1,1 @@
+where Ψ is the force potential at the point considered on the streamline. E.g. for the Earth's gravity Ψ = gz.

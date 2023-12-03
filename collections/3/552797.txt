@@ -1,0 +1,1 @@
+The default settings are aimed at newcomers editing articles. Intermediate editors tend to activate more features, such as "warn me if I forgot an edit summary", and advanced editors and administrators use the special settings, gadgets and editors for their tasks.

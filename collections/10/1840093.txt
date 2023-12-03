@@ -1,0 +1,1 @@
+If p â‰¡ 3 (mod 4) the negative of a residue modulo p is a nonresidue and the negative of a nonresidue is a residue.

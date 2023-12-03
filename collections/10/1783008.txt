@@ -1,0 +1,1 @@
+When describing alternating current (AC) electricity, another distinction is made between the watt and the volt-ampere. While these units are equivalent for simple resistive circuits, they differ when loads exhibit electrical reactance.

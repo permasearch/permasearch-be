@@ -1,0 +1,1 @@
+When keeping the Option key pressed when using the mouse, the mouse action can change behaviour

@@ -1,0 +1,1 @@
+With respect to the center of mass both velocities are reversed by the collision: in the case of particles of different mass, a heavy particle moves slowly toward the center of mass, and bounces back with the same low speed, and a light particle moves fast toward the center of mass, and bounces back with the same high speed.

@@ -1,0 +1,1 @@
+The byte at offset 0x026 in this entry should never become 0x28 or 0x29 in order to avoid any misinterpretation with the EBPB format under non-FAT32 aware operating systems.

@@ -1,0 +1,1 @@
+The radius of a black hole is twice its mass in natural units, so the entropy of a black hole is proportional to its surface area:

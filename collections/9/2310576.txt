@@ -1,0 +1,1 @@
+Programs are loaded into the CAM of a dynamic dataflow computer. When all of the tagged operands of an instruction become available (that is, output from previous instructions and/or user input), the instruction is marked as ready for execution by an execution unit.

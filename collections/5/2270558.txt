@@ -1,0 +1,1 @@
+Then     f ( t , 0 ) = f ( 0 , n ) = 1   {\displaystyle f(t,0)=f(0,n)=1}   for all     t , n ≥ 0   {\displaystyle t,n\geq 0}  .

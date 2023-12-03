@@ -1,0 +1,1 @@
+Another simple way to look at it as a scalar product of vectors in module 10. The first 7 digits of the card can be viewed as a vector of length 7. This vector is multiplied by the vector scalar obtaining a number N 8123476 The check digit is found to be N module 10.

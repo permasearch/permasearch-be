@@ -1,0 +1,1 @@
+Theoretically, dual-channel configurations double the memory bandwidth when compared to single-channel configurations. This should not be confused with double data rate (DDR) memory, which doubles the usage of DRAM bus by transferring data both on the rising and falling edges of the memory bus clock signals.

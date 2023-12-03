@@ -1,0 +1,1 @@
+Condition 4. is satisfied by way of Berge's maximum theorem. Because      u  i     {\displaystyle u_{i}}   is continuous and compact,     r (  σ  i   )   {\displaystyle r(\sigma _{i})}   is upper hemicontinuous.

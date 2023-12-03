@@ -1,0 +1,1 @@
+where     t   {\displaystyle t}   is the period (duration) of oscillation (usually averaged over multiple periods).

@@ -1,0 +1,1 @@
+By definition, B = μ0(H + M), where M is the magnetization of the material and μ0 is the vacuum permeability. The diffusion equation therefore is

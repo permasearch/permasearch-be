@@ -1,0 +1,1 @@
+A well-formed stain is in the shape of an ellipse (see figure 1). Dr. Victor Balthazard, and later Dr. Herbert Leon MacDonell, realized that the width-length ratio of the ellipse is the sine of the impact angle. Accurate measurement of the stain thus allows easy calculation of the impact angle.

@@ -1,0 +1,1 @@
+These simplifications make trusses easier to analyze. Structural analysis of trusses of any type can readily be carried out using a matrix method such as the direct stiffness method, the flexibility method, or the finite element method.

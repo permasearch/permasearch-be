@@ -1,0 +1,1 @@
+A data center may be concerned with just operations architecture or it may provide other services as well.

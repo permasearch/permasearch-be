@@ -1,0 +1,1 @@
+As δn → 0, rearranging this expression, we get:

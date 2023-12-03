@@ -1,0 +1,1 @@
+Calls can be composed of one frequency or multiple frequencies comprising a harmonic series. In the latter case, the call is usually dominated by a certain harmonic ("dominant" frequencies are those present at higher intensities than other harmonics present in the call).[citation needed]

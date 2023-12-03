@@ -1,0 +1,1 @@
+A 'power supply tester' is a tool used to test the functionality of a computer's power supply. Testers can confirm the presence of the correct voltages at each power supply connector. Testing under load is recommended for the most accurate readings.[37]

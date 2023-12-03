@@ -1,0 +1,1 @@
+The computer provides the interface between the HUD (i.e. the projection unit) and the systems/data to be displayed and generates the imagery and symbology to be displayed by the projection unit .

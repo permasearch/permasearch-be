@@ -1,0 +1,1 @@
+However, if two internal hosts attempt to communicate with the same external host using the same port number, the external port number used by the second host is chosen at random. Such NAT is sometimes perceived as (address) restricted cone NAT and other times as symmetric NAT.

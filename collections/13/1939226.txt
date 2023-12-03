@@ -1,0 +1,1 @@
+The natural variables of G are then p, T, and {Ni}.

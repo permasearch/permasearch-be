@@ -1,0 +1,1 @@
+Particles with an integer spin, or bosons, are not subject to the Pauli exclusion principle: any number of identical bosons can occupy the same quantum state, as with, for instance, photons produced by a laser and Bose–Einstein condensate.

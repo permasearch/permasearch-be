@@ -1,0 +1,1 @@
+Development tools intended to help an Android device interact with external electronics include IOIO, Android Open Accessory Development Kit, Microbridge, Triggertrap, etc.

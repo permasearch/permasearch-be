@@ -1,0 +1,1 @@
+A similar project was conducted for World Champions in 2007â€“08 using Rybka 2.3.2a (then-strongest chess program) and a modified version of Crafty 20.14.[28] It arrived at the following results:[29][30]

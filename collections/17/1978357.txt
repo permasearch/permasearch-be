@@ -1,0 +1,1 @@
+A resilient SD-WAN reduces network downtime. The technology must feature real time detection of outages and automatic switch over to working links.[14]

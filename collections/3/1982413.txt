@@ -1,0 +1,1 @@
+Multiplexing is provided by the Physical Layer of the OSI model, while multiple access also involves a media access control protocol, which is part of the Data Link Layer.

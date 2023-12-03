@@ -1,0 +1,1 @@
+On 21 September 1997, a division by zero error on board the USS Yorktown (CG-48) Remote Data Base Manager brought down all the machines on the network, causing the ship's propulsion system to fail.[5][6]

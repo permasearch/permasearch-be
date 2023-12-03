@@ -1,0 +1,1 @@
+As Richard Dean showed in 1981, the quaternion group can be presented as the Galois group Gal(T/Q) where Q is the field of rational numbers and T is the splitting field, over Q, of the polynomial

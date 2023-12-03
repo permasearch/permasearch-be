@@ -1,0 +1,1 @@
+Urea is readily quantified by a number of different methods, such as the diacetyl monoxime colorimetric method, and the Berthelot reaction (after initial conversion of urea to ammonia via urease). These methods are amenable to high throughput instrumentation, such as automated flow injection analyzers[24] and 96-well micro-plate spectrophotometers.[25]

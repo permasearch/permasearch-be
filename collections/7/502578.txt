@@ -1,0 +1,1 @@
+Bohr's condition, that the angular momentum is an integer multiple of Ä§ was later reinterpreted in 1924 by de Broglie as a standing wave condition: the electron is described by a wave and a whole number of wavelengths must fit along the circumference of the electron's orbit:

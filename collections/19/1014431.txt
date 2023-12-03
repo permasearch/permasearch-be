@@ -1,0 +1,1 @@
+The first recorded idea of using digital electronics for computing was the 1931 paper "The Use of Thyratrons for High Speed Automatic Counting of Physical Phenomena" by C. E. Wynn-Williams.[4] Claude Shannon's 1938 paper "A Symbolic Analysis of Relay and Switching Circuits" then introduced the idea of using electronics for Boolean algebraic operations.

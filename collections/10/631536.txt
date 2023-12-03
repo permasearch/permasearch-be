@@ -1,0 +1,1 @@
+It is worth mentioning that the ENCODE project[71] currently (as of Dec 2017) has Hi-C datasets in 16 cell lines (many of them are cancer cell lines); they are A549, ACHN, Caki2, DLD1, G401, HeLa-S3, HepG2, LNCaP clone FGC, NCI-H460, Panc1, RPMI-7951, SJCRH30, SK-MEL-5, SK-N-DZ, SK-N-MC, T47D.

@@ -1,0 +1,1 @@
+The notation for cylindrical coordinates is not uniform. The ISO standard 31-11 recommends (ρ, φ, z), where ρ is the radial coordinate, φ the azimuth, and z the height. However, the radius is also often denoted r or s, the azimuth by θ or t, and the third coordinate by h or (if the cylindrical axis is considered horizontal) x, or any context-specific letter.

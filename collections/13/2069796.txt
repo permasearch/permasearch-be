@@ -1,0 +1,1 @@
+A square number can be friendly, for instance both 693479556 (the square of 26334) and 8640 have abundancy 127/36 (this example is due to Dean Hickerson).

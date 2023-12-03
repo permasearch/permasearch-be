@@ -1,0 +1,1 @@
+and this basic approximation can be improved in a simple way by using a suitable continuity correction. The basic approximation generally improves as n increases (at least 20) and is better when p is not near to 0 or 1.[12] Various rules of thumb may be used to decide whether n is large enough, and p is far enough from the extremes of zero or one:

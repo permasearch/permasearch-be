@@ -1,0 +1,1 @@
+The Work Center produces 242 Total Units during the shift. Note: The basis is Total Units, not Good Units. The Performance metric does not penalize for Quality.

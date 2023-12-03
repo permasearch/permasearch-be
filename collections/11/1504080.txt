@@ -1,0 +1,1 @@
+The first calculator capable of symbolic computing was the HP-28C, released in 1987. It could, for example, solve quadratic equations symbolically. The first graphing calculator was the Casio fx-7000G released in 1985.

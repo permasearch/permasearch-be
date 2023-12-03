@@ -1,0 +1,1 @@
+The bit is used as a token that is passed back and forth between the stations.  Only one token should exist at a time.  The secondary only sends a Final when it has received a Poll from the primary. The primary only sends a Poll when it has received a Final back from the secondary, or after a timeout indicating that the bit has been lost.

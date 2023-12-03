@@ -1,0 +1,1 @@
+Therefore:     A =    F  0    m + 1    ⋅  [  x  1   ⋅   (    x  1    x  0     )   m   −  x  0   ]    {\displaystyle A={\frac {F_{0}}{m+1}}\cdot \left[x_{1}\cdot \left({\frac {x_{1}}{x_{0}}}\right)^{m}-x_{0}\right]}

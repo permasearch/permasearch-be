@@ -1,0 +1,1 @@
+Many other implementations exist, provided with both various operating systems and C compilers. Some of the popular implementations are the following:

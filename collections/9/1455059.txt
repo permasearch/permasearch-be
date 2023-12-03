@@ -1,0 +1,1 @@
+Traditionally the Project Constraint Model recognised three key constraints; "Cost", "Time" and "Scope". These constraints construct a triangle with geometric proportions illustrating the strong interdependent relationship between these factors. If there is a requirement to shift any one of these factors then at least one of the other factors must also be manipulated.[13]

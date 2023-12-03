@@ -1,0 +1,1 @@
+where     λ = 2 π  /  k   {\displaystyle \lambda =2\pi /k}   is the free space wavelength corresponding to the radian frequency ω. By definition, the radiation resistance Rrad times the average of the square of the current |I|2/2 is the net power radiated due to that current, so equating the above to |I|2Rrad/2 we find:

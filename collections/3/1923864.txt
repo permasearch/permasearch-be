@@ -1,0 +1,1 @@
+Transition fit may result in either an interference or clearance, depending upon the actual values of the tolerance of individual parts.

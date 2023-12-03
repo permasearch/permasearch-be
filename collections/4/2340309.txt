@@ -1,0 +1,1 @@
+Based on the proportions of these types of trials, numerical estimates of sensitivity can be obtained with statistics like the sensitivity index d' and A',[10] and response bias can be estimated with statistics like c and β.[10]

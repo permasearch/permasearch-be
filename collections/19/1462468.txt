@@ -1,0 +1,1 @@
+One of the challenges is the development of more efficient green LEDs. The theoretical maximum for green LEDs is 683 lumens per watt but as of 2010 few green LEDs exceed even 100 lumens per watt. The blue and red LEDs get closer to their theoretical limits.

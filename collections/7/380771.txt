@@ -1,0 +1,1 @@
+Since ColdFusion 10,[10] CFML has also supported specifying the name of the constructor method:

@@ -1,0 +1,1 @@
+For example, 5 is a lower bound for the set { 5, 8, 42, 34, 13934 }; so is 4; but 6 is not.

@@ -1,0 +1,1 @@
+A simple method of SIT which can be performed with minimum usage of software testing tools. Data imports and exports are exchanged before the behavior of each data field within each individual layer is investigated. After the software collaboration, there are three main states of data flow.

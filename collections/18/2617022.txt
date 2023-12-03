@@ -1,0 +1,1 @@
+DVD-Audio discs employ a DRM mechanism, called Content Protection for Prerecorded Media (CPPM), developed by the 4C group (IBM, Intel, Matsushita, and Toshiba).

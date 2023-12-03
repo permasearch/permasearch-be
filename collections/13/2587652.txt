@@ -1,0 +1,1 @@
+Bixby can do tasks related to a single keyword. For example, a simple "Good Night" can request the device to turn to silent mode and turn on the Night Mode display.

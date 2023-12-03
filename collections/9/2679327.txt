@@ -1,0 +1,1 @@
+Since then, the WHATWG has been working on this specification (amongst others), and the W3C has been copying fixes made by the WHATWG into their fork of the document (which also has other changes).

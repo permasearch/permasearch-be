@@ -1,0 +1,1 @@
+Stereo sound systems can be divided into two forms: the first is "true" or "natural" stereo in which a live sound is captured, with any natural reverberation or ambience present, by an array of microphones. The signal is then reproduced over multiple loudspeakers to recreate, as closely as possible, the live sound.

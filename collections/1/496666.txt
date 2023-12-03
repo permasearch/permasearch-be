@@ -1,0 +1,1 @@
+The image shows characters to be entered using AltGr in the lower left corner of each key depiction (characters not contained in the "T1" layout are marked red). Diacritical marks are marked by a flat rectangle which also indicates the position of the diacritical mark relative to the base letter.

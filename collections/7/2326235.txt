@@ -1,0 +1,1 @@
+where mn is the nth moment. Differentiating MX(t) i times with respect to t and setting t = 0, we obtain the ith moment about the origin, mi; see Calculations of moments below.

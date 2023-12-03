@@ -1,0 +1,1 @@
+In the original version of Google Maps, the pin was displayed with the letters "A" through "J" when there was more than one search results.[9] In later versions, the pin was shown with a black dot inside to mark a single location.[10] In 2011, Google released a minor redesign of the pin that changed the black outline of the pin to a dark red for a softer look.[11]

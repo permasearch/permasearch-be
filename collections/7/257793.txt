@@ -1,0 +1,1 @@
+Normally, all printed text automatically has the control characters for carriage return (CR) and line feed (LF) appended to the end of each line.

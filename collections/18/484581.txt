@@ -1,0 +1,1 @@
+A tape file system is a file system and tape format designed to store files on tape in a self-describing form[clarification needed]. Magnetic tapes are sequential storage media with significantly longer random data access times than disks, posing challenges to the creation and efficient management of a general-purpose file system.

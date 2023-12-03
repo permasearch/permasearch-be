@@ -1,0 +1,1 @@
+Windows 10 no longer includes a generic driver for USB floppy drives.[17]

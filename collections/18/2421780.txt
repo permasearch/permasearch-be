@@ -1,0 +1,1 @@
+Three-pair is the only scoring variation that alters the likelihood of farkling, and only on the initial throw of six dice. If three pairs are not scored, the probability of farkling on the initial throw increases to 1 in 32.4 (5 in 162).

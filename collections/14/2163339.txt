@@ -1,0 +1,1 @@
+However, the remainder of this section refers to semaphores with unary V and P operations, unless otherwise specified.

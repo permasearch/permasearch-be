@@ -1,0 +1,1 @@
+There are several motivations for why a trader may choose to use DMA rather than alternative forms of order placement:

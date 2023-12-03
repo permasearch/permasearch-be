@@ -1,0 +1,1 @@
+Note that special fonts, including screen fonts, can be used in iOS only by the application that brings them; it is not possible to install a font that can be used by unrelated applications. There is no "Special Characters "or "Dingbats" font.

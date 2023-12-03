@@ -1,0 +1,1 @@
+There are many different kinds of products in mathematics: besides being able to multiply just numbers, polynomials or matrices, one can also define products on many different algebraic structures. An overview of these different kinds of products is given here.

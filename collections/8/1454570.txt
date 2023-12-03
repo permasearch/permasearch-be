@@ -1,0 +1,1 @@
+Several subsets of Unicode are standardized: Microsoft Windows since Windows NT 4.0 supports WGL-4 with 656 characters, which is considered to support all contemporary European languages using the Latin, Greek, or Cyrillic script. Other standardized subsets of Unicode include the Multilingual European Subsets:[48]

@@ -1,0 +1,1 @@
+where Var(.) and Cov(.) are sample parameters.

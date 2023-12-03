@@ -1,0 +1,1 @@
+A balanced regulator first stage automatically keeps a constant pressure difference between the interstage pressure and the ambient pressure even as the tank pressure drops with consumption. The balanced regulator design allows the first stage orifice to be as large as needed without incurring performance degradation as a result of changing tank pressure.[3]:17-20

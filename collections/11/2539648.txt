@@ -1,0 +1,1 @@
+Solving for the wavelength Î» in units of nanometers, and using kelvin for the temperature yields:

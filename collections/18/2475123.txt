@@ -1,0 +1,1 @@
+The most important commands that refer to program execution and data operations are:

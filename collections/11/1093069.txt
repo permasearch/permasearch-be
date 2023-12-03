@@ -1,0 +1,1 @@
+The product (a + bi) · (c + di) can be calculated in the following way.

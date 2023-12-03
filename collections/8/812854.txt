@@ -1,0 +1,1 @@
+The IEEE now considers the label MAC-48 to be an obsolete term, previously used to refer to a specific type of EUI-48 identifier used to address hardware interfaces within existing 802-based networking applications, and thus not to be used in the future. Instead, the proprietary term EUI-48 should be used for this purpose.

@@ -1,0 +1,1 @@
+There are five contestants. To start, they are given a series of questions. If they answer correctly, they get to choose which celebrity they think will win a physical challenge. If their celebrity loses, both the contestant and the celebrity leave. This repeats with different challenges until the final.

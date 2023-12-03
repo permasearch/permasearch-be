@@ -1,0 +1,1 @@
+Superscalar computers may contain multiple ALUs, allowing them to process several instructions simultaneously.[60] Graphics processors and computers with SIMD and MIMD features often contain ALUs that can perform arithmetic on vectors and matrices.

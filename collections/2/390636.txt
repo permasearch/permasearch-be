@@ -1,0 +1,1 @@
+VLANs can be used to partition a local network into several distinctive segments,[3] for example:

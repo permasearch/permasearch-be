@@ -1,0 +1,1 @@
+Variadic function demonstration (arguments is a special variable):[48]

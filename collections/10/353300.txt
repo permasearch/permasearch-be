@@ -1,0 +1,1 @@
+The obsolete letters ぇ, ゐ, ゑ, ゎ, ぃ, ぁ, ぅ, and ぉ, along with the marks ー, ゛, and ゜, have no tiles (with the first three letters and the marks being playable with a blank). The marks are included to make the letter distribution smaller.

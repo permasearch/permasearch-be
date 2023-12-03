@@ -1,0 +1,1 @@
+Example 2: 6% annually is credited as 6%/12 = 0.5% every month. After one year, the initial capital is increased by the factor (1+0.005)12 â‰ˆ 1.0617.

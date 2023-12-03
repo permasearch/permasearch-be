@@ -1,0 +1,1 @@
+This limitation has been addressed by Multiple Certificate Status Request Extension, specified in RFC 6961. It adds the support for sending multiple OCSP responses.[23]

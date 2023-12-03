@@ -1,0 +1,1 @@
+It is typically desirable to have some crown in the workpiece as this will cause the workpiece to tend to pull to the center of the mill, and thus will run with higher stability.

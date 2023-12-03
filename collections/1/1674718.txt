@@ -1,0 +1,1 @@
+Bit arrays can be used for the allocation of memory pages, inodes, disk sectors, etc. In such cases, the term bitmap may be used. However, this term is frequently used to refer to raster images, which may use multiple bits per pixel.

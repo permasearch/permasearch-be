@@ -1,0 +1,1 @@
+The total resistance of resistors in series is equal to the sum of their individual resistances:

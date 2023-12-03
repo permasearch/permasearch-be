@@ -1,0 +1,1 @@
+Two types of cross-validation can be distinguished, exhaustive and non-exhaustive cross-validation.

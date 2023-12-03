@@ -1,0 +1,1 @@
+Here it is assumed that application of the force causes the spring to expand and, having derived the force constant by least squares fitting, the extension can be predicted from Hooke's law.

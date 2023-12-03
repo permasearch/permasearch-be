@@ -1,0 +1,1 @@
+Mathematically we may construct the rational numbers as equivalence classes of ordered pairs of integers (m,n), with n ≠ 0. This space of equivalence classes is the quotient space (Z × (Z \ {0})) / ~, where (m1,n1) ~ (m2,n2) if, and only if, m1n2 − m2n1 = 0. We can define addition and multiplication of these pairs with the following rules:

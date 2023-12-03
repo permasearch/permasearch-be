@@ -1,0 +1,1 @@
+CPI  =    5 × 50 + 4 × 15 + 4 × 25 + 3 × 8 + 3 × 2  100   = 4.4   {\displaystyle {\text{CPI}}={\frac {5\times 50+4\times 15+4\times 25+3\times 8+3\times 2}{100}}=4.4}

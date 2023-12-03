@@ -1,0 +1,1 @@
+The points on a line have coordinates which can also be thought of as the solutions of linear equations in two variables (the equation of the line). These solution sets define functions which are linear functions. This connection between linear equations and linear functions provides the most common way to produce linear functions.

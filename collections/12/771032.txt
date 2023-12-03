@@ -1,0 +1,1 @@
+By the early 1980s, users began seeing Unix as a potential universal operating system, suitable for computers of all sizes.[12][13] The Unix environment and the client–server program model were essential elements in the development of the Internet and the reshaping of computing as centered in networks rather than in individual computers.

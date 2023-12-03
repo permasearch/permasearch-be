@@ -1,0 +1,1 @@
+These orbits are sun synchronous, meaning that they cross the equator at the same local time each day. For example, the satellites in the NPOESS (civilian) orbit will cross the equator, going from south to north, at times 1:30 P.M., 5:30 P.M., and 9:30 P.M.

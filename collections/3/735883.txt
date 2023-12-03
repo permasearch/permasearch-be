@@ -1,0 +1,1 @@
+It is used to compare the annual interest between loans with different compounding periods like week, month, year, etc. The effective interest rate differs in two important respects from the annual percentage rate (APR):[1]

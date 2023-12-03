@@ -1,0 +1,1 @@
+Plug-in power is supplied on the same line as the audio signal, using an RC filter. The DC bias voltage supplies the FET amplifier (at a low current), while the capacitor decouples the DC supply from the AC input to the recorder. Typically, V=1.5 V, R=1 kΩ, C=47 µF.

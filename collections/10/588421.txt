@@ -1,0 +1,1 @@
+Developments of adaptive optics include systems with multiple lasers over a wider corrected field, and/or working above kiloHertz rates for good correction at visible wavelengths; these are currently in progress but not yet in routine operation as of 2015.

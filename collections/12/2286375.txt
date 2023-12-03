@@ -1,0 +1,1 @@
+Each service maintains independent FLPP rates, which vary based on the difficulty of the language, the number of speakers of that language in the service, and the needs of the service. FLPP is awarded in addition to base pay, other pay, and is subject to taxation, except within a war zone.

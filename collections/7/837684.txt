@@ -1,0 +1,1 @@
+v ( t ) =    a t   1 +     a  2    t  2     c  2          {\displaystyle v(t)={\frac {at}{\sqrt {1+{\frac {a^{2}t^{2}}{c^{2}}}}}}}

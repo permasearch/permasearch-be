@@ -1,0 +1,1 @@
+with casual content delivery networks:      total cost  =  filesize  ×  customers  ×  cost-per-byte    {\displaystyle {\text{total cost}}={\text{filesize}}\times {\text{customers}}\times {\text{cost-per-byte}}}

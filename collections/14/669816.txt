@@ -1,0 +1,1 @@
+and so, a rectangle with different sides (say length of 3 metres and width of 2 metres) would have an area in square units that can be calculated as:

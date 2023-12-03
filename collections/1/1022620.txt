@@ -1,0 +1,1 @@
+Digital dashboard technology is available "out-of-the-box" from many software providers. Some companies however continue to do in-house development and maintenance of dashboard applications. For example, GE Aviation has developed a proprietary software/portal called "Digital Cockpit" to monitor the trends in aircraft spare parts business.

@@ -1,0 +1,1 @@
+Next, substitution into the first equation for      v  b     {\displaystyle v_{\text{b}}}   and then resolving for      v  a     {\displaystyle v_{\text{a}}}   gives:

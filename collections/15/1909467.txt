@@ -1,0 +1,1 @@
+Location tables are released by the government agency SETRA. The latest version 10.1, was certified by TISA in 2013 and released in 2014. It covers 184 913Â km of roads in France, and contains about 25 984 location data points.

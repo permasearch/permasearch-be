@@ -1,0 +1,1 @@
+In direct proof, the conclusion is established by logically combining the axioms, definitions, and earlier theorems.[13] For example, direct proof can be used to establish that the sum of two even integers is always even:

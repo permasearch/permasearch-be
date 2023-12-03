@@ -1,0 +1,1 @@
+With the advent of computing, the term plaintext expanded beyond human-readable documents to mean any data, including binary files, in a form that can be viewed or used without requiring a key or other decryption device. Information—a message, document, file, etc.—if to be communicated or stored in encrypted form is referred to as plaintext.

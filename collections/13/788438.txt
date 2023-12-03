@@ -1,0 +1,1 @@
+A changing angular velocity indicates the presence of an angular acceleration in rigid body, typically measured in rad s−2. The average angular acceleration       α ¯     {\displaystyle {\overline {\alpha }}}   over a time interval Δt is given by

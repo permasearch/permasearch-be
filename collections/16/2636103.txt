@@ -1,0 +1,1 @@
+All dimensions are exclusive of heading and hems. Device to appear on both sides of flag but will appear reversed on reverse side of flag, except that the motto shall read from left to right on both sides.

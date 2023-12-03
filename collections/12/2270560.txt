@@ -1,0 +1,1 @@
+If the first egg broke,     m   {\displaystyle m}   is from     1   {\displaystyle 1}   to     a   {\displaystyle a}   and distinguishable using at most     t − 1   {\displaystyle t-1}   tries and     n − 1   {\displaystyle n-1}   eggs.

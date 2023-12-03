@@ -1,0 +1,1 @@
+The most common choice,     O ( log ⁡ n )   {\displaystyle O(\log n)}   degree/route length, is not optimal in terms of degree/route length tradeoff, but such topologies typically allow more flexibility in choice of neighbors. Many DHTs use that flexibility to pick neighbors that are close in terms of latency in the physical underlying network.

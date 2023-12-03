@@ -1,0 +1,1 @@
+The following are environment variables passed to CGI programs:

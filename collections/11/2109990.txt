@@ -1,0 +1,1 @@
+This design approach also is compatible with other, related services, such as the S/MIME and OpenPGP content-protection standards. DKIM is compatible with the DNSSEC standard and with SPF.

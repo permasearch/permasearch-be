@@ -1,0 +1,1 @@
+For industrial scale uses, the total binding molecules on the column resin beads must be factored in because unoccupied sites must be taken into account. The Langmuir isotherm and Freundlich isotherm are useful in describing this equilibrium. Langmuir Isotherm: [CS] = (KeqStot[C])/(1 + Keq[C]), where Stot is the total binding molecules on the beads.

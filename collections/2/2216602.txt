@@ -1,0 +1,1 @@
+A question that has been answered is whether every integer greater than one is a product of primes in only one way, except for a rearrangement of the primes. This is called fundamental theorem of arithmetic. A proof appears in Euclid's Elements.

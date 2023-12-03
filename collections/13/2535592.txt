@@ -1,0 +1,1 @@
+Thus the volume is four times that of a regular tetrahedron with the same edge length, while the surface area is twice (because we have 8 rather than 4 triangles).

@@ -1,0 +1,1 @@
+Direct3D 11, Direct2D, DirectWrite, DXGI 1.1, WARP and several other components are currently available for Windows Vista SP2 and Windows Server 2008 SP2 by installing the Platform Update for Windows Vista.[58]

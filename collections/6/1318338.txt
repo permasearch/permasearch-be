@@ -1,0 +1,1 @@
+The type–token distinction identifies physical objects that are tokens of a particular type of thing.[4] The "type" that it is a part of, is in itself an abstract object. The abstract-concrete distinction is often introduced and initially understood in terms of paradigmatic examples of objects of each kind:

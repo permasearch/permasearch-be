@@ -1,0 +1,1 @@
+Essentially, the whole mechanism, called a component integrator, was a variable-speed drive with one motion input and two outputs, as well as an angle input. The angle input varied the ratio (and direction) of coupling between the "motion" input and the outputs according to the sine and cosine of the input angle.

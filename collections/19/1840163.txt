@@ -1,0 +1,1 @@
+If the modulus n is a prime power n = pe, a solution may be found modulo p and "lifted" to a solution modulo n using Hensel's lemma or an algorithm of Gauss.[8]

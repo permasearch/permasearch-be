@@ -1,0 +1,1 @@
+Technically, a gallery can be produced in different ways. One simple and flexible method is table syntax. For example:

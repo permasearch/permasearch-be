@@ -1,0 +1,1 @@
+Modal logic is not truth conditional, and so it has often been proposed as a non-classical logic. However, modal logic is normally formalized with the principle of the excluded middle, and its relational semantics is bivalent, so this inclusion is disputable.

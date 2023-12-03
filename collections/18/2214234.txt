@@ -1,0 +1,1 @@
+In the "Worldwide Software Testing Practices Report 2015 - 2016",[6] ISTQB found that the popularity of Agile methodologies are significantly increasing, which shows the need for Agile testing processes and techniques. They are providing an Agile Tester extension to their certification.[7]

@@ -1,0 +1,1 @@
+Generally the problem is best tackled starting from the extreme sums â€” cages with the largest or the smallest sums. This is because these have the fewest possible combinations. For example, 5 cells within the same cage totalling 34 can only be 4, 6, 7, 8, and 9.  Yet, 5 cells within the same cage totaling 25 has twelve possible combinations.

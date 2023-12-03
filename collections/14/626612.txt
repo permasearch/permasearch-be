@@ -1,0 +1,1 @@
+Sum of sines and cosines with arguments in arithmetic progression:[40] if α ≠ 0, then

@@ -1,0 +1,1 @@
+If the system is at equilibrium, then the chemical potential of the component i must be the same in the liquid solution and in the vapor above it. That is,

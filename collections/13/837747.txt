@@ -1,0 +1,1 @@
+If a particle is not traveling at c, one can transform the 3D force from the particle's co-moving reference frame into the observer's reference frame. This yields a 4-vector called the four-force. It is the rate of change of the above energy momentum four-vector with respect to proper time. The covariant version of the four-force is:

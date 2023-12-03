@@ -1,0 +1,1 @@
+The contrast between two adjacent areas in a TEM image can be defined as the difference in the electron densities in image plane. Due to the scattering of the incident beam by the sample, the amplitude and phase of the electron wave change, which results in amplitude contrast and phase contrast, correspondingly. Most of images have both contrast components.

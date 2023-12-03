@@ -1,0 +1,1 @@
+In the third step, these data are combined computationally with complementary chemical information to produce and refine a model of the arrangement of atoms within the crystal. The final, refined model of the atomic arrangement—now called a crystal structure—is usually stored in a public database.

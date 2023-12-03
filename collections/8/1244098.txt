@@ -1,0 +1,1 @@
+and using the expression for the internal energy of an ideal gas, the entropy may be written:

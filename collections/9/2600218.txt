@@ -1,0 +1,1 @@
+The major obstacle to achieving high loop gains is the need to maintain system closed loop stability. Loop shaping which allows stable closed loop operation can be a technical challenge.

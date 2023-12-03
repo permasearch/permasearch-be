@@ -1,0 +1,1 @@
+If a Web browser issues a request for the environment variables at http://example.com/cgi-bin/printenv.pl/foo/bar?var1=value1&var2=with%20percent%20encoding, a 64-bit Microsoft Windows web server running cygwin returns the following information:

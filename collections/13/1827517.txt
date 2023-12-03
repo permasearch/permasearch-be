@@ -1,0 +1,1 @@
+Another common single-phase AC motor is the split-phase induction motor,[18] commonly used in major appliances such as air conditioners and clothes dryers. Compared to the shaded pole motor, these motors provide much greater starting torque.

@@ -1,0 +1,1 @@
+The mean absolute deviation around the mean for the beta distribution with shape parameters α and β is:[6]

@@ -1,0 +1,1 @@
+This pays out one unit of cash if the spot is below the strike at maturity. Its value is given by

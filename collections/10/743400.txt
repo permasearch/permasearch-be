@@ -1,0 +1,1 @@
+Android apps can ask for or require certain permissions on the device, including access to body sensors, calendar, camera, contacts, location, microphone, phone, SMS, and storage.[154]

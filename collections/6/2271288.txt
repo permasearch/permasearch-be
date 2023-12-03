@@ -1,0 +1,1 @@
+It is clear from the quark model assignments that the kaons form two doublets of isospin; that is, they belong to the fundamental representation of SU(2) called the 2. One doublet of strangeness +1 contains the K+ and the K0. The antiparticles form the other doublet (of strangeness âˆ’1).

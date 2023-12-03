@@ -1,0 +1,1 @@
+An object experiences a constant acceleration of one metre per second squared (1 m/s2) from a state of rest, when it achieves the speed of 5 m/s after 5 seconds and 10 m/s after 10 seconds.

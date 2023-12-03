@@ -1,0 +1,1 @@
+A computer program is usually written by a computer programmer in a programming language. From the program in its human-readable form of source code, a compiler can derive machine codeâ€”a form consisting of instructions that the computer can directly execute. Alternatively, a computer program may be executed with the aid of an interpreter.

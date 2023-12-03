@@ -1,0 +1,1 @@
+The MIL-STD-810G standard specifies that the "operating temperature stabilization is attained when the temperature of the functioning part(s) of the test item considered to have the longest thermal lag is changing at a rate of no more than 2.0 °C (3.6 °F) per hour."[5] It also specifies procedures to assess the performance of materials to extreme temperature loads.[6]

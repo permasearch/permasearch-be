@@ -1,0 +1,1 @@
+An offer of a draw should be made after a player makes a move but before he presses his game clock. The other player also declines the offer if he makes a move, and the draw offer will no longer be in effect. The offer of a draw should be recorded by each player in their score sheet using the symbol (=) as per Appendix C.12 of FIDE Laws of Chess.

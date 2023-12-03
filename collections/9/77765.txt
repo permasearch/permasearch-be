@@ -1,0 +1,1 @@
+Note that there is no general rule for the case q / 0; it all depends on the way 0 is approached. Indeterminate forms—for instance, 0/0, 0×∞, ∞−∞, and ∞/∞—are also not covered by these rules, but the corresponding limits can often be determined with L'Hôpital's rule or the Squeeze theorem.

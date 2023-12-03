@@ -1,0 +1,1 @@
+For cylinders with their axes vertical, the expressions for plane surfaces can be used provided the curvature effect is not too significant. This represents the limit where boundary layer thickness is small relative to cylinder diameter     D   {\displaystyle D}  . The correlations for vertical plane walls can be used when

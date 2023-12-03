@@ -1,0 +1,1 @@
+The surface of the Earth is rotating, so it is not an inertial frame of reference. At latitudes nearer the Equator, the outward centrifugal force produced by Earth's rotation is larger than at polar latitudes. This counteracts the Earth's gravity to a small degree – up to a maximum of 0.3% at the Equator – and reduces the apparent downward acceleration of falling objects.

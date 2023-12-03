@@ -1,0 +1,1 @@
+For small swings the pendulum approximates a harmonic oscillator, and its motion as a function of time, t, is approximately simple harmonic motion:[5]

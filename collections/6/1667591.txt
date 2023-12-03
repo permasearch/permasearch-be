@@ -1,0 +1,1 @@
+In relation to the second approach, despite self-collection being a hot topic in eDiscovery[26], concerns are being addressed by limiting the involvement of the custodian to simply plugging in a device and running an application to create an encrypted container of responsive documents [1]

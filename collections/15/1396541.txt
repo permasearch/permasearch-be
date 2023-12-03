@@ -1,0 +1,1 @@
+For example, the centripetal force exerted inwards by a string on a ball in uniform circular motion sideways constrains the ball to circular motion restricting its movement away from the center of the circle. This force does zero work because it is perpendicular to the velocity of the ball.

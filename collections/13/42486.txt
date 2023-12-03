@@ -1,0 +1,1 @@
+FedEx provides air transport service to USPS for Priority and Express Mail. Priority Mail and Express Mail are transported from Priority Mail processing centers to the closest FedEx-served airport, where they are handed off to FedEx. FedEx then flies them to the destination airport and hands them back to USPS for transport to the local post office and delivery.

@@ -1,0 +1,1 @@
+Decision problems are closely related to function problems, which can have answers that are more complex than a simple 'yes' or 'no'. A corresponding function problem is "given two numbers x and y, what is x divided by y?".

@@ -1,0 +1,1 @@
+The above lift equation neglects the skin friction forces, which typically have a negligible contribution to the lift compared to the pressure forces.

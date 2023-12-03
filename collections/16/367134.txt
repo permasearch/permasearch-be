@@ -1,0 +1,1 @@
+Finally, partitions made with Windows 7’s partition-creating tools are created with the SSD’s alignment needs in mind, avoiding unwanted systematic write amplification.[66]

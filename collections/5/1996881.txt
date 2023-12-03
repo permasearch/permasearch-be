@@ -1,0 +1,1 @@
+Note that w = ε + p/ρ where ε is the thermodynamic energy per unit mass, also known as the specific internal energy. So, for constant internal energy ε the equation reduces to the incompressible-flow form.

@@ -1,0 +1,1 @@
+The standard enthalpy of formation is measured in units of energy per amount of substance, usually stated in kilojoule per mole (kJ mol−1), but also in kilocalorie per mole, joule per mole or kilocalorie per gram (any combination of these units conforming to the energy per mass or amount guideline).

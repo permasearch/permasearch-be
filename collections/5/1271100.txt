@@ -1,0 +1,1 @@
+This effectively proves the use of the divisor n − 1 in the calculation of an unbiased sample estimate of σ2.

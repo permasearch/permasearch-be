@@ -1,0 +1,1 @@
+For a general node located at index     i   {\displaystyle i}   (beginning from 0), we will first derive the index of its right child,      right  = 2 i + 2   {\displaystyle {\text{right}}=2i+2}  .

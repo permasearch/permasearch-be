@@ -1,0 +1,1 @@
+Quadrilaterals are simple (not self-intersecting) or complex (self-intersecting), also called crossed. Simple quadrilaterals are either convex or concave.

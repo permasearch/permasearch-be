@@ -1,0 +1,1 @@
+A pH indicator is a weak acid or weak base that changes colour in the transition pH range, which is approximately pKa ± 1. The design of a universal indicator requires a mixture of indicators whose adjacent pKa values differ by about two, so that their transition pH ranges just overlap.

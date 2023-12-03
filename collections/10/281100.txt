@@ -1,0 +1,1 @@
+Equality holds if and only if all the elements of the given sample are equal.

@@ -1,0 +1,1 @@
+each element p of [a given set] P is associated with one and only one inverse element s equals p' in [the universal set] S.

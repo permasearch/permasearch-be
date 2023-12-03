@@ -1,0 +1,1 @@
+The frequencies of sonars range from infrasonic to above a megahertz. Generally, the lower frequencies have longer range, while the higher frequencies offer better resolution, and smaller size for a given directionality.

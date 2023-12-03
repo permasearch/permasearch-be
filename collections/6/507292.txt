@@ -1,0 +1,1 @@
+In addition to a name and value, cookies can also have one or more attributes. Browsers do not include cookie attributes in requests to the serverâ€”they only send the cookie's name and value. Cookie attributes are used by browsers to determine when to delete a cookie, block a cookie or whether to send a cookie to the server.

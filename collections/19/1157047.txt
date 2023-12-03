@@ -1,0 +1,1 @@
+There has been confusion of how to use Baybayin, which is actually an abugida, or an alphasyllabary, rather than an alphabet. Not every letter in the Latin alphabet is represented with one of those in the Baybayin alphasyllabary. Rather than letters being put together to make sounds as in Western languages, Baybayin uses symbols to represent syllables.

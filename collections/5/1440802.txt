@@ -1,0 +1,1 @@
+The international country code prefix for Belgium is "+32". When dialing a number with the prefix, the 0 can be dropped, e.g.: +32 4AA BB BB BB.

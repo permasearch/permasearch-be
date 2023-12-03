@@ -1,0 +1,1 @@
+Other submodels can be interlinked, such as land use, allowing researchers to predict the interaction between climate and ecosystems.

@@ -1,0 +1,1 @@
+The stress displacement curve of a plane of atoms varies sinusoidally as stress peaks when an atom is forced over the atom below and then falls as the atom slides into the next lattice point.[9]

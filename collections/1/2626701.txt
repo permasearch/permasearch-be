@@ -1,0 +1,1 @@
+As the drum completes a revolution, it is exposed to an electrically neutral soft plastic blade which cleans any remaining toner from the photoreceptor drum and deposits it into a waste reservoir.  A charge roller then re-establishes a uniform negative charge on the surface of the now clean drum, readying it to be struck again by the laser.

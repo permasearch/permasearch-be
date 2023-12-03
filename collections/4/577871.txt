@@ -1,0 +1,1 @@
+One of the consequences of the Pythagorean theorem is that line segments whose lengths are incommensurable (so the ratio of which is not a rational number) can be constructed using a straightedge and compass. Pythagoras's theorem enables construction of incommensurable lengths because the hypotenuse of a triangle is related to the sides by the square root operation.

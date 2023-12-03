@@ -1,0 +1,1 @@
+This phase is the repolarisation phase. This occurs due to the inactivation of the L-type calcium channels (preventing the movement of Ca2+ into the cell), and the activation of potassium channels, which allows the flow of K+ out of the cell, making the membrane potential more negative.[23]

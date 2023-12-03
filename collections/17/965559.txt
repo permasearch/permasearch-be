@@ -1,0 +1,1 @@
+Theorem. Suppose that X1, X2, … is stationary and α-mixing with αn = O(n−5) and that E(Xn) = 0 and E(X12 n) < ∞. Denote Sn = X1 + … + Xn, then the limit

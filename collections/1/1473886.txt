@@ -1,0 +1,1 @@
+Because of the lack of JavaScript execution on crawlers of some popular Web search engines,[20] SEO (Search engine optimization) has historically presented a problem for public facing websites wishing to adopt the SPA model.[21]

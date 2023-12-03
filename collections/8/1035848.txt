@@ -1,0 +1,1 @@
+codename Whidbey released together with Visual Studio 2005 and Visual Web Developer Express and SQL Server 2005

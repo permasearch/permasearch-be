@@ -1,0 +1,1 @@
+IBM Notes can be used with IBM Sametime instant-messaging to allow to see other users online and chat with one or more of them at the same time. Beginning with Release 6.5, this function has been freely available. Presence awareness is available in email and other IBM Domino applications for users in organizations that use both IBM Notes and IBM Sametime.

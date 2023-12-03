@@ -1,0 +1,1 @@
+The following examples show how to use language-specific bindings to import symbols for linking against a DLL at compile-time.

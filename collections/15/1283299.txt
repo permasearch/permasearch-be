@@ -1,0 +1,1 @@
+where the negative sign indicates heat ejected from the system. The generalization of this equation is Clausius theorem, which suggests the existence of a state function S (i.e., a function which depends only on the state of the system, not on how it reached that state) defined (up to an additive constant) by

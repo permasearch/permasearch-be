@@ -1,0 +1,1 @@
+An angle bisector divides the angle into two angles with equal measures. An angle only has one bisector. Each point of an angle bisector is equidistant from the sides of the angle.

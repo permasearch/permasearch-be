@@ -1,0 +1,1 @@
+Thus, the magnitude of a point x in the direction n on the inertia ellipsoid is

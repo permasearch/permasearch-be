@@ -1,0 +1,1 @@
+Computer theorists often refer to idealized analog computers as real computers (because they operate on the set of real numbers). Digital computers, by contrast, must first quantize the signal into a finite number of values, and so can only work with the rational number set (or, with an approximation of irrational numbers).

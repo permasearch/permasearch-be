@@ -1,0 +1,1 @@
+The calculated loss budget is used when testing to confirm that the measured loss is within the normal operating parameters.

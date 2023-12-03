@@ -1,0 +1,1 @@
+Internal combustion engines rely upon the vaporization of the fuel in the cylinders to form a fuel/air mixture in order to burn well. The chemically correct air/fuel mixture for total burning of gasoline has been determined to be 15 parts air to one part gasoline or 15/1 by weight. Changing this to a volume ratio yields 8000 parts air to one part gasoline or 8,000/1 by volume.

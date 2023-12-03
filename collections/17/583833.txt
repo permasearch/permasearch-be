@@ -1,0 +1,1 @@
+These formulÃ¦ give rhumb distances on the sphere which may differ greatly from true distances whose determination requires more sophisticated calculations.[22]

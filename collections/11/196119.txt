@@ -1,0 +1,1 @@
+Windows 8 and 8.1 add a design change. When UAC is triggered, all applications and the taskbar are hidden when the desktop is dimmed.

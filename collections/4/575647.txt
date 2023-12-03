@@ -1,0 +1,1 @@
+Chrome supports color management by using the system-provided ICC v2 and v4 support on macOS, and from version 22 supports ICC v2 profiles by default on other platforms.[187]

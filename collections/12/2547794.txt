@@ -1,0 +1,1 @@
+GnuTLS's certtool may also be used to create PKCSÂ #12 files including certificates, keys, and CA certificates via --to-pk12. However, beware that for interchangeability with other software, if the sources are in PEM Base64 text, then --outder should also be used.

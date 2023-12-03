@@ -1,0 +1,1 @@
+NP-hard problems are often tackled with rules-based languages in areas including:

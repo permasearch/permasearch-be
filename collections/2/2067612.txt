@@ -1,0 +1,1 @@
+Since     γ = ( 1 −  v  2    /   c  2    )  − 1  /  2      {\displaystyle \gamma =(1-v^{2}/c^{2})^{-1/2}\!}  ,

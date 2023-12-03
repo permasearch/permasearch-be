@@ -1,0 +1,1 @@
+Fluctuations in current also generate radio waves, enabling attacks that analyze measurements of electromagnetic emanations. These attacks typically involve similar statistical techniques as power-analysis attacks.

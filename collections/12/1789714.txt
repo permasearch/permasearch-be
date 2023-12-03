@@ -1,0 +1,1 @@
+Independent of the inflation system, all slides are equipped with at least one pressure relief device per inflation chamber. This protects the chamber from catastrophic failure due to over pressurizing. (Typically, modern slides are made of at least 2 inflation chambers, and should be able to evacuate an aircraft even when one chamber loses all pressure.)

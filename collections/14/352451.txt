@@ -1,0 +1,1 @@
+In the case of a closed system in which the particles of the system are of different types and, because chemical reactions may occur, their respective numbers are not necessarily constant, the fundamental thermodynamic relation for dU becomes:

@@ -1,0 +1,1 @@
+Again, these relationships are accurate for L<< λ/2. Setting L=λ/2 regardless, this formula would predict a radiation resistance of 49Ω, rather than the actual 73Ω value applying to the half-wave dipole.

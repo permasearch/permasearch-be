@@ -1,0 +1,1 @@
+Because each field mode is an independent Gaussian, the expectation values for the product of many field modes obeys Wick's theorem:

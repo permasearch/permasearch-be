@@ -1,0 +1,1 @@
+The study of protein folding includes three main aspects related to the prediction of protein stability, kinetics, and structure. A recent review summarizes the available computational methods for protein folding. [30]

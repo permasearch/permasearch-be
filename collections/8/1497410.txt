@@ -1,0 +1,1 @@
+The iron with up to three dots allows for ironing. The number of dots are assigned temperatures: one prescribes 110°C, two for 150°C and three for 200°C. An iron with a cross prohibits ironing.

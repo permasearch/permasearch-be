@@ -1,0 +1,1 @@
+where     ⟨   e   i   ,   a   i   ⟩ = ‖   u   i   ‖   {\displaystyle \langle \mathbf {e} _{i},\mathbf {a} _{i}\rangle =\|\mathbf {u} _{i}\|}  . This can be written in matrix form:

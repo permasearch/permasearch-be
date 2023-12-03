@@ -1,0 +1,1 @@
+On a bicycle with more than one gear change mechanism (e.g. front and rear derailleur), these three numbers can be quite different, depending on the relative gearing steps of the various mechanisms. The number of gears for such a derailleur equipped bike is often stated simplistically, particularly in advertising, and this may be misleading.

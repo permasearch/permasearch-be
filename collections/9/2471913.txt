@@ -1,0 +1,1 @@
+Using the infinite geometric series, again, the equality only holds if |0.5âˆ’1z| < 1 which can be rewritten in terms of z as |z| < 0.5. Thus, the ROC is |z| < 0.5. In this case the ROC is a disc centered at the origin and of radius 0.5.

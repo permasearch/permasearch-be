@@ -1,0 +1,1 @@
+Fick's law describes diffusion of an admixture in a medium. The concentration of this admixture should be small and the gradient of this concentration should be also small. The driving force of diffusion in Fick's law is the antigradient of concentration,     − ∇ n   {\displaystyle -\nabla n}  .

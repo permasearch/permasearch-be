@@ -1,0 +1,1 @@
+An example of the use of signs as astronomical coordinates may be found in the Nautical Almanac and Astronomical Ephemeris for the year 1767. The "Longitude of the Sun" columns show the sign (represented as a digit from 0 to and including 11), degrees from 0 to 29, minutes, and seconds.[33]

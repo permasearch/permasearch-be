@@ -1,0 +1,1 @@
+A developed elevation is a variant of a regular elevation view in which several adjacent non-parallel sides may be shown together, as if they have been unfolded.  For example, the north and west views may be shown side-by-side, sharing an edge, even though this does not represent a proper orthographic projection.

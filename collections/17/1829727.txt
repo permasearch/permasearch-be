@@ -1,0 +1,1 @@
+A numeric price for an item may be withheld or simply unavailable for a number of reasons.

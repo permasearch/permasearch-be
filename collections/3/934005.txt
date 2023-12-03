@@ -1,0 +1,1 @@
+If U, V, W, u, v, w are lengths of edges of the tetrahedron (first three form a triangle; u opposite to U and so on), then[9]

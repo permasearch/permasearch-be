@@ -1,0 +1,1 @@
+The MODIFY operation is used by LDAP clients to request that the LDAP server make changes to existing entries.[17] Attempts to modify entries that do not exist will fail. MODIFY requests are subject to access controls as implemented by the server.

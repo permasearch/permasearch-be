@@ -1,0 +1,1 @@
+A*01:01 ; C*07:01 ; B*08:01 ; DRB1*03:01 ; DQA1*05:01 ; DQB1*02:01 (By serotyping A1-Cw7-B8-DR3-DQ2)

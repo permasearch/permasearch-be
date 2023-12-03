@@ -1,0 +1,1 @@
+This notion can be applied to the example above in which S = {x, y, z} to see the isomorphism with the binary numbers from 0 to 2n âˆ’ 1 with n being the number of elements in the set. In S, a "1" in the position corresponding to the location in the set indicates the presence of the element. So {x, y} = 110.

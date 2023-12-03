@@ -1,0 +1,1 @@
+In the picture where the coherent state is a massive particle in a QHO, the position and momentum operators may be expressed in terms of the annihilation operators in the same formulas above and used to calculate the variances,

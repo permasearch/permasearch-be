@@ -1,0 +1,1 @@
+There were several early failed attempts at proving the theorem. De Morgan believed that it followed from a simple fact about four regions, though he didn't believe that fact could be derived from more elementary facts.

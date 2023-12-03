@@ -1,0 +1,1 @@
+The ancient apparent magnitudes for the brightness of stars uses the base       100  5    ≈ 2.512   {\displaystyle {\sqrt[{5}]{100}}\approx 2.512}   and is reversed. The modernized version has however turned into a logarithmic scale with non-integer values.

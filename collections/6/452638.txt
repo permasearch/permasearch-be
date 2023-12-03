@@ -1,0 +1,1 @@
+In this manner, the do ... while loop saves the initial "loop priming" with do_work(); on the line before the while loop.

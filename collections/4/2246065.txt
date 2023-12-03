@@ -1,0 +1,1 @@
+In 2004, a second edition "Guidelines for the use of the C language in critical systems", or MISRA-C:2004 was produced, with many substantial changes to the guidelines, including a complete renumbering of the rules.

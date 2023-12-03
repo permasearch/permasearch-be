@@ -1,0 +1,1 @@
+With limited exceptions, the earliest computers were connected directly to terminals used by individual users, typically in the same building or site. Such networks became known as local area networks (LANs). Networking beyond this scope, known as wide area networks (WANs), emerged during the 1950s and became established during the 1960s.

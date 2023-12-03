@@ -1,0 +1,1 @@
+The negative binomial distribution NB(r,p) can be represented as a compound Poisson distribution: Let {Yn, n ∈ ℕ0} denote a sequence of independent and identically distributed random variables, each one having the logarithmic distribution Log(p), with probability mass function

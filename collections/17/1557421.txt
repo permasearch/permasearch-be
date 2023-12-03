@@ -1,0 +1,1 @@
+The insulator in a MOSFET is a dielectric which can in any event be silicon oxide, formed by LOCOS but many other dielectric materials are employed. The generic term for the dielectric is gate dielectric since the dielectric lies directly below the gate electrode and above the channel of the MOSFET.

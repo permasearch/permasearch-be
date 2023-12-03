@@ -1,0 +1,1 @@
+After undoing a move, if you do not need B as a redirect, tag it for deletion (using the appropriate process on the wiki you're using, for instance 'speedy deletion' or 'votes for deletion'), or (administrators only) just delete it.

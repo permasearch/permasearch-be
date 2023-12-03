@@ -1,0 +1,1 @@
+ρ ( r ) =  ρ  e   E x p  [ −  d  n    (   (   r  r  c     )    1 n    − 1 )  ]    {\displaystyle \rho (r)=\rho _{e}Exp\left[-d_{n}\left(\left({\frac {r}{r_{c}}}\right)^{\frac {1}{n}}-1\right)\right]}

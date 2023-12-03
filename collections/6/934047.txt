@@ -1,0 +1,1 @@
+A truncation process applied to the tetrahedron produces a series of uniform polyhedra. Truncating edges down to points produces the octahedron as a rectified tetrahedron. The process completes as a birectification, reducing the original faces down to points, and producing the self-dual tetrahedron once again.

@@ -1,0 +1,1 @@
+A nomenclature system has been devised for the olfactory receptor family[31] and is the basis for the official Human Genome Project (HUGO) symbols for the genes that encode these receptors.  The names of individual olfactory receptor family members are in the format "ORnXm" where:

@@ -1,0 +1,1 @@
+Most modern monitors will switch to a power-saving mode if no video-input signal is received. This allows modern operating systems to turn off a monitor after a specified period of inactivity. This also extends the monitor's service life.

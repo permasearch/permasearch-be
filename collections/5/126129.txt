@@ -1,0 +1,1 @@
+The number of indices needed to specify an element is called the dimension, dimensionality, or rank of the array.

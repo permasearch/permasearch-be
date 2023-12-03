@@ -1,0 +1,1 @@
+In any given day, a celestial object will appear to drift across the upper meridian as the Earth rotates, for the meridian is fixed to the local horizon. At culmination, the object contacts the upper meridian and reaches its highest position in the sky. An object's right ascension and the local sidereal time can be used to determine the time of its culmination (see hour angle).

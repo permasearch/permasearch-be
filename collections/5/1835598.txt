@@ -1,0 +1,1 @@
+The primary objective of all RSS modules is to extend the basic XML schema established for more robust syndication of content. This inherently allows for more diverse, yet standardized, transactions without modifying the core RSS specification.

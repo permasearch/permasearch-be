@@ -1,0 +1,1 @@
+Then     (  L  0   ,  R  0   ) = (  L  0  ′  ,  R  0  ′  )   {\displaystyle (L_{0},R_{0})=(L_{0}',R_{0}')}   is the plaintext again.

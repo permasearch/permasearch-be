@@ -1,0 +1,1 @@
+Electric power transmission over long lines favors lower frequencies. The effects of the distributed capacitance and inductance of the line are less at low frequency.

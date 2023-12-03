@@ -1,0 +1,1 @@
+While framebuffers are commonly accessed via a memory mapping directly to the CPU memory space, this is not the only method by which they may be accessed. Framebuffers have varied widely in the methods used to access memory. Some of the most common are:

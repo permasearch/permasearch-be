@@ -1,0 +1,1 @@
+In June 2016, after the last public update of Java 7,[33] "remotely exploitable" security bugs in Java 6, 7, and 8 were announced.[14]

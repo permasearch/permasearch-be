@@ -1,0 +1,1 @@
+Differentiable neural computers (DNC) are an NTM extension. They out-performed Neural turing machines, long short-term memory systems and memory networks on sequence-processing tasks.[180][181][182][183][184]

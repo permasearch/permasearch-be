@@ -1,0 +1,1 @@
+A corresponding expression for the difference in specific heat capacities (intensive properties) at constant volume and constant pressure is:

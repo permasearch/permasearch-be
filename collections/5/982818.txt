@@ -1,0 +1,1 @@
+This is known as the use–mention distinction. For the vast majority of articles, the introduction is using a term ("Computer architecture is a theory"), rather than mentioning it.

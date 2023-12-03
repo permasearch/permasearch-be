@@ -1,0 +1,1 @@
+where z = a + ib, and a and b are the above algebraic expressions for, respectively, cos 3° and sin 3°, and the principal cube root (that is, the cube root with the largest real part) is to be taken.

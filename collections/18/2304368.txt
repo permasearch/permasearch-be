@@ -1,0 +1,1 @@
+The key factor determining sensitivity of Hall effect sensors is high electron mobility. As a result, the following materials are especially suitable for Hall effect sensors:

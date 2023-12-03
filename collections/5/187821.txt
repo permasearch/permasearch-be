@@ -1,0 +1,1 @@
+As another example, consider a line which runs through the points (4, 15) and (3, 21). Then, the slope of the line is

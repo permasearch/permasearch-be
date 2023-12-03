@@ -1,0 +1,1 @@
+In the Arab world, where Eastern Arabic numerals are used for writing numbers, a different character is used to separate the integer and fractional parts of numbers. It is referred to as an Arabic decimal separator (٫) (in hex U+066B) in Unicode. An Arabic thousands separator (٬) also exists.

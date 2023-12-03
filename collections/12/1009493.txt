@@ -1,0 +1,1 @@
+Since the variation of strain is arbitrary, the stressâ€“strain relation of an elastic material is given by

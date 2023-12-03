@@ -1,0 +1,1 @@
+A transfer of pages between main memory and an auxiliary store, such as a hard disk drive, is referred to as paging or swapping.[4]

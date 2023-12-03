@@ -1,0 +1,1 @@
+Soil components larger than 2.0 mm (0.079 in) are classed as rock and gravel and are removed before determining the percentages of the remaining components and the textural class of the soil, but are included in the name. For example, a sandy loam soil with 20% gravel would be called gravelly sandy loam.

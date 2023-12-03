@@ -1,0 +1,1 @@
+The activated complexes do not follow a Boltzmann distribution of energies, but an "equilibrium constant" can still be derived from the distribution they do follow. The equilibrium constant K‡ɵ for the quasi-equilibrium can be written as

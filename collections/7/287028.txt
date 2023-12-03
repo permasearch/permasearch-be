@@ -1,0 +1,1 @@
+d =      2 ε  q       C  A   +  C  D      C  A    C  D      Δ V     {\displaystyle d={\sqrt {{\frac {2\varepsilon }{q}}{\frac {C_{A}+C_{D}}{C_{A}C_{D}}}\Delta V}}}

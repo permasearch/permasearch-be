@@ -1,0 +1,1 @@
+Black's later chapter on "The Sampling Principle" does give Nyquist some of the credit for some relevant math:

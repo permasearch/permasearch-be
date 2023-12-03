@@ -1,0 +1,1 @@
+The triangle of largest area of all those inscribed in a given circle is equilateral; and the triangle of smallest area of all those circumscribed around a given circle is equilateral.[31]

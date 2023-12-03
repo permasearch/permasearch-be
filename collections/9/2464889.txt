@@ -1,0 +1,1 @@
+The maximum speeds that can be achieved with staging is theoretically limited only by the speed of light. However the payload that can be carried goes down geometrically with each extra stage needed, while the additional delta-v for each stage is simply additive.

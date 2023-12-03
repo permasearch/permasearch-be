@@ -1,0 +1,1 @@
+In designing user interfaces, the term in situ means that a particular user action can be performed without going to another window[citation needed], for example, if a word processor displays an image and allows you to edit the image without launching a separate image editor, this is called in situ editing.

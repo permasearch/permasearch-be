@@ -1,0 +1,1 @@
+where     ε  0    {\varepsilon _{0}}   is the angle subtended by the object at the front focal point of the objective and    ε  {\varepsilon }   is the angle subtended by the image at the rear focal point of the eyepiece.

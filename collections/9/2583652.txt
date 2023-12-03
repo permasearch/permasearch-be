@@ -1,0 +1,1 @@
+It also has the possibility for vendor-dependent extensions.

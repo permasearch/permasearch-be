@@ -1,0 +1,1 @@
+A first example is the vector space      ℓ  p     {\displaystyle \ell ^{p}}   consisting of infinite vectors with real entries      x  =  (   x  1   ,  x  2   , … ,  x  n   , …  )    {\displaystyle \mathbf {x} =\left(x_{1},x_{2},\ldots ,x_{n},\ldots \right)}   whose     p   {\displaystyle p}  -norm     ( 1 ≤  p  ≤ ∞ )   {\displaystyle (1\leq {p}\leq \infty )}   given by

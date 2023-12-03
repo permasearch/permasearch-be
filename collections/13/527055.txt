@@ -1,0 +1,1 @@
+Since the unit of the C-rate is typically implied, some care is required when using it to avoid confusing it with the battery's capacity to store a charge, which in the SI has unit coulomb with unit symbol C.

@@ -1,0 +1,1 @@
+In the United States, power transmission is, variously, 230 kV to 500 kV, with less than 230 kV or more than 500 kV being local exceptions. For example, the Western System has two primary interchange voltages: 500 kV AC at 60 Hz, and ±500 kV (1,000 kV net) DC from North to South (U.S.-Canada border to U.S.-Mexico border).

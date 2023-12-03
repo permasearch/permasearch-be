@@ -1,0 +1,1 @@
+However, every graph can be canonically made into a topological space, by treating vertices as points and edges as copies of the unit interval (see topological graph theory#Graphs as topological spaces). Then one can show that the graph is connected (in the graph theoretical sense) if and only if it is connected as a topological space.

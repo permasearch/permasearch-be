@@ -1,0 +1,1 @@
+is the curvature scalar. The Ricci tensor itself is related to the more general Riemann curvature tensor as

@@ -1,0 +1,1 @@
+However, observing the entropy component (and other losses), voltages over 1.48 V are required for the reaction to proceed at practical current densities (the thermoneutral voltage).

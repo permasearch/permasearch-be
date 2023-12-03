@@ -1,0 +1,1 @@
+where      z  α  /  2     {\displaystyle z_{\alpha /2}}   denotes the standard normal deviate with upper tail area α / 2.

@@ -1,0 +1,1 @@
+A Saccheri quadrilateral is similar to a trapezoid in the hyperbolic plane, with two adjacent right angles, while it is a rectangle in the Euclidean plane. A Lambert quadrilateral in the hyperbolic plane has 3 right angles.

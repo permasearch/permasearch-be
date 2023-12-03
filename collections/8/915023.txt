@@ -1,0 +1,1 @@
+Once we have the slope, we can define the consequent polynomials:

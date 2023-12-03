@@ -1,0 +1,1 @@
+CLIST (Command List) (pronounced "C-List") is a procedural programming language for TSO in MVS systems. It originated in OS/360 Release 20 and has assumed a secondary role since the availability of Rexx in TSO/E Version 2. The term CLIST is also used for command lists written by users of NetView.[1]

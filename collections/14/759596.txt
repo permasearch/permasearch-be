@@ -1,0 +1,1 @@
+where the S2 term is omitted for small objects relative to great distances by small-angle approximation.

@@ -1,0 +1,1 @@
+One protocol proposed for this purpose is DLMS/COSEM which can operate over any medium, including serial ports. The data can be transmitted by Zigbee, WiFi, telephone lines or over the power lines themselves. Some meters can be read over the internet. Other more modern protocols are also becoming widely used, like OSGP (Open Smart Grid Protocol).

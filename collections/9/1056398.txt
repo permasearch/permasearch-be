@@ -1,0 +1,1 @@
+Relative bioavailability compares the bioavailability between two different dosage forms. Again, the relative AUCs are used to make this comparison and relative doses are used to normalize the calculation.

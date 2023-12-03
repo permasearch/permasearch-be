@@ -1,0 +1,1 @@
+Most vector formats implicitly support transparency because they simply avoid putting any objects at a given point. This includes EPS and WMF. For vector graphics this may not strictly be seen as transparency, but it requires much of the same careful programming as transparency in raster formats.

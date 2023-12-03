@@ -1,0 +1,1 @@
+Change in time = Convective transport + brownian diffusion + gas-particle interactions + coagulation + migration by external forces

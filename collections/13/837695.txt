@@ -1,0 +1,1 @@
+Some authors use X0 = t, with factors of c elsewhere to compensate; for instance, spatial coordinates are divided by c or factors of cÂ±2 are included in the metric tensor.[48] These numerous conventions can be superseded by using natural units where c = 1. Then space and time have equivalent units, and no factors of c appear anywhere.

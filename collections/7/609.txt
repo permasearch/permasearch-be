@@ -1,0 +1,1 @@
+If a triangle is placed in the complex plane with complex vertices z1, z2, and z3, then for either non-real cube root     ω   {\displaystyle \omega }   of 1 the triangle is equilateral if and only if[17]:Lemma 2

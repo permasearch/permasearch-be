@@ -1,0 +1,1 @@
+A state which is a Dillon's Rule state, but which also allows for home rule in specified circumstances, applies Dillon's Rule to matters or governmental units where home rule is not specifically authorized.

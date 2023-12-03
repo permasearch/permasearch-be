@@ -1,0 +1,1 @@
+(Compare with the series above.) A third derivation was invented by a seventh-grader who was doubtful over her teacher's limiting argument that 0.999... = 1 but was inspired to take the multiply-by-10 proof above in the opposite direction: if x = ...999 then 10x =  ...990, so 10x = x − 9, hence x = −1 again.[60]

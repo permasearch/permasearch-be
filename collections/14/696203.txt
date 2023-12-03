@@ -1,0 +1,1 @@
+As an example, for the article Notability: the page name, {{FULLPAGENAME}} and {{PAGENAME}} would be Notability; and {{NAMESPACE}} would be blank. And for the page Wikipedia:Notability: the page name and {{FULLPAGENAME}} would be Wikipedia:Notability; {{NAMESPACE}} would be Wikipedia; and {{PAGENAME}} would be Notability.

@@ -1,0 +1,1 @@
+A dot convention is often used in transformer circuit diagrams, nameplates or terminal markings to define the relative polarity of transformer windings. Positively increasing instantaneous current entering the primary winding's ‘dot’ end induces positive polarity voltage exiting the secondary winding's ‘dot’ end.[29][30][31][k][l][m]

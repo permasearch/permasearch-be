@@ -1,0 +1,1 @@
+If h â‰  0 we need the transfer matrix method. For the periodic boundary conditions case is the following. The partition function is

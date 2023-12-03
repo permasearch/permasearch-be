@@ -1,0 +1,1 @@
+There are some things that a free body diagram explicitly excludes. Although other sketches that include these things may be helpful in visualizing a problem, a proper free body diagram should not show:

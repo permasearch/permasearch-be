@@ -1,0 +1,1 @@
+Noise figure (NF) and noise factor (F) are measures of degradation of the signal-to-noise ratio (SNR), caused by components in a signal chain.   It is a number by which the performance of an amplifier or a radio receiver can be specified, with lower values indicating better performance.

@@ -1,0 +1,1 @@
+The 12 roots of the Exceptional Lie group G2, represented by a Dynkin diagram  are also in a hexagonal pattern. The two simple roots of two lengths have a 150Â° angle between them.

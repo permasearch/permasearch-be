@@ -1,0 +1,1 @@
+In SRAM, the memory cell is a type of flip-flop circuit, usually implemented using FETs. This means that SRAM requires very low power when not being accessed, but it is expensive and has low storage density.

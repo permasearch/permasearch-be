@@ -1,0 +1,1 @@
+In probability theory, ηε(x) is a normal distribution of variance ε and mean 0. It represents the probability density at time t = ε of the position of a particle starting at the origin following a standard Brownian motion. In this context, the semigroup condition is then an expression of the Markov property of Brownian motion.

@@ -1,0 +1,1 @@
+For an infinite three-dimensional lattice, defined by its primitive vectors      (    a  1    ,   a   2   ,   a   3    )    {\displaystyle \left(\mathbf {a_{1}} ,\mathbf {a} _{2},\mathbf {a} _{3}\right)}  , its reciprocal lattice can be determined by generating its three reciprocal primitive vectors, through the formulae

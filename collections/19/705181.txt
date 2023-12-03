@@ -1,0 +1,1 @@
+The bazaar model, however, is different. In this model, roles are not clearly defined. Gregorio Robles[41] suggests that software developed using the bazaar model should exhibit the following patterns:

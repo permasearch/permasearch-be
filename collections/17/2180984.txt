@@ -1,0 +1,1 @@
+Despite the modern dominance of 3D graphics in games, HUDs are frequently rendered with a 2D look, often using sprites.

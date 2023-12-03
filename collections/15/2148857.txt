@@ -1,0 +1,1 @@
+Therefore, to decrypt     R    = ^    17   {\displaystyle R{\widehat {=}}17}   with key letter     E    = ^    4   {\displaystyle E{\widehat {=}}4}  , the calculation would result in     13    = ^    N   {\displaystyle 13{\widehat {=}}N}  .

@@ -1,0 +1,1 @@
+where      x  i j     {\displaystyle x_{ij}}   is the     i   {\displaystyle i}  -th observation on the     j   {\displaystyle j}  -th independent variable. If the first independent variable takes the value 1 for all     i   {\displaystyle i}  ,      x  i 1   = 1   {\displaystyle x_{i1}=1}  , then      β  1     {\displaystyle \beta _{1}}   is called the regression intercept.

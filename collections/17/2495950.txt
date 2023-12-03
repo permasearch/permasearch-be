@@ -1,0 +1,1 @@
+If b < â€“1, bn, alternates between larger and larger positive and negative numbers as n alternates between even and odd, and thus does not tend to any limit as n grows.

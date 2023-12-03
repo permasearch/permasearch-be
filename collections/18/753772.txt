@@ -1,0 +1,1 @@
+There are two important factors that affect the performance of a cascade. The first is the separation factor, which is a number greater than 1. The second is the number of required stages to get the desired purity.

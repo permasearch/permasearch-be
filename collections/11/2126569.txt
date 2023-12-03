@@ -1,0 +1,1 @@
+Snapdragon 6164x 1.5 GHz ARM cortex-A53 & 4x 1.2 GHz ARM cortex-A53

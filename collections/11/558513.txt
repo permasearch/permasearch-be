@@ -1,0 +1,1 @@
+The link is treated as a black box. The IETF explicitly does not intend to discuss transmission systems, which is a less academic[25][citation needed] but practical alternative to the OSI model.

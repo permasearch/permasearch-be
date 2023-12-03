@@ -1,0 +1,1 @@
+Some variations of chess, such as Losing chess, allow a player to move into check, and in fast chess a player is permitted to leave their king in check, which results in them losing the game.

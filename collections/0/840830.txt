@@ -1,0 +1,1 @@
+N = −  k  n   T > 0   {\displaystyle N=-k_{n}T>0}  , where      k  n     {\displaystyle k_{n}}   is a normal curvature of the rope curve.

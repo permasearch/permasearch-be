@@ -1,0 +1,1 @@
+It follows that for any Hurwitz quaternions     α , β   {\displaystyle \alpha ,\beta }   with     α ≠ 0   {\displaystyle \alpha \neq 0}  , there exists a Hurwitz quaternion     γ   {\displaystyle \gamma }   such that

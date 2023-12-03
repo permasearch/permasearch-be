@@ -1,0 +1,1 @@
+The Reuleaux triangle may be constructed either directly from three circles, or by rounding the sides of an equilateral triangle.[6]

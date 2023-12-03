@@ -1,0 +1,1 @@
+Google's Android operating system uses the Java language, but not its class libraries, therefore the Android platform cannot be called Java. Android executes the code on the ART VM (formerly the Dalvik VM up to Android 4.4.4) instead of the Java VM.

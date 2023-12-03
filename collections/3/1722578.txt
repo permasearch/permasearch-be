@@ -1,0 +1,1 @@
+The EDIPI number is stored in a PKI certificate. Depending on the owner, the CAC contains one or three PKI certificates. If the CAC is used for identification purposes only, an ID certificate is all that is needed. However, in order to access a computer, sign a document, or encrypt email, signature and encryption certificates are also required.

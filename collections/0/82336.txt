@@ -1,0 +1,1 @@
+Given the radius R of the turntable in that animation, the rate of angular rotation ω, and the speed of the cannonball (assumed constant) v, the correct angle θ to aim so as to hit the target at the edge of the turntable can be calculated.

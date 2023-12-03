@@ -1,0 +1,1 @@
+A generalization (more accurately, an inductive generalization) proceeds from a premise about a sample to a conclusion about the population.

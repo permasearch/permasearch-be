@@ -1,0 +1,1 @@
+Power depends on the temperature difference between a heat source and a cold source. The higher the difference, the more mechanical power can be efficiently extracted out of heat energy, as per Carnot's theorem.

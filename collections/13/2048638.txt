@@ -1,0 +1,1 @@
+The private key is (n = 3233, d = 413). For an encrypted ciphertext c, the decryption function is

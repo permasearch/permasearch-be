@@ -1,0 +1,1 @@
+d  σ  T     σ  T     = −    d  A  i     A  i       {\displaystyle {\frac {d\sigma _{T}}{\sigma _{T}}}=-{\frac {dA_{i}}{A_{i}}}}

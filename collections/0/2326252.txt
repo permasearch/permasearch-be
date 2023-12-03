@@ -1,0 +1,1 @@
+That is, with n being a nonnegative integer, the nth moment about 0 is the nth derivative of the moment generating function, evaluated at t =0.

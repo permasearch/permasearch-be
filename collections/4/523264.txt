@@ -1,0 +1,1 @@
+To represent numbers in other bases, we may use a subscript to the right to indicate the base. For instance,      100  2     {\displaystyle 100_{2}}   represents the number 4, and

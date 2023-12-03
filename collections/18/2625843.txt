@@ -1,0 +1,1 @@
+The strain-stress relation for orthotropic linear elastic materials can be written in Voigt notation as

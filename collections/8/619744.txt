@@ -1,0 +1,1 @@
+In the common case where the transmitter and the receiver are at the same location, Rt = Rr and the term Rt² Rr² can be replaced by R4, where R is the range. This yields:

@@ -1,0 +1,1 @@
+The drop is allowed to fall and its terminal velocity v1 in the absence of an electric field is calculated. The drag force acting on the drop can then be worked out using Stokes' law:

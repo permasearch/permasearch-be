@@ -1,0 +1,1 @@
+The HL7 version 3 standard has the aim to support all healthcare workflows. Development of version 3 started around 1995, resulting in an initial standard publication in 2005. The v3 standard, as opposed to version 2, is based on a formal methodology (the HDF) and object-oriented principles.

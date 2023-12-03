@@ -1,0 +1,1 @@
+Other umbrella terms used to describe the method include port trunking,[1]link bundling,[2] Ethernet/network/NIC bonding,[1] or NIC teaming. These umbrella terms encompass not only vendor-independent standards such as Link Aggregation Control Protocol (LACP) for Ethernet defined in IEEE 802.1AX or the previous IEEE 802.3ad, but also various proprietary solutions.

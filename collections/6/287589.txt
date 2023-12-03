@@ -1,0 +1,1 @@
+Following Japanese paper sizes are included in Cascading Style Sheets (CSS): JIS-B4, JIS-B5.[2]

@@ -1,0 +1,1 @@
+Different choices for the free variables may lead to different descriptions of the same solution set. For example, the solution to the above equations can alternatively be described as follows:

@@ -1,0 +1,1 @@
+where P is the perimeter of the polygon, and r is the inradius (equivalently the apothem). Substituting the regular pentagon's values for P and r gives the formula

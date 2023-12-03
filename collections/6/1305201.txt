@@ -1,0 +1,1 @@
+More generally, if there are n possible realizations of (X, Y), namely (xi, yi) for i = 1, ... , n, but with possibly unequal probabilities pi , then the covariance is

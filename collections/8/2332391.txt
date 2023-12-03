@@ -1,0 +1,1 @@
+A gang-tool lathe is one that has a row of tools set up on its cross-slide, which is long and flat and is similar to a milling machine table. The idea is essentially the same as with turret lathes: to set up multiple tools and then easily index between them for each part-cutting cycle. Instead of being rotary like a turret, the indexable tool group is linear.

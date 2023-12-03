@@ -1,0 +1,1 @@
+One of the benefits of this is that it is a practical solution to the impending exhaustion of the IPv4 address space. Even large networks can be connected to the Internet with a single IP address.[a]

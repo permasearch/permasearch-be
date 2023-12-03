@@ -1,0 +1,1 @@
+Thus, the challenge of real-time collaborative editing is to figure out exactly how to apply edits from remote users, which were originally created in versions of the document that never existed locally, and which may conflict with the user's own local edits.

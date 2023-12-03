@@ -1,0 +1,1 @@
+A STAR, or Standard Terminal Arrival Route, ('Standard Instrument Arrival' in the UK) defines a pathway into an airport from the airway structure. STARs can be associated with more than one arrival airport, which can occur when two or more airports are in proximity (e.g., San Francisco and San Jose).

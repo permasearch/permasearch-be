@@ -1,0 +1,1 @@
+A simple example of a periodic function is the function     f   {\displaystyle f}   that gives the "fractional part" of its argument. Its period is 1. In particular,

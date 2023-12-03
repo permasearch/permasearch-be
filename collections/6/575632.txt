@@ -1,0 +1,1 @@
+On September 9, 2009, Google enabled extensions by default on Chrome's developer channel, and provided several sample extensions for testing.[149] In December, the Google Chrome extension gallery beta began with over 300 extensions.[41][150]

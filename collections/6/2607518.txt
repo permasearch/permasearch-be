@@ -1,0 +1,1 @@
+This matrix is not diagonalizable: there is no matrix U such that Uâˆ’1CU is a diagonal matrix. Indeed, C has one eigenvalue (namely zero) and this eigenvalue has algebraic multiplicity 2 and geometric multiplicity 1.

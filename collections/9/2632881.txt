@@ -1,0 +1,1 @@
+In the most common form, the feedback control system it is desired to control a process, called the plant, so its output follows a control signal, which may be a fixed or changing value. The control system compares the output of the plant to the control signal, and applies the difference as an error signal to bring the output of the plant closer to the control signal.

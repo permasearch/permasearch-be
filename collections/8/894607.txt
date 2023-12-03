@@ -1,0 +1,1 @@
+In a general case (if a certain linear function of electromagnetic field does not vanish identically), three out of four components of the spinor function in the Dirac equation can be algebraically eliminated, yielding an equivalent fourth-order partial differential equation for just one component. Furthermore, this remaining component can be made real by a gauge transform.[5]

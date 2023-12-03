@@ -1,0 +1,1 @@
+As with other analysis of variance tests, the rANOVA makes use of an F statistic to determine significance. Depending on the number of within-subjects factors and assumption violations, it is necessary to select the most appropriate of three tests:[5]

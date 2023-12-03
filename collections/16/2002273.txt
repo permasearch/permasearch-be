@@ -1,0 +1,1 @@
+Solar cars depend on PV cells to convert sunlight into electricity to drive electric motors. Unlike solar thermal energy which converts solar energy to heat, PV cells directly convert sunlight into electricity.[1]

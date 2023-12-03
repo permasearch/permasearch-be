@@ -1,0 +1,1 @@
+In a more formal notation, the membrane potential is the weighted average of each contributing ion's equilibrium potential. The size of each weight is the relative conductance of each ion. In the normal case, where three ions contribute to the membrane potential:

@@ -1,0 +1,1 @@
+There is an effort of standardization and adding new features to the IRC protocol by IRCv3 working group.[18]

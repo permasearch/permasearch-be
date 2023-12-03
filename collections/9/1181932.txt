@@ -1,0 +1,1 @@
+For the height of 28S peak, a large value is desired. 28S, the most prominent rRNA species, is used in RIN calculation as it is typically degraded more quickly than 18S rRNA, and so measuring its peak height allows for detection of the early stages of degradation. Again, this is seen in figure 1, where the 28S peak is the largest, and so this is good.

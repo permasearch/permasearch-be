@@ -1,0 +1,1 @@
+While Morse code translation software prefers the Heathkit version, on-air use is not yet universal as some amateur radio operators in North America and the Caribbean continue to prefer the older MN digraph (▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄) carried over from American landline telegraphy code.

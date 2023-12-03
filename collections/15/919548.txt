@@ -1,0 +1,1 @@
+To understand the gravity of Mars, its gravitational field strength g and gravitational potential U are often measured. Simply, if Mars is assumed to be a static perfectly spherical body of radius RM, provided that there is only one satellite revolving around Mars in a circular orbit and such gravitation interaction is the only force acting in the system, the equation would be,

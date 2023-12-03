@@ -1,0 +1,1 @@
+Usually, the approach taken by those physics textbooks is to introduce a first order forced oscillator, defined by the second-order differential equation

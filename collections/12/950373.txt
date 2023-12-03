@@ -1,0 +1,1 @@
+Then dp(x,y) = |x âˆ’ y|p defines a metric on Q.

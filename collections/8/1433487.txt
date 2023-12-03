@@ -1,0 +1,1 @@
+Browsers listed in the setting $wgBrowserBlackList (a list of regexps that match against user agent strings) are supplied text for editing in a special form. Existing hexadecimal HTML entities in the page have an extra leading zero added, non-ASCII characters that are stored in the wikitext are represented as hexadecimal HTML entities with no leading zeros.

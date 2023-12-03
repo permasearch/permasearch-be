@@ -1,0 +1,1 @@
+Scripting languages are often used to create batch processes. One common scripting language is Unix shell, and its executing environment is called the command-line interface.

@@ -1,0 +1,1 @@
+h  2   ( k ) = 5 − ( k  mod   7 )   {\displaystyle h_{2}(k)=5-(k\mod 7)}

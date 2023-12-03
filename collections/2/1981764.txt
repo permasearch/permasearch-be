@@ -1,0 +1,1 @@
+AngularJS sets out the paradigm of a digest cycle. This cycle can be considered a loop, during which Angular checks if there is any change to all the variables watched by all the $scopes. So, if $scope.myVar is defined in a controller and this variable was marked for watching, Angular will monitor the changes on myVar in each loop iteration.

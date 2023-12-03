@@ -1,0 +1,1 @@
+This is an example NASM-syntax self-modifying x86-assembly language algorithm that determines the size of the PIQ:

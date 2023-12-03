@@ -1,0 +1,1 @@
+The multidimensional Fourier transforms of the position or position–spin space wave functions yields momentum or momentum–spin space wave functions.

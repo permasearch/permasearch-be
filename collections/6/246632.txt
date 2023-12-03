@@ -1,0 +1,1 @@
+The fraction form was used for manual processing before the invention of the MICR line, and still serves as a backup in check processing should the MICR line become illegible or torn; it generally appears in the upper right part of a check near the date.

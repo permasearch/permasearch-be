@@ -1,0 +1,1 @@
+CM is modulated with the CNAV Navigation Message (see below), whereas CL does not contain any modulated data and is called a dataless sequence. The long, dataless sequence provides for approximately 24Â dB greater correlation (~250 times stronger) than L1 C/A-code.

@@ -1,0 +1,1 @@
+Overgeneralization is a fallacy occurring when a statistic about a particular population is asserted to hold among members of a group for which the original population is not a representative sample.

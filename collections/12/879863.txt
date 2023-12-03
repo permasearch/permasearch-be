@@ -1,0 +1,1 @@
+Historically, several number bases have been used for representing floating-point numbers, with base two (binary) being the most common, followed by base ten (decimal), and other less common varieties, such as base sixteen (hexadecimal notation), and even base three (see Setun).

@@ -1,0 +1,1 @@
+In Apache mod_jk's uriworkermap.properties format, an exclamation mark ("!") denotes a Negation operator when used as the first non blank character in a line.[5]

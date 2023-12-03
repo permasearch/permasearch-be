@@ -1,0 +1,1 @@
+Metadata are data about data. "IT personnel need information about data sources; database, table, and column names; refresh schedules; and data usage measures".[8]

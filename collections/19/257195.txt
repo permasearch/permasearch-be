@@ -1,0 +1,1 @@
+The STRIDE approach to threat modeling was introduced in 1999 at Microsoft, providing a mnemonic for developers to find 'threats to our products' [9] . STRIDE, Patterns and Practices, and Asset/entry point were amongst the threat modeling approaches developed and published by Microsoft. References to "the" Microsoft methodology commonly mean STRIDE.

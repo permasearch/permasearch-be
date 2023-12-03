@@ -1,0 +1,1 @@
+The non-linear operating characteristic of the triode caused early tube audio amplifiers to exhibit harmonic distortion at low volumes. Plotting plate current as a function of applied grid voltage, it was seen that there was a range of grid voltages for which the transfer characteristics were approximately linear.

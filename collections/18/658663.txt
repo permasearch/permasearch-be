@@ -1,0 +1,1 @@
+The NeXTStep operating system extended the concept of having a single copy buffer by adding a second system-wide  Find buffer used for searching. The Find buffer is also available in macOS.

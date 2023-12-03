@@ -1,0 +1,1 @@
+In December 2009 an attack on some hardware implementations was published that used differential fault analysis and allows recovery of a key with a complexity of 232.[34]

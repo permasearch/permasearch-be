@@ -1,0 +1,1 @@
+Each radioactive isotope has a characteristic decay time period—the half-life—that is determined by the amount of time needed for half of a sample to decay. This is an exponential decay process that steadily decreases the proportion of the remaining isotope by 50% every half-life. Hence after two half-lives have passed only 25% of the isotope is present, and so forth.[76]

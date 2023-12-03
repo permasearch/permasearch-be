@@ -1,0 +1,1 @@
+Finally, for some simple angles, the values can be easily computed by hand using the Pythagorean theorem, as in the following examples. For example, the sine, cosine and tangent of any integer multiple of π/60 radians (3°) can be found exactly by hand.

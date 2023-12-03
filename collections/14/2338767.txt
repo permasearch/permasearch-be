@@ -1,0 +1,1 @@
+Dual-drive hybrid systems are combining the usage of separate SSD and HDD devices installed in the same computer, with overall performance optimization managed by the computer user, or by the computer's operating system software. Examples of this type of system are bcache and dm-cache on Linux,[159] and Appleâ€™s Fusion Drive.

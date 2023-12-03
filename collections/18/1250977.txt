@@ -1,0 +1,1 @@
+Now the "naive" conditional independence assumptions come into play: assume that each feature      x  i     {\displaystyle x_{i}}   is conditionally independent of every other feature      x  j     {\displaystyle x_{j}}   for     j ≠ i   {\displaystyle j\neq i}  , given the category      C  k     {\displaystyle C_{k}}  .  This means that

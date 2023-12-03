@@ -1,0 +1,1 @@
+The Pascaline is a direct adding machine (it has no crank), so the value of a number is added to the accumulator as it is being dialed in. By moving a display bar, the operator can see either the number stored in the calculator or the complement of its value. Subtractions are performed like additions using some properties of 9's complement arithmetic.

@@ -1,0 +1,1 @@
+Process Control Block (PCB, also called Task Controlling Block,[1] Entry of the Process Table,[2] Task Struct, or Switchframe) is a data structure in the operating system kernel containing the information needed to manage the scheduling of a particular process. The PCB is "the manifestation of a process in an operating system."[3]

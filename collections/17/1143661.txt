@@ -1,0 +1,1 @@
+The layering scheme from the IETF is called Internet layering or TCP/IP layering. The functionality of the layers has been described in the section on software layering and an overview of protocols using this scheme is given in the article on Internet protocols.

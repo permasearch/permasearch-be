@@ -1,0 +1,1 @@
+where I is the identity tensor. Hence strains are dimensionless and are usually expressed as a decimal fraction, a percentage or in parts-per notation. Strains measure how much a given deformation differs locally from a rigid-body deformation.[3]

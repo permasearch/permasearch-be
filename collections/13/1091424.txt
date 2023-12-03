@@ -1,0 +1,1 @@
+A packet containing a fragment of an original (larger) packet consists of two parts: the unfragmentable part of the original packet (which is the same for all fragments), and a piece of the fragmentable part of the original packet, identified by a Fragment Offset.  The Fragment Offset of the first ("leftmost") fragment is 0.[1]

@@ -1,0 +1,1 @@
+t =  ∫   D  i     D      d D    H  0   ⋅ D      {\displaystyle t=\int _{D_{i}}^{D}{\frac {dD}{H_{0}\cdot D}}}  ,

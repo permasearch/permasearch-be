@@ -1,0 +1,1 @@
+Even with this cumbersome approach, subroutines proved very useful. For one thing they allowed use of the same code in many different programs. Moreover, memory was a very scarce resource on early computers, and subroutines allowed significant savings in the size of programs.

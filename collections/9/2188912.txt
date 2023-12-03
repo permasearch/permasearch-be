@@ -1,0 +1,1 @@
+The other half of the electromagnetic work represents the more useful power flow - into the kinetic energy of the projectile. Since power can be expressed as force times speed, this shows  the force on the railgun armature is given by

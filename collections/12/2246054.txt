@@ -1,0 +1,1 @@
+Each Guideline is classified[9] as Mandatory (new for MISRA C:2012), Required or Advisory. Furthermore, the MISRA Compliance document permits Advisory guidelines to be Disapplied

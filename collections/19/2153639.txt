@@ -1,0 +1,1 @@
+Due to the nature of the multi-dimensional arrays, sub-arrays can vary in length, so multi-dimensional arrays are not bound to be rectangular unlike C:

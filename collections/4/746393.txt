@@ -1,0 +1,1 @@
+These sections are subdivided by other features such as the substrate, products, and chemical mechanism. An enzyme is fully specified by four numerical designations. For example, hexokinase (EC 2.7.1.1) is a transferase (EC 2) that adds a phosphate group (EC 2.7) to a hexose sugar, a molecule containing an alcohol group (EC 2.7.1).[21]

@@ -1,0 +1,1 @@
+The implementation of TCAS added a safety barrier to help prevent mid-air collisions. However, further study, refinements, training and regulatory measures were still required, because the limitations and misuse of the system still resulted in other incidents and fatal accidents, which include:

@@ -1,0 +1,1 @@
+One of the simplest frameworks for modeling species interactions is the Lotka–Volterra equations.[19] In this model, the change in population density of the two mutualists is quantified as:

@@ -1,0 +1,1 @@
+When a cookie is set with the SameSite=Strict parameter, it is stripped from all cross-origin requests. When set with SameSite=Lax, it is stripped from all non-"safe" cross-origin requests (that is, requests other than GET, OPTIONS, and TRACE which have read-only semantics).[40] The feature is implemented in Google Chrome since version 63 and Firefox since version 60.[41]

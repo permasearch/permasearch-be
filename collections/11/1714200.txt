@@ -1,0 +1,1 @@
+Floor hand signals are used to communicate buy and sell information in an open outcry trading environment. The system is used at futures exchanges such as the Chicago Mercantile Exchange.

@@ -1,0 +1,1 @@
+The data collection and computation also requires time. The audio feed goes to an audio delay to be synchronized with the delayed video. The total delay for the viewer from the live feed ends up being about 2/3 of a second.

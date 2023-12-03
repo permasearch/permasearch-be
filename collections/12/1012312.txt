@@ -1,0 +1,1 @@
+Many modern digital television receivers can be directly connected to cables, but often cannot receive scrambled channels that the user is paying for. Thus, the lack of a standard way of sending CC information between components, along with the lack of a mandate to add this information to a picture, results in CC being unavailable to many hard-of-hearing and deaf users.

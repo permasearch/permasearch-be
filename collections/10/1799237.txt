@@ -1,0 +1,1 @@
+A major change in the development process of Perl 5 occurred with Perl 5.11; the development community has switched to a monthly release cycle of development releases, with a yearly schedule of stable releases. By that plan, bugfix point releases will follow the stable releases every three months.

@@ -1,0 +1,1 @@
+Siri will be able to use "on-device learning", a privacy-minded local learning technique to understand a user's behavior and interests inside different apps, to offer better suggestions and recommendations.[5]

@@ -1,0 +1,1 @@
+Wavelength can be a useful concept even if the wave is not periodic in space. For example, in an ocean wave approaching shore, the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height. The analysis of the wave can be based upon comparison of the local wavelength with the local water depth.[14]

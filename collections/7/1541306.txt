@@ -1,0 +1,1 @@
+Data manipulation languages tend to have many different flavors and capabilities between database vendors. There have been a number of standards established for SQL by ANSI,[1] but vendors still provide their own extensions to the standard while not implementing the entire standard.

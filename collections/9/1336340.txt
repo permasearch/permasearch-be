@@ -1,0 +1,1 @@
+For a simple closed chain, n moving links are connected end-to-end by n + 1 joints such that the two ends are connected to the ground link forming a loop.  In this case, we have N = j and the mobility of the chain is

@@ -1,0 +1,1 @@
+Developing early Macintosh software required a Lisa 2.[22] There were relatively few third-party hardware offerings for the Lisa, as compared to the earlier Apple II.[citation needed] AST offered a 1.5 MB memory board, which – when combined with the standard Apple 512 KB memory board – expands the Lisa to a total of 2 MB of memory, the maximum amount that the MMU can address.

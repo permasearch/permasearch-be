@@ -1,0 +1,1 @@
+Hawking radiation has a blackbody (Planck) spectrum with a temperature T given by:

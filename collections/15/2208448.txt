@@ -1,0 +1,1 @@
+X derives its name as a successor to a pre-1983 window system called W (the letter preceding X in the English alphabet). W ran under the V operating system. W used a network protocol supporting terminal and graphics windows, the server maintaining display lists.

@@ -1,0 +1,1 @@
+Since the pitch of the various colors is not specified in the standard, pitch can vary according to manufacturer and should be measured for the batch being used if cable is being used in non-Ethernet situation where pitch might be critical.

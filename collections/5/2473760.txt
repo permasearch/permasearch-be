@@ -1,0 +1,1 @@
+The Wake-on-LAN implementation is designed to be very simple and to be quickly processed by the circuitry present on the network interface card with minimal power requirement. Because Wake-on-LAN operates below the IP protocol layer, IP addresses and DNS names are meaningless and so the MAC address is required.

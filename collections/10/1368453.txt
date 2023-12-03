@@ -1,0 +1,1 @@
+Note that due to right-associativity we have, for     b ≥ 1 , n ≥ 1   {\displaystyle b\geq 1,n\geq 1}  ,

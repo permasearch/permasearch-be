@@ -1,0 +1,1 @@
+Next generation Wi-Fi known as 802.11ax provides low delay, high capacity (up to 10Gbit/s) and low packet loss rate, offering 12 streams – 8 streams at 5 GHz and 4 streams at 2.4 GHz. IEEE 802.11ax uses 8x8 MU-MIMO, OFDMA, and 80 MHz channels. Hence, 802.11ax  has the ability to form high capacity Wi-Fi ad hoc networks.

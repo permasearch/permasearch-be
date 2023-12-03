@@ -1,0 +1,1 @@
+In conjunction with GPT, an Enhanced Disk Drive Specification (EDD) 4 Hybrid MBR proposal recommends another extension to the interface:[38]

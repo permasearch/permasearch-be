@@ -1,0 +1,1 @@
+Subpages are also rendered by these magic words. For example, for the page named Wikipedia:Userboxes/Media/Film, fullpagename would be Wikipedia:Userboxes/Media/Film, pagename would be Userboxes/Media/Film, and namespace would be Wikipedia.

@@ -1,0 +1,1 @@
+The display responds to other sensors: an ambient light sensor to adjust screen brightness and a 3-axis accelerometer to sense Surface orientation and switch between portrait and landscape orientation modes. The Surface's built-in applications support screen rotation in all four directions, including upside-down.

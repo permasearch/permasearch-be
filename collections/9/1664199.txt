@@ -1,0 +1,1 @@
+Instead, a conjecture is considered proven only when it has been shown that it is logically impossible for it to be false. There are various methods of doing so; see Mathematical proof#Methods for details.

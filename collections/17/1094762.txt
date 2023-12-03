@@ -1,0 +1,1 @@
+is called a resolution of the identity. When the Hilbert space is the space L2(D) of square-integrable functions on a domain D, the quantity:

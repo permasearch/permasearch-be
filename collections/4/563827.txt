@@ -1,0 +1,1 @@
+where F is the Faraday constant, R is the gas constant and T is the temperature in kelvins. For the Daniell cell K is approximately equal to 1.5Ã—1037. Thus, at equilibrium, a few electrons are transferred, enough to cause the electrodes to be charged.[9]

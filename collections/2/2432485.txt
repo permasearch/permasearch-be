@@ -1,0 +1,1 @@
+The Linux kernel also includes a strip function, strstrip(), since 2.6.18-rc1, which trims the string "in place". Since 2.6.33-rc1, the kernel uses strim() instead of strstrip() to avoid false warnings.[34]

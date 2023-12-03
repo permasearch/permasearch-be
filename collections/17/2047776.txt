@@ -1,0 +1,1 @@
+In some cases, two-way radio is used to communicate analog or digital data. Systems can be simplex or duplex and may employ selective calling features such as CTCSS. In full-duplex systems, data can be sent real-time between two points. In simplex or half-duplex, data can be sent with a time lag between many points.

@@ -1,0 +1,1 @@
+TDRs are also very useful tools for technical surveillance counter-measures, where they help determine the existence and location of wire taps. The slight change in line impedance caused by the introduction of a tap or splice will show up on the screen of a TDR when connected to a phone line.

@@ -1,0 +1,1 @@
+Functional Cpf1 doesnâ€™t need the tracrRNA, therefore, only crRNA is required. This benefits genome editing because Cpf1 is not only smaller than Cas9, but also it has a smaller sgRNA molecule (proximately half as many nucleotides as Cas9).[6]

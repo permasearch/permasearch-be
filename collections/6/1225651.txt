@@ -1,0 +1,1 @@
+A hypomorphic mutation is a replacement of amino acids that would hinder enzyme activity, which would reduce the enzyme level but not to the point of complete loss. Usually, hypomorphic mutations are recessive, but haploinsufficiency causes some alleles to be dominant.

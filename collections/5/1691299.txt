@@ -1,0 +1,1 @@
+Built on TSMC's 10 nm FinFET process[7] with a die size of 96.4mm2, the A10X is 34% smaller than the A9X and as of JuneÂ 2017[update] is the smallest iPad SoC.[1] The A10X is the first TSMC 10nm chip to be used by a consumer device.[1]

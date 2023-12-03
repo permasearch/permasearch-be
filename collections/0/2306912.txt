@@ -1,0 +1,1 @@
+2. The highway test simulates a mixture of open highway and rural road driving, with an average speed of 78 km/h and a top speed of 97 km/h. The test runs for approximately 13 minutes and does not include any stops. The test begins from a hot engine start. The ambient temperature of the test cell starts at 20 °C and ends at 30 °C.

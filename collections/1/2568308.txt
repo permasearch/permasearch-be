@@ -1,0 +1,1 @@
+The distribution of values in decreasing order of rank is often of interest when values vary widely in scale; this is the rank-size distribution (or rank-frequency distribution), for example for city sizes or word frequencies. These often follow a power law.

@@ -1,0 +1,1 @@
+The common implementations of LCD backlight technology are:

@@ -1,0 +1,1 @@
+Architecture description practices, as described in IEEE Std 1471-2000, utilize multiple views to address several areas of concerns, each one focusing on a specific aspect of the system. Examples of architecture frameworks using multiple views include Kruchten's "4+1" view model, the Zachman Framework, TOGAF, DoDAF, RM-ODP, and Hamdaqa's "5+1" view model.[4]

@@ -1,0 +1,1 @@
+High-voltage circuit breakers used on transmission systems may be arranged to allow a single pole of a three-phase line to trip, instead of tripping all three poles; for some classes of faults this improves the system stability and availability.

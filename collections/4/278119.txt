@@ -1,0 +1,1 @@
+where x is the thickness of the material from the incident surface, μ= nσ is the absorption coefficient, measured in cm−1, n the number of atoms per cm3 of the material (atomic density) and σ the absorption cross section in cm2.

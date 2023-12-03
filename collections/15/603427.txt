@@ -1,0 +1,1 @@
+where      E  0     {\displaystyle E_{0}}   is the initial (baseline) level of traffic.

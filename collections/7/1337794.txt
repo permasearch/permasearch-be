@@ -1,0 +1,1 @@
+The following disadvantages have been noted for low power (i.e., less than 100 watts) inductive charging devices. These disadvantages may not be applicable to high power (i.e. greater than 5 kilowatts) electric vehicle inductive charging systems.

@@ -1,0 +1,1 @@
+Alternatively, a player may also win by drawing the tile required to complete a legal hand on his turn. This usually results in more points scored than if the player were to use another player's discard.

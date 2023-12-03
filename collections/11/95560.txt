@@ -1,0 +1,1 @@
+The following examples give a player's holding and the contents of the Skat (which will be unknown to all players during the auction) and explain how to derive the Game Value.

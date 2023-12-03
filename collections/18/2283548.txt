@@ -1,0 +1,1 @@
+When d is chosen such that d = a/3, it generates a right triangle that is always similar to the Pythagorean triple with sides 3, 4, 5.

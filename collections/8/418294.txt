@@ -1,0 +1,1 @@
+Applied to any physical quantity, the material derivative includes the rate of change at a point and the changes due to advection as fluid is carried past the point. Per unit volume, the rate of change in momentum is equal to

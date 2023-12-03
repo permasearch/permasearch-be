@@ -1,0 +1,1 @@
+The next example shows how object references can be incorrectly downcasted:

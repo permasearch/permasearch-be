@@ -1,0 +1,1 @@
+which comes from adding up the energy it takes to incrementally compress the spring. That is, the integral of force over displacement. Since the external force has the same general direction as the displacement, the potential energy of a spring is always non-negative.

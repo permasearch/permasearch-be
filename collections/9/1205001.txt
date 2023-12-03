@@ -1,0 +1,1 @@
+For two cylindrical magnets with radius     R   {\displaystyle R}   and height     t   {\displaystyle t}  , with their magnetic dipole aligned, the force can be well approximated (even at distances of the order of     t   {\displaystyle t}  ) by,[40]

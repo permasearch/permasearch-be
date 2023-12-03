@@ -1,0 +1,1 @@
+We have      Φ  3   ( x ) =  x  2   + x + 1.   {\displaystyle \Phi _{3}(x)=x^{2}+x+1.}   Thus the primitive third (cube) roots of unity are the roots of this quadratic equation and are

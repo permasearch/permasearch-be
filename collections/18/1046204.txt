@@ -1,0 +1,1 @@
+All of these factors can be modeled more precisely with a photographic light meter and a heliodon or optical bench, which can quantify the ratio of reflectivity to transmissivity, based on angle of incidence.

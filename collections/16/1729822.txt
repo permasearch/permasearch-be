@@ -1,0 +1,1 @@
+Taking regular-time samples of the call stack can be useful in profiling the performance of programs, because if a subroutine's pointer appears on the call stack sampling data many times, it is likely a code bottleneck and should be inspected for performance problems.

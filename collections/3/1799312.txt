@@ -1,0 +1,1 @@
+Each talk is first given at various Perl conferences and is eventually also published online.

@@ -1,0 +1,1 @@
+Due to SHA1 collisions, an attacker can alter the execution path of the executable by serving altered chunks when the victim is downloading the executable using the BitTorrent protocol.[117]

@@ -1,0 +1,1 @@
+An important case is when the curve is the graph of a real function (a function of one real variable and returning real values). The graph of the function y = ƒ(x) is the set of points of the plane with coordinates (x,ƒ(x)). For this, a parameterization is

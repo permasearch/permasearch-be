@@ -1,0 +1,1 @@
+In the diagram above (not to scale), S represents the Sun, and E the Earth at one point in its orbit. Thus the distance ES is one astronomical unit (au). The angle SDE is one arcsecond (1/3600 of a degree) so by definition D is a point in space at a distance of one parsec from the Sun. Through trigonometry, the distance SD is calculated as follows:

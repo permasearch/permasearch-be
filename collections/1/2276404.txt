@@ -1,0 +1,1 @@
+As of 2009 Google stated that they would start using ReCAPTCHA to help fix the errors found in Google Book scannings. This method would only improve scanned words that are hard to recognize because of the scanning process and cannot solve errors such as turned pages or blocked words.[36]

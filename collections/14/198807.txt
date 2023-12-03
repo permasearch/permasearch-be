@@ -1,0 +1,1 @@
+Biometric passports have protection mechanisms to avoid and/or detect attacks:

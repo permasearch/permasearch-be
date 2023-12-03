@@ -1,0 +1,1 @@
+And additional variation uses a single set of 6 cards, and regular dice. The roll of the dice maps to the card in that position, and if a pair is rolled, then the mapped card is used twice, as a pair.

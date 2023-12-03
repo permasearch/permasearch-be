@@ -1,0 +1,1 @@
+where b is a constant that can be determined empirically by fitting a line to measured data. The logarithm expresses depth of "choice tree" hierarchy – log2 indicates binary search was performed. Addition of 1 to n takes into account the "uncertainty about whether to respond or not, as well as about which response to make."[3]

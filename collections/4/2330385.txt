@@ -1,0 +1,1 @@
+The types of conformational isomers are related to the spatial orientations of the substituents between two vicinal atoms. These are eclipsed and staggered. The staggered conformation includes the gauche (±60°) and anti (180°) conformations, depending on the spatial orientations of the two substituents.

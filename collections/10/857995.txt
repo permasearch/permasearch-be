@@ -1,0 +1,1 @@
+Below are some common reasons for applying a digital signature to communications:

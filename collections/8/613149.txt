@@ -1,0 +1,1 @@
+and the total number of possible states is given by 2N. Therefore, the probability of the particle being hit from the right NR times is:

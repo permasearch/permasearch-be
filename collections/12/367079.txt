@@ -1,0 +1,1 @@
+Gadgets are more closely integrated with Windows Explorer, but the gadgets themselves continue to operate in a single sidebar.exe process, unlike in Windows Vista where gadgets could operate in multiple sidebar.exe processes. Active gadgets can also be hidden via a new desktop menu option; Microsoft has stated that this can result in power-saving benefits.[14]

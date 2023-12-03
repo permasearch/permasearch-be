@@ -1,0 +1,1 @@
+with the condition that the x and y coordinates lie on the circle around the origin with radius âˆš3, that is, subject to the constraint

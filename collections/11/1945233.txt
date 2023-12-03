@@ -1,0 +1,1 @@
+Basic autonomy comes from proprioceptive sensors. Advanced autonomy calls for situational awareness, knowledge about the environment surrounding the aircraft from exterioceptive sensors: sensor fusion integrates information from multiple sensors.[42]

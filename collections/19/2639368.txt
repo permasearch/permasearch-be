@@ -1,0 +1,1 @@
+A splitter of a triangle is a line segment having one endpoint at one of the three vertices of the triangle and bisecting the perimeter. The three splitters concur at the Nagel point of the triangle.

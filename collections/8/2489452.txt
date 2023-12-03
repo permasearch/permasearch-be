@@ -1,0 +1,1 @@
+A curve that consists of a horizontal line segment (a line at constant coordinate time), may represent a rod in spacetime and would not be a world line in the proper sense. The parameter traces the length of the rod.

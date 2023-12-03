@@ -1,0 +1,1 @@
+If a system is static, such that magnetic fields are not time-varying, then by Faraday's law, the electric field is curl-free. In this case, one can define an electric potential, that is, a function     Φ   {\displaystyle \Phi }   such that      E  = − ∇ Φ   {\displaystyle \mathbf {E} =-\nabla \Phi }  .[11] This is analogous to the gravitational potential.

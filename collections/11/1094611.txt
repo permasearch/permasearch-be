@@ -1,0 +1,1 @@
+As a probability measure on R, the delta measure is characterized by its cumulative distribution function, which is the unit step function[21]

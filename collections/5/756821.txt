@@ -1,0 +1,1 @@
+This is a special case of the solid cylinder, with h = 0. That      I  x   =  I  y   =    I  z   2      {\displaystyle I_{x}=I_{y}={\frac {I_{z}}{2}}\,}   is a consequence of the perpendicular axis theorem.

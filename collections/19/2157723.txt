@@ -1,0 +1,1 @@
+where the temperature      T  b     {\displaystyle T_{b}}   is the boiling point in degrees Celsius and the pressure      P      {\displaystyle P_{}}   is in Torr.

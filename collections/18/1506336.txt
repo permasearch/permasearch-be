@@ -1,0 +1,1 @@
+In practice, systems rarely have perfectly balanced loads, currents, voltages and impedances in all three phases. The analysis of unbalanced cases is greatly simplified by the use of the techniques of symmetrical components. An unbalanced system is analysed as the superposition of three balanced systems, each with the positive, negative or zero sequence of balanced voltages.

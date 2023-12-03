@@ -1,0 +1,1 @@
+A dyadic relation R is symmetric if and only if, whenever it's true that Rab, it's true that Rba.[12] Thus, "is the same age as" is symmetrical, for if Paul is the same age as Mary, then Mary is the same age as Paul.

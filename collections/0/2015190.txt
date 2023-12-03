@@ -1,0 +1,1 @@
+An example is given using values for the mass and terminal velocity for a baseball taken from [1].

@@ -1,0 +1,1 @@
+Because copper has a higher electrical conductivity than aluminium and its impedance during a lightning termination is less, copper allows for the use of less cross-sectional surface area per linear length, in its woven wires pathway than does aluminum. Also, aluminium cannot be used in poured concrete or for any component underground due to its galvanic properties.[35]

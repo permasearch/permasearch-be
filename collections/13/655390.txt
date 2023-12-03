@@ -1,0 +1,1 @@
+Most Linux distributions follow the Filesystem Hierarchy Standard and declare it their own policy to maintain FHS compliance.[13][14][15][16] GoboLinux[17] and NixOS[18] provide examples of intentionally non-compliant filesystem implementations.

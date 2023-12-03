@@ -1,0 +1,1 @@
+A real rectifier characteristically drops part of the input voltage (a voltage drop, for silicon devices, of typically 0.7 volts plus an equivalent resistance, in general non-linear)â€”and at high frequencies, distorts waveforms in other ways. Unlike an ideal rectifier, it dissipates some power.

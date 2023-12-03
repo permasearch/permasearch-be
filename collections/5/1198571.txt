@@ -1,0 +1,1 @@
+An example of a variation map is the HapMap being developed by the International HapMap Project. The HapMap is a haplotype map of the human genome, "which will describe the common patterns of human DNA sequence variation."[61] It catalogs the patterns of small-scale variations in the genome that involve single DNA letters, or bases.

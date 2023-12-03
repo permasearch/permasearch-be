@@ -1,0 +1,1 @@
+Intersection can be expressed in terms of set differenceÂ :

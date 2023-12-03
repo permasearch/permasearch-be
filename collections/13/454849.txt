@@ -1,0 +1,1 @@
+( u , v , ϕ ) ∈ [ 0 , ∞ ) × [ 0 , ∞ ) × [ 0 , 2 π )   {\displaystyle (u,v,\phi )\in [0,\infty )\times [0,\infty )\times [0,2\pi )}

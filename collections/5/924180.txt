@@ -1,0 +1,1 @@
+In modular arithmetic, some numbers have a multiplicative inverse with respect to the modulus. We can calculate division by multiplication in such a case. This approach is useful in computers that do not have a fast division instruction.

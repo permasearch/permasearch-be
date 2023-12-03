@@ -1,0 +1,1 @@
+Note that this is a tail-recursive call, so it could be rewritten as a loop.  Since this is the only loop, and any rotations occur after this loop, this proves that a constant number of rotations occur.

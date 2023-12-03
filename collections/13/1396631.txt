@@ -1,0 +1,1 @@
+In order to determine the distance along the road assume the downgrade is 6%, which is a steep road. This means the altitude decreases 6 feet for every 100 feet traveledâ€”for angles this small the sin and tan functions are approximately equal. Therefore, the distance s in feet down a 6% grade to reach the velocity V is at least

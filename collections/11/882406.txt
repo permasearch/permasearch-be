@@ -1,0 +1,1 @@
+The idea of unidirectional networks have been around since the 1960s. This was developed further in the 1990s by Australia's Defence Science and Technology Organisation (DSTO) on the data diode[3][4] and the Interactive Link.[5]

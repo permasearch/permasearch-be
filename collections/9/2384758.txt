@@ -1,0 +1,1 @@
+Five is conjectured to be the only odd untouchable number and if this is the case then five will be the only odd prime number that is not the base of an aliquot tree.

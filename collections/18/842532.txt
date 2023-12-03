@@ -1,0 +1,1 @@
+Some CPU designs use a writable control storeâ€”they compile the instruction set to a writable RAM or flash inside the CPU (such as the Rekursiv processor and the Imsys Cjip),[7] or an FPGA (reconfigurable computing).

@@ -1,0 +1,1 @@
+Apple's Core Foundation library contains CFBitVector and CFMutableBitVector structures.

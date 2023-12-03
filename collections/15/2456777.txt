@@ -1,0 +1,1 @@
+For single-row deep-groove ball bearings, SKF's documentation says that maximum axial load is circa 50% of maximum radial load, but it also says that "light" and/or "small" bearings can take axial loads that are 25% of maximum radial load.[7]

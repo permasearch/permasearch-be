@@ -1,0 +1,1 @@
+Through the Solutions Marketplace, Intuit encouraged third-party software developers to create programs that fill niche areas for specific industries and integrate with QuickBooks. The Intuit Developer Network provides marketing and technical resources, including software development kits (SDKs) for EDI.

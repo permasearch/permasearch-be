@@ -1,0 +1,1 @@
+Therefore, each of the n − r columns of X are particular solutions of Ax = 0. Furthermore, the n − r columns of X are linearly independent because Xu = 0 will imply u = 0:

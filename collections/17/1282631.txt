@@ -1,0 +1,1 @@
+At the highest point, the ball will be at rest: therefore v = 0. Using equation [4] in the set above, we have:

@@ -1,0 +1,1 @@
+Although some collaboration-related functionality is also integrated into on-premises software, (implicit or explicit) collaboration between users or different customers is only possible with centrally hosted software.

@@ -1,0 +1,1 @@
+The skewness can also be expressed just in terms of the variance var and the mean Î¼ as follows:

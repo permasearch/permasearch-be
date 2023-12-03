@@ -1,0 +1,1 @@
+Many application servers exist. The choice impacts the cost, performance, reliability, scalability, and maintainability of a web application.

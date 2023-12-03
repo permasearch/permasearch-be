@@ -1,0 +1,1 @@
+The part of the bleed air that is directed to the ECS is then expanded and cooled to a suitable temperature by passing it through a heat exchanger and air cycle machine known as the packs system. In some larger airliners, hot trim air can be added downstream of air conditioned air coming from the packs if it is needed to warm a section of the cabin that is colder than others.

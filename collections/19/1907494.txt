@@ -1,0 +1,1 @@
+An attack should led to a security incident i.e. a security event that involves a security violation. In other words, a security-relevant system event in which the system's security policy is disobeyed or otherwise breached.

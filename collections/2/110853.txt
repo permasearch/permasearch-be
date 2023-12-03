@@ -1,0 +1,1 @@
+A limiting factor in a variable of a system that, if subject to a small change, causes a non-negligible change in an output or other measure of the system. A factor not limiting over a certain domain of starting conditions may yet be limiting over another domain of starting conditions, including that of the factor.

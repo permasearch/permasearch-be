@@ -1,0 +1,1 @@
+The first inequality requires a > 0; consequently it can be divided through and eliminated. With a > 0, the middle inequality only requires r > 0. This now leaves the first and third inequalities needing to satisfy

@@ -1,0 +1,1 @@
+The Solaris open-source community developers provide additional driver support for Intel HD Graphics 4000/2500 graphic-based chipsets (aka Ivy Bridge), OpenGL 3.0/GLSL 1.30, and the new libva/va-api library enabling hardware accelerated video decode for the prevailing coding standards today (MPEG-2, MPEG-4 ASP/H.263, MPEG-4 AVC/H.264, and VC-1/WMV3).

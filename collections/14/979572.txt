@@ -1,0 +1,1 @@
+An early description of the problem in computer graphics shows two common approaches (ray casting and angle summation) in use as early as 1974.[1]

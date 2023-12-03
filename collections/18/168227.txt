@@ -1,0 +1,1 @@
+In character encoding terms, it has no explicit codepoint, but it is an alternate glyph (in addition to the open zero glyph) for the zero character.

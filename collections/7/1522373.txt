@@ -1,0 +1,1 @@
+In early realizations of the pitometer log, mercury manometers [4] were used to measure the pressure differences (see Figure 1).[2] Later realizations used approaches that would generate equalizing pressures within the pitometer that would balance out the dynamic pressure. This eliminated the need for mercury manometers. [5]

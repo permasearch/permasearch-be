@@ -1,0 +1,1 @@
+The High School Department is composed of three buildings. Each Classroom has its own visual projector and an aircondition system. The levels are Grades 7-10.

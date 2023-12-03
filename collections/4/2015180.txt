@@ -1,0 +1,1 @@
+e    k m   t   (    d  v  y     d t    +   k m    v  y   ) =  e    k m   t   ( − g )   {\displaystyle e^{{\frac {k}{m}}t}({\frac {dv_{y}}{dt}}+{\frac {k}{m}}v_{y})=e^{{\frac {k}{m}}t}(-g)}   (2c)

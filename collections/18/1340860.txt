@@ -1,0 +1,1 @@
+Through port mirroring, a switch can create a mirror image of data that can go to an external device such as intrusion detection systems and packet sniffers.

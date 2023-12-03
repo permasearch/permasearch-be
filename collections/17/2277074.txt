@@ -1,0 +1,1 @@
+In computing, privilege is defined as the delegation of authority over a computer system. A privilege allows a user to perform an action. Examples of various privileges include the ability to create a file in a directory, or to read or delete a file, access a device, or have read or write permission to a socket for communicating over the Internet.

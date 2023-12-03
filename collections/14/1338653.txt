@@ -1,0 +1,1 @@
+The Shannon entropy is restricted to random variables taking discrete values. The corresponding formula for a continuous random variable with probability density function f(x) with finite or infinite support      X    {\displaystyle \mathbb {X} }   on the real line is defined by analogy, using the above form of the entropy as an expectation:

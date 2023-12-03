@@ -1,0 +1,1 @@
+If three lines in general position form a triangle are then cut by a transversal, the lengths of the six resulting segments satisfy Menelaus' theorem.

@@ -1,0 +1,1 @@
+Because the unit hyperbola      x  2   −  y  2   = 1   {\displaystyle x^{2}-y^{2}=1}   is affinely equivalent to the hyperbola     y = 1  /  x   {\displaystyle y=1/x}  , an arbitrary hyperbola can be considered as the affine image (see previous section) of the hyperbola     y = 1  /  x   :   {\displaystyle y=1/x\ :}

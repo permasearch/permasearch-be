@@ -1,0 +1,1 @@
+Theoretically, coherence can be performed at the load/store granularity. However, in practice it is generally performed at the granularity of cache blocks.[3]

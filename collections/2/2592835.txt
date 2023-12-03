@@ -1,0 +1,1 @@
+The time of day is sometimes represented as a decimal fraction of a day in science and computers. Standard 24-hour time is converted into a fractional day by dividing the number of hours elapsed since midnight by 24 to make a decimal fraction. Thus, midnight is 0.0 day, noon is 0.5 d, etc., which can be added to any type of date, including (all of which refer to the same moment):

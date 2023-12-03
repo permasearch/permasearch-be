@@ -1,0 +1,1 @@
+Due to MNP (Mobile Number Portability) prefixes no longer guarantee that number is in the corresponding mobile network.

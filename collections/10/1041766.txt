@@ -1,0 +1,1 @@
+Project LONGSTOP (Long-term Gravitational Study of the Outer Planets) was a 1982 international consortium of Solar System dynamicists led by Archie Roy. It involved creation of a model on a supercomputer, integrating the orbits of (only) the outer planets. Its results revealed several curious exchanges of energy between the outer planets, but no signs of gross instability.

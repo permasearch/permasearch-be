@@ -1,0 +1,1 @@
+are diagonalizable but not simultaneously diagonalizable because they do not commute.

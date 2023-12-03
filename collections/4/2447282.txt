@@ -1,0 +1,1 @@
+Many graphics applications are capable of merging one or more individual images into a single file. The orientation and placement of each image can be controlled.

@@ -1,0 +1,1 @@
+Graphically, non-rivalry means that if each of several individuals has a demand curve for a public good, then the individual demand curves are summed vertically to get the aggregate demand curve for the public good. This is in contrast to the procedure for deriving the aggregate demand for a private good, where individual demands are summed horizontally.

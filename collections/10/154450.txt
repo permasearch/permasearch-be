@@ -1,0 +1,1 @@
+Given two measurements of a growing quantity, q1 at time t1 and q2 at time t2, and assuming a constant growth rate, you can calculate the doubling time as

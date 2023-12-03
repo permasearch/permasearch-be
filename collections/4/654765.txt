@@ -1,0 +1,1 @@
+Referring to the diagram, a practical transformer's physical behavior may be represented by an equivalent circuit model, which can incorporate an ideal transformer.[25]

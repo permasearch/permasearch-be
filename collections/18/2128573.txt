@@ -1,0 +1,1 @@
+One way of classifying power conversion systems is according to whether the input and output are alternating current (AC) or direct current (DC).

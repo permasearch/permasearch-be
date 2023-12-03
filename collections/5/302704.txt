@@ -1,0 +1,1 @@
+For the case of the center of mass fixed in space with respect to the origin,

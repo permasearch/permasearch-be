@@ -1,0 +1,1 @@
+Rails 5.0 was released on June 30, 2016, introducing Action Cable, API mode, and Turbolinks 5.[18]

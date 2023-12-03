@@ -1,0 +1,1 @@
+Variance is non-negative because the squares are positive or zero:

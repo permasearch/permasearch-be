@@ -1,0 +1,1 @@
+Postal codes are in the format "###Â ##" (i.e. 158 00 = Prague 58) or "CZ-#####" (especially for international sendings). At pre-printed Czech postcards and envelopes, the postal code is filled into frames at separate last row. If the envelope doesn't have pre-printed rows and frames, the postal code should be before the town (or post office) name.

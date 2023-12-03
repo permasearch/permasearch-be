@@ -1,0 +1,1 @@
+An attempt to copy the entire disk using cp may omit the final block if it is of an unexpected length[citation needed]; whereas dd may succeed. The source and destination disks should have the same size.

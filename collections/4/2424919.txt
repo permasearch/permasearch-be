@@ -1,0 +1,1 @@
+Each inverter type differs in the DC links used, and in whether or not they require freewheeling diodes. Either can be made to operate in square-wave or pulse-width modulation (PWM) mode, depending on its intended usage. Square-wave mode offers simplicity, while PWM can be implemented several different ways and produces higher quality waveforms.[4]

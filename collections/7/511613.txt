@@ -1,0 +1,1 @@
+As mentioned later in this article, pointing devices have different possible states. Examples for these states are out of range, tracking or dragging.

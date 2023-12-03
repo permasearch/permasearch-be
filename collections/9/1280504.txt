@@ -1,0 +1,1 @@
+A gimmick loop is a simple type of capacitive coupler: two closely spaced strands of wire. It provides capacitive coupling of a few picofarads between two nodes. Sometimes the wires are twisted together for physical stability.[4][5]

@@ -1,0 +1,1 @@
+Also, the following limits (with only the noted variable approaching the limit) can be obtained from the above expressions:

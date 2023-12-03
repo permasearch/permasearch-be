@@ -1,0 +1,1 @@
+These are two principal methods by which the effect of armature reaction is overcome. The first method is to shift the position of the brushes so that they are in the neutral plane when the generator is producing its normal load current. in the other method, special field poles, called interpoles, are installed in the generator to counteract the effect of armature reaction.

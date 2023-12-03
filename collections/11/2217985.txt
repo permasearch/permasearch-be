@@ -1,0 +1,1 @@
+Information on the number and names of counties in which the place lies, and its lower and upper ZIP code bounds, if applicable are also included.

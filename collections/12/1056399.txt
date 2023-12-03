@@ -1,0 +1,1 @@
+F  r e l   =  (    A U  C  d o s a g e A     A U  C  d o s a g e B        )  ×  (    D o s  e  B     D o s  e  A        )    {\displaystyle F_{rel}=\left({\frac {AUC_{dosageA}}{AUC_{dosageB}}}\ \right)\times \left({\frac {Dose_{B}}{Dose_{A}}}\ \right)}

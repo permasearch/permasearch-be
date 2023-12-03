@@ -1,0 +1,1 @@
+The identifier is only unique within the subnet to which a host is connected. IPv6 has a mechanism for automatic address detection,[34] so that address autoconfiguration always produces unique assignments.

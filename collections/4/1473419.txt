@@ -1,0 +1,1 @@
+The dot product fulfills the following properties if a, b, and c are real vectors and r is a scalar.[1][2]

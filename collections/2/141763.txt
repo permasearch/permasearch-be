@@ -1,0 +1,1 @@
+A JAR file may contain a manifest file, that is located at META-INF/MANIFEST.MF. The entries in the manifest file describe how to use the JAR file. For instance, a Classpath entry can be used to specify other JAR files to load with the JAR.

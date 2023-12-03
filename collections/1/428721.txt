@@ -1,0 +1,1 @@
+Source for the 20 largest lakes (and their areas):[26]

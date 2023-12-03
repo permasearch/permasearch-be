@@ -1,0 +1,1 @@
+This padding scheme is defined by ISO/IEC 9797-1 as Padding Method 2.

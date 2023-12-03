@@ -1,0 +1,1 @@
+Take x = π/2, and suppose if possible that π/2 = a/b, where a and b are natural numbers (i.e., assume that π is rational). Then

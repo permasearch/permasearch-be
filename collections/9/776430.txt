@@ -1,0 +1,1 @@
+But whether that would be rendered in the style of the for-loop or the for all-loop or something else may not be clearly described in the compiler manual.

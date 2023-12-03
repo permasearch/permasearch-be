@@ -1,0 +1,1 @@
+Relink.pl is a Perl5 script that relinks wikitext.  It removes red links, given a list of titles that it generates from the raw wikitext.  It can also add links given a list of words to link. It will report link counts, how many times each link occurs, and the total number of outgoing links.

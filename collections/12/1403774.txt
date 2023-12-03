@@ -1,0 +1,1 @@
+This notation is also often much easier to work with, for example, in epipolar geometry.

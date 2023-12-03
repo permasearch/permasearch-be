@@ -1,0 +1,1 @@
+As an example, should the expression a + b + c be defined to mean (a + b) + c or a + (b + c)? That addition is associative tells us that the choice of definition is irrelevant. For any three numbers a, b, and c, it is true that (a + b) + c = a + (b + c). For example, (1 + 2) + 3 = 3 + 3 = 6 = 1 + 5 = 1 + (2 + 3).

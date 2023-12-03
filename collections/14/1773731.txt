@@ -1,0 +1,1 @@
+It is more common to find embedded devices sold with Linux as the default manufacturer-supported OS, including the Linksys NSLU2 NAS device, TiVo's line of personal video recorders, and Linux-based cellphones (including Android smartphones), PDAs, and portable music players.

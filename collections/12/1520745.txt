@@ -1,0 +1,1 @@
+Negative zero is easily produced in a 1's complement adder. Simply add the positive and negative of the same magnitude.

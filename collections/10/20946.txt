@@ -1,0 +1,1 @@
+IBM contributed some of the code it had developed for the integration of the OpenOffice.org suite into Notes 8 to the project.[37] IBM also packaged its version of OpenOffice.org for free distribution as IBM Lotus Symphony.[38]

@@ -1,0 +1,1 @@
+where α ≈ 2.821439... is a constant resulting from the numerical solution of the maximization equation, k is the Boltzmann constant, h is the Planck constant, and T is the temperature (in kelvins). This frequency does not correspond to the wavelength from the earlier formula which considered the peak emission per unit wavelength.

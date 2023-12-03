@@ -1,0 +1,1 @@
+For arbitrary P and R, the P closure of R need not exist. In the above examples, these exist because reflexivity, transitivity and symmetry are closed under arbitrary intersections. In such cases, the P closure can be directly defined as the intersection of all sets with property P containing R.[1]

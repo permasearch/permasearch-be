@@ -1,0 +1,1 @@
+While DECT cordless phones and Mobile WiMAX standards formally also fulfill the IMT-2000 requirements, they are not usually considered due to their rarity and unsuitability for usage with mobile phones.

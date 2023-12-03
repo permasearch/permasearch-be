@@ -1,0 +1,1 @@
+A common question arises concerning the interaction of a point charge with its own electrostatic potential. Since this interaction doesn't act to move the point charge itself, it doesn't contribute to the stored energy of the system.

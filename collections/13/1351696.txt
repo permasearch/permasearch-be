@@ -1,0 +1,1 @@
+SQL injection (SQLI) was considered one of the top 10 web application vulnerabilities of 2007 and 2010 by the Open Web Application Security Project.[5] In 2013, SQLI was rated the number one attack on the OWASP top ten.[6] There are four main sub-classes of SQL injection:

@@ -1,0 +1,1 @@
+Between 252=4,503,599,627,370,496 and 253=9,007,199,254,740,992 the representable numbers are exactly the integers. For the next range, from 253 to 254, everything is multiplied by 2, so the representable numbers are the even ones, etc. Conversely, for the previous range from 251 to 252, the spacing is 0.5, etc.

@@ -1,0 +1,1 @@
+In mathematics, it is common practice to chain relational operators, such as in 3 < x < y < 20 (meaning 3 < x and x < y and y < 20). The syntax is clear since these relational operators in mathematics are transitive.

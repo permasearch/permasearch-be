@@ -1,0 +1,1 @@
+where p0 is an arbitrary reference momentum. The integral is difficult to express analytically for general n, but in the limit as n approaches infinity:[7][8]

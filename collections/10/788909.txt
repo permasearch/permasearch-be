@@ -1,0 +1,1 @@
+where     γ   {\displaystyle \gamma }   is the heat capacity ratio (    γ   {\displaystyle \gamma }  =7/5, for air). Combining with the equation for the pressure, one arrives at the dry adiabatic lapse rate,[6]

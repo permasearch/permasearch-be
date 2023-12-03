@@ -1,0 +1,1 @@
+There is an inherent problem with spatial representation of postcodes since areas referenced to a specific postal code tend to change over time, as new postcodes are added or existing ones are split by Australia Post for operational purposes.[4]

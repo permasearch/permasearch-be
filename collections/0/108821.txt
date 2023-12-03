@@ -1,0 +1,1 @@
+The Alaska Time Zone observes standard time by subtracting nine hours from Coordinated Universal Time (UTC−09:00). During daylight saving time its time offset is eight hours (UTC−08:00). The clock time in this zone is based on mean solar time at the 135th meridian west of the Greenwich Observatory.

@@ -1,0 +1,1 @@
+Strongholds (marked with Gold icons on the board), provide a defensive bonus and a reinforcement increase to their owners. At the start of each turn, place one extra army unit in each of your strongholds in addition to your regular reinforcements. When defending from a stronghold, the defender adds +1 to their highest die roll.

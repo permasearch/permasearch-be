@@ -1,0 +1,1 @@
+Sewall Wright proposed that populations occupy adaptive peaks on a fitness landscape. In order to evolve to another, higher peak, a population would first have to pass through a valley of maladaptive intermediate stages.[35] A given population might be "trapped" on a peak that is not optimally adapted.

@@ -1,0 +1,1 @@
+The measure should be unchanged if the outcomes xi are re-ordered.

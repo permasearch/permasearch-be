@@ -1,0 +1,1 @@
+Tread voids provide space for the lug to flex and deform as it enters and exits the footprint. Voids also provide channels for rainwater, mud, and snow to be channeled away from the footprint. The void ratio is the void area of the tire divided by the entire tread area. Low void areas have high contact area and therefore higher traction on clean, dry pavement.

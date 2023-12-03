@@ -1,0 +1,1 @@
+FreeBSD developer Poul-Henning Kamp, writing in ACM Queue, would later refer to the victory of null-terminated strings over a 2-byte (not one-byte) length as "the most expensive one-byte mistake" ever.[2]

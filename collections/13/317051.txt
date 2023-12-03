@@ -1,0 +1,1 @@
+In a 2013 analysis of over 170,000 website defacements, published by Zone-H, the most frequently (53%) used technique was exploitation of file inclusion vulnerability, mostly related to insecure usage of the PHP functions include, require, and allow_url_fopen.[203][204]

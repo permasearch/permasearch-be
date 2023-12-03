@@ -1,0 +1,1 @@
+The scarce resources in a telephone switch are the connections between layers of subswitches. The control logic has to allocate these connections, and most switches do so in a way that is fault tolerant. See nonblocking minimal spanning switch for a discussion of the Charles Clos algorithm, used in many telephone switches, and a very important algorithm to the telephone industry.

@@ -1,0 +1,1 @@
+Platform virtualization software, specifically emulators and hypervisors, are software packages that emulate the whole physical computer machine, often providing multiple virtual machines on one physical platform. The table below compares basic information about platform virtualization hypervisors.

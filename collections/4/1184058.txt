@@ -1,0 +1,1 @@
+All voting systems face threats of some form of electoral fraud. The types of threats that affect voting machines vary.[42] Research at Argonne National Laboratories revealed that a single individual with physical access to a machine, such as a Diebold Accuvote TS, can install inexpensive, readily-available electronic components to manipulate its functions.[43][44]

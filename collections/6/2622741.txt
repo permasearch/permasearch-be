@@ -1,0 +1,1 @@
+Expressed more invariantly, the gradient of a vector field f can be defined by the Levi-Civita connection and metric tensor:[2]

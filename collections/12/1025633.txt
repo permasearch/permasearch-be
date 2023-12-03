@@ -1,0 +1,1 @@
+The following features are common to all conforming ECMAScript implementations, unless explicitly specified otherwise.

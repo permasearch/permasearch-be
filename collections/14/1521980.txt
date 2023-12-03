@@ -1,0 +1,1 @@
+Examples of web thin clients include Chromebooks and Chromeboxes (which run Chrome OS) and phones running Firefox OS.

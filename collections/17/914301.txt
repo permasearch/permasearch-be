@@ -1,0 +1,1 @@
+Twitter places great reliance on open-source software.[248] The Twitter Web interface uses the Ruby on Rails framework,[249] deployed on a performance enhanced Ruby Enterprise Edition implementation of Ruby.[250]

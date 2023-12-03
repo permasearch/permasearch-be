@@ -1,0 +1,1 @@
+Third, it needs to have a wireless communication system that has an appropriate range and battery life. It is important that sensors regularly communicate an "I'm alive" condition, since having a dead sensor can be worse than having no sensor at all.

@@ -1,0 +1,1 @@
+It is also common for a boot manager to have a textual user interface so the user can select the desired OS (or system utility) from a list of available boot options.

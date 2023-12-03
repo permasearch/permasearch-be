@@ -1,0 +1,1 @@
+The incoming flow starting at a low concentration has a semipermeable membrane with water passing to the buffer liquid via osmosis at a small gradient. There is a gradual buildup of concentration inside the loop until the loop tip where it reaches its maximum.

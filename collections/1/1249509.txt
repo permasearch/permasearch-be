@@ -1,0 +1,1 @@
+These identities are important for comparison inequalities in geometry. For example, the area enclosed by a circle of radius R in a flat space is always greater than the area of a spherical circle and smaller than a hyperbolic circle, provided all three circles have the same (intrinsic) radius. That is,

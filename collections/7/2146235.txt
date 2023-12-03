@@ -1,0 +1,1 @@
+are increments obtained evaluating the derivatives of      y  t     {\displaystyle y_{t}}   at the     i   {\displaystyle i}  -th order.

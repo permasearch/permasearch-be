@@ -1,0 +1,1 @@
+Across Unix-like operating systems many different configuration-file formats exist, with each application or service potentially having a unique format, but there is a strong tradition of them being in human-editable plain text, and a simple key-value pair format is common. Filename extensions of .cnf, .conf, .cfg, .cf or as well .ini and similar are often used.

@@ -1,0 +1,1 @@
+2. In terms of ICT, an Information Element (IE) is a part of management frames in the IEEE 802.11 wireless LAN protocol. IEs are a device's way to transfer descriptive information about itself inside management frames. There are usually several IEs inside each such frame, and each is built of TLVs mostly defined outside the basic IEEE 802.11 specification.

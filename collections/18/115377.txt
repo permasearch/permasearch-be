@@ -1,0 +1,1 @@
+Thus we have shown the reciprocal lattice is closed under vector addition and subtraction. Furthermore, we know that a vector G in the reciprocal lattice can be expressed as a linear combination of its primitive vectors.

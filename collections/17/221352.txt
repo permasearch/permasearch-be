@@ -1,0 +1,1 @@
+Hence in electromagnetism, the vortex plays the role of 'effect' whereas in aerodynamics, the vortex plays the role of 'cause'. Yet when we look at the B lines in isolation, we see exactly the aerodynamic scenario in so much as that B is the vortex axis and H is the circumferential velocity as in Maxwell's 1861 paper.

@@ -1,0 +1,1 @@
+For example, starting with just two distinct points, we can create a line or either of two circles (in turn, using each point as centre and passing through the other point). If we draw both circles, two new points are created at their intersections. Drawing lines between the two original points and one of these new points completes the construction of an equilateral triangle.

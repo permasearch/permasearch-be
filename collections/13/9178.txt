@@ -1,0 +1,1 @@
+In KDE and GNOME, very similar shortcuts are available, which open a screenshot tool (KSnapshot or GNOME Screenshot respectively), giving options to save the screenshot, plus more options like manually picking a specific window, screen area, using a timeout, etc. Sending the image to many services (KDE), or even screen recording (GNOME), is built-in too.[4][5]

@@ -1,0 +1,1 @@
+Advanced disk arrays often feature cloning, snapshots and remote replication. Generally these devices do not provide the benefits of data migration or replication across heterogeneous storage, as each vendor tends to use their own proprietary protocols.

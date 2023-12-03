@@ -1,0 +1,1 @@
+The widespread MBR partitioning scheme, dating from the early 1980s, imposed limitations that affect the use of modern hardware. One of the main limitations is the usage of 32 bits for storing block addresses and quantity information. For hard disks with 512-byte sectors, the MBR partition table entries allow up to a maximum of 2 TiB (232 × 512 bytes).[1]

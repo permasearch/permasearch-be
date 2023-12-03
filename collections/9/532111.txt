@@ -1,0 +1,1 @@
+In the case of an increase in speed from 0 to v with constant acceleration within a distance of s this acceleration is v2/(2s).

@@ -1,0 +1,1 @@
+In drug design, drug candidates may have good druglikeness but fail on first-pass metabolism because it is biochemically selective.

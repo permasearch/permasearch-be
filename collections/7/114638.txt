@@ -1,0 +1,1 @@
+Morse code is often spoken or written with "dah" for dashes, "dit" for dots located at the end of a character, and "di" for dots located at the beginning or internally within the character. Thus, the following Morse code sequence:

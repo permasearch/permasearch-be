@@ -1,0 +1,1 @@
+where F is the exposure rate, r is the distance, α is the source activity, and Γ is the exposure rate constant, which is dependent on the particular radionuclide used as the gamma ray source.

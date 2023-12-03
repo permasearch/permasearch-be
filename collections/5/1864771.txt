@@ -1,0 +1,1 @@
+In spherical coordinates, with θ the angle with the z axis and φ the rotation around the z axis, the divergence is[6]

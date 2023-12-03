@@ -1,0 +1,1 @@
+The target defined by the FGCS project was to develop "Knowledge Information Processing systems" (roughly meaning, applied Artificial Intelligence). The chosen tool to implement this goal was logic programming. Logic programming approach as was characterized by Maarten Van Emden – one of its founders – as:[2]

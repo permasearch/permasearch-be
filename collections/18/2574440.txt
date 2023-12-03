@@ -1,0 +1,1 @@
+The sampling frequency or sampling rate, fs, is the average number of samples obtained in one second (samples per second), thus fs = 1/T.

@@ -1,0 +1,1 @@
+UML offers a way to visualize a system's architectural blueprints in a diagram (see image), including elements such as:[4]

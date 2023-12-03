@@ -1,0 +1,1 @@
+The Galileo engineering review speculated (but was never able to prove conclusively) that this longer flight time coupled with the stronger sunlight near Venus caused lubricant in Galileo's main antenna to fail, forcing the use of a much smaller backup antenna with a consequent lowering of data rate from the spacecraft.

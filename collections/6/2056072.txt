@@ -1,0 +1,1 @@
+The Hamiltonian for one particle in three dimensions is:

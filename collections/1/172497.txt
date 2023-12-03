@@ -1,0 +1,1 @@
+Both usages have remained common in different programming languages into the early 21st century. As well as Fortran, "=" is used for assignment in such languages as C, Perl, Python, awk, and their descendants. But "=" is used for equality and not assignment in the Pascal family, Ada, Eiffel, APL, and other languages.

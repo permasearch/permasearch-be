@@ -1,0 +1,1 @@
+Shaft Horsepower (SHP) - The amount of mechanical power delivered by the engine to a propeller shaft. One horsepower is equivalent to 746 watts in the SI system of units.

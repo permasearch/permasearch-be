@@ -1,0 +1,1 @@
+When a side-mount configuration is used, the usefulness of a secondary demand valve is greatly reduced, as each cylinder will have a regulator and the one not in use is available as a backup. This configuration also allows the entire cylinder to be handed off to the receiver, so a long hose is also less likely to be needed.

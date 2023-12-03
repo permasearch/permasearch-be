@@ -1,0 +1,1 @@
+Logics such as fuzzy logic have since been devised with an infinite number of "degrees of truth", represented by a real number between 0 and 1.[47]

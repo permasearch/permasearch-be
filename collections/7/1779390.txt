@@ -1,0 +1,1 @@
+Characteristic functions can also be used to find moments of a random variable. Provided that the nth moment exists, characteristic function can be differentiated n times and

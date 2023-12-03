@@ -1,0 +1,1 @@
+In these applications, direct current may be used directly or converted to alternating current using power electronic devices. In the future, this may provide a way to supply energy to a grid from distributed sources. For example, hybrid vehicle owners may rent the capacity of their vehicle's batteries for load-levelling purposes by the local electrical utility company.

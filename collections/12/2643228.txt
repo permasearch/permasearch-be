@@ -1,0 +1,1 @@
+If the function to be calculated is a polynomial function, expressed as

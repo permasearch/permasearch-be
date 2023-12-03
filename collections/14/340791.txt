@@ -1,0 +1,1 @@
+Shortly after the release of iOS 8, Apple released a statement pointing out that a bug had been found in the operating system which prevented HealthKit-compatible apps from being released alongside iOS 8.[189] Apps already released that included Healthkit functionality were withdrawn from the App Store. iOS 8.0.1/8.0.2 included a fix for this issue.

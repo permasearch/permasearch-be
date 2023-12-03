@@ -1,0 +1,1 @@
+While every planar map can be colored with four colors, it is NP-complete in complexity to decide whether an arbitrary planar map can be colored with just three colors.[11]

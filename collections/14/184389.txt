@@ -1,0 +1,1 @@
+Little has been published on the optimal strategy for the game of Uno. Simulations of games may shed some light on the matter. Attempts to reduce point count in a player's hands can be "read" by other players if too transparent. This information can be exploited by other players, and it follows that a mixed strategy may be more appropriate.

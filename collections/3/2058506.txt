@@ -1,0 +1,1 @@
+When creating links to ship-class articles, useful editing shortcut templates are: {{sclass}} (italicized font); {{sclass-}} (italicized font, hyphenated); {{sclass2}} (normal font); and {{sclass2-}} (normal font, hyphenated). See the template documentation for usage guidelines.

@@ -1,0 +1,1 @@
+Alternatively, the linear transformation could take the form of an n by n matrix, in which case the eigenvectors are n by 1 matrices that are also referred to as eigenvectors. If the linear transformation is expressed in the form of an n by n matrix A, then the eigenvalue equation above for a linear transformation can be rewritten as the matrix multiplication

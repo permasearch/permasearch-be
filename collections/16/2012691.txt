@@ -1,0 +1,1 @@
+For models there are some properties, which describe their behaviors.

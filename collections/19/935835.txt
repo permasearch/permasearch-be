@@ -1,0 +1,1 @@
+Both the deoxygenation rate,      k  1     {\displaystyle k_{1}}   and reaeration rate,      k  2     {\displaystyle k_{2}}   can be temperature corrected, following the general formula.[2]

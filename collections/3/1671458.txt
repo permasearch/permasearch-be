@@ -1,0 +1,1 @@
+When a user says 'up up down down left right left right' to Siri, it replies with 'nerd' or 'cheater.'

@@ -1,0 +1,1 @@
+Mint does not have a policy against including nonfree software, it includes nonfree binary blobs in drivers packaged with the kernel, and it includes nonfree programs in its repositories. It even includes proprietary codecs.[83]

@@ -1,0 +1,1 @@
+The following table shows a number of 2-by-2 matrices with the associated linear maps of R2. The blue original is mapped to the green grid and shapes. The origin (0,0) is marked with a black point.

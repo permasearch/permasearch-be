@@ -1,0 +1,1 @@
+be the k-vector. The bold in Xi means that it is a random vector, not a random (univariate) variable. Then the sum of the random vectors will be

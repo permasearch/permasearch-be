@@ -1,0 +1,1 @@
+Depreciation stops when book value is equal to the scrap value of the asset. In the end, the sum of accumulated depreciation and scrap value equals the original cost.

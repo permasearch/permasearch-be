@@ -1,0 +1,1 @@
+Sensitivity and specificity are statistical measures of the performance of a binary classification test, also known in statistics as classification function:

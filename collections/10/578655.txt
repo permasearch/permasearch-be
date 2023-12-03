@@ -1,0 +1,1 @@
+It is also clear that anything that is not within B (the blue region) cannot be within A, either. This statement,

@@ -1,0 +1,1 @@
+That is, each element in       R   /   Z     {\displaystyle {\mathbb {R} /\mathbb {Z} }}   is an equivalence class of real numbers that share the same fractional part. Thus a function like     f :   R   /   Z   →  R    {\displaystyle f:{\mathbb {R} /\mathbb {Z} }\to \mathbb {R} }   is a representation of a 1-periodic function.

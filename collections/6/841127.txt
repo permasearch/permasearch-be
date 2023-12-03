@@ -1,0 +1,1 @@
+The assignment of a unicast IPv6 address to an interface involves an internal test for the uniqueness of that address using Neighbor Solicitation and Neighbor Advertisement (ICMPv6 type 135 and 136) messages.  While in the process of establishing uniqueness an address has a tentative state.

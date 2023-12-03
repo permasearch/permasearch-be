@@ -1,0 +1,1 @@
+While listwise deletion does have its problems, it is preferable to many other methods for handling missing data.[1]:7 In some cases, it may even be the least problematic method.[1]:6  The following table provides some comparisons of listwise deletions to other methods:

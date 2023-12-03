@@ -1,0 +1,1 @@
+In special relativity, the energy of a particle at rest equals its mass times the speed of light squared, E = mc2. That is, mass can be expressed in terms of energy and vice versa. If a particle has a frame of reference in which it lies at rest, then it has a positive rest mass and is referred to as massive.

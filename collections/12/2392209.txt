@@ -1,0 +1,1 @@
+The invested capital calculation measures the amount of initial capital invested by an enterprise used to generate a return for its capital providers (debt and equity investors). An equivalent way of calculating this amount is by subtracting current liabilities, non-operating assets, and cash and equivalents from a firm's total assets.

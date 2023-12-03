@@ -1,0 +1,1 @@
+A darknet is an overlay network, typically running on the internet, that is only accessible through specialized software. A darknet is an anonymizing network where connections are made only between trusted peers — sometimes called "friends" (F2F)[27] — using non-standard protocols and ports.

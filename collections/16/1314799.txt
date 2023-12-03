@@ -1,0 +1,1 @@
+The Lorenz curve is changed by translations so that the equality gap F − L(F) changes in proportion to the ratio of the original and translated means.  If X is a random variable with a Lorenz curve L X (F) and mean μ X , then for any constant c ≠ −μ X , X + c has a Lorenz curve defined by:

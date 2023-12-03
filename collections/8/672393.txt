@@ -1,0 +1,1 @@
+In most[which?] areas, height is reported as a multiple of 100 feet (30 m), i.e. A025 is nominally 2,500 feet (760 m). When cruising at higher altitudes aircraft adopt flight levels (FLs). Flight levels are altitudes corrected and calibrated against the International Standard Atmosphere (ISA). These are expressed as a three-figure group e.g., FL320 is 32,000 ft (9,800 m) ISA.

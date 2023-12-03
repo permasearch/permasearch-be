@@ -1,0 +1,1 @@
+In macOS, "Esc" usually closes or cancels a dialog box or sheet. The ⌘ Command+⌥ Option+⎋ Esc combination opens the Force Quit dialog box, allowing users to end non-responsive applications. Another use for the Esc key, in combination with the Command key, is switching to Front Row, if installed.

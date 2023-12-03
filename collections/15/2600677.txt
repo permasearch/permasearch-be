@@ -1,0 +1,1 @@
+Arctic Cold Fronts are usually so far north that Meteosat images alone are inadequate to recognize them. Also, the following conceptual models may look like Arctic Cold Fronts: polar Cold Front, Polar Low and Comma. The final check is best made using a loop of AVHRR images with the help of numerical model parameter fields.

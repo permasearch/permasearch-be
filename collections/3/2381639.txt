@@ -1,0 +1,1 @@
+The difference between the Dano-Norwegian and the Swedish alphabet is that Swedish uses the variant Ä instead of Æ, and the variant Ö instead of Ø, similarly to German. Also, the collating order for these three letters is different in Swedish: Å, Ä, Ö. Æ and Ä are sorted together in all Scandinavian languages, including Finnish, as are Ø and Ö.

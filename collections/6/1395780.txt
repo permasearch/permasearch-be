@@ -1,0 +1,1 @@
+Prior to the advent of computers, this was plotted on semilogarithmic paper though it can also be done on spreadsheet programs. The time would be shown on the x-axis while the temperature would be shown on the y-axis. This simple heating curve can also determine the lag factor (j) and the slope (fh). It also measures the product temperature rather than the can temperature.

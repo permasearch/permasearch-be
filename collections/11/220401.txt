@@ -1,0 +1,1 @@
+Note that the applications architecture is about the application portfolio, not the internal architecture of a single application - which is often called the application architecture.

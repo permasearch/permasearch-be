@@ -1,0 +1,1 @@
+Another method to monitor may be to connect a layer-1 hub between the monitored device and its switch port. This will induce minor delay, but will provide multiple interfaces that can be used to monitor the individual switch port.

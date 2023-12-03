@@ -1,0 +1,1 @@
+As mentioned above, orbital angular momentum L is defined as in classical mechanics:      L  =  r  ×  p    {\displaystyle \mathbf {L} =\mathbf {r} \times \mathbf {p} }  , but total angular momentum J is defined in a different, more basic way: J is defined as the "generator of rotations".[32] More specifically, J is defined so that the operator

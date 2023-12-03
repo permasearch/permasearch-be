@@ -1,0 +1,1 @@
+where      ρ   m  0       {\displaystyle \rho _{m_{0}}}   is the density of matter today. We know for nonrelativistic particles that their mass density decreases proportional to the inverse volume of the Universe, so the equation above must be true. We can also define (see density parameter for      Ω  m     {\displaystyle \Omega _{m}}  )

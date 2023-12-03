@@ -1,0 +1,1 @@
+In 2005 the government mandated Unbundled Bitstream Service (UBS) at a maximum upstream bandwidth of 128 kbit/s. This allowed ISPs to bill for their client's data usage. Telecom initially specified a 256 kbit/s downstream, but added 1 Mbit/s and 2 Mbit/s options later in the year. Telecom provided this in addition to the existing Jetstream plans.

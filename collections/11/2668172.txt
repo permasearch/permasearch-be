@@ -1,0 +1,1 @@
+Fig. 1. Mach number in transonic airflow around an airfoil; M < 1 (a) and M > 1 (b).

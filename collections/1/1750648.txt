@@ -1,0 +1,1 @@
+This onboard compilation will likely be computationally intensive and require considerable memory. However, it does not need to be interactive and iterative as does the off-board compilation since consistency checks and resolution will have already been done. Furthermore, the onboard compilation can be done in the background so computation time is not critical.

@@ -1,0 +1,1 @@
+The BS and the SS use a service flow with an appropriate QoS class (plus other parameters, such as bandwidth and delay) to ensure that application data receives QoS treatment appropriate to the application.

@@ -1,0 +1,1 @@
+These considerations are particularly important for defining the inverses of trigonometric functions. For example, the sine function is not one-to-one, since

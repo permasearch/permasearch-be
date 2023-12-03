@@ -1,0 +1,1 @@
+Since the left side is divisible by 3, so is the right side, requiring that m be divisible by 3. Then, m can be expressed as 3k:

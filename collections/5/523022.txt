@@ -1,0 +1,1 @@
+The concept of first- and second- class objects was introduced by Christopher Strachey in the 1960s.[2][3] He did not actually define the term strictly, but contrasted real numbers and procedures in ALGOL:

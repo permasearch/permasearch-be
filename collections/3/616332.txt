@@ -1,0 +1,1 @@
+Differences between the Venturi and Parshall flume include: reduction of the inlet converging angle, lengthening the throat section, reduction of the discharge divergence angle, and introducing a drop through the throat (and subsequent partial recovery in the discharge section).[8]

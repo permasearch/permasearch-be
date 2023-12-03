@@ -1,0 +1,1 @@
+The E. coli DNA ligase is encoded by the lig gene. DNA ligase in E. coli, as well as most prokaryotes, uses energy gained by cleaving nicotinamide adenine dinucleotide (NAD) to create the phosphodiester bond.[3] It does not ligate blunt-ended DNA except under conditions of molecular crowding with polyethylene glycol, and cannot join RNA to DNA efficiently.

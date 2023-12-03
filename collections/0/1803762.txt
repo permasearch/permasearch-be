@@ -1,0 +1,1 @@
+This result follows from the chain rule (see the article on inverse functions and differentiation).

@@ -1,0 +1,1 @@
+In most computer programming languages, a do while loop is a control flow statement that executes a block of code at least once, and then repeatedly executes the block, or not, depending on a given boolean condition at the end of the block.

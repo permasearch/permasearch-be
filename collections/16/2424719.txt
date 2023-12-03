@@ -1,0 +1,1 @@
+A number of variant point systems are used for calculating the prime, most of which produce the same order of hands. One notable variant that does not produce the same order is to count 0 points for each face card.

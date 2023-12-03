@@ -1,0 +1,1 @@
+HTML 5 contains numerous "willful violations" of other specifications, in order to accommodate limitations of existing platforms.[12]

@@ -1,0 +1,1 @@
+Shannon's theorem shows how to compute a channel capacity from a statistical description of a channel, and establishes that given a noisy channel with capacity C and information transmitted at a line rate R, then if

@@ -1,0 +1,1 @@
+Various groups are working on draft standards detailing the use of syslog for more than just network and security event logging, such as its proposed application within the health care environment.[citation needed]

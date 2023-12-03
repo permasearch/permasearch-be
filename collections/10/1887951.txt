@@ -1,0 +1,1 @@
+Since the outside diameter is fixed for a given pipe size, the inside diameter will vary depending on the wall thickness of the pipe. For example, 2" Schedule 80 pipe has thicker walls and therefore a smaller inside diameter than 2" Schedule 40 pipe.

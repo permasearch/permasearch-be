@@ -1,0 +1,1 @@
+Widgets are sometimes qualified as virtual to distinguish them from their physical counterparts, e.g. virtual buttons that can be clicked with a pointer, vs. physical buttons that can be pressed with a finger.

@@ -1,0 +1,1 @@
+Resistive heating can be used to efficiently anneal copper wire; the heating system employs a controlled electrical short circuit. It can be advantageous because it does not require a temperature-regulated furnace like other methods of annealing.

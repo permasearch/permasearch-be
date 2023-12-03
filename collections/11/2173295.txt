@@ -1,0 +1,1 @@
+A spur gear differential is constructed from two identical coaxial epicyclic gear trains assembled with a single carrier such that their planet gears are engaged. This forms a planetary gear train with a fixed carrier train ratio R = −1.

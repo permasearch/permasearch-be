@@ -1,0 +1,1 @@
+Alternatively, Matrox video systems devised another mechanism for inserting closed caption data by allowing the video editor to include CEA-608 and CEA-708 in a discrete audio channel on the video editing timeline. This allows real-time preview of the captions while editing and is compatible with Final Cut Pro 6 and 7.[44]

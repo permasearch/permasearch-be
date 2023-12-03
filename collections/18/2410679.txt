@@ -1,0 +1,1 @@
+Tables of the chi-squared cumulative distribution function are widely available and the function is included in many spreadsheets and all statistical packages.

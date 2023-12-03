@@ -1,0 +1,1 @@
+As shown in the plots, the angular velocities are not linearly related, but rather are periodic with a period half that of the rotating shafts. The angular velocity equation can again be differentiated to get the relation between the angular accelerations      a  1     {\displaystyle a_{1}}   and      a  2     {\displaystyle a_{2}}  :

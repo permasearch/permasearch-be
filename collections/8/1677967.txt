@@ -1,0 +1,1 @@
+An IHSAA tennis team consists of 6 competitors. Each head-to-head competition is made of 6 singles and 3 doubles, each worth 1 point, and the first team to 5 points is the winner. Both singles and doubles matches are in a best-of-3-sets format.

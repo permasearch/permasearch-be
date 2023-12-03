@@ -1,0 +1,1 @@
+Because the particles are not coupled under the mean field Hamiltonian, the mean field approximation of the total partition function still factorizes,

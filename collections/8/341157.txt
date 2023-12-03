@@ -1,0 +1,1 @@
+The ISA model is based on average conditions at mid latitudes, as determined by the ISO's TC 20/SC 6 technical committee. It has been revised from time to time since the middle of the 20th century.

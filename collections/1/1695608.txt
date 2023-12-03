@@ -1,0 +1,1 @@
+For most purposes, however, binary values are converted to or from the equivalent decimal values for presentation to or input from humans; computer programs express literals in decimal by default. (123.1, for example, is written as such in a computer program, even though many computer languages are unable to encode that number precisely.)

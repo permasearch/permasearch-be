@@ -1,0 +1,1 @@
+We first write the cumulative distribution function of     Z   {\displaystyle Z}   starting with its definition

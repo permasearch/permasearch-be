@@ -1,0 +1,1 @@
+Linux supports POSIX.1e ACLs. There is experimental support for NFSv4 ACLs for ext3 filesystem [4] and ext4 filesystem.

@@ -1,0 +1,1 @@
+One often has the choice of specifying a set either intensionally or extensionally. In the examples above, for instance, A = C and B = D.

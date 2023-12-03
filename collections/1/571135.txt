@@ -1,0 +1,1 @@
+The RMS can be computed in the frequency domain, using Parseval's theorem. For a sampled signal     x [ n ] = x ( t = n T )   {\displaystyle x[n]=x(t=nT)}  , where     T   {\displaystyle T}   is the sampling period,

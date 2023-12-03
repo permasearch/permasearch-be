@@ -1,0 +1,1 @@
+The ratio of the affinity coefficients, k'/k, can be recognized as an equilibrium constant. Turning to the kinetic aspect, it was suggested that the velocity of reaction, v, is proportional to the sum of chemical affinities (forces). In its simplest form this results in the expression

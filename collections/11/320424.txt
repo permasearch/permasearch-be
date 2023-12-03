@@ -1,0 +1,1 @@
+Existing software development processes can be modified to include crowdsourcing: 1) Waterfall model; 2) Agile processes; 3) Model-driven approach; 4) Open-Sourced approach; 5) Software-as-a-Service (SaaS) approach where service components can be published, discovered, composed, customized, simulated, and tested; 6) formal methods: formal methods can be crowdsourced.

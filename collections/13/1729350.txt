@@ -1,0 +1,1 @@
+The required data are: the demands for various resources, forecast by time period into the future as far as is reasonable, as well as the resources' configurations required in those demands, and the supply of the resources, again forecast by time period into the future as far as is reasonable.

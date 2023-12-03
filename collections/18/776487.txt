@@ -1,0 +1,1 @@
+Note that an empty loop (i.e., one with no commands between do and done) is a syntax error. If the above loops contained only comments, execution would result in the message "syntax error near unexpected token 'done'".

@@ -1,0 +1,1 @@
+where, S represents the arc length, r represents the radius of the circle and Î¸ represents the angle in radians made by the arc at the centre of the circle.

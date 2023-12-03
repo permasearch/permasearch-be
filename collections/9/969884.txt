@@ -1,0 +1,1 @@
+Turbine mass flow rate,         M  T   ˙    =     t u r b i n e     w o r k     r e q u i r e d    W  T       {\displaystyle {\dot {M_{T}}}={\frac {\mathrm {turbine} \ \mathrm {work} \ \mathrm {required} }{W_{T}}}}

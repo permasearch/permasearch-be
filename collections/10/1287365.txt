@@ -1,0 +1,1 @@
+A similar styled span can be added within an external link:

@@ -1,0 +1,1 @@
+It works roughly as follows. First he identified a number of subproblems that are small enough to be solved optimally. He used:

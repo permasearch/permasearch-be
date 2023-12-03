@@ -1,0 +1,1 @@
+Other lines of research include the combined study of business intelligence and uncertain data.[29][30] In this context, the data used is not assumed to be precise, accurate and complete. Instead, data is considered uncertain and therefore this uncertainty is propagated to the results produced by BI.

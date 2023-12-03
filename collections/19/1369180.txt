@@ -1,0 +1,1 @@
+In this section, and throughout the article the brackets     ⟨ ⟩   {\displaystyle \langle \rangle }   denote the mean of the quantity they enclose.

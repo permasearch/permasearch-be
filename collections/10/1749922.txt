@@ -1,0 +1,1 @@
+In topology and related branches of mathematics, Tychonoff spaces and completely regular spaces are kinds of topological spaces. These conditions are examples of separation axioms.

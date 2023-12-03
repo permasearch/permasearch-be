@@ -1,0 +1,1 @@
+1.6 GHz quad-core Cortex-A15 and 1.2 GHz quad-core Cortex-A7 (big.LITTLE)(3G & South Korea LTE Versions)

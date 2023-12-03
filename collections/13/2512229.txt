@@ -1,0 +1,1 @@
+A successful exec replaces the current process image, so it cannot return anything to the program that made the call. Processes do have an exit status, but "execing" is not a termination of the process - it continues to exist.

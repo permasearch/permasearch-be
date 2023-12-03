@@ -1,0 +1,1 @@
+Given a basis of a vector space V, every element of V can be expressed uniquely as a linear combination of basis vectors, whose coefficients are referred to as vector coordinates or components. A vector space can have several distinct sets of basis vectors; however each such set has the same number of elements, with this number being the dimension of the vector space.

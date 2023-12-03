@@ -1,0 +1,1 @@
+For example, if the supplier relocates to Illinois the version numbers will be incremented sequentially:

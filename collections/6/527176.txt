@@ -1,0 +1,1 @@
+The movement of a quadrilateral linkage can be classified into eight cases based on the dimensions of its four links. Let a, b, g and h denote the lengths of the input crank, the output crank, the ground link and floating link, respectively. Then, we can construct the three terms:

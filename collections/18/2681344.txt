@@ -1,0 +1,1 @@
+To do this, version A describes assessment methods and procedures for each of the security controls mandated in Special Publication 800-53. These methods and procedures are to be used as guidelines for federal agencies. These guidelines are meant to limit confusion and ensure that agencies interpret and implement the security controls in the same way.[4]

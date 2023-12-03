@@ -1,0 +1,1 @@
+The IEEE has built in several special address types to allow more than one network interface card to be addressed at one time:

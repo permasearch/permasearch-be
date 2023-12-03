@@ -1,0 +1,1 @@
+As alluded to above, plasmids are often used to purify a specific sequence, since they can easily be purified away from the rest of the genome. For their use as vectors, and for molecular cloning, plasmids often need to be isolated.

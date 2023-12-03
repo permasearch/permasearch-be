@@ -1,0 +1,1 @@
+with small solutions as     a , b , c , d = 3 , 5 , 8 , 14   {\displaystyle a,b,c,d=3,5,8,14}   and can be solved as binary quadratic forms.

@@ -1,0 +1,1 @@
+In ordinary applications, this advantage may be too small to offset their much higher cost.[14] However, this method can provide uniformly distributed hashes even when the keys are chosen by a malicious agent. This feature may help to protect services against denial of service attacks.

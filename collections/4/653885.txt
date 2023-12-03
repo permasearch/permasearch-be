@@ -1,0 +1,1 @@
+Secondary transactions can be generally split into two basic categories:

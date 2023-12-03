@@ -1,0 +1,1 @@
+The two common activation functions are both sigmoids, and are described by

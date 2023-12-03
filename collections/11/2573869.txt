@@ -1,0 +1,1 @@
+In contrast to the above, Bertrand Meyer wrote in his 2009 textbook that instructions like break and continue "are just the old goto in sheep's clothing" and strongly advised against their use.[12]

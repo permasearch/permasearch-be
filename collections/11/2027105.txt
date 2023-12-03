@@ -1,0 +1,1 @@
+Except for small, single-location trials, the design and objectives are specified in a document called a clinical trial protocol. The protocol is the trial's "operating manual" and ensures that all researchers perform the trial in the same way on similar subjects and that the data is comparable across all subjects.

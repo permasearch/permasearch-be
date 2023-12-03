@@ -1,0 +1,1 @@
+In the general case, elastic energy is given by the free energy per unit of volume f as a function of the strain tensor components Îµij

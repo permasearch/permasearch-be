@@ -1,0 +1,1 @@
+First, take any number (for this example it will be 492) and add together each digit in the number (4 + 9 + 2 = 15). Then take that sum (15) and determine if it is divisible by 3. The original number is divisible by 3 (or 9) if and only if the sum of its digits is divisible by 3 (or 9).

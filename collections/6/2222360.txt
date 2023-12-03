@@ -1,0 +1,1 @@
+or equivalently (in radians per second):

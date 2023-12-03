@@ -1,0 +1,1 @@
+If      S  t     {\displaystyle S_{t}}   is the spot price of an asset at time     t   {\displaystyle t}  , and     r   {\displaystyle r}   is the continuously compounded rate, then the forward price at a future time     T   {\displaystyle T}   must satisfy      F  t , T   =  S  t    e  r ( T − t )     {\displaystyle F_{t,T}=S_{t}e^{r(T-t)}}  .

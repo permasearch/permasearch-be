@@ -1,0 +1,1 @@
+The indefinite integral, also known as the antiderivative, is the inverse operation to the derivative. F is an indefinite integral of f when f is a derivative of F. (This use of lower- and upper-case letters for a function and its indefinite integral is common in calculus.)

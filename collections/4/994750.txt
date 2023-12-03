@@ -1,0 +1,1 @@
+The official Internet Assigned Numbers Authority (IANA) code for the encoding is "UTF-8".[19] All letters are upper-case, and the name is hyphenated. This spelling is used in all the Unicode Consortium documents relating to the encoding.

@@ -1,0 +1,1 @@
+that is a plaintext P is encrypted multiple times using a repetition of the same block cipher

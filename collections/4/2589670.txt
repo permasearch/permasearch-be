@@ -1,0 +1,1 @@
+In April 2006, the SDA released a detailed specification for the non-security related parts of the SD memory card standard and for the Secure Digital Input Output (SDIO) cards and the standard SD host controller.[citation needed]

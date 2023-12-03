@@ -1,0 +1,1 @@
+For high-power radio-frequency transmission up to about 1 GHz, coaxial cable with a solid copper outer conductor is available in sizes of 0.25 inch upward. The outer conductor is corrugated like a bellows to permit flexibility and the inner conductor is held in position by a plastic spiral to approximate an air dielectric.[4] One brand name for such cable is Heliax.[5]

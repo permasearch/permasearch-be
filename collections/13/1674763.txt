@@ -1,0 +1,1 @@
+The peculiar design of the coil is dictated by the need to achieve low resistive energy losses (high Q factor) at high frequencies,[17] which results in the largest secondary voltages:

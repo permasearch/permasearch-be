@@ -1,0 +1,1 @@
+This formula provides a simple way to determine the speed ratios for the simple planetary gear train under different conditions:

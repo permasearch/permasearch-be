@@ -1,0 +1,1 @@
+Extreme Programming Explained describes extreme programming as a software-development discipline that organizes people to produce higher-quality software more productively.

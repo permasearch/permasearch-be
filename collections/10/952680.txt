@@ -1,0 +1,1 @@
+In projective geometry, a cylinder is simply a cone whose apex is at infinity.[8] Intuitively, if one keeps the base fixed and takes the limit as the apex goes to infinity, one obtains a cylinder, the angle of the side increasing as arctan, in the limit forming a right angle. This is useful in the definition of degenerate conics, which require considering the cylindrical conics.

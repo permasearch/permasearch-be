@@ -1,0 +1,1 @@
+This build also has several minor UI changes, including the All Apps letter 'jump' buttons are ALL CAPS instead of lower case, search box replacing the search button at the top of the all apps list

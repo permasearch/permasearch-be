@@ -1,0 +1,1 @@
+Given the particular differential operators involved, this is a linear partial differential equation. It is also a diffusion equation, but unlike the heat equation, this one is also a wave equation given the imaginary unit present in the transient term.

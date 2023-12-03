@@ -1,0 +1,1 @@
+The partial pressure of a gas is a measure of thermodynamic activity of the gas's molecules. Gases dissolve, diffuse, and react according to their partial pressures, and not according to their concentrations in gas mixtures or liquids.

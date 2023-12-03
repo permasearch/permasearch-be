@@ -1,0 +1,1 @@
+Frequently, key whitening is used in addition to this. At the beginning and the end, the data is modified with key material (often with XOR, but simple arithmetic operations like adding and subtracting are also used):[citation needed]

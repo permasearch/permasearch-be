@@ -1,0 +1,1 @@
+Now, consider the potential energy. For definiteness, let us choose     V ( x ) ≥ 0   {\displaystyle V(x)\geq 0}  . Then it is clear that, outside the interval     x ∈ [ − ϵ , ϵ ]   {\displaystyle x\in [-\epsilon ,\epsilon ]}  , the potential energy density is smaller for the ψ' because      |   ψ ′   |  <  |  ψ  |    {\displaystyle |\psi '|<|\psi |}   there.

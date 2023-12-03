@@ -1,0 +1,1 @@
+Laser-based systems do not detect and track vehicles in adverse weather conditions nor do they reliably track dirty (and therefore non-reflective) vehicles. Laser-based sensors must be exposed, the sensor (a fairly large black box) is typically found in the lower grille, offset to one side.

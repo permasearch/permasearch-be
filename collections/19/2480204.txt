@@ -1,0 +1,1 @@
+where Pa is the arterial plasma concentration of the substance, Pv is its venous plasma concentration, Ux is its urine concentration, and V is the urine flow rate. The product of flow and concentration gives mass per unit time.

@@ -1,0 +1,1 @@
+In 4th Edition, death occurs when a character's hit point value is reduced to half their total expressed as a negative number. For example, if a character has hit points of 52, the character is unconscious and dying at 0 hit points and death occurs when the character's hit points reach -26.

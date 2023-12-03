@@ -1,0 +1,1 @@
+Archimedes uses this to successively compute P12, p12, P24, p24, P48, p48, P96 and p96.[44] Using these last values he obtains

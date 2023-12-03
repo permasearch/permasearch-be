@@ -1,0 +1,1 @@
+Rocker-slider function generator of the function Log(u) for 1 < u < 10.

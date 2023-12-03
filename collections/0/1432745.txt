@@ -1,0 +1,1 @@
+DC power distribution is still common when distances are small, and especially when energy storage or conversion uses batteries or fuel cells. These applications include:

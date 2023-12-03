@@ -1,0 +1,1 @@
+In contrast to the intuition stemming from vectors in the plane and higher-dimensional cases, there is, in general vector spaces, no notion of nearness, angles or distances. To deal with such matters, particular types of vector spaces are introduced; see below.

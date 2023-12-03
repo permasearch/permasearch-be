@@ -1,0 +1,1 @@
+The more localized the position-space wavefunction, the more likely the particle is to be found with the position coordinates in that region, and correspondingly the momentum-space wavefunction is less localized so the possible momentum components the particle could have are more widespread.

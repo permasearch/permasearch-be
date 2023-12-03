@@ -1,0 +1,1 @@
+Windows NT 4.0 was the successor of 3.51 (1995) and 3.5 (1994). Microsoft released Windows NT 4.0 to manufacturing in July 1996, one year after the release of Windows 95. Major new features included the new Explorer shell from Windows 95, scalability and feature improvements to the core architecture, kernel, USER32, COM and MSRPC.[18]

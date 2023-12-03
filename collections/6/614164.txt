@@ -1,0 +1,1 @@
+R/S and E/Z descriptors are assigned by using a system for ranking priority of the groups attached to each stereocenter. This procedure, often known as the sequence rules, is the heart of the CIP system.

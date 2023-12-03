@@ -1,0 +1,1 @@
+Stress analysis may be carried out experimentally, by applying loads to the actual artifact or to scale model, and measuring the resulting stresses, by any of several available methods. This approach is often used for safety certification and monitoring. However, most stress analysis is done by mathematical methods, especially during design.

@@ -1,0 +1,1 @@
+For integers s and t such that     0 ⩽ t < s   {\displaystyle 0\leqslant t<s}  , series multisection gives the following identity for the sum of binomial coefficients:

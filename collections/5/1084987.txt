@@ -1,0 +1,1 @@
+The normal distribution with density     f ( x )   {\displaystyle f(x)}   (mean     μ   {\displaystyle \mu }   and standard deviation     σ > 0   {\displaystyle \sigma >0}  ) has the following properties:

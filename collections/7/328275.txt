@@ -1,0 +1,1 @@
+Using Fubini's theorem, the above double integral can be seen as an area integral

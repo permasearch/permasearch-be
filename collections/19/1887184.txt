@@ -1,0 +1,1 @@
+Only the IETF, represented by the Internet Engineering Steering Group (IESG), can approve Standards Track RFCs. The definitive list of Internet Standards is maintained in the Official Internet Protocol Standards. Previously, STD 1 used to maintain a snapshot of the list.[2]

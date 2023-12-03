@@ -1,0 +1,1 @@
+Again, any number multiplied by 0 is 0 and so this time every number solves the equation instead of there being a single number that can be taken as the value of 0/0.

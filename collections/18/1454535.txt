@@ -1,0 +1,1 @@
+Graphic characters are characters defined by Unicode to have a particular semantic, and either have a visible glyph shape or represent a visible space. As of Unicode 10.0 there are 136,537 graphic characters.

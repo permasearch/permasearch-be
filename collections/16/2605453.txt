@@ -1,0 +1,1 @@
+In the distributed model, where each node is considered a computer and no node knows anything except its own connected links, one can consider distributed minimum spanning tree. The mathematical definition of the problem is the same but there are different approaches for a solution.

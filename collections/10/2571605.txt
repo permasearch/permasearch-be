@@ -1,0 +1,1 @@
+only depends on the variables θ and φ. One gets that φ is harmonic if and only if

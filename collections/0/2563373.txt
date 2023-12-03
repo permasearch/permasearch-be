@@ -1,0 +1,1 @@
+where we consider the (unique) saddle point      x  0     {\displaystyle x_{0}}   of the function to be the solution of      ϕ  ′   ( x ) = 0   {\displaystyle \phi ^{\prime }(x)=0}   when     1 ≤ m ≤ n   {\displaystyle 1\leq m\leq n}  . Then for      t  0   = m  /  ( n − m )   {\displaystyle t_{0}=m/(n-m)}   and the constants

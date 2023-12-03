@@ -1,0 +1,1 @@
+For example, in probability theory, the characteristic function ϕ of the probability density function f of a random variable X of continuous type is defined without a negative sign in the exponential, and since the units of x are ignored, there is no 2π either:

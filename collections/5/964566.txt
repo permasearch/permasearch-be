@@ -1,0 +1,1 @@
+Google Dictionary is an online dictionary service of Google that can be accessed by using the "define" operator in Google Search. It originated in its Google Translate service, and was discontinued as a separate service in August 2011.

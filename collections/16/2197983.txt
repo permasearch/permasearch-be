@@ -1,0 +1,1 @@
+Land-based ship simulators may feature a full-scale replica of a steering stand with a ship's wheel. Such simulators incorporate magnetic and gyro compasses (or repeaters) for steering. Moreover, a rudder angle indicator that responds appropriately to the helm is part of the configuration.

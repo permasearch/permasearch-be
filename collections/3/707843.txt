@@ -1,0 +1,1 @@
+Business forecasters and practitioners sometimes use different terminology in the industry. They refer to the PMAD as the MAPE, although they compute this as a volume weighted MAPE.[11] For more information see Calculating demand forecast accuracy.

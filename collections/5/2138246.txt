@@ -1,0 +1,1 @@
+Sometimes a natural pause occurs in the middle of a line rather than at a line-break. This is a caesura (cut). A good example is from The Winter's Tale by William Shakespeare; the caesurae are indicated by '/':

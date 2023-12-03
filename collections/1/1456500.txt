@@ -1,0 +1,1 @@
+monotonically non-decreases, and     S =  ∪  n = 1   ∞    S  n     {\displaystyle S=\cup _{n=1}^{\infty }S_{n}}  . By "continuity from below",      P ⁡ ( S ) =  lim  n   P ⁡ (  S  n   )    {\displaystyle \textstyle \operatorname {P} (S)=\lim _{n}\operatorname {P} (S_{n})}  . Applying this formula, obtain

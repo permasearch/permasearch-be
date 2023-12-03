@@ -1,0 +1,1 @@
+If function     g   {\displaystyle g}   is invertible (i.e.,      g  − 1     {\displaystyle g^{-1}}   exists) and is either increasing or decreasing, then the previous relation can be extended to obtain

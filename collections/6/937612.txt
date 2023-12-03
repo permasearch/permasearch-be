@@ -1,0 +1,1 @@
+Klystrons and magnetrons often operate their anodes (called collectors in klystrons) at ground potential to facilitate cooling, particularly with water, without high-voltage insulation. These tubes instead operate with high negative voltages on the filament and cathode.

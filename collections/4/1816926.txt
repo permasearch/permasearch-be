@@ -1,0 +1,1 @@
+After establishing the operating point, when an input signal is applied, the output signal should not move the transistor either to saturation or to cut-off. However, this unwanted shift still might occur, due to the following reasons:

@@ -1,0 +1,1 @@
+From the circle equation is obtained the transformed equation      x  2   +  y  2   −  r  2   = 0   {\displaystyle x^{2}+y^{2}-r^{2}=0}  , where      r  2     {\displaystyle r^{2}}   is computed only once during initialization.

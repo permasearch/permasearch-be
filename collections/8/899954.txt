@@ -1,0 +1,1 @@
+To satisfy those wishing a more strict interpretation of how the power function should act, the 2008 standard defines two additional power functions: pown(x,n), where the exponent must be an integer, and powr(x,y), which returns a NaN whenever a parameter is a NaN or the exponentiation would give an indeterminate form.

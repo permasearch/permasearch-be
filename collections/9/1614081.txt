@@ -1,0 +1,1 @@
+S/PDIF is based on the AES3 interconnect standard.[3] S/PDIF can carry two channels of uncompressed PCM audio or compressed 5.1/7.1 surround sound (such as DTS audio codec); it cannot support lossless surround formats that require greater bandwidth.[4]

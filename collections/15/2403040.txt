@@ -1,0 +1,1 @@
+In March 2012, Scott Guthrie announced on his blog that Microsoft had released part of its web stack (including ASP.NET MVC, Razor and Web API) under an open source license (Apache License 2.0).[9]

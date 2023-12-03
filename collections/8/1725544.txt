@@ -1,0 +1,1 @@
+A second letter is added to represent the larger disk. Clearly it cannot initially be moved.

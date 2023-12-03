@@ -1,0 +1,1 @@
+K = 0.87 for conventional airfoils (6 series)[4] K = 0.95 for supercritical airfoils

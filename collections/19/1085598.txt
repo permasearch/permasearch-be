@@ -1,0 +1,1 @@
+List of international near-real-time collaborative/private measurement sites, employing primarily Geiger-Muller detectors:

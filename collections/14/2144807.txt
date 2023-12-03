@@ -1,0 +1,1 @@
+Furthermore, F : L2(ℝn) → L2(ℝn) is a unitary operator.[39] For an operator to be unitary it is sufficient to show that it is bijective and preserves the inner product, so in this case these follow from the Fourier inversion theorem combined with the fact that for any f, g ∈ L2(ℝn) we have

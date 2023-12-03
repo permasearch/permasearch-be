@@ -1,0 +1,1 @@
+Note: Exceptions exist in which T-, N-, or M-specific category elements may represent unique characteristics of the cancer but not necessarily worse prognosis. For example, N1c in colon cancer does not represent greater nodal disease burden than N1a or N1b, but rather a unique situation.

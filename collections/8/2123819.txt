@@ -1,0 +1,1 @@
+Since an ideal gas obey's Boyle's Law, this can be rewritten, if desired, as

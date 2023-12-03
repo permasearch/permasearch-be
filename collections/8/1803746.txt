@@ -1,0 +1,1 @@
+More generally, a function f : X → X is equal to its own inverse if and only if the composition f ∘ f is equal to idX. Such a function is called an involution.

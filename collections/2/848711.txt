@@ -1,0 +1,1 @@
+Each Gregorian year has either 365 or 366 days (the leap day being inserted as 29 February), amounting to an average Gregorian year of 365.2425 days (compared to a solar year of 365.2422 days). It was introduced in 1582 as a refinement to the Julian calendar which had been in use throughout the European Middle Ages, amounting to a 0.002% correction in the length of the year.

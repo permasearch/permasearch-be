@@ -1,0 +1,1 @@
+A definite meaning is given to these sums based on Cauchy sequences, using the absolute value as metric. Thus, for example, 1/3 can be expressed in base 5 as the limit of the sequence 0.1313131313...5. In this formulation, the integers are precisely those numbers for which ai = 0 for all i < 0.

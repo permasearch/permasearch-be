@@ -1,0 +1,1 @@
+All Chromebooks, except the first three, boot with the help of Coreboot, a fast-booting BIOS.[38][39]

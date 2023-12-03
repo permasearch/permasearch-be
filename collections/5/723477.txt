@@ -1,0 +1,1 @@
+At any point during this rotation, two of the corners of the Reuleaux triangle touch two adjacent sides of the square, while the third corner of the triangle traces out a curve near the opposite vertex of the square. The shape traced out by the rotating Reuleaux triangle covers approximately 98.77% of the area of the square.[29]

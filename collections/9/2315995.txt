@@ -1,0 +1,1 @@
+The IANA time zone database contains one zone for the Philippines in the file zone.tab, named Asia/Manila.

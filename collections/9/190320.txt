@@ -1,0 +1,1 @@
+It is possible to have a deductive argument that is logically valid but is not sound. Fallacious arguments often take that form.

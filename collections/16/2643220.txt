@@ -1,0 +1,1 @@
+The engine represents negative numbers as ten's complements. Subtraction amounts to addition of a negative number. This works in the same manner that modern computers perform subtraction, known as two's complement.

@@ -1,0 +1,1 @@
+The temperature coefficient     α   {\displaystyle \alpha }   is typically +3×10−3 K−1 to +6×10−3 K−1 for metals near room temperature. It is usually negative for semiconductors and insulators, with highly variable magnitude.[10]

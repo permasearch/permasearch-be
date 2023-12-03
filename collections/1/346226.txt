@@ -1,0 +1,1 @@
+Finally we define what a query expression looks like given a schema S = (D, R, h):

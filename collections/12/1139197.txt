@@ -1,0 +1,1 @@
+C and C++, as well as any C-like language that conforms to its standard library, provide these functions in the file ctype.h:

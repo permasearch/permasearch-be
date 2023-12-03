@@ -1,0 +1,1 @@
+Each planet is projected by a sharply focused spotlight that makes a spot of light on the dome. Planet projectors must have gearing to move their positioning and thereby simulate the planets' movements. These can be of these types:-

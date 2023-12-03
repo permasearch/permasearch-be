@@ -1,0 +1,1 @@
+In statistics, the maximal information coefficient (MIC) is a measure of the strength of the linear or non-linear association between two variables X andÂ Y.

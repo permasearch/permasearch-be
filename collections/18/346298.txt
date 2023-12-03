@@ -1,0 +1,1 @@
+Similarly, the third-order Padé approximant gives a more accurate answer over an even larger range of r, but it has a slightly more complicated formula:

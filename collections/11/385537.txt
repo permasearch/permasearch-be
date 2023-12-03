@@ -1,0 +1,1 @@
+Delegation is another language feature that can be used as an alternative to inheritance.

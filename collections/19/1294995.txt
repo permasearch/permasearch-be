@@ -1,0 +1,1 @@
+These mechanical rectifiers were noisy and had high maintenance requirements. The moving parts had friction, which required lubrication and replacement due to wear. Opening mechanical contacts under load resulted in electrical arcs and sparks that heated and eroded the contacts. They also were not able to handle AC frequencies above several thousand cycles per second.

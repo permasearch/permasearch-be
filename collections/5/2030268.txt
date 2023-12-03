@@ -1,0 +1,1 @@
+15 U — a machine equipped with a “universal” table of instructions. If U is “supplied with a tape on the beginning of which is written the S.D of some computing machine M, U will compute the same sequence as M.”

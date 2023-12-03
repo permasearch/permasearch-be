@@ -1,0 +1,1 @@
+For unicast addresses, two scopes are defined: link-local and global.

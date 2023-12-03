@@ -1,0 +1,1 @@
+In an acute triangle, the sum of the circumradius R and the inradius r is less than half the sum of the shortest sides a and b:[4]:p.105,#2690

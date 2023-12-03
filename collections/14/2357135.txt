@@ -1,0 +1,1 @@
+SSB, or SSB-AM single-sideband full carrier modulation, is very similar to single-sideband suppressed carrier modulation (SSB-SC). It is used where it is necessary to receive the audio on an AM receiver, while using less bandwidth than with double sideband AM. Due to high distortion, it is seldom used. Either SSB-AM or SSB-SC are produced by the following methods.

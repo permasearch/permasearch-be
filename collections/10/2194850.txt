@@ -1,0 +1,1 @@
+In a block-based storage environment, a single block of information is addressed using a LUN identifier and an offset within that LUN –  known as a logical block addressing (LBA).

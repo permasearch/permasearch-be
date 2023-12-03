@@ -1,0 +1,1 @@
+An inner tangent is a tangent that intersects the segment joining two circles' centers. Note that the inner tangent will not be defined for cases when the two circles overlap.

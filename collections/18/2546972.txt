@@ -1,0 +1,1 @@
+Ferrimagnetism: The magnetic moments in a ferrimagnetic material. The moments are aligned oppositely and have different magnitudes due to being made up of two different ions. This is in the absence of an applied magnetic field.

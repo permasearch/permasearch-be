@@ -1,0 +1,1 @@
+In common RS-232 there are pairs of control lines which are usually referred to as hardware flow control:

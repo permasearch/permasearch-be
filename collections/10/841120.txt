@@ -1,0 +1,1 @@
+The multicast addresses ff0x:: where x is any hexadecimal value are reserved[1] and should not be assigned to any multicast group. The Internet Assigned Numbers Authority (IANA) manages address reservations.[35]

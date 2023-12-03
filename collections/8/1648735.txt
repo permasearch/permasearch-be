@@ -1,0 +1,1 @@
+The length of a C string is found by searching for the (first) NUL byte. This can be slow as it takes O(n) (linear time) with respect to the string length. It also means that a NUL cannot be inside the string, as the only NUL is the one marking the end.

@@ -1,0 +1,1 @@
+Cases of non-uniform attenuation occur in atmospheric science applications and radiation shielding theory for instance.

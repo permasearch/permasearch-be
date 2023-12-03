@@ -1,0 +1,1 @@
+Airline systems pass record locators between themselves as part of the confirmation process.   Should a record locator fail to be passed between two systems the PNR can still be retrieved using flight number/date and name, or the ticket number.

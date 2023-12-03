@@ -1,0 +1,1 @@
+where C is a constant and m is the strain rate sensitivity. The latter generally increases with temperature, and materials where m reaches a value greater than ~0.5 tend to exhibit super plastic behavior. m can be found from a log-log plot of yield strength at a fixed plastic strain versus the strain rate.[13]

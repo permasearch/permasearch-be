@@ -1,0 +1,1 @@
+Currently there are several competing standards for business process modeling languages used by modeling tools and processes. Widespread adoption of a single standard would help unify the expression of basic business process concepts (e.g., public and private processes, choreographies), as well as advanced process concepts (e.g., exception handling, transaction compensation).

@@ -1,0 +1,1 @@
+The bits representing the bitmap pixels may be packed or unpacked (spaced out to byte or word boundaries), depending on the format or device requirements. Depending on the color depth, a pixel in the picture will occupy at least n/8 bytes, where n is the bit depth.

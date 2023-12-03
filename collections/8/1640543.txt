@@ -1,0 +1,1 @@
+A macro definition can be removed with #undef:

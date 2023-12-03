@@ -1,0 +1,1 @@
+Viruses can encode proteins with sequence homology to cyclins. One much-studied example is K-cyclin (or v-cyclin) from Kaposi sarcoma herpes virus (see Kaposi’s sarcoma), which activates CDK6. Viral cyclin-CDK complexes have different substrate specificities and regulation sensitivities.[6]

@@ -1,0 +1,1 @@
+Calculation of the steam turbine shaft radius for a turboset:

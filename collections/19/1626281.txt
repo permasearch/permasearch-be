@@ -1,0 +1,1 @@
+Notice that, in particular, the value     α = 1   {\displaystyle \alpha =1}   gives the arc of parabola of the example 1, and the value     α = 2   {\displaystyle \alpha =2}   (meaning that all hypotenuses are unit length segments) gives the astroid.

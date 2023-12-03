@@ -1,0 +1,1 @@
+A directory is a logical section of a file system used to hold files. Directories may also contain other directories. The cd command can be used to change into a subdirectory, move back into the parent directory, move all the way back to the root directory or move to any given directory.

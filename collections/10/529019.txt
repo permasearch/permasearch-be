@@ -1,0 +1,1 @@
+Many VAF sensors have an air-fuel adjustment screw, which opens or closes a small air passage on the side of the VAF sensor. This screw controls the air-fuel mixture by letting a metered amount of air flow past the air flap, thereby leaning or richening the mixture. By turning the screw clockwise the mixture is enriched and counterclockwise the mixture is leaned.

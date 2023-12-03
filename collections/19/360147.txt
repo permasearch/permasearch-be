@@ -1,0 +1,1 @@
+A Uniform Type Identifier (UTI) is a method used in Mac OS X for uniquely identifying "typed" classes of entity, such as file formats. It was developed by Apple as a replacement for OSType (type & creator codes).

@@ -1,0 +1,1 @@
+It is obvious that if the means of the two normal distributions are equal then the combined distribution is unimodal. Conditions for unimodality of the combined distribution were derived by Eisenberger.[18] Necessary and sufficient conditions for a mixture of normal distributions to be bimodal have been identified by Ray and Lindsay.[19]

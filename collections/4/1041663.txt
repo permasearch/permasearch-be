@@ -1,0 +1,1 @@
+Channels are either in open state or closed state. When a channel is opened with a slight conformational switch, it is open to both environment simultaneously (extracellular and intracellular)

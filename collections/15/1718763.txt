@@ -1,0 +1,1 @@
+The implementation of the phase-shift oscillator shown in the diagram uses an operational amplifier (op-amp), three capacitors and four resistors.

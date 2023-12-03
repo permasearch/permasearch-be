@@ -1,0 +1,1 @@
+EXAMPLE: Multiply 288 by 5.

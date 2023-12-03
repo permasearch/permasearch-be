@@ -1,0 +1,1 @@
+Line numbers are an alternative to a named label (and used in some languages such as BASIC), that are whole numbers placed at the start of each line of text in the source code.  Languages which use these often impose the constraint that the line numbers must increase in value in each following line, but may not require that they be consecutive.  For example, in BASIC:

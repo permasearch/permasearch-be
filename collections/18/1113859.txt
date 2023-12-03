@@ -1,0 +1,1 @@
+As per Gauss Law, field in a symmetric body can be found by the mathematical equation:

@@ -1,0 +1,1 @@
+Hosts on the Internet are usually known by names, e.g., www.example.com, not primarily by their IP address, which is used for routing and network interface identification. The use of domain names requires translating, called resolving, them to addresses and vice versa. This is analogous to looking up a phone number in a phone book using the recipient's name.

@@ -1,0 +1,1 @@
+In the statistics and computer science literature, naive Bayes models are known under a variety of names, including simple Bayes and independence Bayes.[4] All these names reference the use of Bayes' theorem in the classifier's decision rule, but naive Bayes is not (necessarily) a Bayesian method.[1][4]

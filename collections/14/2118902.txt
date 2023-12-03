@@ -1,0 +1,1 @@
+Patternable organic light-emitting devices use a light or heat activated electroactive layer. A latent material (PEDOT-TMA) is included in this layer that, upon activation, becomes highly efficient as a hole injection layer. Using this process, light-emitting devices with arbitrary patterns can be prepared.[61]

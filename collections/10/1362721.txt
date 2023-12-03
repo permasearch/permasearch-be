@@ -1,0 +1,1 @@
+By September 1991, version 0.01 of the Linux kernel was released on the FTP server (ftp.funet.fi) of the Finnish University and Research Network (FUNET). It had 10,239 lines of code. In October 1991, version 0.02 of the Linux kernel was released.[19]

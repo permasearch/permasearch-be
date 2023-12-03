@@ -1,0 +1,1 @@
+To give an example, if you file individually and your earned income is $50,000 your tax will be calculated the following way: ($20,000 (first bracket) x 1.4%) + ($15,000 (second bracket) x 1.75%) + ($5,000 (third bracket) x 3.5%) + ($10,000 (fourth bracket) x 5.525%) = $280 + $262.50 + $175 + $552.50 = $1,270, for an overall rate of 2.54%.

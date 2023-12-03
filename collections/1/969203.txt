@@ -1,0 +1,1 @@
+A separate service "Secure Stream 300" (previously Circuit Switched Data Network) was a variant of Telex running at 300 baud, used for telemetry and monitoring purposes by utility companies and banks, among others. This was a high security virtual private wire system with a high degree of resilience through diversely routed dual-path network configurations.

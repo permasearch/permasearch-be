@@ -1,0 +1,1 @@
+ABA RTNs are only for use in payment transactions within the United States. They are used on paper check, wire transfers, and ACH transactions. On a paper check, the ABA RTN is usually the middle set of nine numbers printed at the bottom of the check. Domestic transfers that use the ABA RTN will usually be returned to the paying bank.

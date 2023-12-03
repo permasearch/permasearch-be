@@ -1,0 +1,1 @@
+Since the RAM and the hard drive on some generations of MacBook Pro are user serviceable parts, there are aftermarket modifications to enhance the system with up to 16GB of DDR3-1600 RAM (maximum capacity and frequency depend on the hardware in question), 7200-rpm hard drives or third party SSDs.

@@ -1,0 +1,1 @@
+On web pages, organizations often obscure email addresses of their members or employees by omitting the @. This practice, known as address munging, makes the email addresses less vulnerable to spam programs that scan the internet for them.

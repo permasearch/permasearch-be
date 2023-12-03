@@ -1,0 +1,1 @@
+To derive the Stefan–Boltzmann law, we must integrate Ω over the half-sphere and integrate ν from 0 to ∞. Furthermore, because black bodies are Lambertian (i.e. they obey Lambert's cosine law), the intensity observed along the sphere will be the actual intensity times the cosine of the zenith angle φ, and in spherical coordinates, dΩ = sin(φ) dφ dθ.

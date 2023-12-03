@@ -1,0 +1,1 @@
+In digital circuits, decoupling capacitors also help prevent radiation of electromagnetic interference due to rapidly changing power supply currents.

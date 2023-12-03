@@ -1,0 +1,1 @@
+In contrast to viscosity, the thermal expansion, heat capacity, shear modulus, and many other properties of inorganic glasses show a relatively sudden change at the glass transition temperature. Any such step or kink can be used to define Tg. To make this definition reproducible, the cooling or heating rate must be specified.

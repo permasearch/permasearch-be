@@ -1,0 +1,1 @@
+In applied game theory, the definition of the strategy sets is an important part of the art of making a game simultaneously solvable and meaningful. The game theorist can use knowledge of the overall problem to limit the strategy spaces, and ease the solution.

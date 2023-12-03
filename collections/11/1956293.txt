@@ -1,0 +1,1 @@
+Magnetic circuits obey other laws that are similar to electrical circuit laws. For example, the total reluctance         R    T      {\displaystyle \scriptstyle {\mathcal {R}}_{T}}   of reluctances         R    1   ,      R    2   ,   …    {\displaystyle \scriptstyle {\mathcal {R}}_{1},\ {\mathcal {R}}_{2},\ \dots }   in series is:

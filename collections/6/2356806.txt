@@ -1,0 +1,1 @@
+This is a flowchart of a data processing system combining manual and computerized processing to handle accounts receivable, billing, and general ledger

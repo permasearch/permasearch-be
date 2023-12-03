@@ -1,0 +1,1 @@
+Given any partial orders ≤ and ≤* on a set X, ≤* is a linear extension of ≤ exactly when (1) ≤* is a total order and (2) for every x and y in X, if x ≤ y, then x ≤* y. It is that second property that leads mathematicians to describe ≤* as extending ≤.

@@ -1,0 +1,1 @@
+It lists results that have been decided by a margin of less than 1 vote in 1000 (a margin of victory of less than 0.1%).

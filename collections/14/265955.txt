@@ -1,0 +1,1 @@
+E  ⊖    (   H    +    )  =  E  ⊖    (   H    +    |  H  )  = 0   {\displaystyle E^{\ominus }\left({\ce {H+}}\right)=E^{\ominus }\left({\ce {H+}}\vert {\ce {H}}\right)=0}

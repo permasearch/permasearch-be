@@ -1,0 +1,1 @@
+Import-on-demand declarations are mentioned in the code. A "type import" imports all the types of the package. A "static import" imports members of the package.

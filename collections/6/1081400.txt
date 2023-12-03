@@ -1,0 +1,1 @@
+All iOS App Store applications must support sandboxing and list all permissions required for the correct functionality.[40] During the review process, each application is manually tested, and static analysis is run on its binary code.[41][42]

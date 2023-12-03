@@ -1,0 +1,1 @@
+Mammalian cell lines such as Chinese hamster V79 cells, Chinese hamster ovary (CHO) cells or mouse lymphoma cells may be used to test for mutagenesis.  Such systems include the HPRT assay for resistance to 8-azaguanine or 6-thioguanine, and ouabain-resistance (OUA) assay.

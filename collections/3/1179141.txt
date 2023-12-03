@@ -1,0 +1,1 @@
+Online mode consists of public and private rooms. These rooms are dedicated to specific event types (i.e. supercross) and host up to twelve players at a single time. A player's "motocard" keeps record of the player's progress through online events which earns them experience points that go towards the player's level. Mini games such as snake and tag are played online as well.

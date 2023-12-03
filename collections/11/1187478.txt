@@ -1,0 +1,1 @@
+Compared to wired systems, wireless networks are frequently subject to electromagnetic interference. This can be caused by other networks or other types of equipment that generate radio waves that are within, or close, to the radio bands used for communication. Interference can degrade the signal or cause the system to fail.[4]

@@ -1,0 +1,1 @@
+Technically, general relativity is a theory of gravitation whose defining feature is its use of the Einstein field equations. The solutions of the field equations are metric tensors which define the topology of the spacetime and how objects move inertially.

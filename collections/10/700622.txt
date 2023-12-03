@@ -1,0 +1,1 @@
+Essentially, the MHC-peptide complex is a complex of autoantigen/alloantigen. Upon binding, T cells should in principle tolerate the auto-antigen, but activate when exposed to the allo-antigen. Disease states occur when this principle is disrupted.

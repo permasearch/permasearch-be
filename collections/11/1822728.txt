@@ -1,0 +1,1 @@
+The inductive dimension of a topological space may refer to the small inductive dimension or the large inductive dimension, and is based on the analogy that (n + 1)-dimensional balls have n-dimensional boundaries, permitting an inductive definition based on the dimension of the boundaries of open sets.

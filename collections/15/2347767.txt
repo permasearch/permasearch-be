@@ -1,0 +1,1 @@
+The effect is interesting because each part of the picture is ambiguous by itself, yet the human visual system picks an interpretation of each part that makes the whole consistent. The Necker cube is sometimes used to test computer models of the human visual system to see whether they can arrive at consistent interpretations of the image the same way humans do.

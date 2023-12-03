@@ -1,0 +1,1 @@
+A different view of exceptions is based on the principles of design by contract and is supported in particular by the Eiffel language. The idea is to provide a more rigorous basis for exception handling by defining precisely what is "normal" and "abnormal" behavior. Specifically, the approach is based on two concepts:

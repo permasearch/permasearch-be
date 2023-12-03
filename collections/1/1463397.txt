@@ -1,0 +1,1 @@
+Non-volatile data storage can be categorized into electrically addressed systems (read-only memory) and mechanically addressed systems (hard disks, optical disc, magnetic tape, holographic memory, and such).[3][4] Electrically addressed systems are expensive, but fast, whereas mechanically addressed systems have a low price per bit, but are slow.

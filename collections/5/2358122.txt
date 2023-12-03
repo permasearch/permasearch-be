@@ -1,0 +1,1 @@
+If you want to present multiple statistics, you can stack multiple copies of the template inside the first cell of the table.

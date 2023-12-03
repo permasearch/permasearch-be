@@ -1,0 +1,1 @@
+where [d] is the matrix for the direct piezoelectric effect and [dt] is the matrix for the converse piezoelectric effect. The superscript E indicates a zero, or constant, electric field; the superscript T indicates a zero, or constant, stress field; and the superscript t stands for transposition of a matrix.

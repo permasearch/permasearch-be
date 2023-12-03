@@ -1,0 +1,1 @@
+The WCAG 1.0 was published and became a W3C recommendation on 5 May 1999. They have since been superseded by WCAG 2.0.

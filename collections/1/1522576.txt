@@ -1,0 +1,1 @@
+where p1 and p2 are the proportions of the two samples being compared and arcsin is the arcsine transformation.

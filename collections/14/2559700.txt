@@ -1,0 +1,1 @@
+Bonding and earthing are the usual ways by which charge buildup can be prevented. For fluids with electrical conductivity below 10 pS/m, bonding and earthing are not adequate for charge dissipation, and anti-static additives may be required.

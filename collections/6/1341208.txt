@@ -1,0 +1,1 @@
+For investment assets which are commodities, such as gold and silver, storage costs must also be considered. Storage costs can be treated as 'negative income', and like income can be discrete or continuous. Hence with storage costs, the relationship becomes:

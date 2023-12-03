@@ -1,0 +1,1 @@
+Examples of in-kernel APIs include software frameworks/APIs for the following classes of device drivers:

@@ -1,0 +1,1 @@
+Some common ADTs, which have proved useful in a great variety of applications, are

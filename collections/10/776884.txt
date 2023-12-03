@@ -1,0 +1,1 @@
+Now count the number of ways to form the named diagram. Each permutation of the Xs gives a different pattern of linking names to half-lines, and this is a factor of n!. Each permutation of the half-lines in a single X gives a factor of 4!. So a named diagram can be formed in exactly as many ways as the denominator of the Feynman expansion.

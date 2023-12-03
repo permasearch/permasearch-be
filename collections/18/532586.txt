@@ -1,0 +1,1 @@
+c o n f  ( X ⇒ Y ) =  s u p p  ( X ∪ Y )  /   s u p p  ( X )   {\displaystyle \mathrm {conf} (X\Rightarrow Y)=\mathrm {supp} (X\cup Y)/\mathrm {supp} (X)}

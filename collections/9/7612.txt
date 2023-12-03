@@ -1,0 +1,1 @@
+Q  0  ′  =  A  i n    ϵ  s . s .   σ  [   (  T  c   +     T  s u r r   Δ S   c  p     )   4   −  T  s u r r   4   ]    {\displaystyle Q'_{0}=A_{in}\epsilon _{s.s.}\sigma \left[\left(T_{c}+{\frac {T_{surr}\Delta S}{c_{p}}}\right)^{4}-T_{surr}^{4}\right]}

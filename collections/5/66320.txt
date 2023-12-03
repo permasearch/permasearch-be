@@ -1,0 +1,1 @@
+Lakatos proposed an account of mathematical knowledge based on Polya's idea of heuristics. In Proofs and Refutations, Lakatos gave several basic rules for finding proofs and counterexamples to conjectures. He thought that mathematical 'thought experiments' are a valid way to discover mathematical conjectures and proofs.[120]

@@ -1,0 +1,1 @@
+For instance, if the Schmitt trigger is currently in the high state, the output will be at the positive power supply rail (+VS). The output voltage V+ of the resistive summer can be found by applying the superposition theorem:

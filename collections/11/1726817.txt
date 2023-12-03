@@ -1,0 +1,1 @@
+Any positive divisor of     n   {\displaystyle n}   is a product of prime divisors of     n   {\displaystyle n}   raised to some power. This is a consequence of the fundamental theorem of arithmetic.

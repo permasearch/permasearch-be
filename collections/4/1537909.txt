@@ -1,0 +1,1 @@
+The CableCard standard is used by cable television providers in the United States to restrict content to services to which the customer has subscribed.

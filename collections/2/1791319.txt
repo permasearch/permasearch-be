@@ -1,0 +1,1 @@
+Together these two assumptions imply that given a set of exhaustive and exclusive actions to choose from, an individual can rank the elements of this set in terms of his preferences in an internally consistent way (the ranking constitutes a partial ordering), and the set has at least one maximal element.

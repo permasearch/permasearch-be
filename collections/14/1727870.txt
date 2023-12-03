@@ -1,0 +1,1 @@
+The security deficiencies of all SNMP versions can be mitigated by IPsec authentication and confidentiality mechanisms. The implementation of SNMP over Datagram Transport Layer Security (DTLS) is also available.[10]

@@ -1,0 +1,1 @@
+Suppose the data consists of n observations { y i, x i }n i=1. Each observation i includes a scalar response yi and a vector of values of p predictors (regressors) xij for j = 1, ..., p. In a linear regression model the response variable is a linear function of the regressors:

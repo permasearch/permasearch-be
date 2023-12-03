@@ -1,0 +1,1 @@
+where Δ (uppercase delta) indicates a difference of quantities; e.g., Δx = x2 − x1 for two values of x coordinates, and so on.

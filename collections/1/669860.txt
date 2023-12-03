@@ -1,0 +1,1 @@
+The general formula for the surface area of the graph of a continuously differentiable function     z = f ( x , y ) ,   {\displaystyle z=f(x,y),}   where     ( x , y ) ∈ D ⊂   R   2     {\displaystyle (x,y)\in D\subset \mathbb {R} ^{2}}   and     D   {\displaystyle D}   is a region in the xy-plane with the smooth boundary:

@@ -1,0 +1,1 @@
+Most systems use server side caching to improve performance.  This works best when the WCMS is not changed often but visits happen regularly.  Administration is also typically done through browser-based interfaces, but some systems require the use of a fat client.

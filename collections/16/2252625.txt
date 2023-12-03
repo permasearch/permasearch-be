@@ -1,0 +1,1 @@
+Likewise, a color structure could be created using:

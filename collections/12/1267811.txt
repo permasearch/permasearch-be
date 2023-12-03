@@ -1,0 +1,1 @@
+In topology and related areas of mathematics, a metrizable space is a topological space that is homeomorphic to a metric space. That is, a topological space     ( X ,   T   )   {\displaystyle (X,{\mathcal {T}})}   is said to be metrizable if there is a metric

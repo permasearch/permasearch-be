@@ -1,0 +1,1 @@
+where angle is in degrees and the trigonometric functions operate in degrees. For example, a slope of 100% or 1000‰ is an angle of 45°.

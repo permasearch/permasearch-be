@@ -1,0 +1,1 @@
+While the binomial coefficients represent the coefficients of (x+y)n, the multinomial coefficients represent the coefficients of the polynomial

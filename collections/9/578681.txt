@@ -1,0 +1,1 @@
+Contraposition represents an instance of Bayes' theorem which in a specific form can be expressed as:

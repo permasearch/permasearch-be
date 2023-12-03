@@ -1,0 +1,1 @@
+The diversity of Linux distributions means that not all software runs on all distributions, depending on what libraries and other system attributes are required. Packaged software and software repositories are usually specific to a particular distribution, though cross-installation is sometimes possible on closely related distributions.[citation needed]

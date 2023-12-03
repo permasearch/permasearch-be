@@ -1,0 +1,1 @@
+The distance from vertex A to the incenter I is:

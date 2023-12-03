@@ -1,0 +1,1 @@
+If two binomially distributed random variables X and Y are observed together, estimating their covariance can be useful. The covariance is

@@ -1,0 +1,1 @@
+A declaration may be marked with the additional declarator own. This has the following effect: upon a re-entry into the block, the values of own quantities will be unchanged from their values at the last exit, while the values of declared variables that are not marked with own is undefined.

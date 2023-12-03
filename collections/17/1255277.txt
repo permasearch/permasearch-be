@@ -1,0 +1,1 @@
+with a convergence such that each additional 10 terms yields at least three more digits.

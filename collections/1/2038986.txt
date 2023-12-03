@@ -1,0 +1,1 @@
+In some important semiconductors (notably, silicon) the lowest energies of the conduction band are not symmetrical, as the constant-energy surfaces are now ellipsoids, rather than the spheres in the isotropic case. Each conduction band minimum can be approximated only by

@@ -1,0 +1,1 @@
+One example of an application that allows either TDI or MDI browsing is Opera. Using TDI by default, this application also supports full MDI and can also run as an SDI application.[17]

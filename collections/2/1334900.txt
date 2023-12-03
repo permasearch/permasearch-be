@@ -1,0 +1,1 @@
+By default, 1/3 rounds up, instead of down like double precision, because of the even number of bits in the significand. The bits of 1/3 beyond the rounding point are 1010... which is more than 1/2 of a unit in the last place.

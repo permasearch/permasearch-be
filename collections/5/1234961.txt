@@ -1,0 +1,1 @@
+To calculate a motor's efficiency, the mechanical output power is divided by the electrical input power:

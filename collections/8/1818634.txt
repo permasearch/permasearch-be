@@ -1,0 +1,1 @@
+A day, symbol d, is defined as 86 400 seconds. The Second is the base unit of time in SI units.

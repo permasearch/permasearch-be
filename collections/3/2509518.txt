@@ -1,0 +1,1 @@
+According to the theorem, it is possible to expand any power of x + y into a sum of the form

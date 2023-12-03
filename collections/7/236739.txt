@@ -1,0 +1,1 @@
+This is equivalent to the condition that the preimages of the closed sets (which are the complements of the open subsets) in Y are closed in X.

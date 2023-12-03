@@ -1,0 +1,1 @@
+Supplying the CSC code in a transaction is intended to verify that the customer has the card in their possession. Knowledge of the code proves that the customer has seen the card, or has seen a record made by somebody who saw the card.

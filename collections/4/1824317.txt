@@ -1,0 +1,1 @@
+The first protection of floppy disks consisted of changing the address marks, bit slip marks, data marks, or end of data marks for each sector. For example, Appleâ€™s standard sector markings were:

@@ -1,0 +1,1 @@
+Should a user have only a very old tar available, which does not feature those security measures, these problems can be mitigated by first examining a tar file using the command tar tf archive.tar, which lists the contents and allows to exclude problematic files afterwards.

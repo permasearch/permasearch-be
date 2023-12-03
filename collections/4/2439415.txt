@@ -1,0 +1,1 @@
+VirtualBox has supported Open Virtualization Format (OVF) since version 2.2.0 (April 2009).[34]

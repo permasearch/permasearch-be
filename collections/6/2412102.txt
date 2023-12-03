@@ -1,0 +1,1 @@
+The FTA rules are commonly called "origin protocols". The origin protocols of any given FTA will determine a rule for each manufactured product, based on its nomenclature code (Harmonized Tariff Schedule for example, or HTS). Each and every rule will provide several options to calculate whether the product has preferential origin or not.

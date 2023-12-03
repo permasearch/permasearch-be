@@ -1,0 +1,1 @@
+The National Geospatial-Intelligence Agency (NGA) provides source code written in C that is based on the World Magnetic Model (WMM). The source code is free to download and includes a data file updated every five years to account for movement of the magnetic north pole.

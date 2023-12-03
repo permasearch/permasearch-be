@@ -1,0 +1,1 @@
+In number theory, friendly numbers are two or more natural numbers with a common abundancy index, the ratio between the sum of divisors of a number and the number itself. Two numbers with the same abundancy form a friendly pair; n numbers with the same abundancy form a friendly n-tuple.

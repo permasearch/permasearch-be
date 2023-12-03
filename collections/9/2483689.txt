@@ -1,0 +1,1 @@
+We know the initial starting state of the truck with perfect precision, so we initialize

@@ -1,0 +1,1 @@
+The X.Org implementation is the canonical implementation of X. Owing to liberal licensing, a number of variations, both free and open source and proprietary, have appeared. Commercial Unix vendors have tended to take the reference implementation and adapt it for their hardware, usually customizing it and adding proprietary extensions.

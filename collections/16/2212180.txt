@@ -1,0 +1,1 @@
+ICAO defines an International Standard Atmosphere (also known as ICAO Standard Atmosphere), a model of the standard variation of pressure, temperature, density, and viscosity with altitude in the Earth's atmosphere. This is useful in calibrating instruments and designing aircraft.[17]

@@ -1,0 +1,1 @@
+On optical fiber, the 4B5B output is NRZI-encoded.  FDDI over copper (CDDI) uses MLT-3 encoding instead, as does 100BASE-TX.

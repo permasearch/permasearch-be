@@ -1,0 +1,1 @@
+The simple ‘1-down-1-up’ method consists of series of descending and ascending trials runs and turning points (reversals). The stimulus level is increased if the subject does not respond and decreased when a response occurs.

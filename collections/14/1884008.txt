@@ -1,0 +1,1 @@
+More complex vector formats may allow transparency combinations between the elements within the graphic, as well as that above. This includes SVG and PDF.

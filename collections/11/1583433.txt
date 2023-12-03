@@ -1,0 +1,1 @@
+RFCÂ 4180 proposes a specification for the CSV format, and this is the definition commonly used. However, in popular usage "CSV" is not a single, well-defined format. As a result, in practice the term "CSV" might refer to any file that:[2][5]

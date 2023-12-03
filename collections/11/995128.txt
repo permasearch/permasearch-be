@@ -1,0 +1,1 @@
+Systems based on relays with low-voltage control circuits permit switching the power to lighting loads from an arbitrary number of locations. For each load, a latching relay is used that mechanically maintains its on- or off-state, even if power to the building is interrupted. Mains power is wired through the relay to the load.

@@ -1,0 +1,1 @@
+Tuxera SMB is a proprietary SMB server implementation developed by Tuxera that can be run either in kernel or user space.[44] It supports SMB 3.0 and previous versions.

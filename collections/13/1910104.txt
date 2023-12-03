@@ -1,0 +1,1 @@
+All frequencies in the HF spectrum (3–30 MHz) can be refracted by charged ions in the ionosphere. Refracting signals off the ionosphere is called skywave propagation, and the operator is said to be "shooting skip". CB operators have communicated across thousands of miles and sometimes around the world. Even low-power 27 MHz signals can sometimes propagate over long distances.

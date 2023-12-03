@@ -1,0 +1,1 @@
+E. coli is one of the most widely used expression hosts, and DNA is normally introduced in a plasmid expression vector. The techniques for overexpression in E. coli are well developed and work by increasing the number of copies of the gene or increasing the binding strength of the promoter region so assisting transcription.

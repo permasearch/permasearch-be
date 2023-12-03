@@ -1,0 +1,1 @@
+The AL value of a core configuration is frequently specified by manufacturers. The relationship between inductance and AL number in the linear portion of the magnetisation curve is defined to be:

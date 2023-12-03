@@ -1,0 +1,1 @@
+Here function g can be either parametric or non-parametric. When function g is parametric it will be written as g(x*, Î²).

@@ -1,0 +1,1 @@
+The TCP/IP model's link layer corresponds to the Open Systems Interconnection (OSI) model physical and data link layers, layers one and two of the OSI model.

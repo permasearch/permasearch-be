@@ -1,0 +1,1 @@
+If one reflects a median in the angle bisector that passes through the same vertex, one obtains a symmedian. The three symmedians intersect in a single point, the symmedian point of the triangle.

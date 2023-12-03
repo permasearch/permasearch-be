@@ -1,0 +1,1 @@
+The only observable way to decrease hindsight bias in testing is to have the participant think about how alternative hypotheses could be correct. As a result, the participant doubts the correct hypothesis and reports that he or she would not have chosen it.

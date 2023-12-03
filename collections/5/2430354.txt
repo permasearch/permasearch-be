@@ -1,0 +1,1 @@
+In the event that the variables X and Y are jointly normally distributed random variables, then X + Y is still normally distributed (see Multivariate normal distribution) and the mean is the sum of the means. However, the variances are not additive due to the correlation. Indeed,

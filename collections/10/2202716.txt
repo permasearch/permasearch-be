@@ -1,0 +1,1 @@
+While dialing of full national numbers takes longer than a local number without the area code, the increased use of phones that can store numbers means that this is of decreasing importance. It also makes it easier to display numbers in the international format, as no trunk code is requiredâ€”hence a number in Prague, Czech Republic, can now be displayed as:

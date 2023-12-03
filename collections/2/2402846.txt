@@ -1,0 +1,1 @@
+reference electrode in neutral pH environment (volts)

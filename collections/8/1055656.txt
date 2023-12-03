@@ -1,0 +1,1 @@
+For a generic solid object without any axis of symmetry, the evolution of the object's orientation, represented (for example) by a rotation matrix R that transforms internal to external coordinates, may be numerically simulated. Given the object's fixed internal moment of inertia tensor I0 and fixed external angular momentum L, the instantaneous angular velocity is

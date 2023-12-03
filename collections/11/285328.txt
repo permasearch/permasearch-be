@@ -1,0 +1,1 @@
+This early design had a problem: the electric current it produced consisted of a series of "spikes" or pulses of current separated by none at all, resulting in a low average power output. As with electric motors of the period, the designers did not fully realize the seriously detrimental effects of large air gaps in the magnetic circuit.

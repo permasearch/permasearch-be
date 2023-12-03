@@ -1,0 +1,1 @@
+A data cache typically requires two flag bits per cache line –  a valid bit and a dirty bit. Having a dirty bit set indicates that the associated cache line has been changed since it was read from main memory ("dirty"), meaning that the processor has written data to that line and the new value has not propagated all the way to main memory.

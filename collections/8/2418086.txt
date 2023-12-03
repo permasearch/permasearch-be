@@ -1,0 +1,1 @@
+The uncertainty coefficient is another measure for variables at the nominal level.

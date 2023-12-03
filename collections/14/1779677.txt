@@ -1,0 +1,1 @@
+Clock arithmetic has the additional bonus that, when the final digits of two cage totals add up to 10 (13 and 27, for example), the pair will make no difference to the overall clock total, and can simply be skipped.

@@ -1,0 +1,1 @@
+In case of loss or if the value of the initial margin is being eroded, the broker will make a margin call in order to restore the amount of initial margin available. Often referred to as “variation margin”, margin called for this reason is usually done on a daily basis, however, in times of high volatility a broker can make a margin call or calls intra-day.

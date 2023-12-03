@@ -1,0 +1,1 @@
+Because ∠EBF is a right angle and ∠BEF is half a right angle, △BEF is also a right isosceles triangle. Hence BE = m − n implies BF = m − n. By symmetry, DF = m − n, and △FDC is also a right isosceles triangle. It also follows that FC = n − (m − n) = 2n − m.

@@ -1,0 +1,1 @@
+One approach in constructing a restriction map of a DNA molecule is to sequence the whole molecule and to run the sequence through a computer program that will find the recognition sites that are present for every restriction enzyme known.

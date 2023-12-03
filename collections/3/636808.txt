@@ -1,0 +1,1 @@
+The columns of the rotation matrix Q define the directions of the principal axes of the body, and the constants I1, I2, and I3 are called the principal moments of inertia. This result was first shown by J. J. Sylvester (1852), and is a form of Sylvester's law of inertia.[26][27]

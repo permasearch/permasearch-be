@@ -1,0 +1,1 @@
+These facts are obscured by the omission of the solvent from the expression that is normally used to define pKa, but pKa values obtained in a given mixed solvent can be compared to each other, giving relative acid strengths. The same is true of pKa values obtained in a particular non-aqueous solvent such a DMSO.

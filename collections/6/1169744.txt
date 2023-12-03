@@ -1,0 +1,1 @@
+In a tangential quadrilateral, the four angle bisectors meet at the center of the incircle. Conversely, a convex quadrilateral in which the four angle bisectors meet at a point must be tangential and the common point is the incenter.[4]

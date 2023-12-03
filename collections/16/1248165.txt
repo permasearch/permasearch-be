@@ -1,0 +1,1 @@
+If a position involves an exchange-traded product, the amount or percentage of initial margin is set by the exchange concerned.

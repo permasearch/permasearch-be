@@ -1,0 +1,1 @@
+Although polar and spherical coordinates use radians to describe coordinates in two and three dimensions, the unit is derived from the radius coordinate, so the angle measure is still dimensionless.[10]

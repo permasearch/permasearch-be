@@ -1,0 +1,1 @@
+The look-and-say sequence is also popularly known as the Morris Number Sequence, after cryptographer Robert Morris, and the puzzle "What is the next number in the sequence 1, 11, 21, 1211, 111221?" is sometimes referred to as the Cuckoo's Egg, from a description of Morris in Clifford Stoll's book The Cuckoo's Egg.[6][7]

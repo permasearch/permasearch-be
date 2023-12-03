@@ -1,0 +1,1 @@
+In October 2013, a Disk Cleanup Wizard addon was released that lets users delete outdated Windows updates on Windows 7 SP1, thus reducing the size of the WinSxS directory. This update backports some features found in Windows 8.[131]

@@ -1,0 +1,1 @@
+TDI windows must always be maximized inside their parent window, and as a result two tabs cannot be visible at the same time. This makes comparing of documents or easy copy-and-pasting between two documents more difficult. Full MDI interfaces allow for tiling or cascading of child windows, and do not suffer from these limitations.

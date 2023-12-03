@@ -1,0 +1,1 @@
+For a path of radius r, when an angle θ is swept out, the distance travelled on the periphery of the orbit is s = rθ. Therefore, the speed of travel around the orbit is

@@ -1,0 +1,1 @@
+An example of a chip combining both of these features is the National Semiconductor LM13600 and its successor, the LM13700.[4]

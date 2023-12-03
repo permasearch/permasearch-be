@@ -1,0 +1,1 @@
+As defined in the multidimensional DFT article, the multidimensional DFT

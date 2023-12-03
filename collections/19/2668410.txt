@@ -1,0 +1,1 @@
+In conventional PCM, the analog signal may be processed (e.g., by amplitude compression) before being digitized. Once the signal is digitized, the PCM signal is usually subjected to further processing (e.g., digital data compression).

@@ -1,0 +1,1 @@
+Coordinate descent algorithms for the SVM work from the dual problem

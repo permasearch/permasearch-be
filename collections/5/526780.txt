@@ -1,0 +1,1 @@
+A new "Automatic Setup" feature aims to simplify the first-time setup of new devices, with wireless transfer between the old and new device, transferring preferences, Apple ID and Wi-Fi info, preferred Settings, and iCloud Keychain passwords.[68][69]

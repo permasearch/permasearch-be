@@ -1,0 +1,1 @@
+The diameter employed as the linear unit according to the present rule in computing the circle's area is entirely wrong, as it represents the circle's area one and one-fifth times the area of a square whose perimeter is equal to the circumference of the circle.

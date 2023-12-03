@@ -1,0 +1,1 @@
+Wave–particle duality can be assessed from these equations as follows. The kinetic energy T is related to the square of momentum p. As the particle's momentum increases, the kinetic energy increases more rapidly, but since the wavenumber |k| increases the wavelength λ decreases. In terms of ordinary scalar and vector quantities (not operators):

@@ -1,0 +1,1 @@
+Systems that do not need the duplex capability may instead use simplex communication, in which one device transmits and the others can only "listen". Examples are broadcast radio and television, garage door openers, baby monitors, wireless microphones, and surveillance cameras. In these devices the communication is only in one direction.

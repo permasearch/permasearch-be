@@ -1,0 +1,1 @@
+These predictors are caches in that they store information that is costly to compute. Some of the terminology used when discussing predictors is the same as that for caches (one speaks of a hit in a branch predictor), but predictors are not generally thought of as part of the cache hierarchy.

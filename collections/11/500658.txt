@@ -1,0 +1,1 @@
+The overtime mode for the NHL playoffs differ from the regular season. In the playoffs there are no shootouts nor ties. If a game is tied after regulation an additional 20 minutes of 5 on 5 sudden death overtime will be added. In case of a tied game after the overtime, multiple 20-minute overtimes will be played until a team scores, which wins the match.

@@ -1,0 +1,1 @@
+Grades range from 0 to 20, in an almost unique grading table. The passing grade is 11 in most schools and universities. In some preschool facilities, grades usually range from F to A+, following the American system, and in a few colleges, the passing grade is 10.

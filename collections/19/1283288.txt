@@ -1,0 +1,1 @@
+Strictly speaking, the temperature of a system is well-defined only if it is at thermal equilibrium. From a microscopic viewpoint, a material is at thermal equilibrium if the quantity of heat between its individual particles cancel out. There are many possible scales of temperature, derived from a variety of observations of physical phenomena.

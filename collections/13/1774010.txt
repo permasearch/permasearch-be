@@ -1,0 +1,1 @@
+Another method on how surveillance can be used to fight criminal activity is by linking the information stream obtained from them to a recognition system (for instance, a camera system that has its feed run through a facial recognition system). This can for instance auto-recognize fugitives and direct police to their location.

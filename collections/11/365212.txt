@@ -1,0 +1,1 @@
+In the SAE control pattern, the left hand joystick controls Swing (left & right) and the Main Boom (up &down), and the right hand joystick controls the Stick Boom(away & close) and Bucket motions (close & dump).

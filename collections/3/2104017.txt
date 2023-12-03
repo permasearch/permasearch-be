@@ -1,0 +1,1 @@
+Single board computers are now commonly defined across two distinct architectures: no slots and slot support.

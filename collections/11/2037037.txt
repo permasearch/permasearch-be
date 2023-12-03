@@ -1,0 +1,1 @@
+It is important to note that although some cycles have a typical combustion location (internal or external), they often can be implemented with the other. For example, John Ericsson developed an external heated engine running on a cycle very much like the earlier Diesel cycle. In addition, externally heated engines can often be implemented in open or closed cycles.

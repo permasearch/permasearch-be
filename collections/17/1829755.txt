@@ -1,0 +1,1 @@
+This is not to be confused with an argument that a theorem is 'probably' true, a 'plausibility argument'. The work on the Collatz conjecture shows how far plausibility is from genuine proof.

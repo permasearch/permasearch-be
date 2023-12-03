@@ -1,0 +1,1 @@
+where c represents the length of the hypotenuse and a and b the lengths of the triangle's other two sides.

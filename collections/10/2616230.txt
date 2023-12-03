@@ -1,0 +1,1 @@
+where      f  i     {\displaystyle f_{i}}   is the fugacity of the vapor of     i   {\displaystyle i}   and        ⊖     {\displaystyle ^{\ominus }}   indicates the reference state.

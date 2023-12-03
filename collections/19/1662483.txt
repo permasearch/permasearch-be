@@ -1,0 +1,1 @@
+Although MOSFET switches can tolerate simultaneous full current and voltage (although thermal stress and electromigration can shorten the MTBF), bipolar switches generally can't so require the use of a snubber (or two).

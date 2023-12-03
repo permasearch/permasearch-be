@@ -1,0 +1,1 @@
+The identity function f on M is often denoted by idM.

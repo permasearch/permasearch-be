@@ -1,0 +1,1 @@
+A system in equilibrium in which there is positive feedback to any change from its current state may be unstable, in which case the equilibrium is said to be in an unstable equilibrium. The magnitude of the forces that act to move such a system away from its equilibrium are an increasing function of the "distance" of the state from the equilibrium.

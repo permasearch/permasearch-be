@@ -1,0 +1,1 @@
+Similarly solutions of cubic and quartic (third and fourth degree) equations can be expressed using arithmetic, square roots, and cube roots, or alternatively using arithmetic and trigonometric functions. However, there are quintic equations without closed-form solutions using elementary functions, such as x5 − x + 1 = 0.

@@ -1,0 +1,1 @@
+A lowly noun used with a high speech level, or an honorific noun used with a low speech level, will be interpreted as a third person pronoun.

@@ -1,0 +1,1 @@
+The toll is calculated by the distance travelled on the toll road or the specific exit chosen.  In the United States, for instance, the Kansas Turnpike, Ohio Turnpike, Pennsylvania Turnpike, New Jersey Turnpike, most of the Indiana Toll Road, New York State Thruway, and Florida's Turnpike currently implement closed systems.

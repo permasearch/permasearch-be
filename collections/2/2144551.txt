@@ -1,0 +1,1 @@
+In music notation, a tie is a curved line connecting the heads of two notes of the same pitch and name, indicating that they are to be played as a single note with a duration equal to the sum of the individual notes' values. A tie is similar in appearance to a slur, however slurs join notes of different pitches which need to be played independently, but seamlessly.

@@ -1,0 +1,1 @@
+In optics, octagonal prisms are used to generate flicker-free images in movie projectors.

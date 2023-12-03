@@ -1,0 +1,1 @@
+Linux may have the same problems with scheduling of hardware I/O.[citation needed] The problem in Linux is mitigated by support for posix real-time extensions, and the possibility of using a kernel with the PREEMPT_RT patch applied.

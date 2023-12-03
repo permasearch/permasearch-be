@@ -1,0 +1,1 @@
+In a ferromagnetic Ising model, spins desire to be aligned: the configurations in which adjacent spins are of the same sign have higher probability. In an antiferromagnetic model, adjacent spins tend to have opposite signs.

@@ -1,0 +1,1 @@
+Subtractions are performed with the display bar moved closest to the center of the machine showing the complement value of the accumulator.

@@ -1,0 +1,1 @@
+The Fermi function that appears in the beta spectrum formula accounts for the Coulomb attraction / repulsion between the emitted beta and the final state nucleus. Approximating the associated wavefunctions to be spherically symmetric, the Fermi function can be analytically calculated to be:[28]

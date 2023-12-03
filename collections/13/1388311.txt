@@ -1,0 +1,1 @@
+The following is a formulaic description of Hebbian learning: (note that many other descriptions are possible)

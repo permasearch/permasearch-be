@@ -1,0 +1,1 @@
+The first web browser, WorldWideWeb, was developed in 1990 by Tim Berners-Lee for the NeXT Computer (at the same time as the first web server for the same machine)[12][13] and introduced to his colleagues at CERN in March 1991.

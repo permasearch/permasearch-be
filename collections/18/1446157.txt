@@ -1,0 +1,1 @@
+the 1-dimensional fibers correspond to functions, and the 3-dimensional fibers to vector fields, as described below. Modulo suitable identifications, the three nontrivial occurrences of the exterior derivative correspond to grad, curl, and div.

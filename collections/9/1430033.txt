@@ -1,0 +1,1 @@
+The rocket engine uses the same basic physical principles as the jet engine for propulsion via thrust, but is distinct in that it does not require atmospheric air to provide oxygen; the rocket carries all components of the reaction mass. This allows them to operate at arbitrary altitudes and in space.

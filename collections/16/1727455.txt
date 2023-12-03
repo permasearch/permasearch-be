@@ -1,0 +1,1 @@
+In contexts where i is ambiguous or problematic, j or the Greek ι is sometimes used (see § Alternative notations). In the disciplines of electrical engineering and control systems engineering, the imaginary unit is normally denoted by j instead of i, because i is commonly used to denote electric current.

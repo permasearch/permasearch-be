@@ -1,0 +1,1 @@
+In defining this inheritance hierarchy we have already defined certain restrictions, not all of which are desirable:

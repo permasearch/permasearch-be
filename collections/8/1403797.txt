@@ -1,0 +1,1 @@
+The cross product appears in the calculation of the distance of two skew lines (lines not in the same plane) from each other in three-dimensional space.

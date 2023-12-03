@@ -1,0 +1,1 @@
+The lengths of the diagonals in a convex quadrilateral ABCD can be calculated using the law of cosines on each triangle formed by one diagonal and two sides of the quadrilateral. Thus

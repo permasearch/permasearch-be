@@ -1,0 +1,1 @@
+The Coefficient of form (i) can be derived by 6 methods and applied differently depending on the trajectory models used: G Model, Beugless/Coxe; 3 Sky Screen; 4 Sky Screen; Target Zeroing; Doppler radar.[4][5]

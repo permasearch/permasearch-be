@@ -1,0 +1,1 @@
+Flash memory devices are typically much faster at reading than writing.[71] Performance also depends on the quality of storage controllers which become more critical when devices are partially full.[71] Even when the only change to manufacturing is die-shrink, the absence of an appropriate controller can result in degraded speeds.[72]

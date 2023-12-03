@@ -1,0 +1,1 @@
+In order to measure an angle Î¸, a circular arc centered at the vertex of the angle is drawn, e.g. with a pair of compasses. The ratio of the length s of the arc by the radius r of the circle is the measure of the angle in radians.

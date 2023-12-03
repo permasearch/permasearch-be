@@ -1,0 +1,1 @@
+Assigning addresses to pointers is an invaluable tool when programming microcontrollers. Below is a simple example declaring a pointer of type int and initialising it to a hexadecimal address in this example the constant 0x7FFF:

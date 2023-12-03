@@ -1,0 +1,1 @@
+The final column lists some special properties that some of the quantities have, such as their scaling behavior (i.e. whether the quantity is intensive or extensive), their transformation properties (i.e. whether the quantity is a scalar, vector or tensor) or whether the quantity is conserved.

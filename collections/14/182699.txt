@@ -1,0 +1,1 @@
+In Rummy the number of cards dealt varies based on the type of rummy game being played as well as the number of players.

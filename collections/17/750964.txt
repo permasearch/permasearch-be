@@ -1,0 +1,1 @@
+any value in     ( 0 , 1 )   {\displaystyle (0,1)}   for α, β = 1

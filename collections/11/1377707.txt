@@ -1,0 +1,1 @@
+Here, p2 may point to anywhere in memory, so performing the assignment *p2 = 'b'; can corrupt an unknown area of memory or trigger a segmentation fault.

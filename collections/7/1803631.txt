@@ -1,0 +1,1 @@
+The electron accepting power of an acceptor molecule is measured by its electron affinity which is the energy released when filling the lowest unoccupied molecular orbital (LUMO).

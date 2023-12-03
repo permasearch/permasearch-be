@@ -1,0 +1,1 @@
+Netscape is credited with creating the JavaScript programming language, the most widely used language for client-side scripting of web pages. The company is also known for developing SSL which was used for securing online communications before its successor TLS took over.[5]

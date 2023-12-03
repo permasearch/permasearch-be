@@ -1,0 +1,1 @@
+Most arcade games have integrated sound chips, the most popular being the Yamaha OPL chip for BGM coupled with a variety of DACs for sampled audio and sound effects.

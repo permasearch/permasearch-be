@@ -1,0 +1,1 @@
+The first communications satellite placed in a geosynchronous orbit was Syncom 2, launched in 1963. However, it was in an inclined orbit, still requiring the use of moving antennas. The first communications satellite placed in a geostationary orbit was Syncom 3. Geostationary orbits have been in common use ever since, in particular for satellite television.

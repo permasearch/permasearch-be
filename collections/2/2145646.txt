@@ -1,0 +1,1 @@
+In practice the maximum aperture of a lens is often not an integral power of        2      {\displaystyle \scriptstyle {\sqrt {2}}}   (i.e.,        2      {\displaystyle \scriptstyle {\sqrt {2}}}   to the power of a whole number), in which case it is usually a half or third stop above or below an integral power of        2      {\displaystyle \scriptstyle {\sqrt {2}}}  .

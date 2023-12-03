@@ -1,0 +1,1 @@
+Frames begin and end at the start/end of week plus an integer multiple of 30 seconds. At start/end of week the cycling between pages is reset to page 1.[6]

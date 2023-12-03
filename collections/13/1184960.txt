@@ -1,0 +1,1 @@
+The corrections to the Coulomb interaction between the electron and the proton in a Hydrogen atom due to relativistic motion and spin-orbit coupling result in breaking the degeneracy in energy levels for different values of l corresponding to a single principal quantum number n.

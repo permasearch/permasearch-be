@@ -1,0 +1,1 @@
+An AMI does not include a kernel image, only a pointer to the default kernel id, which can be chosen from an approved list of safe kernels maintained by Amazon and its partners (e.g., Red Hat, Canonical, Microsoft). Users may choose kernels other than the default when booting an AMI.[3]

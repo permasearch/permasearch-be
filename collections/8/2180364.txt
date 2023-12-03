@@ -1,0 +1,1 @@
+Until the present day (2011), Karatsuba's result on the length of experiments is the only exact nonlinear result, both in automata theory, and in similar problems of computational complexity theory.

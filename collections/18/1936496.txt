@@ -1,0 +1,1 @@
+In the glycolytic pathyway, 1,3-BPG is the phosphate donor and has a high phosphoryl-transfer potential. The PGK-catalyzed transfer of the phosphate group from 1,3-BPG to ADP to yield ATP can power the carbon-oxidation reaction of the previous glycolytic step (converting glyceraldehyde 3-phosphate to 3-phosphoglycerate).

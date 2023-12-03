@@ -1,0 +1,1 @@
+In many cases the boundaries of class C airspace segments are coincident with specific radials from a specific VOR station or with specific distances from such a station; these are normally marked on the chart. In other cases, the boundaries may follow natural topological features or may be defined in other ways, which may or may not be explicitly indicated on the chart.

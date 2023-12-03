@@ -1,0 +1,1 @@
+Various feed mechanisms exist to feed material into a lathe at a defined rate. The aim of these mechanisms is to automate part of the production process with the end goal of improving productivity.

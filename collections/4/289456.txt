@@ -1,0 +1,1 @@
+The pilot's movement of a control causes the mechanical circuit to open the matching servo valve in the hydraulic circuit. The hydraulic circuit powers the actuators which then move the control surfaces. As the actuator moves, the servo valve is closed by a mechanical feedback linkage - one that stops movement of the control surface at the desired position.

@@ -1,0 +1,1 @@
+A necessary but not sufficient condition for a symmetrical distribution to be bimodal is that the kurtosis be less than three.[37][38] Here the kurtosis is defined to be the standardised fourth moment around the mean. The reference given prefers to use the excess kurtosis â€“ the kurtosis less 3.

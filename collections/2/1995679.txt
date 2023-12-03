@@ -1,0 +1,1 @@
+Click on the seed number of a player to go to their draw section.

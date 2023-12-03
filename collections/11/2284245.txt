@@ -1,0 +1,1 @@
+Software provenance encompasses the origin of software and its licensing terms. For example, when incorporating a free, open source or proprietary software component in an application, one may wish to understand its provenance to ensure that licensing requirements are fulfilled and that other software characteristics can be understood.

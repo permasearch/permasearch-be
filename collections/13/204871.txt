@@ -1,0 +1,1 @@
+The standard error of a reported proportion or percentage p measures its accuracy, and is the estimated standard deviation of that percentage. It can be estimated from just p and the sample size, n, if n is small relative to the population size, using the following formula:[4]

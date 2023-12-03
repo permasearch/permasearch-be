@@ -1,0 +1,1 @@
+Split systems are more efficient and the footprint is typically smaller than the package systems. On the other hand, package systems tend to have slightly lower indoor noise level compared to split system since the fan motor is located outside.

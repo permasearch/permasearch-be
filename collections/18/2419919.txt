@@ -1,0 +1,1 @@
+Moreover, Hermite's proof is closer to Lambert's proof than it seems. In fact, An(x) is the "residue" (or "remainder") of Lambert's continued fraction for tan(x).[6]

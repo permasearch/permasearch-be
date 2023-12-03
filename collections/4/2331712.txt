@@ -1,0 +1,1 @@
+A curiosity of the convergence of the Fourier series representation of the square wave is the Gibbs phenomenon. Ringing artifacts in non-ideal square waves can be shown to be related to this phenomenon. The Gibbs phenomenon can be prevented by the use of Ïƒ-approximation, which uses the Lanczos sigma factors to help the sequence converge more smoothly.

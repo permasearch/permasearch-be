@@ -1,0 +1,1 @@
+16 Nodes containing 2 Intel Xeon Phi 7120 (MIC) per node

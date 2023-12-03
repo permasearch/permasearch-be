@@ -1,0 +1,1 @@
+The numeric keypad is used by some systems for input of Chinese characters, for example CKC Chinese Input System and Q9 input method.

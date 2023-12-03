@@ -1,0 +1,1 @@
+If two tangents to a parabola are perpendicular to each other, then they intersect on the directrix. Conversely, two tangents which intersect on the directrix are perpendicular.

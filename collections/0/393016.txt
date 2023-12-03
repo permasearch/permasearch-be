@@ -1,0 +1,1 @@
+Let A be a square n by n matrix over a field K (for example the field R of real numbers). The following statements are equivalent, i.e., for any given matrix they are either all true or all false:

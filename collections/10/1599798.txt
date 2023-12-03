@@ -1,0 +1,1 @@
+Current file managers including Windows Explorer (from Windows Vista onwards), Finder (for Macintosh operating systems), GNOME's Nautilus, KDE's Dolphin, Xfce's Thunar, MATE's Caja, and SnowBird allow breadcrumb navigation, often replacing or extending an address bar.[citation needed]

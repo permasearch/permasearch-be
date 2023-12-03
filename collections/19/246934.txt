@@ -1,0 +1,1 @@
+For an ideal block and tackle system there is no friction in the pulleys and no deflection or wear in the rope, which means the power input by the applied force FAVA must equal the power out acting on the load FBVB, that is

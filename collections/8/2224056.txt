@@ -1,0 +1,1 @@
+Altman applied the statistical method of discriminant analysis to a dataset of publicly held manufacturers. The estimation was originally based on data from publicly held manufacturers, but has since been re-estimated based on other datasets for private manufacturing, non-manufacturing and service companies.

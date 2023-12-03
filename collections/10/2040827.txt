@@ -1,0 +1,1 @@
+A bolted joint between two elements may act as a bearing-type joint, or a friction joint. In the friction joint, the elements are clamped together with enough force that the resultant friction between the clamped surfaces prevents them from slipping laterally over each other.

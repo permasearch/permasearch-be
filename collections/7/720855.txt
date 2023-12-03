@@ -1,0 +1,1 @@
+Quantum dots are extremely small semiconductors (on the scale of nanometers).[21] They display quantum confinement in that the electrons cannot escape the “dot”, thus allowing particle-in-a-box approximations to be applied.[22] Their behavior can be described by three-dimensional particle-in-a-box energy quantization equations.[22]

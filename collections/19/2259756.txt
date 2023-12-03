@@ -1,0 +1,1 @@
+A common source or sink for heat in smaller installations is the outside air, as used by an air-source heat pump.  A fan is needed to improve heat exchange efficiency.

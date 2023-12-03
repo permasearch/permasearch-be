@@ -1,0 +1,1 @@
+A downloadable kernel module (DKM) type project can be created to generate a ".out " file which can then be loaded to kernel space using "ld" command. This downloadable kernel module can be unloaded using "unld" command.

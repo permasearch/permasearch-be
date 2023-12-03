@@ -1,0 +1,1 @@
+In ballistics, the ballistic coefficient (BC) of a body is a measure of its ability to overcome air resistance in flight.[1] It is inversely proportional to the negative acceleration: a high number indicates a low negative acceleration--the drag on the projectile is small in proportion to its mass.

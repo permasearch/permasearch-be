@@ -1,0 +1,1 @@
+Eighth Edition Unix echo only did the escape expansion when passed a -e option,[5] and that behaviour was copied by a few other implementations such as the builtin echo command of Bash or zsh and GNU echo.

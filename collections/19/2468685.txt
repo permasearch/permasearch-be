@@ -1,0 +1,1 @@
+Some motherboard manufacturers (e.g. ASRock, Jetway, and MSI) have released hybrid motherboards that are equipped with an AM2+ socket and both DDR2 and DDR3 memory slots. These boards permit the use of AM2/AM2+ processors with DDR2 RAM, or AM3 processors with either DDR2 or DDR3 RAM.

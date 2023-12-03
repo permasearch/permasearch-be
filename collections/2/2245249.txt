@@ -1,0 +1,1 @@
+Satellites in Low Earth Orbit (LEO) with high ballistic coefficients experience smaller perturbations to their orbits due to atmospheric drag.

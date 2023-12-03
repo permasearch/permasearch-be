@@ -1,0 +1,1 @@
+The dimension of thermal conductivity is M1L1T−3Θ−1, expressed in terms of the dimensions mass (M), length (L), time (T), and temperature (Θ).

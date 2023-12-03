@@ -1,0 +1,1 @@
+The activation function     φ   {\displaystyle \varphi }   is non-linear and differentiable. A commonly used activation function is the logistic function:

@@ -1,0 +1,1 @@
+The windings of signal transformers minimize leakage inductance and stray capacitance to improve high-frequency response. Coils are split into sections, and those sections interleaved between the sections of the other winding.

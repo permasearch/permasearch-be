@@ -1,0 +1,1 @@
+After the client obtains an IP address, it should probe the newly received address[8] (e.g. with ARP Address Resolution Protocol) to prevent address conflicts caused by overlapping address pools of DHCP servers.

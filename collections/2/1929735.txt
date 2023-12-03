@@ -1,0 +1,1 @@
+Assuming the above are done one after another, minimum plane turnaround time is:

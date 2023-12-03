@@ -1,0 +1,1 @@
+Although originally specifically targetted at the automotive industry, MISRA C has evolved as a widely accepted model for best practices by leading developers in sectors including automotive, aerospace, telecom, medical devices, defense, railway, and others. For example:

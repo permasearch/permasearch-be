@@ -1,0 +1,1 @@
+If faces are allowed to be concave as well as convex, adjacent faces may be made to meet together with no gap. Some of these curved polyhedra can pack together to fill space. Two important types are:

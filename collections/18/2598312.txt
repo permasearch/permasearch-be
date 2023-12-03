@@ -1,0 +1,1 @@
+Gas mass flow rate can be directly measured, independent of pressure and temperature effects, with thermal mass flow meters, Coriolis mass flow meters, or mass flow controllers.

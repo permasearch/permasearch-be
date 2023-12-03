@@ -1,0 +1,1 @@
+The Hunter uses Avalanche Studio's proprietary Avalanche Engine 2[4] which uses procedurally-generated content, and can thus pack a large and sophisticated game world into a relatively small download (which is 1.47Gb as of December 2013). The advanced engine enables, subtle lighting and shading, and natural weather effects.

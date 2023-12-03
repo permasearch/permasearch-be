@@ -1,0 +1,1 @@
+The negative-going lobes in GX and GZ are imposed to ensure that, at time TE (the spin echo maximum), phase only encodes spatial location in the Y direction.

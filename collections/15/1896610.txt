@@ -1,0 +1,1 @@
+In contrast, spherical joints (or ball and socket joints) such as the hip joint permit rotation and all other directional movement, while pivot joints only permit rotation.

@@ -1,0 +1,1 @@
+Calculate the pH and percentage protonation of a .20 M aqueous solution of pyridine, C5H5N. The Kb for C5H5N is 1.8 x 10âˆ’9.[3]

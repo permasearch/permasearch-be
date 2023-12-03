@@ -1,0 +1,1 @@
+in multivariate case the pdf is understood as the Radon–Nikodym derivative of the distribution μX with respect to the Lebesgue measure λ:

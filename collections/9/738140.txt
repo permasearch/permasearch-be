@@ -1,0 +1,1 @@
+Ubuntu Touch is from Canonical Ltd.. It is open source and uses the GPL license.[17] The OS is built on the Android Linux kernel, using Android drivers and services via an LXC container, but does not use any of the Java-like code of Android.[29]

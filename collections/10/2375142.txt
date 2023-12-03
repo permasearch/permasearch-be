@@ -1,0 +1,1 @@
+Sequence can be played with two to 12 players. If there are more than 12 players you can't play, they should divide evenly into two teams, three teams or one vs. one. With two teams, players alternate their physical positions with opponents around the playing surface. With three teams, players of a team must be positioned at every third player around the playing surface.

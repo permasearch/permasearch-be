@@ -1,0 +1,1 @@
+One can generalize the algebraic object that is acting on the vector space, replacing a single operator acting on a vector space with an algebra representation â€“ an associative algebra acting on a module. The study of such actions is the field of representation theory.

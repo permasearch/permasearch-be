@@ -1,0 +1,1 @@
+Now we will apply displacement boundary conditions for the four segments to determine the integration constants.

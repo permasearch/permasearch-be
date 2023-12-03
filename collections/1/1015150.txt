@@ -1,0 +1,1 @@
+where d is the vector from the reference point S to the center of mass R. Use this equation to compute the inertia matrix,

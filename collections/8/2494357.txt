@@ -1,0 +1,1 @@
+FPCON levels can also be raised in a non-progressive manner; for example, the FPCON level can jump from FPCON NORMAL to FPCON CHARLIE, completely skipping the ALPHA and BRAVO levels.

@@ -1,0 +1,1 @@
+The RC delays in signal transmission were also noted in "Clock Rate versus IPC: The End of the Road for Conventional Microarchitectures"[15] which projected a maximum of 12.5% average annual CPU performance improvement between 2000 and 2014.

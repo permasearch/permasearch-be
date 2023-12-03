@@ -1,0 +1,1 @@
+In spite of the similarity in name, there is no specific relationship between the friendly numbers and the amicable numbers or the sociable numbers, although the definitions of the latter two also involve the divisor function.

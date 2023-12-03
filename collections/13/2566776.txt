@@ -1,0 +1,1 @@
+Inch-pound-second system (IPS) units for P are pounds-force per square inch (psi). Units for t, and d are inches (in). SI units for P are pascals (Pa), while t and d=2r are in meters (m).

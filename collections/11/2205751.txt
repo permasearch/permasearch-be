@@ -1,0 +1,1 @@
+This section is geared towards the idea of comparing Stop-and-wait, Sliding Window with the subsets of Go Back N and Selective Repeat.

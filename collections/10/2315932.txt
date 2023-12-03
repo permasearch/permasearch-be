@@ -1,0 +1,1 @@
+In addition to surface texturing, the plasmonic light-trapping scheme attracted a lot of attention to aid photocurrent enhancement in thin film solar cells.[40][41] This method makes use of collective oscillation of excited free electrons in noble metal nanoparticles, which are influenced by particle shape, size and dielectric properties of the surrounding medium.

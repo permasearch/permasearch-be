@@ -1,0 +1,1 @@
+While this equation is true for any arbitrary moving surface Σ in space, it can be simplified further in the special case that ∂Σ is a loop of wire. In this case, we can relate the right-hand-side to EMF. Specifically, EMF is defined as the energy available per unit charge that travels once around the loop. Therefore, by the Lorentz force law,

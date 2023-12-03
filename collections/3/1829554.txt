@@ -1,0 +1,1 @@
+Fourth-generation programming languages (4GL) are computer programming languages which aim to provide a higher level of abstraction of the internal computer hardware details than 3GLs. Fifth generation programming languages (5GL) are programming languages based on solving problems using constraints given to the program, rather than using an algorithm written by a programmer.

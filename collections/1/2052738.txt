@@ -1,0 +1,1 @@
+With new estimates for ai and the Î¸i's, the expectation step is repeated to recompute new membership values. The entire procedure is repeated until model parameters converge.

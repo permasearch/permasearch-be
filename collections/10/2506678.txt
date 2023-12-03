@@ -1,0 +1,1 @@
+In a context of propositional logic, functionally complete sets of connectives are also called (expressively) adequate.[3]

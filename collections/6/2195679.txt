@@ -1,0 +1,1 @@
+There is native support for shared memory also in programming languages besides C/C++. For example, PHP provides an API to create shared memory, similar to POSIX functions.[10]

@@ -1,0 +1,1 @@
+which gives a system of n equations,     k =  1 , ⋯ , n    {\displaystyle k={1,\cdots ,n}}  , such that:

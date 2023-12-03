@@ -1,0 +1,1 @@
+EPA tests for fuel economy do not include electrical load tests beyond climate control, which may account for some of the discrepancy between EPA and real world fuel-efficiency. A 200 W electrical load can produce a 0.4 km/L (0.94 mpg) reduction in efficiency on the FTP 75 cycle test.[26]

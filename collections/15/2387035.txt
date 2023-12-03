@@ -1,0 +1,1 @@
+The speed of the disk's I/O interface to the computer almost never matches the speed at which the bits are transferred to and from the hard disk platter. The disk buffer is used so that both the I/O interface and the disk read/write head can operate at full speed.

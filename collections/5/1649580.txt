@@ -1,0 +1,1 @@
+The number of subnetworks available, and the number of possible hosts in a network may be readily calculated. In the example (below) two bits were borrowed to create subnetworks, thus creating 4 (22) possible subnets.

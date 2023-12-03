@@ -1,0 +1,1 @@
+One of the biggest challenges for metric benchmarking is the variety of metric definitions used among companies or divisions. Definitions may change over time within the same organization due to changes in leadership and priorities. The most useful comparisons can be made when metrics definitions are common between compared units and do not change so improvements can be verified.

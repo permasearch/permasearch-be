@@ -1,0 +1,1 @@
+Unix and POSIX-based systems may use the system function sysconf(),[7][8][9][10][11] as illustrated in the following example written in the C programming language.

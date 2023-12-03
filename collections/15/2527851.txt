@@ -1,0 +1,1 @@
+Many chemicals exhibit a specific rotation as a unique property (an intensive property like refractive index or Specific gravity) which can be used to distinguish it. Polarimeters can identify unknown samples based on this if other variables such as concentration and length of sample cell length are controlled or at least known. This is used in the chemical industry.

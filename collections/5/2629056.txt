@@ -1,0 +1,1 @@
+Scrum advocates that the role of product owner be assigned. The product owner is responsible for maximizing the value of the product. The product owner gathers input and takes feedback from, and is lobbied by, many people, but ultimately makes the call on what gets built.

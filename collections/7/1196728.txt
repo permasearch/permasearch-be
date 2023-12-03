@@ -1,0 +1,1 @@
+Latency (or 'ping time' as it is commonly referred to) is the delay between requesting data and the receipt of a response, or in the case of one-way communication, between the actual moment of a signal's broadcast and the time it is received at its destination.

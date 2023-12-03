@@ -1,0 +1,1 @@
+( ξ , η , ϕ ) ∈ [ 0 , ∞ ) ×  [ −   π 2   ,   π 2   ]  × [ 0 , 2 π )   {\displaystyle (\xi ,\eta ,\phi )\in [0,\infty )\times \left[-{\frac {\pi }{2}},{\frac {\pi }{2}}\right]\times [0,2\pi )}

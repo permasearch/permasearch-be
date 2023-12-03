@@ -1,0 +1,1 @@
+The service does not use a conventional DNS name server, such as BIND, instead relying on a custom-built implementation, with limited IPv6 support, conforming to the DNS standards set forth by the IETF. It fully supports the DNSSEC protocol since 19 March 2013. Previously Google Public DNS accepted and forwarded DNSSEC-formatted messages but did not perform validation.[8][9]

@@ -1,0 +1,1 @@
+The multiplicative formula allows the definition of binomial coefficients to be extended[3] by replacing n by an arbitrary number Î± (negative, real, complex) or even an element of any commutative ring in which all positive integers are invertible:

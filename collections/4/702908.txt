@@ -1,0 +1,1 @@
+where temperature T is in °C and vapour pressure P is in kilopascals (kPa)

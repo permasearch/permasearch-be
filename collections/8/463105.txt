@@ -1,0 +1,1 @@
+To plot a dot from its spherical coordinates (r, θ, φ), where θ is inclination, move r units from the origin in the zenith direction, rotate by θ about the origin towards the azimuth reference direction, and rotate by φ about the zenith in the proper direction.

@@ -1,0 +1,1 @@
+Importantly, the property of subadditivity ("triangle inequality", equation (5)) extends to any finite collection of nÂ complex numbers     (  z  k    )  k = 1   n     {\textstyle (z_{k})_{k=1}^{n}}  :

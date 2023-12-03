@@ -1,0 +1,1 @@
+has an infinitude of solutions since all three equations give the same information as each other (as can be seen by multiplying through the first equation by either 3 or 7). Any value of y is part of a solution, with the corresponding value of x being 7â€“2y.

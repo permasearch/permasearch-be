@@ -1,0 +1,1 @@
+There is one basic construct (the command) and a set of simple substitution rules.

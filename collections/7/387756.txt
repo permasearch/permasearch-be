@@ -1,0 +1,1 @@
+An extension of this technique is Charlieplexing where the ability of some microcontrollers to tri-state their output pins means larger numbers of LEDs can be driven, without using latches. For N pins, it is possible to drive n2-n LEDs

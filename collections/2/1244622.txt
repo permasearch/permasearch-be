@@ -1,0 +1,1 @@
+In March 2016, Microsoft announced that it would support the Ubuntu userland on top of the Windows 10 kernel by implementing the Linux system calls as a subsystem. The focus lies on command-line tools like Bash and is therefore primarily directed towards developers.[221][222][223] As of the Fall Creators Update, this feature is fully available to the public.[224]

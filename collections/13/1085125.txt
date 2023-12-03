@@ -1,0 +1,1 @@
+Also, it was Pearson who first wrote the distribution in terms of the standard deviation Ïƒ as in modern notation. Soon after this, in year 1915, Fisher added the location parameter to the formula for normal distribution, expressing it in the way it is written nowadays:

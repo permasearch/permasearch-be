@@ -1,0 +1,1 @@
+The lowest-order contribution comes from the first nontrivial term e−SFX in the Taylor expansion of the action. Wick's theorem requires that the momenta in the X half-lines, the φ(k) factors in X, should match up with the momenta of the external half-lines in pairs. The new contribution is equal to:

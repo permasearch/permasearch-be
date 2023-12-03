@@ -1,0 +1,1 @@
+When executing self-modifying code, a change in the processor code immediately in front of the current location of execution might not change how the processor interprets the code, as it is already loaded into its PIQ. It simply executes its old copy already loaded in the PIQ instead of the new and altered version of the code in its RAM and/or cache.

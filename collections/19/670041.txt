@@ -1,0 +1,1 @@
+CRISPR-DR19: Secondary structure taken from the Rfam database. Family RF01332.

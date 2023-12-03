@@ -1,0 +1,1 @@
+One common method to address these limits is to use multiple levels of virtualization. In several storage systems deployed today, it is common to utilize three layers of virtualization.[4]

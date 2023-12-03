@@ -1,0 +1,1 @@
+Truth-values. The "truth-values" of a proposition is truth if it is true and falsehood if it is false* [*This phrase is due to Frege]...the truth-value of "p âˆ¨ q" is truth if the truth-value of either p or q is truth, and is falsehood otherwise ... that of "~ p" is the opposite of that of p..." (p. 7-8)

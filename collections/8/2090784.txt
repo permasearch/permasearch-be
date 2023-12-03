@@ -1,0 +1,1 @@
+Graphical user interface elements are those elements used by graphical user interfaces (GUIs) to offer a consistent visual language to represent information stored in computers. These make it easier for people with few computer skills to work with and use computer software.

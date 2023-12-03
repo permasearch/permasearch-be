@@ -1,0 +1,1 @@
+Third-party apps are also able to take advantage of iCloud Keychain to allow autofilling passwords.[66]

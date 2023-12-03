@@ -1,0 +1,1 @@
+A filename (or file name) is used to identify a storage location in the file system. Most file systems have restrictions on the length of filenames. In some file systems, filenames are not case sensitive (i.e., the names MYFILE and myfile refer to the same file); in others, filenames are case sensitive (i.e., the names MYFILE, MyFile, and myfile refer to three separate files).

@@ -1,0 +1,1 @@
+Also, on MS Windows, the tilde character "~" (Shift+`) acts as a dead key to type Polish letters (with diacritical marks) thus, to obtain an "

@@ -1,0 +1,1 @@
+"Hazardous spiral look-alikes" that violate this invariant include evolutionary and incremental processes that commit significant resources to implementing a solution with a poorly defined architecture.[clarification needed]

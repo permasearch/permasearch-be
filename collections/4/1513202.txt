@@ -1,0 +1,1 @@
+When the numerator and denominator of a fraction are equal (       7 7      {\displaystyle {\tfrac {7}{7}}}  , for example), its value is 1, and the fraction therefore is improper. Its reciprocal also has the value 1, and is improper, too.

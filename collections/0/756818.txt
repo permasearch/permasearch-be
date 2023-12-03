@@ -1,0 +1,1 @@
+This expression assumes that the rod is an infinitely thin (but rigid) wire. This is a special case of the thin rectangular plate with axis of rotation at the center of the plate, with w = L and h = 0.

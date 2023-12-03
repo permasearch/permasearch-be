@@ -1,0 +1,1 @@
+When faced with a new circuit, the software first tries to find a steady state solution, that is, one where all nodes conform to Kirchhoff's current law and the voltages across and through each element of the circuit conform to the voltage/current equations governing that element.

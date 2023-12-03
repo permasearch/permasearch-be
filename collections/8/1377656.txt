@@ -1,0 +1,1 @@
+This example may be clearer if memory is examined directly. Assume that a is located at address 0x8130 in memory and ptr at 0x8134; also assume this is a 32-bit machine such that an int is 32-bits wide. The following is what would be in memory after the following code snippet is executed:

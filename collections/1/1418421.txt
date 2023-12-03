@@ -1,0 +1,1 @@
+The difference in the spanwise component of velocity above and below the wing (between being in the inboard direction above and in the outboard direction below) persists at the trailing edge and into the wake downstream. After the flow leaves the trailing edge, this difference in velocity takes place across a relatively thin shear layer called a vortex sheet.

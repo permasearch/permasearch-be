@@ -1,0 +1,1 @@
+In the KP-ABE, attribute sets are used to describe the encrypted texts and the private keys are associated to specified policy that users will have. [16] [17] [18]

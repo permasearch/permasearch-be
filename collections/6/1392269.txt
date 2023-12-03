@@ -1,0 +1,1 @@
+The work flow of institute is managed through Medical Campus Management Solutions, which is a complete web-based application. The medical college management system eases out Admission Process, fee management, transport, attendance and several other applications.

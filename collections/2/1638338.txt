@@ -1,0 +1,1 @@
+The iBook keyboard lifts up, allowing installation of the AirPort (wireless) card and additional memory. This gives the keyboard a "spongy" effect, especially in PowerPC G3 models with the translucent keyboard. The "sponginess" was corrected in the PowerPC G4 models.

@@ -1,0 +1,1 @@
+A new random variable Y can be defined by applying a real Borel measurable function     g :  R  →  R    {\displaystyle g\colon \mathbb {R} \rightarrow \mathbb {R} }   to the outcomes of a real-valued random variable     X   {\displaystyle X}  . That is,     Y = g ( x )   {\displaystyle Y=g(x)}  . The cumulative distribution function of     Y   {\displaystyle Y}   is then

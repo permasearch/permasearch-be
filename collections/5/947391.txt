@@ -1,0 +1,1 @@
+An identifier referencing a variable can be used to access the variable in order to read out the value, or alter the value, or edit other attributes of the variable, such as access permission, locks, semaphores, etc.

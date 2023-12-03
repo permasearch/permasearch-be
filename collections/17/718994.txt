@@ -1,0 +1,1 @@
+MATLAB is a proprietary product of MathWorks, so users are subject to vendor lock-in.[7][41] Although MATLAB Builder products can deploy MATLAB functions as library files which can be used with .NET[42] or Java[43] application building environment, future development will still be tied to the MATLAB language.

@@ -1,0 +1,1 @@
+Letting F and G be the distinct inflection points of a quartic, and letting H be the intersection of the inflection secant line FG and the quartic, nearer to G than to F, then G divides FH into the golden section:[11]

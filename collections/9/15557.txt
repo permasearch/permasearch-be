@@ -1,0 +1,1 @@
+The integration of milling into turning environments, and vice versa, begun with live tooling for lathes and the occasional use of mills for turning operations. This led to a new class of machine tools, multitasking machines (MTMs), which are purpose-built to facilitate milling and turning within the same work envelope.

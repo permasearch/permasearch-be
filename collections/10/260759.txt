@@ -1,0 +1,1 @@
+Unicode 5.1, released on 4 April 2008, introduces major changes to the Cyrillic blocks. Revisions to the existing Cyrillic blocks, and the addition of Cyrillic Extended A (2DE0...2DFF) and Cyrillic Extended B (A640...A69F), significantly improve support for the early Cyrillic alphabet, Abkhaz, Aleut, Chuvash, Kurdish, and Moksha.[34]

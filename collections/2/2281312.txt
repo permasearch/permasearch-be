@@ -1,0 +1,1 @@
+Another possible formula for calculating buoyancy of an object is by finding the apparent weight of that particular object in the air (calculated in Newtons), and apparent weight of that object in the water (in Newtons). To find the force of buoyancy acting on the object when in air, using this particular information, this formula applies:

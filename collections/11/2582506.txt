@@ -1,0 +1,1 @@
+The SI unit of velocity is m/s, and the SI unit of electric field is V/m. Therefore the SI unit of mobility is (m/s)/(V/m) = m2/(V·s). However, mobility is much more commonly expressed in cm2/(V·s) = 10−4 m2/(V·s).

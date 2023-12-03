@@ -1,0 +1,1 @@
+Some authors use the symbols ⊂ and ⊃ to indicate subset and superset respectively; that is, with the same meaning and instead of the symbols, ⊆ and ⊇.[2] So for example, for these authors, it is true of every set A that A ⊂ A.

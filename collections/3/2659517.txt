@@ -1,0 +1,1 @@
+Typically, a design will make the resonant frequencies and Qs on the primary and secondary sides identical, such that,

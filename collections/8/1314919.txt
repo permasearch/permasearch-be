@@ -1,0 +1,1 @@
+Fortunate numbers that are prime (it has been conjectured they all are).

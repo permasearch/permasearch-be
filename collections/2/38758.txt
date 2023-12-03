@@ -1,0 +1,1 @@
+There are three different types of food web representations: topological (or traditional) food webs, flow webs and interaction webs. These webs can describe systems both above and below ground.

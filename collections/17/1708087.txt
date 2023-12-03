@@ -1,0 +1,1 @@
+This shows that to add     1   {\displaystyle 1}   to the total amount—any amount whatsoever, so long as it is greater than     12   {\displaystyle 12}  —it is sufficient to remove a single 4-dollar coin while adding a 5-dollar coin. However, this construction fails in the case that     a = 0   {\displaystyle a=0}  , or in words, when there is no 4-dollar coin.

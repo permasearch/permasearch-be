@@ -1,0 +1,1 @@
+If X ~ B(n, p) and Y ~ B(m, p) are independent binomial variables with the same probability p, then X + Y is again a binomial variable; its distribution is[citation needed] Z=X+Y ~ B(n+m, p):

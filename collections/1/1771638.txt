@@ -1,0 +1,1 @@
+Another method of calculating reorder level involves the calculation of usage rate per day, lead time which is the amount of time between placing an order and receiving the goods and the safety stock level expressed in terms of several days' sales.

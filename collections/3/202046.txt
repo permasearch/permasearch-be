@@ -1,0 +1,1 @@
+The following typical process states are possible on computer systems of all kinds. In most of these states, processes are "stored" on main memory.

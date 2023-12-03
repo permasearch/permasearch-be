@@ -1,0 +1,1 @@
+In a parabolic or hyperbolic trajectory, the motion is not periodic, and the duration of the full trajectory is infinite.

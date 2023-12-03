@@ -1,0 +1,1 @@
+Newton's second law is an approximation that is increasingly worse at high speeds because of relativistic effects.

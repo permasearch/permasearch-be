@@ -1,0 +1,1 @@
+3. The normal precedence is overridden by the following bracket pairs:

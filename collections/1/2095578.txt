@@ -1,0 +1,1 @@
+This physical intrusion detection system may help computer owners detect tampering with their computer.  However, most such systems are quite simple in construction; a knowledgeable intruder can open the case or modify its contents without triggering the switch.

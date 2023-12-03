@@ -1,0 +1,1 @@
+The computation of complex powers is facilitated by converting the base w to polar form, as described in detail below.

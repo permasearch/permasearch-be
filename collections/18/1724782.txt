@@ -1,0 +1,1 @@
+In formal extensional ontologies, only the utterances of words and numbers are considered individuals – the numbers and names themselves are classes. In a 4D ontology, an individual is identified by its spatio-temporal extent. Examples of formal extensional ontologies are ISO 15926 and the model in development by the IDEAS Group.

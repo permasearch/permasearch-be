@@ -1,0 +1,1 @@
+A related approach to Hutter's prize which appeared much earlier in the late 1990s is the inclusion of compression problems in an extended Turing Test.[99] or by tests which are completely derived from Kolmogorov complexity.[100] Other related tests in this line are presented by Hernandez-Orallo and Dowe.[101]

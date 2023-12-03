@@ -1,0 +1,1 @@
+By plotting each of these equations on their intended intervals, you get the bending moment and shear force diagrams for this beam.  In particular, at the clamped end of the beam, x = 50 and we have

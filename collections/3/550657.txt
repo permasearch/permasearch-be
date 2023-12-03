@@ -1,0 +1,1 @@
+The usual alternative to output parameters in C and related languages is to return a single data structure containing all return values.[9] For example, given a structure encapsulating width and height, one can write:

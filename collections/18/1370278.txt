@@ -1,0 +1,1 @@
+It will be built on a 22 nanometer process at the end of 2013 or early 2014.[1][2] In December 2012, IBM began submitting patches to the 3.8 version of the Linux kernel, to support new POWER8 features including the VSX-2 instructions.[3]

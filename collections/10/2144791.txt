@@ -1,0 +1,1 @@
+This is called an expansion as a trigonometric integral, or a Fourier integral expansion. The coefficient functions a and b can be found by using variants of the Fourier cosine transform and the Fourier sine transform (the normalisations are, again, not standardised):

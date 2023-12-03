@@ -1,0 +1,1 @@
+Classes are declared with the class or struct keyword. Declaration of members are placed within this declaration.

@@ -1,0 +1,1 @@
+Indeed, using the definition of      B  k   s , t     {\displaystyle B_{k}^{s,t}}  , the non-negativity of      f  k     {\displaystyle f_{k}}  , and the monotonicity of Lebesgue integral (see Remark 5 and Remark 4), we have

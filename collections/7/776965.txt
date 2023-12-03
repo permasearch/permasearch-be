@@ -1,0 +1,1 @@
+except for the asymmetrical little bit. Defining the variable u = t + t′ and v = t′/u, the variable u goes from 0 to ∞, while v goes from 0 to 1. The variable u is the total proper time for the loop, while v parametrizes the fraction of the proper time on the top of the loop versus the bottom.

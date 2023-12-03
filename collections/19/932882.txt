@@ -1,0 +1,1 @@
+or "ap to paste the content of the "a" register or "+p to paste the content of the system clipboard

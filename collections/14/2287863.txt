@@ -1,0 +1,1 @@
+where ee and be are the electric and magnetic fields of the EM radiation, εo and μo are the free-space permittivity and permeability, V is the interaction volume, ωph,α is the photon angular frequency for the α mode and cα† and cα are the photon creation and annihilation operators. The vector potential ae of EM fields (ee = -∂ae/∂t and be = ∇×ae) is

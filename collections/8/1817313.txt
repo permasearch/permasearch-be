@@ -1,0 +1,1 @@
+Batch File Based Processing (emulates some of actual stream processing, but much lower performance in general)

@@ -1,0 +1,1 @@
+A cyclic k-fold conering of Mk splits isometrically is a product M̃k × S1 × ℝ3, where M̃k is the space of strongly centred monopoles. This space features in an application of S-duality in theoretical physics, and in[70] G. B. Segal and A. Selby studied its topology and the L2 harmonic forms defined on it, partially confirming the physical prediction.

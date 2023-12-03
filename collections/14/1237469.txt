@@ -1,0 +1,1 @@
+This is an active sonar device that receives a stimulus and immediately (or with a delay) retransmits the received signal or a predetermined one.

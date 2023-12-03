@@ -1,0 +1,1 @@
+Vout = Vref (1 + RL/RH)

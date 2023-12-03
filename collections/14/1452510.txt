@@ -1,0 +1,1 @@
+The system development life cycle (SDLC) is the traditional system development method that organizations use for large-scale IT Projects. The SDLC is a structured framework that consists of sequential processes by which an information system is developed.

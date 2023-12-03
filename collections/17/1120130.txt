@@ -1,0 +1,1 @@
+In connectionless transmissions the service provider usually cannot guarantee that there will be no loss, error insertion, misdelivery, duplication, or out-of-sequence delivery of the packet. However, the effect of errors may be reduced by implementing error correction within an application protocol.

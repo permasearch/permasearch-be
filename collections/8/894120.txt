@@ -1,0 +1,1 @@
+In client configuration of layer-3 proxy (NAT), configuring the gateway is sufficient. However, for client configuration of a layer-7 proxy, the destination of the packets that the client generates must always be the proxy server (layer-7), then the proxy server reads each packet and finds out the true destination.

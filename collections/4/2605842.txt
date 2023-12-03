@@ -1,0 +1,1 @@
+Brood cells must be cleaned before the next use. Cells will be inspected by the queen and if unsatisfactory they will not be used. Worker bees in the cleaning phase will perform this cleaning. If the cells are not clean, the worker bee must do it again and again.

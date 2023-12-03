@@ -1,0 +1,1 @@
+More generally, if A is "near" the invertible matrix X in the sense that

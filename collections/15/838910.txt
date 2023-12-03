@@ -1,0 +1,1 @@
+Windows Vista build 5824 (17 October 2006) was supposed to be the RTM release, but a bug, which destroyed any system that was upgraded from Windows XP, prevented this, damaging development and lowering the chance that it would hit its January 2007 deadline.[42]

@@ -1,0 +1,1 @@
+In express routes where there is no central physical structure separating two different directional carriageways, but crossings are still motorway-like otherwise, and traffic lights are not present, the road is instead called an Autostrasse / Semi-autoroute / Semi-autostrada, usually translated into English as an expressway. Those often have a lower speed limit than motorways.

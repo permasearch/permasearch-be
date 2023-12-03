@@ -1,0 +1,1 @@
+A is a 3×3 matrix with 3 different eigenvalues; therefore, it is diagonalizable. Note that if there are exactly n distinct eigenvalues in an n×n matrix then this matrix is diagonalizable.

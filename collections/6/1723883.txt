@@ -1,0 +1,1 @@
+A client may avoid a login prompt when accessing a basic access authentication by prepending username:password@ to the hostname in the URL. For example, the following would access the page index.html at the web site www.example.com with the secure HTTPS protocol and provide the username Aladdin and the password OpenSesame credentials via basic authorization:

@@ -1,0 +1,1 @@
+The AMI filesystem is compressed, encrypted, signed, split into a series of 10Â MB chunks and uploaded into Amazon S3 for storage. An XML manifest file stores information about the AMI, including name, version, architecture, default kernel id, decryption key and digests for all of the filesystem chunks.

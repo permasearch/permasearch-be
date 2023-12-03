@@ -1,0 +1,1 @@
+In Unicode 5.1, named sequences were added for all Tamil pure consonants and syllables. Unicode 5.1 also has a named sequence for the Tamil ligature SRI (śrī), ஶ்ரீ . The name of this sequence is TAMIL SYLLABLE SHRII, and is composed of the Unicode sequence U+0BB6 U+0BCD U+0BB0 U+0BC0.

@@ -1,0 +1,1 @@
+The generic algorithm for image segmentation using MAP is given below:

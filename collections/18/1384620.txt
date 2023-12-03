@@ -1,0 +1,1 @@
+OCaml has no main function. Programs are evaluated from top to bottom.

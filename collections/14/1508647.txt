@@ -1,0 +1,1 @@
+macOS High Sierra requires at least 2 GB of RAM and 14.3 GB of available disk space.

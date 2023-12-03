@@ -1,0 +1,1 @@
+The first statement in main calls the fork system call to split execution into two processes. The return value of fork is recorded in a variable of type pid_t, which is the POSIX type for process identifiers (PIDs).

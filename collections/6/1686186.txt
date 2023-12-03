@@ -1,0 +1,1 @@
+The models for the figure of the Earth vary in the way they are used, in their complexity, and in the accuracy with which they represent the size and shape of the Earth.

@@ -1,0 +1,1 @@
+A perspective mapping     π   {\displaystyle \pi }   of a pencil     B ( U )   {\displaystyle B(U)}   onto a pencil     B ( V )   {\displaystyle B(V)}   is a bijection (1-1 correspondence) such that corresponding lines intersect on a fixed line     a   {\displaystyle a}  , which is called the axis of the perspectivity     π   {\displaystyle \pi }  .

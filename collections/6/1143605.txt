@@ -1,0 +1,1 @@
+Operating systems provide reliable communication and synchronization facilities for communicating objects confined to the same system by means of system libraries. A programmer using a general purpose programming language (like C or Ada) can use the routines in the libraries to implement a protocol, instead of using a dedicated protocolling language.

@@ -1,0 +1,1 @@
+Third proof: "Corresponding to each computing machine M we construct a formula Un(M) and we show that, if there is a general method for determining whether Un(M) is provable, then there is a general method for determining whether M ever prints 0" (Undecidable, p. 145)

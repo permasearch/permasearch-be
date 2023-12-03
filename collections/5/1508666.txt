@@ -1,0 +1,1 @@
+With the release of macOS 10.13.5 messages can now be stored in the cloud along with iOS 11.4, this allows messages to sync across all devices using the same iCloud account, when messages are deleted they are deleted on each device as well, messages stored in the cloud do not take up storage on Macs anymore.

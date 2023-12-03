@@ -1,0 +1,1 @@
+The cache can be cleared by using Internet Options within the Internet Explorer interface, but this method is subject to deletion privacy issues. Many alternative tools exist to erase the data instead.

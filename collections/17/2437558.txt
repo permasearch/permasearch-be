@@ -1,0 +1,1 @@
+To overcome some of these limitations, the FAA is developing a new collision avoidance logic based on dynamic programming.

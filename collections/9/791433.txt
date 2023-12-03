@@ -1,0 +1,1 @@
+where the ellipsis ("...") indicates that the list continues in the obvious way. Ellipses may also be used where sets have infinitely many members. Thus the set of positive even numbers can be written as {2, 4, 6, 8, ... }.

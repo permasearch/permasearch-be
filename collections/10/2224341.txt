@@ -1,0 +1,1 @@
+It is widely believed[1] that securing the DNS is critically important for securing the Internet as a whole, but deployment of DNSSEC specifically has been hampered (As of 22 January 2010[update]) by several difficulties:

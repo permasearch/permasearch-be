@@ -1,0 +1,1 @@
+Fleet vehicles can be managed by a fleet manager or transport manager using fleet management software. Vehicles may be connected to a fleet telematics system by way of a Fleet Management System or FMS.

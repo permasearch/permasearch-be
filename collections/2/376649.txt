@@ -1,0 +1,1 @@
+The bulk volume of a material—inclusive of the void fraction—is often obtained by a simple measurement (e.g. with a calibrated measuring cup) or geometrically from known dimensions.

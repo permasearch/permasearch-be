@@ -1,0 +1,1 @@
+The feature is controlled via the OS X System Preferences Energy Saver panel, in the Options tab. Marking the Wake for network access checkbox enables Wake-on-LAN.

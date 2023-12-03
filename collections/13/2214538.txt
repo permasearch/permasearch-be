@@ -1,0 +1,1 @@
+A system that was introduced in 1998. It contained an Intel Pentium II (Deschutes) CPU, SDRAM, and an i440BX chipset.

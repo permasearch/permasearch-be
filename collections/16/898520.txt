@@ -1,0 +1,1 @@
+The gravity model can be used to measure accessibility to services (e.g., access to health care). A special case of gravity model is the two-step floating catchment area method (2SFCA), which is popular in health care research.

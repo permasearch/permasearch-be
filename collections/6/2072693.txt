@@ -1,0 +1,1 @@
+Fick's second law can be derived from Fick's first law and the mass conservation in absence of any chemical reactions:

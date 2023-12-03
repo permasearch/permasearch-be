@@ -1,0 +1,1 @@
+A DMZ configuration provides additional security from external attacks, but it typically has no bearing on internal attacks such as sniffing communication via a packet analyzer or spoofing such as e-mail spoofing.

@@ -1,0 +1,1 @@
+Some languages do support locks syntactically. An example in C# follows:

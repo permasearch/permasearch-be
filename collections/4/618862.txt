@@ -1,0 +1,1 @@
+In both Microsoft Windows and Apple Macintosh operating systems, in other similar desktop environments and in some applications, common functions are assigned keyboard shortcuts (e.g. Control-C or Command-C copies the current selection).

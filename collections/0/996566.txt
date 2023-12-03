@@ -1,0 +1,1 @@
+Note: W = Wins; L = Losses; ERA = Earned run average; G = Games pitched; GS = Games started; SV = Saves; IP = Innings pitched; H = Hits allowed; R = Runs allowed; ER = Earned runs allowed; BB = Walks allowed; K = Strikeouts

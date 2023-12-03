@@ -1,0 +1,1 @@
+Water coats particles in an aerosols, making them activated, usually in the context of forming a cloud droplet.[citation needed] Following the Kelvin equation (based on the curvature of liquid droplets), smaller particles need a higher ambient relative humidity to maintain equilibrium than larger particles do. The following formula gives relative humidity at equilibrium:

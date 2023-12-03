@@ -1,0 +1,1 @@
+With the proliferation of mobile devices, Connect Four has regained popularity as a game that can be played quickly and against another person over an Internet connection.

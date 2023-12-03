@@ -1,0 +1,1 @@
+Because it relates different coordinate systems, the 1st Piola–Kirchhoff stress is a two-point tensor. In general, it is not symmetric. The 1st Piola–Kirchhoff stress is the 3D generalization of the 1D concept of engineering stress.

@@ -1,0 +1,1 @@
+PC-based PHRs are subject to physical loss and damage of the personal computer and the data that it contains. Some other methods of device solution may entail cards with embedded chips containing health information that may or may not be linked to a personal computer application or a web solution.

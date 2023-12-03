@@ -1,0 +1,1 @@
+TWI (Two-Wire Interface) or TWSI (Two-Wire Serial Interface) is essentially the same bus implemented on various system-on-chip processors from Atmel and other vendors.[29] Vendors use the name TWI, even though I²C is not a registered trademark. Trademark protection only exists for the respective logo (see upper right corner), and patents on I²C have now lapsed.

@@ -1,0 +1,1 @@
+Deletion of profiles marked for deletion at the next logoff does not fail for locked profiles. For workgroup computers, Windows XP no longer deletes the profiles of users belonging to the Guests group.

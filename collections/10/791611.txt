@@ -1,0 +1,1 @@
+In Fortran, operator .GE. means "greater than or equal to".

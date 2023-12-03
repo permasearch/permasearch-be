@@ -1,0 +1,1 @@
+The MMSI was meant to be an all-inclusive ship electronic identity, used in one form or another by every GMDSS or telecommunications instrument on the ship. Questions have been raised, however, whether the MMSI can in practice totally fulfill that role. ITU may eventually end the practice of relating Inmarsat MESIN identities with the ship MMSI identity.

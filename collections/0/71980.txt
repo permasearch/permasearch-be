@@ -1,0 +1,1 @@
+The inverse of every orthogonal matrix is again orthogonal, as is the matrix product of two orthogonal matrices. In fact, the set of all n × n orthogonal matrices satisfies all the axioms of a group. It is a compact Lie group of dimension n(n − 1)/2, called the orthogonal group and denoted by O(n).

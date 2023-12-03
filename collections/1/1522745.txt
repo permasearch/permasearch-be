@@ -1,0 +1,1 @@
+Should it be necessary to make the distinction, the number of decibels is written with additional significant figures.  3.00 dB is a power ratio of 10​3⁄10, or 1.9953, about 0.24% different from exactly 2, and a voltage ratio of 1.4125, 0.12% different from exactly √2.  Similarly, an increase of 6.00 dB is the power ratio is 10​6⁄10 ≈ 3.9811, about 0.5% different from 4.

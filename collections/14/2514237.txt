@@ -1,0 +1,1 @@
+where the first two figures are zeros, and X is any figure from 0 to 9. The MID reflects the country in which the coast station or coast earth station is located.

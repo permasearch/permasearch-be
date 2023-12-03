@@ -1,0 +1,1 @@
+Given a right triangle ABC with hypotenuse AC, construct a circle C whose diameter is AC. Let O be the center of C. Let D be the intersection of C and the ray OB. By Thales' theorem, ∠ADC is right. But then D must equal B. (If D lies inside ABC, ∠ADC would be obtuse, and if D lies outside ABC, ∠ADC would be acute.)

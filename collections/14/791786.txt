@@ -1,0 +1,1 @@
+An important property of a sequence is convergence. If a sequence converges, it converges to a particular value known as the limit. If a sequence converges to some limit, then it is convergent. A sequence that does not converge is divergent.

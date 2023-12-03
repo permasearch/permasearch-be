@@ -1,0 +1,1 @@
+The leader of the imaging team was Thomas Mutch, a geologist at Brown University in Providence, Rhode Island. The camera uses a movable mirror to illumate 12 photo diodes. Each of the 12 silicon diodes are designed to be sensitive to different frequences of light. Several diodes are placed to focus accurately at distances between six and 43 feet away from the lander.

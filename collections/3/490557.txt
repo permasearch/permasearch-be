@@ -1,0 +1,1 @@
+Consider the simple experiment where a fair coin is tossed four times. Find the probability that exactly two of the tosses result in heads.

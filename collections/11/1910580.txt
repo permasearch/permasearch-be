@@ -1,0 +1,1 @@
+1. For a given steam velocity work done per kg of steam would be maximum when       cos  2   ⁡  α  1    = 1   {\displaystyle {\cos ^{2}\alpha _{1}}=1}   or      α  1   = 0   {\displaystyle \alpha _{1}=0}  .

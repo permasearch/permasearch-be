@@ -1,0 +1,1 @@
+A new wire inserted over an existing insulation remnant may be unreliable, as the 110 IDC was designed to hold only a single wire per contact.

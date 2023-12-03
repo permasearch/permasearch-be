@@ -1,0 +1,1 @@
+TI has since provided several new LaunchPads based on the MSP430 platform:

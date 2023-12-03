@@ -1,0 +1,1 @@
+For this analysis, we consider a gear train that has one degree-of-freedom, which means the angular rotation of all the gears in the gear train are defined by the angle of the input gear.

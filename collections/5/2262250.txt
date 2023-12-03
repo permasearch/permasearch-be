@@ -1,0 +1,1 @@
+In state 2 above, the parser has just found and shifted-in the + of grammar rule

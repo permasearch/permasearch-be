@@ -1,0 +1,1 @@
+This is a link in HTML. To create a link the <a> tag is used. The href= attribute holds the URL address of the link.

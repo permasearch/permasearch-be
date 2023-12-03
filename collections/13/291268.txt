@@ -1,0 +1,1 @@
+Compound interest means that interest is earned on prior interest in addition to the principal. Due to compounding, the total amount of debt grows exponentially, and its mathematical study led to the discovery of the number e.[4] In practice, interest is most often calculated on a daily, monthly, or yearly basis, and its impact is influenced greatly by its compounding rate.

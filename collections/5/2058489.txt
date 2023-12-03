@@ -1,0 +1,1 @@
+Articles about vessels with a numerical name should be titled like HMS A1, HMS E11, HMS M1 etc.

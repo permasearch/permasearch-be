@@ -1,0 +1,1 @@
+Part of this CSS presentation behavior is the notion of the "box model". This is applied to those elements that CSS considers to be "block" elements, set through the CSS display: block; declaration.

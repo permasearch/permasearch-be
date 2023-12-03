@@ -1,0 +1,1 @@
+To determine the length of this side, the two right triangles DCM and QCM are depicted below the circle. Using Pythagoras' theorem and two sides, the hypotenuse of the larger triangle is found as        5    /  2    {\displaystyle \scriptstyle {\sqrt {5}}/2}  . Side h of the smaller triangle then is found using the half-angle formula:

@@ -1,0 +1,1 @@
+A white paper, published by Microsoft on 29 August 2007, outlined the scope and intent of the service pack, identifying three major areas of improvement: reliability and performance, administration experience, and support for newer hardware and standards.[130]

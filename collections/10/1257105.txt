@@ -1,0 +1,1 @@
+If the formats have approximately the same aspect ratios, the characteristic dimensions can be the format diagonals; if the aspect ratios differ considerably (e.g., 4×5 vs. 6×17), the dimensions must be chosen more carefully, and the DOF comparison may not even be meaningful.

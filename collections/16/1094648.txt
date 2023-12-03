@@ -1,0 +1,1 @@
+This is sometimes referred to as the sifting property[31] or the sampling property. The delta function is said to "sift out" the value at t = T.

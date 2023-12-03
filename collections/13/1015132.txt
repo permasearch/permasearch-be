@@ -1,0 +1,1 @@
+For diagonal elements (when i = j), displacements perpendicular to the axis of rotation results in the above simplified version of the parallel axis theorem.

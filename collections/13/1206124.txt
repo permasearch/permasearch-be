@@ -1,0 +1,1 @@
+where ω = 2πf, in which f is the resonance frequency in hertz, L is the inductance in henries, and C is the capacitance in farads when standard SI units are used.

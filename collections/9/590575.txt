@@ -1,0 +1,1 @@
+In the National Hockey League, teams are awarded two points for a win, and one point for either a tie (a discontinued statistic) or an overtime loss. It can be calculated as follows:

@@ -1,0 +1,1 @@
+for a graph with vertex set V and edge set E. Both results were proven by Leonhard Euler (1736) in his famous paper on the Seven Bridges of Königsberg that began the study of graph theory.

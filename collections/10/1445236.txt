@@ -1,0 +1,1 @@
+Although it might be desirable to use a transliteration scheme where the original Bengali orthography is recoverable from the Latin text, Bengali words are currently Romanized on Wikipedia using a phonemic transcription, where the true phonetic pronunciation of Bengali is represented with no reference to how it is written.

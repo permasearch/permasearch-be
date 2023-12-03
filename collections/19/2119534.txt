@@ -1,0 +1,1 @@
+Δ S = S −  S  0   =  k  B   ln ⁡  Ω    {\displaystyle \Delta S=S-S_{0}=k_{\text{B}}\ln {\Omega }}

@@ -1,0 +1,1 @@
+Implementations may provide their own extensions and deviations, and vary in their degree of compliance with written standards. Their exact behavior may depend on command-line flags supplied on invocation. For instance, the GNU C preprocessor can be made more standards compliant by supplying certain flags.[5]

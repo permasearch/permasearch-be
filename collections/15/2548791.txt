@@ -1,0 +1,1 @@
+U   E    =   1 2    ∑  i = 1   N    q  i   Φ (   r   i   )   {\displaystyle U_{\mathrm {E} }={\frac {1}{2}}\sum _{i=1}^{N}q_{i}\Phi (\mathbf {r} _{i})}  .

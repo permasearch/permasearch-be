@@ -1,0 +1,1 @@
+Design issues for IFE include system safety, cost efficiency, software reliability, hardware maintenance, and user compatibility.

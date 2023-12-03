@@ -1,0 +1,1 @@
+Multiple texture maps (or channels) may be combined for control over specularity, normals, displacement, or subsurface scattering e.g. for skin rendering.

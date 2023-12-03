@@ -1,0 +1,1 @@
+For large, or older, generators, it is usual for a separate exciter dynamo to be operated in conjunction with the main power generator. This is a small permanent-magnet or battery-excited dynamo that produces the field current for the larger generator.

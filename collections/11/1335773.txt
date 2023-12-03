@@ -1,0 +1,1 @@
+A passenger elevator is designed to move people between a building's floors.

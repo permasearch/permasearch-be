@@ -1,0 +1,1 @@
+Moreover, these bounds are reasonably tight when p = 1/2, since the following expression holds for all k â‰¥ 3n/8[24]

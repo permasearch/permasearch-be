@@ -1,0 +1,1 @@
+A glide reflection is a type of isometry of the Euclidean plane: the combination of a reflection in a line and a translation along that line. Reversing the order of combining gives the same result. Depending on context, we may consider a simple reflection (without translation) as a special case where the translation vector is the zero vector.

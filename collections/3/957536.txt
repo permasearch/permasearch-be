@@ -1,0 +1,1 @@
+As frequency approaches infinity, the capacitive impedance (or reactance) approaches zero and the ESR becomes significant. As the reactance becomes negligible, power dissipation approaches PRMS = VRMSÂ² /RESR.

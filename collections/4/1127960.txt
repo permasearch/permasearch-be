@@ -1,0 +1,1 @@
+In the small-angle approximation, the motion of a simple pendulum is approximated by simple harmonic motion. The period of a mass attached to a pendulum of length l with gravitational acceleration     g   {\displaystyle g}   is given by

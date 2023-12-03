@@ -1,0 +1,1 @@
+Observing that the product of any complex number z and its complex conjugate        z ¯      {\displaystyle {\bar {z}}}  , with        z ¯    = x − i y ,   {\displaystyle {\bar {z}}=x-iy,}   is always a non-negative real number, the absolute value of a complex number can be written similar to equation (1) above as

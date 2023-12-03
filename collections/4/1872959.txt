@@ -1,0 +1,1 @@
+Many DVD-Video titles use Content Scramble System (CSS) encryption, which is intended to discourage people from copying the disc. Usually, users need to install software provided on the DVD or downloaded from the Internet such as MPlayer, TotalMedia Theatre, PowerDVD, VLC or WinDVD to be able to view the disc in a computer system.

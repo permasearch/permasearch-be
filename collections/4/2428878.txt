@@ -1,0 +1,1 @@
+Every such sequence can alternatively be written as a series. For instance, in the 3-adics, the sequence (2, 8, 8, 35, 35, ...) can be written as 2 + 2路3 + 0路32 + 1路33 + 0路34 + ... The partial sums of this latter series are the elements of the given sequence.

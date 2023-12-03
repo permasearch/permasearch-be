@@ -1,0 +1,1 @@
+Peak accelerations can be increased by designing the vehicle with a reduced mass, usually achieved by a reduction in the fuel load and tankage and associated structures, but obviously this reduces range, delta-v and burn time. Still, for some applications that rockets are used for, a high peak acceleration applied for just a short time is highly desirable.

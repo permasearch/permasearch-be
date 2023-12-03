@@ -1,0 +1,1 @@
+where mU and σU are the mean and standard deviation of U, is approximately a standard normal deviate whose significance can be checked in tables of the normal distribution. mU and σU are given by

@@ -1,0 +1,1 @@
+Sound does not usually come from a single source: in real situations, sounds from multiple sources and directions are superimposed as they arrive at the ears. Hearing involves the computationally complex task of separating out the sources of interest, often estimating their distance and direction as well as identifying them.[17]

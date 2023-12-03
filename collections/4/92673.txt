@@ -1,0 +1,1 @@
+Some computers now include a TRRS headset socket, compatible with headsets intended for smartphones. One such pin assignment, with ground on the sleeve, is standardized in OMTP[32] and has been accepted as a national Chinese standard YDT 1885-2009.

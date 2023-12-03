@@ -1,0 +1,1 @@
+This histogram differs from the first only in the vertical scale.  The area of each block is the fraction of the total that each category represents, and the total area of all the bars is equal to 1 (the fraction meaning "all"). The curve displayed is a simple density estimate. This version shows proportions, and is also known as a unit area histogram.

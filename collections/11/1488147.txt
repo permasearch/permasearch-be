@@ -1,0 +1,1 @@
+where C is the proportionality constant. So knowing G is enough. It determines all the multipoint correlations of the field.

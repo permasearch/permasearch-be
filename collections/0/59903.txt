@@ -1,0 +1,1 @@
+In probability theory, two events are independent, statistically independent, or stochastically independent[1] if the occurrence of one does not affect the probability of occurrence of the other. Similarly, two random variables are independent if the realization of one does not affect the probability distribution of the other.

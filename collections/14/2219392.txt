@@ -1,0 +1,1 @@
+All caps typography was common on teletype machines, such as those used by police departments, news, and the then-called Weather Bureau, as well as early computers, such as certain early Apple II models and the ZX81, which had a limited support for lower-case text. This changed as full support of ASCII became standard, allowing lower-case characters.

@@ -1,0 +1,1 @@
+In regular expressions, the character class [:punct:] is defined to consist of the following characters (when operating in ASCII mode): [][!"#$%&'()*+,./:;<=>?@\^_`{|}~-]

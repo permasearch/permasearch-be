@@ -1,0 +1,1 @@
+KCL is applicable to any lumped network irrespective of the nature of the network; whether unilateral or bilateral, active or passive, linear or non-linear.

@@ -1,0 +1,1 @@
+In LaTeX, note that the reverse orientation of \ddots can be achieved with \reflectbox provided by the graphicx package: \reflectbox{\ddots} yields .

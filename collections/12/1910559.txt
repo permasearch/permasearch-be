@@ -1,0 +1,1 @@
+T =    m ˙    (  r  2    V  w 2   −  r  1    V  w 1   )   {\displaystyle T={\dot {m}}(r_{2}V_{w2}-r_{1}V_{w1})}

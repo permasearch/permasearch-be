@@ -1,0 +1,1 @@
+The JIS / Shift JIS wave dash is still formally mapped to U+301C as of JIS X 0213,[32] whereas the WHATWG Encoding Standard used by HTML5 follows Microsoft in mapping 0x8160 to U+FF5E.[33] These two code points have a similar or identical glyph in several fonts, reducing the confusion and incompatibility.

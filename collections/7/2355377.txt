@@ -1,0 +1,1 @@
+The following types which act on ligand-gated ion channels (LGICs) via binding to their pore also exist:

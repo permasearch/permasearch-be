@@ -1,0 +1,1 @@
+Names of parties can be shown only if the parties are registered, which requires, among other things, a minimum of 500 members.

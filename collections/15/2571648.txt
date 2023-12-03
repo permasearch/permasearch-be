@@ -1,0 +1,1 @@
+P  n   m   ( x )   = ( 1 −  x  2    )   m 2          d  m    P  n     d  x  m       1 ≤ m ≤ n   {\displaystyle P_{n}^{m}(x)\ =(1-x^{2})^{\frac {m}{2}}\ {\frac {d^{m}P_{n}}{dx^{m}}}\quad 1\leq m\leq n}

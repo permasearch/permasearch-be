@@ -1,0 +1,1 @@
+Finally, the parser reads a '$' (end of input symbol) from the input stream, which means that according to the action table (the current state is 3) the parser accepts the input string. The rule numbers that will then have been written to the output stream will be [5, 3, 5, 2] which is indeed a rightmost derivation of the string "1 + 1" in reverse.

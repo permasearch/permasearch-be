@@ -1,0 +1,1 @@
+The probability density for finding a particle with a given momentum is derived from the wavefunction as     P ( x ) =  |  ϕ ( x )   |   2   .   {\displaystyle P(x)=|\phi (x)|^{2}.}  . As with position, the probability density for finding the particle at a given momentum depends upon its state, and is given by

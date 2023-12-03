@@ -1,0 +1,1 @@
+Cars with automatic transmissions shut down upon braking to a full stop - the shut down is activated by the footbrake pedal being in use when the car comes to a halt. If the car is slowed initially by manual use of the automatic gear box and final stoppage is by use of the handbrake the engine will not shut down.

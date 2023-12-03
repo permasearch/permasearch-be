@@ -1,0 +1,1 @@
+For a constant current mode with an input voltage source at VIN at 12 V and a forward voltage drop of VF=3.6 V, the maximum output current will be PMAX / (VI - VF) = 0.98 / (12-3.6) = 112 mA.

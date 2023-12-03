@@ -1,0 +1,1 @@
+The compressibility equation relates the isothermal compressibility (and indirectly the pressure) to the structure of the liquid.

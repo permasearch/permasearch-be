@@ -1,0 +1,1 @@
+Although conduction velocity itself is not directly measured, calculating conduction velocities from NCS measurements is trivial. The distance between the stimulating and receiving electrodes is divided by the impulse latency, resulting in conduction velocity.

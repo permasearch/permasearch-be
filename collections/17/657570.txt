@@ -1,0 +1,1 @@
+Two equations or two systems of equations are equivalent if they have the same set of solutions. The following operations transform an equation or a system of equations into an equivalent one â€“ provided that the operations are meaningful for the expressions they are applied to:

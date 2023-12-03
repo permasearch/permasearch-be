@@ -1,0 +1,1 @@
+MATLAB can call functions and subroutines written in the programming languages C or Fortran.[27] A wrapper function is created allowing MATLAB data types to be passed and returned. MEX files (MATLAB executables) are the dynamically loadable object files created by compiling such functions.[28][29] Since 2014 increasing two-way interfacing with Python was being added.[30][31]

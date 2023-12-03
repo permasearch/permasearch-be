@@ -1,0 +1,1 @@
+In the book Arithmetices principia, nova methodo exposita, Giuseppe Peano proposed axioms for arithmetic based on his axioms for natural numbers.[9] Peano arithmetic has two axioms for multiplication:

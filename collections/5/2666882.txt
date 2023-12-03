@@ -1,0 +1,1 @@
+which means that R does not produce a reflection, and hence it represents a rotation (an orientation-preserving orthogonal transformation). Indeed, when an orthogonal transformation matrix produces a reflection, its determinant is â€“1.

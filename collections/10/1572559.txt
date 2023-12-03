@@ -1,0 +1,1 @@
+The binding of the antigen-MHC to the TCR complex and CD4 may also help the APC and the Th cell adhere during Th cell activation, but the integrin protein LFA-1 on the T cell and ICAM on the APC are the primary molecules of adhesion in this cell interaction.

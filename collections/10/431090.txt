@@ -1,0 +1,1 @@
+Resource allocation may be decided by using computer programs applied to a specific domain to automatically and dynamically distribute resources to applicants.

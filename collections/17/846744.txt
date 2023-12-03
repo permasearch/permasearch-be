@@ -1,0 +1,1 @@
+This equation is the probability mass function (PMF) for a Poisson distribution.

@@ -1,0 +1,1 @@
+A very basic summary of the histone code for gene expression status is given below (histone nomenclature is described here):

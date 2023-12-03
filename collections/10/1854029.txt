@@ -1,0 +1,1 @@
+No higher-level layers and interoperability sublayers are defined in the standard. Other specifications - such as ZigBee, SNAP, and 6LoWPAN/Thread - build on this standard. RIOT, OpenWSN, TinyOS,  Unison RTOS, DSPnano RTOS, nanoQplus and Contiki operating systems also use a few items of IEEE 802.15.4 hardware and software.

@@ -1,0 +1,1 @@
+Another advantages of WiMAX, is a relatively new technology that enables communication over a maximum distance of 30 miles – compared to 300 feet for WiFi. Of course, the longer the distance, the slower the speed, but it is still faster and has a longer range than WiFi. Ideally, speeds of around 10 MBps could be achieved with a range of 1 – 6 miles (1.6 – 9.7 km).

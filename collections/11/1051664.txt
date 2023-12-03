@@ -1,0 +1,1 @@
+Thus, the value of a binary call is the negative of the derivative of the price of a vanilla call with respect to strike price:

@@ -1,0 +1,1 @@
+Here, F is force, m is inertial mass, and a is acceleration.

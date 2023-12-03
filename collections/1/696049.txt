@@ -1,0 +1,1 @@
+Where “r” is defined as the ratio of the harmonic force frequency over the undamped natural frequency of the mass–spring–damper model.

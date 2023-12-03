@@ -1,0 +1,1 @@
+A linear transformation is a rigid transformation if it satisfies the condition,

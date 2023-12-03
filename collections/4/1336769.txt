@@ -1,0 +1,1 @@
+Generalizing the focus properties of conics to the case where there are more than two foci produces sets called generalized conics.

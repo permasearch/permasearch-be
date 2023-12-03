@@ -1,0 +1,1 @@
+matches the entire line instead of matching only "Ganymede,". The aforementioned quantifiers may, however, be made lazy or minimal or reluctant, matching as few characters as possible, by appending a question mark: ".*?" matches only "Ganymede,".[29]

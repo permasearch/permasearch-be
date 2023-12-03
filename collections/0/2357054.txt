@@ -1,0 +1,1 @@
+The ripple current is specified as an effective (RMS) value at 100 or 120 Hz or at 10 kHz at upper category temperature. Non-sinusoidal ripple currents have to be analyzed and separated into their single sinusoidal frequencies by means of Fourier analysis and summarized by squared addition the single currents.[58]

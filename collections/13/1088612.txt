@@ -1,0 +1,1 @@
+Most programming languages that support arrays support the store and select operations, and have special syntax for indexing. Early languages used parentheses, e.g. A(i,j), as in FORTRAN; others choose square brackets, e.g. A[i,j] or A[i][j], as in Algol 60 and Pascal (to distinguish from the use of parentheses for function calls).

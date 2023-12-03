@@ -1,0 +1,1 @@
+TclOO was not only added to build a strong object oriented system, but also to enable extension packages to build object oriented abstractions using it as a foundation. After the release of TclOO incr Tcl was updated to use TclOO as its foundation.[23]

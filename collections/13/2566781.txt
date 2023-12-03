@@ -1,0 +1,1 @@
+These stresses and strains can be calculated using the Lamé equations, a set of equations developed by French mathematician Gabriel Lamé.

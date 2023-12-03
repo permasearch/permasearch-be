@@ -1,0 +1,1 @@
+With    d  i   d_{i}   being the distance from the lens to the image,    h  i   h_{i}   the height of the image and    h  o   h_{o}   the height of the object, the magnification can also be written as:

@@ -1,0 +1,1 @@
+where AOL is the open-loop gain of the amplifier (the term "open-loop" refers to the absence of a feedback loop from the output to the input).

@@ -1,0 +1,1 @@
+As of Mac OS X Lion, the underlying media framework for QuickTime, QTKit, is deprecated in favor of a newer graphics framework, AV Foundation.[4] In iOS, the video player on the Internet was QuickTime-based, used to play videos on the internet.

@@ -1,0 +1,1 @@
+HSPA+ 42, 5.76 Mbit/s 850, 900, 1900, 2100 MHz (4G, LTE model)

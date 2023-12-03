@@ -1,0 +1,1 @@
+By alloying the material, impurity atoms in low concentrations will occupy a lattice position directly below a dislocation, such as directly below an extra half plane defect. This relieves a tensile strain directly below the dislocation by filling that empty lattice space with the impurity atom.

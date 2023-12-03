@@ -1,0 +1,1 @@
+Distance cannot be negative, and distance travelled never decreases. Distance is a scalar quantity or a magnitude, whereas displacement is a vector quantity with both magnitude and direction. Directed distance is a positive, zero, or negative scalar quantity.

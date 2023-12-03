@@ -1,0 +1,1 @@
+A programming language is a formal language which comprises a set of instructions used to produce various kinds of output. Programming languages are used to create programs that implement specific algorithms.

@@ -1,0 +1,1 @@
+They are generally specified using the number of ports and the number of switching positions. It can be represented in general form as np/ns, where np is the number of ports connected to the direction control valve and ns the number of switching positions.

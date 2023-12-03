@@ -1,0 +1,1 @@
+Within the multinational calling area administered by the North American Numbering Plan, telephone numbers are composed of three fixed-length fields: a three-digit numbering plan area (NPA) code (area code), indicating a geographical area, a three-digit (NXX) central office code, and a four-digit (XXXX) station number.

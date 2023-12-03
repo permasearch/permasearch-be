@@ -1,0 +1,1 @@
+The OpenGL API is an open standard, which means that various hardware makers and operating system developers can freely create an OpenGL implementation as part of their system. OpenGL implementations exist for a wide variety of platforms. Most notably, OpenGL is the dominating graphics API of Unix-like computer systems.

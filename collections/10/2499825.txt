@@ -1,0 +1,1 @@
+MPLS is currently (as of March 2012) in use in IP-only networks and is standardized by the IETF in RFCÂ 3031. It is deployed to connect as few as two facilities to very large deployments.

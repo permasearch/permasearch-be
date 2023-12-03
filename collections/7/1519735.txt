@@ -1,0 +1,1 @@
+Numbering the positions from the right (code aligned to the right), the odd data digits are always weight of 3 and the even data digits are always weight of 1, regardless of the length of the code.

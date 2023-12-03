@@ -1,0 +1,1 @@
+At least two of Dell's business PCs introduced in 2013, the Optiplex 9020 and Precision T1700, ship with 12 V–only power supplies and implement 5 V and 3.3 V conversion exclusively on the motherboard.

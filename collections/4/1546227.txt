@@ -1,0 +1,1 @@
+Inflation and deflation yield a method for constructing kite and dart (P2) tilings, or rhombus (P3) tilings, known as up-down generation.[29][40][41]

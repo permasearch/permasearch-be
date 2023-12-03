@@ -1,0 +1,1 @@
+Where speed stability is important, some AC motors (such as some Papst motors) have the stator on the inside and the rotor on the outside to optimize inertia and cooling.

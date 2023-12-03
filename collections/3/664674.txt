@@ -1,0 +1,1 @@
+A rich amount of third-party libraries exist for GUI and other functions like: Adaptive Communication Environment (ACE), Crypto++, various XMPP Instant Messaging (IM) libraries,[4] OpenLDAP, Qt, gtkmm.

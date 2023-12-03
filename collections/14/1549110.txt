@@ -1,0 +1,1 @@
+Although the explicit form of the function f looks complicated, it is clear that we may and do choose the value of ε so that the potential VT is equal to VS plus a constant independent of the variable Δd. By inspection, this occurs when

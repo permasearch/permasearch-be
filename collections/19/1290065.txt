@@ -1,0 +1,1 @@
+In biogeography, parsimony is used to infer ancient migrations of species or populations by observing the geographic distribution and relationships of existing organisms. Given the phylogenetic tree, ancestral migrations are inferred to be those that require the minimum amount of total movement.

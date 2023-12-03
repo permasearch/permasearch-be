@@ -1,0 +1,1 @@
+In C++/CLI, which has both destructors and finalizers, a destructor is a method whose name is the class name with ~ prefixed, as in ~Foo (as in C++), and a finalizer is a method whose name is the class name with ! prefixed, as in !Foo.

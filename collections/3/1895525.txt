@@ -1,0 +1,1 @@
+Several efficient algorithms for simple random sampling have been developed.[2][3] A naive algorithm is the draw-by-draw algorithm where at each step we remove the item at that step from the set with equal probability and put the item in the sample. We continue until we have sample of desired size k. The drawback of this method is that it requires random access in the set.

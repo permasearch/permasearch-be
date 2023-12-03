@@ -1,0 +1,1 @@
+Often, a low power solenoid valve is used to operate a small hydraulic valve (called the pilot) that starts a flow of fluid that drives a larger hydraulic valve that requires more force.

@@ -1,0 +1,1 @@
+In late 2016, IBM announced that there would not be a Notes 9.0.2 release, but 9.0.1 would be supported until at least 2021.[45] In the same presentation IBM also stated that their internal users had been migrated away from Notes and onto the IBM Verse client.

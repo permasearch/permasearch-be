@@ -1,0 +1,1 @@
+For data that follows a bivariate normal distribution, the exact density function f(r) for the sample correlation coefficient r of a normal bivariate is [16] [17] [18]

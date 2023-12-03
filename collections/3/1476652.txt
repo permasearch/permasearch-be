@@ -1,0 +1,1 @@
+for a unit area parallel to the xz-plane, moving along the x axis. We will derive this formula and show how μ is related to λ.

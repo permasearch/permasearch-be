@@ -1,0 +1,1 @@
+A rigid body is an object of finite extent in which all the distances between the component particles are constant. No truly rigid body exists; external forces can deform any solid. For our purposes, then, a rigid body is a solid which requires large forces to deform it appreciably.

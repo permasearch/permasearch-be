@@ -1,0 +1,1 @@
+Linear PCM audio sampling usually works on the basis of each bit of resolution being equivalent to 6 decibels of amplitude (a 2x increase in volume or precision).

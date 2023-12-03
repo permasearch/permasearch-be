@@ -1,0 +1,1 @@
+As is true more generally for any orthodiagonal quadrilateral, the area A of a kite may be calculated as half the product of the lengths of the diagonals p and q:

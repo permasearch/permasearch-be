@@ -1,0 +1,1 @@
+In other words, a set is countably infinite if it has one-to-one correspondence with the natural number set, N.

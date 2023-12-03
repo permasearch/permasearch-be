@@ -1,0 +1,1 @@
+The symmetric matrix of diffusion coefficients Dij should be positive definite. It is needed to make the right hand side operator elliptic.

@@ -1,0 +1,1 @@
+For example, the net bitrate (and thus the "connection speed") of an IEEE 802.11a wireless network is the net bit rate of between 6 and 54 Mbit/s, while the gross bit rate is between 12 and 72 Mbit/s inclusive of error-correcting codes.

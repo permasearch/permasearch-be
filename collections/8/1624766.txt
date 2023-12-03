@@ -1,0 +1,1 @@
+The pictured function, for example, is piecewise continuous throughout its subdomains, but is not continuous on the entire domain, as it contains a jump discontinuity at      x  0     {\displaystyle x_{0}}  . The filled circle indicates that the value of the right function piece is used in this position.

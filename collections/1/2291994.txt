@@ -1,0 +1,1 @@
+Fugacity is related to partial pressure, p, by a dimensionless fugacity coefficient ϕ: f = ϕp. Thus, for the example,

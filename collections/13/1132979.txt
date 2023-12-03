@@ -1,0 +1,1 @@
+The routing table consists of at least three information fields:

@@ -1,0 +1,1 @@
+The MORE command paginates text, so that one can view files containing more than one screen of text. More may also be used as a filter. While viewing MORE text, the return key displays the next line, the space bar displays the next page.

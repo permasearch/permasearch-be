@@ -1,0 +1,1 @@
+In spring 2017 Mac users were hit by the new version of Proton Remote Access Trojan (RAT)[28] trained to extract password data from various sources, such as browser auto-fill data, the Mac-OS keychain, and password vaults.[29]

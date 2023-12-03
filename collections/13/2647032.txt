@@ -1,0 +1,1 @@
+While usually a stock ticker identifies a security that can be traded, stock market indices are also sometimes assigned a symbol, even though they can generally not be traded. Symbols for indices are usually distinguished by adding a symbol in front of the name, such as a caret (^)[3] or a dot. For example, Reuters lists the Nasdaq Composite index under the symbol .IXIC[4].

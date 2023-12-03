@@ -1,0 +1,1 @@
+The mobility of DNA however may change in an unsteady field. In a field that is periodically reversed, the mobility of DNA of a particular size may drop significantly at a particular cycling frequency.[11] This phenomenon can result in band inversion whereby larger DNA fragments move faster than smaller ones in PFGE.

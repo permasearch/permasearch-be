@@ -1,0 +1,1 @@
+The f-number of the human eye varies from about f/8.3 in a very brightly lit place to about f/2.1 in the dark.[14] Note that computing the focal length requires that the light-refracting properties of the liquids in the eye are taken into account. Treating the eye as an ordinary air-filled camera and lens results in a different focal length, thus yielding an incorrect f-number.

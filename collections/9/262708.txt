@@ -1,0 +1,1 @@
+Compiling the JVM bytecode, which is universal across JVM languages, allows building upon the language's existing compiler to bytecode. The main JVM bytecode to JavaScript compilers are TeaVM,[18] the compiler contained in Dragome Web SDK,[19] Bck2Brwsr,[20] and j2js-compiler.[21]

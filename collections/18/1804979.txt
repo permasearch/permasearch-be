@@ -1,0 +1,1 @@
+In crystallography, a vacancy is a type of point defect in a crystal.[2] Crystals inherently possess imperfections, sometimes referred to as crystalline defects. A defect in which an atom is missing from one of the lattice sites is known as a "vacancy" defect. It is also known as a Schottky defect, although in ionic crystals the concepts are not identical.

@@ -1,0 +1,1 @@
+In thermodynamics, such a system is one in which the volume, number of molecules, and internal energy are fixed (the microcanonical ensemble).

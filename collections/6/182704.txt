@@ -1,0 +1,1 @@
+When someone melds all their cards (except, possibly, for one, which is thrown into the discard pile), the hand ends and the scores are calculated. In some games everyone can make melds at this phase, and some games allow a player to end a hand with a few unmatched cards in their hand.

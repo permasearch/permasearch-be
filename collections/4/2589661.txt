@@ -1,0 +1,1 @@
+Older host devices generally do not support newer card formats, and even when they might support the bus interface used by the card,[6] there are several factors that arise:

@@ -1,0 +1,1 @@
+For this test, Marines choose to either perform pull-ups or push-ups. However, the maximum score is only attainable if pull-ups are chosen.

@@ -1,0 +1,1 @@
+The USB video device class (UVC) specification allows interconnectivity of webcams to computers without the need for proprietary device drivers. Microsoft Windows XP SP2, Linux[18] and Mac OS X (since October 2005) have UVC support built in and do not require extra device drivers, although they are often installed to add additional features.

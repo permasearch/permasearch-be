@@ -1,0 +1,1 @@
+Large organizations or government bodies may have their own PKIs (public key infrastructure), each containing their own CAs.  Any site using self-signed certificates acts as its own CA.

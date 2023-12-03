@@ -1,0 +1,1 @@
+and the force F is said to be "derivable from a potential."[6] This also necessarily implies that F must be a conservative vector field. The potential U defines a force F at every point x in space, so the set of forces is called a force field.

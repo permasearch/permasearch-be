@@ -1,0 +1,1 @@
+COBOL can be written in two formats: fixed (the default) or free. In fixed-format, code must be aligned to fit in certain areas (a hold-over from using punched cards). Until COBOL 2002, these were:

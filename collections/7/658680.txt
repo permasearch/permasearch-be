@@ -1,0 +1,1 @@
+Copy and paste programming is an antipattern arising from the careless pasting of pre-existing code into another source code file.

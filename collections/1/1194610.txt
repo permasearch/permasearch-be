@@ -1,0 +1,1 @@
+A machine could also be described as defining a language, that would contain every string accepted by the machine but none of the rejected ones; that language is "accepted" by the machine. By definition, the languages accepted by FSMs are the regular languagesâ€”; a language is regular if there is some FSM that accepts it.

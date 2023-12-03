@@ -1,0 +1,1 @@
+An X value does not exist in hardware. In simulation, an X value can result from two or more sources driving a signal simultaneously, or the stable output of a flip-flop not having been reached. In synthesized hardware, however, the actual value of such a signal will be either 0 or 1, but will not be determinable from the circuit's inputs.[2]

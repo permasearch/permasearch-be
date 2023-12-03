@@ -1,0 +1,1 @@
+Some positive displacement pumps use an expanding cavity on the suction side and a decreasing cavity on the discharge side. Liquid flows into the pump as the cavity on the suction side expands and the liquid flows out of the discharge as the cavity collapses. The volume is constant through each cycle of operation.

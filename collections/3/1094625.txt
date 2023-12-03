@@ -1,0 +1,1 @@
+In the context of measure theory, the Dirac measure gives rise to a distribution by integration. Conversely, equation (1) defines a Daniell integral on the space of all compactly supported continuous functions φ which, by the Riesz representation theorem, can be represented as the Lebesgue integral of φ with respect to some Radon measure.

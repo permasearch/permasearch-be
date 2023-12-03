@@ -1,0 +1,1 @@
+If all terms in the sequence of conditionals are testing the value of a single expression (e.g., if x=0 ... else if x=1 ... else if x=2...), then an alternative is the switch statement, also called case-statement or select-statement. Conversely, in languages that do not have a switch statement, these can be produced by a sequence of else if statements.

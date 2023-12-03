@@ -1,0 +1,1 @@
+Here n is the number of electrons/mole product, F is the Faraday constant (coulombs/mole), and Î”E is cell potential.

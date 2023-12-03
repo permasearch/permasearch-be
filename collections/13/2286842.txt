@@ -1,0 +1,1 @@
+The desktop version of Internet Explorer 10 (available for Windows 7 and Windows 8) retains the user interface (UI) of Internet Explorer 9 with minor refinements, such as removing gradients. The Metro version of Internet Explorer 10 (available on Windows 8) includes a new UI, most of which is hidden so that the webpage being viewed takes up the entire screen.

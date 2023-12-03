@@ -1,0 +1,1 @@
+Since writing struct Account repeatedly in code becomes cumbersome, it is not unusual to see a typedef statement in C code to provide a more convenient synonym for the struct.

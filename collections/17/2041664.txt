@@ -1,0 +1,1 @@
+Steppers should be sized according to published torque curve, which is specified by the manufacturer at particular drive voltages or using their own drive circuitry.

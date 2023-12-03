@@ -1,0 +1,1 @@
+Metadata was traditionally used in the card catalogs of libraries until the 1980s, when libraries converted their catalog data to digital databases. In the 2000s, as digital formats were becoming the prevalent way of storing data and information, metadata was also used to describe digital data using metadata standards.

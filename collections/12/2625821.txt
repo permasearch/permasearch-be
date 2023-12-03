@@ -1,0 +1,1 @@
+That implies that      K  12   =  K  21   = 0   {\displaystyle K_{12}=K_{21}=0}  .  Therefore the material properties of an orthotropic material are described by the matrix

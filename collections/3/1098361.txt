@@ -1,0 +1,1 @@
+In this situation RNA polymerase is dependent on (lagging) ribosome activity; if the ribosome pauses due to insufficient charged tRNA then the anti-terminator structure is favoured. The canonical attenuator example of the trp operon uses this mechanism in E. coli.

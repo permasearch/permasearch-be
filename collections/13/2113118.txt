@@ -1,0 +1,1 @@
+The pairs 02/41, 03/42, 04/43, 05/44, 15/28, 16/29, 37/50, 38/51 and triplets 06/10/45, 07/11/46, 08/12/47 have the same days of the month in common years. Of these, the pairs 10/45, 11/46, 12/47, 15/28, 16/29, 37/50 and 38/51 share their days also in leap years. Leap years also have triplets 03/15/28, 04/16/29 and pairs 06/32, 07/33, 08/34.

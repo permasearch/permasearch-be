@@ -1,0 +1,1 @@
+A necessary, but insufficient, condition for compatibility under this situation is       ∇   4    σ  =  0    {\displaystyle {\boldsymbol {\nabla }}^{4}{\boldsymbol {\sigma }}={\boldsymbol {0}}}   or      σ  i j , k k ℓ ℓ   = 0   {\displaystyle \sigma _{ij,kk\ell \ell }=0}  .[1]

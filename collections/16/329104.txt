@@ -1,0 +1,1 @@
+Whether a value x ∈ (a, b) rounds to a or b depends upon whether the squared value x2 is greater than or less than the product ab.  The value 165 rounds to 178 in the resistors example because 1652 = 27225 is greater than 147 × 178 = 26166.

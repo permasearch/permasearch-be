@@ -1,0 +1,1 @@
+Given normal atmospheric conditions, the temperature, and thus speed of sound, varies with altitude:

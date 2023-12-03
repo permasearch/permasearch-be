@@ -1,0 +1,1 @@
+Orientation columns are organized regions of neurons that are excited by visual line stimuli of varying angles. These columns are located in the primary visual cortex (V1) and span multiple cortical layers. The geometry of the orientation columns are arranged in slabs that are perpendicular to the surface of the primary visual cortex.[1][2]

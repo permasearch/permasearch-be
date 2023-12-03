@@ -1,0 +1,1 @@
+One can imagine a stoplight signal (S) just before a train station (A). In this case, if the signal is green, then one can enter the train station. If it is yellow or red (or any other color), the train station cannot be accessed.

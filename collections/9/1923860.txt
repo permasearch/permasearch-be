@@ -1,0 +1,1 @@
+Due to human errors, machine settings, etc., it is nearly impossible to manufacture an absolute dimension as specified by the designer. Deviation in dimensions from the basic value always arises. This deviation of dimensions from the basic value is known as Tolerance.[6]

@@ -1,0 +1,1 @@
+These are the backbone of the object-relational database extension in SQL:1999. They are analogous to classes in objected-oriented programming languages. SQL:1999 allows only single inheritance.

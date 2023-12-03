@@ -1,0 +1,1 @@
+The VBUS, D−, D+, and GND pins are required for USB 2.0 communication.  The additional USB 3.0 pins are two differential pairs and one ground (GND_DRAIN).  The two additional differential pairs are for SuperSpeed data transfer; they are used for full duplex SuperSpeed signaling.  The GND_DRAIN pin is for drain wire termination and to control EMI and maintain signal integrity.

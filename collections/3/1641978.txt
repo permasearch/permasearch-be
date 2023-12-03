@@ -1,0 +1,1 @@
+Chemical diffusion increases the entropy of a system, i.e. diffusion is a spontaneous and irreversible process. Particles can spread out by diffusion, but will not spontaneously re-order themselves (absent changes to the system, assuming no creation of new chemical bonds, and absent external forces acting on the particle).

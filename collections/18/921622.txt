@@ -1,0 +1,1 @@
+The mechanisms that provide a starship's propulsive force are the "warp nacelles", one (or more) cylindrical pods that are offset from the hull of the ship by large pylons; the nacelles generate the actual 'warp bubble' that surrounds the ship, and destruction of one or both nacelles will cripple the ship, and possibly cause a warp-core breach.

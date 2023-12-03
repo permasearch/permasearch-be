@@ -1,0 +1,1 @@
+Hipparchus was the first to show that the stereographic projection is conformal, and that it transforms circles on the sphere that do not pass through the center of projection to circles on the plane. This was the basis for the astrolabe.

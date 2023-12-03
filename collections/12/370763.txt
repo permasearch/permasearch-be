@@ -1,0 +1,1 @@
+Upon launch, there were several unexpected issues which included incompatibility with Apple's Remote app for iOS and watchOS,[23] which were fixed by Apple in December 2015.

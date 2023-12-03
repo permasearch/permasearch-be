@@ -1,0 +1,1 @@
+The synchronous rotation implies that the liquid does not move and the problem can be regarded as a static one. Therefore, the viscosity and friction of the liquid in this model do not play a role, since these quantities would play a role only for a moving fluid.

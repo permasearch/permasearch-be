@@ -1,0 +1,1 @@
+Smaller units like microradians (μrad) and nanoradians (nrad) are used in astronomy, and can also be used to measure the beam quality of lasers with ultra-low divergence. More common is arc second, which is π/648,000 rad (around 4.8481 microradians). Similarly, the prefixes smaller than milli- are potentially useful in measuring extremely small angles.

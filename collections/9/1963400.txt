@@ -1,0 +1,1 @@
+The antisymmetry of the Riemann tensor allows the second term in the above expression to be rewritten:

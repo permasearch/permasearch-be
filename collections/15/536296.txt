@@ -1,0 +1,1 @@
+Search boxes are commonly accompanied by a search button (sometime indicated only by a magnifying glass symbol) to submit the search. However, the search button may be omitted as the user may press the enter key to submit the search, or the search may be sent automatically to present the user with real-time results.

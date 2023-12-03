@@ -1,0 +1,1 @@
+The character class is the most basic regex concept after a literal match. It makes one small sequence of characters match a larger set of characters. For example, [A-Z] could stand for the upper case alphabet, and \d could mean any digit. Character classes apply to both POSIX levels.

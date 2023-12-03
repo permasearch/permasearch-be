@@ -1,0 +1,1 @@
+The exponential function ex may be written as a Taylor series

@@ -1,0 +1,1 @@
+The BSI Group standard BS 25999 requires the dependencies of critical activities to be identified (other activities, assets, resources, suppliers and outsource partners).[1]

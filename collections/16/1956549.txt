@@ -1,0 +1,1 @@
+This expression does follow the convention ΔX = X(final) − X(initial) since −ΔE = −(E(final) − E(initial)) = E(initial) − E(final).

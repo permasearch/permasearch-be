@@ -1,0 +1,1 @@
+Atari and Commodore home computers added many graphic symbols to their non-standard ASCII (Respectively, ATASCII and PETSCII, based on the original ASCII standard of 1963).

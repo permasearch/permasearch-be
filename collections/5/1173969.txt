@@ -1,0 +1,1 @@
+where the partial derivatives are taken at constant volume and constant number of particles, and constant pressure and constant number of particles, respectively.

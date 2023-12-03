@@ -1,0 +1,1 @@
+Initially, users or system administrators assembled their own environments from X and available window managers (which add standard controls to application windows; X itself does not do this), pagers, docks and other software. While X can be operated without a window manager, having one greatly increases convenience and ease of use.

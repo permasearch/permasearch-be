@@ -1,0 +1,1 @@
+In February 2012, Adobe announced it would discontinue development of Flash Player on Linux for all browsers, except Google Chrome, by dropping support for NPAPI and using only Chrome's PPAPI.[57][58] In August 2016, Adobe announced that, beginning with version 24, it would resume offering of Flash Player for Linux for other browsers.[59]

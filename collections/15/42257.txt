@@ -1,0 +1,1 @@
+The shape of the triangle is determined by the lengths of the sides. Therefore, the area can also be derived from the lengths of the sides. By Heron's formula:

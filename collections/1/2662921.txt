@@ -1,0 +1,1 @@
+1 Mellanox FDR (56Gbps) 324 port chassis switch as primary high speed interconnect

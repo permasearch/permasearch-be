@@ -1,0 +1,1 @@
+In a square root calculation the quotient digit set increases incrementally for each step.

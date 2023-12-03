@@ -1,0 +1,1 @@
+Different implementations offer different ways of organizing and/or grouping documents:

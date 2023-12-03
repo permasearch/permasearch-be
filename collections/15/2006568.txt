@@ -1,0 +1,1 @@
+Despite Microsoft's previous efforts to make ActiveX cross-platform, most ActiveX controls will not work on all platforms, so using ActiveX controls to implement essential functionality of a web page restricts its usefulness. South Korea has started to remove this technology from their public websites in order to make their web site accessible to more platforms.[13]

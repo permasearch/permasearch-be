@@ -1,0 +1,1 @@
+This "Hello, world!" script is in a file (e.g., script.txt) and invoked with sed -f script.txt inputFileName, where "inputFileName" is the input text file. The script changes "inputFileName" line #1 to "Hello, world!" and then quits, printing the result before sed exits. Any input lines past line #1 are not read, and not printed. So the sole output is "Hello, world!".

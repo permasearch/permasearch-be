@@ -1,0 +1,1 @@
+Unlike the Minimum safe altitude used for IFR flight, the MEF does not include any margin for aircraft clearance above the terrain nor for altimeter error.[1]

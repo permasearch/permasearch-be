@@ -1,0 +1,1 @@
+Food rotation system uses the first in first out method (FIFO), which ensures that the first item purchased is the first item consumed.

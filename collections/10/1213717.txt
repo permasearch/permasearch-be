@@ -1,0 +1,1 @@
+If a valid ZIP code is provided but the city and state are missing, the city and state names are added.

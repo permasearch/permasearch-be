@@ -1,0 +1,1 @@
+But, since points, e and f are arbitrary, equation (2) can only be true if        D E   e E   C B      = c o n s t a n t   {\displaystyle {\frac {DE}{eE{\sqrt {CB}}}}=constant}  , everywhere, and this condition characterises the curve that is sought. This is the same technique he uses to find the form of the Solid of Least Resistance.

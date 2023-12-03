@@ -1,0 +1,1 @@
+Where radio spectrum regulation is not community-friendly, the channels are crowded or when equipment can not be afforded by local residents, free-space optical communication can also be deployed in a similar manner for point to point transmission in air (rather than in fiber optic cable).

@@ -1,0 +1,1 @@
+Instead of the temperature coefficient k, sometimes the temperature coefficient of resistance      α  T     {\displaystyle \alpha _{T}}   (alpha sub T) is used. It is defined as[2]

@@ -1,0 +1,1 @@
+In terms of the concentration of the reactant      A    {\displaystyle {\ce {A}}}  , the rate of a reaction      2  A ⟶ P    {\displaystyle {\ce {2A->P}}}   which is second-order in A is then:

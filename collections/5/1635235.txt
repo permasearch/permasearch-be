@@ -1,0 +1,1 @@
+Despite its widespread adoption, many programmers have criticized the C++ language, including Linus Torvalds,[64] Richard Stallman,[65] and Ken Thompson.[66] Issues include a lack of reflection or garbage collection, slow compilation times, perceived feature creep,[67] and verbose error messages, particularly from template metaprogramming.[68]

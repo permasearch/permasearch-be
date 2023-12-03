@@ -1,0 +1,1 @@
+The OLTConfirmed will be determined by the difference between the date the confirmed date by the provider to deliver the material in the customer facilities (Confirmed date) and the date when they provide the order to the supplier.

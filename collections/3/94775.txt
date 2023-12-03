@@ -1,0 +1,1 @@
+The control unit (often called a control system or central controller) manages the computer's various components; it reads and interprets (decodes) the program instructions, transforming them into control signals that activate other parts of the computer.[57] Control systems in advanced computers may change the order of execution of some instructions to improve performance.

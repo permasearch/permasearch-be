@@ -1,0 +1,1 @@
+Dithering the stepper signal at a higher frequency than the motor can respond to will reduce this "static friction" effect.

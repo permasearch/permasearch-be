@@ -1,0 +1,1 @@
+Angular is an incompatible rewrite of AngularJS. Both AngularJS and Angular are currently supported.[17]

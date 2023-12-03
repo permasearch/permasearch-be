@@ -1,0 +1,1 @@
+In large development projects, a testbed is a platform and prototype development environment for rigorous experimentation and testing of new technologies, components, scientific theories and computational tools.[10]

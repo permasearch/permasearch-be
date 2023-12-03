@@ -1,0 +1,1 @@
+This tells us how much the plane of polarization is rotated when the ray of light passes through a specific amount of optically active molecules of a sample. Therefore, the optical rotation depends on temperature, concentration, wavelength, path length, and the substance being analyzed. [5]

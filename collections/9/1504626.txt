@@ -1,0 +1,1 @@
+%PROMPT% (supported since DOS 2.0)

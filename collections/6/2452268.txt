@@ -1,0 +1,1 @@
+These are subsets of the full SVG standard, mainly intended for user agents with limited capabilities. In particular, SVG Tiny was defined for highly restricted mobile devices such as cellphones; it does not support styling or scripting.[17] SVG Basic was defined for higher-level mobile devices, such as smartphones.

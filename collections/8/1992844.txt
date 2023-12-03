@@ -1,0 +1,1 @@
+All of the events that would give rise to claims under the contract cannot have materialized prior to the inception of the contract. If this "all events" test is not met, then the contract is considered to be a retroactive contract, for which the accounting treatment becomes complex.

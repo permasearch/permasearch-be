@@ -1,0 +1,1 @@
+where      P    {\displaystyle \mathbf {P} }   is an initial probability distribution. In the current case

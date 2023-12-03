@@ -1,0 +1,1 @@
+This can be generalized to say that the electrostatic potential energy UE stored in a system of N charges q1, q2, ..., qN at positions r1, r2, ..., rN respectively, is:

@@ -1,0 +1,1 @@
+The offreg.dll[23] available from the Windows Driver Kit offers a set of APIs for the creation and manipulation of currently not loaded registry hives similar to those provided by advapi32.dll.

@@ -1,0 +1,1 @@
+until      b  i     {\displaystyle b_{i}}   is sufficiently close to 1, or a fixed number of iterations.  The iterations converge to

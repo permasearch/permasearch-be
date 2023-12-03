@@ -1,0 +1,1 @@
+In 1995, the IPv6 address block fec0::/10 was reserved for site-local addresses,[2] that could be used within a "site" for private IPv6 networks. However, insufficient definition of the term site led to confusion over the governing routing rules.

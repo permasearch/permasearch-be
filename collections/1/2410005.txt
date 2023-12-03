@@ -1,0 +1,1 @@
+In these contracts, it is assumed that I and Pc do not depend on the contents or lengths of any queues.

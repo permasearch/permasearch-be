@@ -1,0 +1,1 @@
+Wave function of 1s orbital (real part, 2D-cut,      r  m a x   = 2  a  0     {\displaystyle r_{max}=2a_{0}}  )

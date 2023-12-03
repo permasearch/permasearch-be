@@ -1,0 +1,1 @@
+In a semiconductor crystallite whose radius is smaller than the size of its exciton Bohr radius, the excitons are squeezed, leading to quantum confinement. The energy levels can then be modeled using the particle in a box model in which the energy of different states is dependent on the length of the box.

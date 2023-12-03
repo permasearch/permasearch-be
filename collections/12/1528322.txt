@@ -1,0 +1,1 @@
+If an electric current passes through a resistor, electric energy is converted to heat; if the current passes through an electric appliance, some of the electric energy will be converted into other forms of energy (although some will always be lost as heat). The amount of electric energy due to an electric current can be expressed in a number of different ways:

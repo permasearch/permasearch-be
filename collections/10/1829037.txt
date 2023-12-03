@@ -1,0 +1,1 @@
+The decimal expansion of an irrational number never repeats or terminates (essentially, that is repeating zeroes), unlike any rational number. The same is true for binary, octal or hexadecimal expansions, and in general for expansions in every positional notation with natural bases.

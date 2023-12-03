@@ -1,0 +1,1 @@
+The Italian location table, provided by RAI-CCISS, is in version 2.1 with around 12.500 codes.

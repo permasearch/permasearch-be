@@ -1,0 +1,1 @@
+Multi-layer switching combines layer 2, 3 and 4 switching technologies and provides high-speed scalability with low latency. It accomplishes this high combination of high-speed scalability with low latency by using huge filter tables based on the criteria designed by the network administrator.

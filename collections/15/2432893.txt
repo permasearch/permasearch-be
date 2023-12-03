@@ -1,0 +1,1 @@
+In the case of elastic deformations, the response function linking strain to the deforming stress is the compliance tensor of the material.

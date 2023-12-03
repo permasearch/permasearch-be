@@ -1,0 +1,1 @@
+Gross heating value (see AR) accounts for water in the exhaust leaving as vapor, and includes liquid water in the fuel prior to combustion. This value is important for fuels like wood or coal, which will usually contain some amount of water prior to burning.

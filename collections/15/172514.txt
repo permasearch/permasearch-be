@@ -1,0 +1,1 @@
+Equality of truth values, i.e. bi-implication or logical equivalence, may be denoted by various symbols including =, ~, and â‡”.

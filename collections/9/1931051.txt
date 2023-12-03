@@ -1,0 +1,1 @@
+The R-UIM card has been superseded by CSIM on UICC. This technique allows all three applications (SIM, CSIM, and USIM) to coexist on a single smartcard, allowing the card to be used in virtually any phone worldwide that supports smart cards.

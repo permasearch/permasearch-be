@@ -1,0 +1,1 @@
+Software packages like MATLAB, GNU Octave, Scilab, and SciPy provide convenient ways to apply these different methods.

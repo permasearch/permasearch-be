@@ -1,0 +1,1 @@
+where A is the gate area,      ϵ  0     {\displaystyle \epsilon _{0}}   = 8.854×10−12 F/m, F is the farad and m is the meter. This linearly-varying electric field leads to an electrical potential that varies quadratically in space. The energy levels, or energy bands, bend in response to this potential.

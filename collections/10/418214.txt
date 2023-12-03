@@ -1,0 +1,1 @@
+By itself, the law of conservation of momentum is not enough to determine the motion of particles after a collision. Another property of the motion, kinetic energy, must be known. This is not necessarily conserved. If it is conserved, the collision is called an elastic collision; if not, it is an inelastic collision.

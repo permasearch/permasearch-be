@@ -1,0 +1,1 @@
+Student's t-distribution with     ν   {\displaystyle \nu }   degrees of freedom can be defined as the distribution of the random variable T with[15][17]

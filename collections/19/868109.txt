@@ -1,0 +1,1 @@
+The page on "Experience curve effects" offers more discussion of the mathematical theory of representing them as deterministic processes, and provides a good group of empirical examples of how that technique has been applied.

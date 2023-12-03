@@ -1,0 +1,1 @@
+OSI uses The Open Source Definition to determine whether it considers a software license open source. The definition was based on the Debian Free Software Guidelines, written and adapted primarily by Perens.[25][26][27] Perens did not base his writing on the "four freedoms" from the Free Software Foundation (FSF), which were only widely available later.[28]

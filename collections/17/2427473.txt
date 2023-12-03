@@ -1,0 +1,1 @@
+n  x   ×  n  y   ≤   N   0.6     {\displaystyle n_{x}\times n_{y}\leq \mathrm {N} ^{0.6}}

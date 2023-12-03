@@ -1,0 +1,1 @@
+The letter case of a prefix symbol is determined independently of the unit symbol to which it is attached. Lower case is used for all submultiple prefix symbols and the small multiple prefix symbols up to "k" (for kilo, meaning 103 = 1000 multiplier), whereas upper case is used for larger multipliers:[28]

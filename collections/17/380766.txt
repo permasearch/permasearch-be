@@ -1,0 +1,1 @@
+The keyword create introduces a list of procedures which can be used to initialize instances. In this case the list includes default_create, a procedure with an empty implementation inherited from class ANY, and the make procedure coded within the class.

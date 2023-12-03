@@ -1,0 +1,1 @@
+There are again 2n maxterms of n variables, since a variable in the maxterm expression can also be in either its direct or its complemented formâ€”two choices per variable.

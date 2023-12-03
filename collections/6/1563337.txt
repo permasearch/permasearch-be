@@ -1,0 +1,1 @@
+The result is a partial order. If A and B are each totally ordered, then the result is a total order as well. The lexicographical order of two totally ordered sets is thus a linear extension of their product order.

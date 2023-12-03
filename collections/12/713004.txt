@@ -1,0 +1,1 @@
+A RAID 0 setup can be created with disks of differing sizes, but the storage space added to the array by each disk is limited to the size of the smallest disk. For example, if a 120 GB disk is striped together with a 320 GB disk, the size of the array will be 120 GB × 2 = 240 GB. However, some RAID implementations allow the remaining 200 GB to be used for other purposes.

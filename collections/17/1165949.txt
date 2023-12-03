@@ -1,0 +1,1 @@
+Contrarily to velocity time dilation, in which both observers measure the other as aging slower (a reciprocal effect), gravitational time dilation is not reciprocal. This means that with gravitational time dilation both observers agree that the clock nearer the center of the gravitational field is slower in rate, and they agree on the ratio of the difference.

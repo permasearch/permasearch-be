@@ -1,0 +1,1 @@
+For higher powers, the density of happy numbers declines.

@@ -1,0 +1,1 @@
+Most WoL hardware functionally is typically blocked by default and needs to be enabled in using the system BIOS. Further configuration from the OS is required in some cases, for example, via Device Manager network card properties on Windows Operating systems. More below.

@@ -1,0 +1,1 @@
+where n is the norm of the vector n = (n1, n2, n3):

@@ -1,0 +1,1 @@
+Related to the recursive Bayesian interpretation described above, the Kalman filter can be viewed as a generative model, i.e., a process for generating a stream of random observations z = (z0, z1, z2, â€¦). Specifically, the process is

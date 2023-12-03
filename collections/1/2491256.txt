@@ -1,0 +1,1 @@
+Several "secure CPUs" have been built as asynchronous CPUs; they have no global timing reference. While these CPUs were intended to make timing and power attacks more difficult,[14] subsequent research found that timing variations in asynchronous circuits are harder to remove[citation needed].

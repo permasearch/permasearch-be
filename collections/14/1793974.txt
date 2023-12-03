@@ -1,0 +1,1 @@
+If X is a n-variable function     X ≡ X  (  x  1   ,  x  2   ⋯  x  n   )    {\displaystyle X\equiv X\left(x_{1},x_{2}\cdots x_{n}\right)}  , then:

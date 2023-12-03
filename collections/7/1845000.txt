@@ -1,0 +1,1 @@
+where x and y are the sample means of X and Y, and sx and sy are the corrected sample standard deviations of X and Y.

@@ -1,0 +1,1 @@
+Zachman EA framework is developed by John Zachman and it defines which artifacts enterprises need to develop to be able to organize themselves better. It is also widely accepted framework in the industry.

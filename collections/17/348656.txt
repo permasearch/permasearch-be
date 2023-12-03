@@ -1,0 +1,1 @@
+The equations for collisions between elastic particles can be modified to use the COR, thus becoming applicable to inelastic collisions, as well, and every possibility in between.

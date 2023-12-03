@@ -1,0 +1,1 @@
+The kinetic relationship with the other substrate, MgATP, can be described by classical Michaelis-Menten kinetics, with an affinity at about 0.3–0.4 mmol/L, well below a typical intracellular concentration of 2.5 mmol/L. The fact that there is nearly always an excess of ATP available implies that ATP concentration rarely influences glucokinase activity.

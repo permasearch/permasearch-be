@@ -1,0 +1,1 @@
+In fact, to show that p is not provable only requires the assumption that the system is consistent. The stronger assumption of Ï‰-consistency is required to show that the negation of p is not provable. Thus, if p is constructed for a particular system:

@@ -1,0 +1,1 @@
+A fundamental question for any PDE is the existence and uniqueness of a solution for given boundary conditions. For nonlinear equations these questions are in general very hard: for example, the hardest part of Yau's solution of the Calabi conjecture was the proof of existence for a Monge–Ampere equation.

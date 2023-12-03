@@ -1,0 +1,1 @@
+Whatever the formula used, the buyer and seller must agree on the initial value (the premium or price of the call contract), otherwise the exchange (buy/sell) of the call will not take place.

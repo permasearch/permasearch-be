@@ -1,0 +1,1 @@
+Two years later, René Marcelin made an essential contribution by treating the progress of a chemical reaction as a motion of a point in phase space. He then applied Gibbs' statistical-mechanical procedures and obtained an expression similar to the one he had obtained earlier from thermodynamic consideration.

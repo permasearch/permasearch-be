@@ -1,0 +1,1 @@
+where the masses of the fermions are      m  u , d , e   i   =    1    2          λ  u , d , e   i   v   {\displaystyle m_{u,d,e}^{i}={\tfrac {1}{{\sqrt {2}}\ }}\lambda _{u,d,e}^{i}v}  , and      λ  u , d , e   i     {\displaystyle \lambda _{u,d,e}^{i}}   denote the eigenvalues of the Yukawa matrices.[210]

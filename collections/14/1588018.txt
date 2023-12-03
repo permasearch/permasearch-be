@@ -1,0 +1,1 @@
+Only players who participated in at least one game are counted.

@@ -1,0 +1,1 @@
+The following is an account in terms of changes of state of a closed system through compound processes that are not necessarily cyclic. This account first considers processes for which the first law is easily verified because of their simplicity, namely adiabatic processes (in which there is no transfer as heat) and adynamic processes (in which there is no transfer as work).

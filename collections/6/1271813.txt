@@ -1,0 +1,1 @@
+Analogous to the univariate density, the multidimensional Cauchy density also relates to the multivariate Student distribution. They are equivalent when the degrees of freedom parameter is equal to one. The density of a     k   {\displaystyle k}   dimension Student distribution with one degree of freedom becomes:

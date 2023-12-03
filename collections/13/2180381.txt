@@ -1,0 +1,1 @@
+The FIM is a nine-bit code consisting of ones (vertical bars) and zeroes (blank spaces).  The following five codes are in use:

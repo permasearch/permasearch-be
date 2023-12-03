@@ -1,0 +1,1 @@
+DevOps is a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality.[8]

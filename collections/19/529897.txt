@@ -1,0 +1,1 @@
+Lists includes only personal best score of skaters, not multiple scores from the same skater.

@@ -1,0 +1,1 @@
+The least robust, but fastest, coding scheme (CS-4) is available near a base transceiver station (BTS), while the most robust coding scheme (CS-1) is used when the mobile station (MS) is further away from a BTS.

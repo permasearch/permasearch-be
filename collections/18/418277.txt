@@ -1,0 +1,1 @@
+where Î¼0 is the vacuum permeability and c is the speed of light. The momentum density is proportional to the Poynting vector S which gives the directional rate of energy transfer per unit area:[34][35]

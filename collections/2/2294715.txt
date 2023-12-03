@@ -1,0 +1,1 @@
+The conclusion on data complexity is by similar reasoning restricted by that around     ⌈  |  k  |   /  n ⌉   {\displaystyle \lceil |k|/n\rceil }       ( P , C )   {\displaystyle (P,C)}  -pairs.

@@ -1,0 +1,1 @@
+If you are using more than one drop down list on the same page this parameter is very important. The Id parameter for each list should be different and unique (if using more than one on the same page). To set the ID type {{Drop down list|id=Your Id name}} .

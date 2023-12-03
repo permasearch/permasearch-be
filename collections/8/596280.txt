@@ -1,0 +1,1 @@
+is the Taylor series of      e  x     {\displaystyle e^{x}}   at the origin and converges to it for every x.

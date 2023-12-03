@@ -1,0 +1,1 @@
+The timing of the camshaft can be advanced to produce better low RPM torque, or retarded for better high RPM power. Changing cam timing moves the overall power produced by the engine down or up the RPM scale. The amount of change is very little (usually < 5 deg), and affects valve to piston clearances. Refer to this video https://www.youtube.com/watch?v=Hz1RE0ugcfU

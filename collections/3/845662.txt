@@ -1,0 +1,1 @@
+The memory set aside by malloc is not initialized and may contain cruft: the remnants of previously used and discarded data. After allocation with malloc, elements of the array are uninitialized variables. The command calloc will allocate and clear the memory in one step:

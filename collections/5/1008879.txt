@@ -1,0 +1,1 @@
+A beam of unpolarised light can be thought of as containing a uniform mixture of linear polarizations at all possible angles. Since the average value of      cos  2   ⁡ θ   {\displaystyle \cos ^{2}\theta }   is 1/2, the transmission coefficient becomes

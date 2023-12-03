@@ -1,0 +1,1 @@
+In many instances, the oscillatory flow in the fluid interior of surface waves can be described accurately using potential flow theory, apart from boundary layers near the free surface and bottom (where vorticity is important, due to viscous effects, see Stokes boundary layer).[44] Then, the flow velocity u can be described as the gradient of a velocity potential Î¦:

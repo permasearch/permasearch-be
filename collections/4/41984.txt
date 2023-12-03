@@ -1,0 +1,1 @@
+Unix permissions are represented either in symbolic notation or in octal notation.

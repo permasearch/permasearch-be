@@ -1,0 +1,1 @@
+The Federal Information Processing Standard (FIPS) code, used by the United States government to uniquely identify counties, is provided with each entry. FIPS codes are five-digit numbers; for New Jersey the codes start with 34 and are completed with the three-digit county code. The FIPS code for each county in the table links to census data for that county.[9]

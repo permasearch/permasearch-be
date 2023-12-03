@@ -1,0 +1,1 @@
+Apollonius of Perga showed that a circle may also be defined as the set of points in a plane having a constant ratio (other than 1) of distances to two fixed foci, A and B.[11][12] (The set of points where the distances are equal is the perpendicular bisector of segment AB, a line.) That circle is sometimes said to be drawn about two points.

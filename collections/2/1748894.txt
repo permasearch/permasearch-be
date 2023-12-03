@@ -1,0 +1,1 @@
+To replace any instance of a certain word in a file with "REDACTED", such as an IRC password, and save the result:

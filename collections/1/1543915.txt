@@ -1,0 +1,1 @@
+Because the surface area A of a sphere is 4πr2, the definition implies that a sphere measures 4π (≈ 12.56637) steradians. By the same argument, the maximum solid angle that can be subtended at any point is 4π sr.

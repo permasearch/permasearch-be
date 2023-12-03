@@ -1,0 +1,1 @@
+The energy of the dislocation energy is      U  m   =  G  m    b  2    /  2   {\displaystyle U_{m}=G_{m}b^{2}/2}  , when it cuts through the precipitate, its energy is      U  p   =  G  p    b  2    /  2   {\displaystyle U_{p}=G_{p}b^{2}/2}  , the change in line segment energy is

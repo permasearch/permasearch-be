@@ -1,0 +1,1 @@
+The quartile deviation or semi-interquartile range is defined as half the IQR.[4][5]

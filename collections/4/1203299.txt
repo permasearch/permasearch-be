@@ -1,0 +1,1 @@
+Functional requirements for computer systems to manage electronic records have been produced by the US Department of Defense,[13] The United Kingdom's National Archives and the European Commission,[15] whose MoReq (Model Requirements for the Management of Electronic Records) specification has been translated into at least twelve languages funded by the European Commission.

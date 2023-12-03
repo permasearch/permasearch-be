@@ -1,0 +1,1 @@
+Four players can play any mode offline, but online players can only perform songs in quickplay.

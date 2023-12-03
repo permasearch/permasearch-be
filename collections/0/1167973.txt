@@ -1,0 +1,1 @@
+To strike the welding arc, a high frequency generator (similar to a Tesla coil) provides an electric spark. This spark is a conductive path for the welding current through the shielding gas and allows the arc to be initiated while the electrode and the workpiece are separated, typically about 1.5–3 mm (0.06–0.12 in) apart.[14]

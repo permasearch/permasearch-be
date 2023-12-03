@@ -1,0 +1,1 @@
+Synchronous and asynchronous transmissions are two different methods of transmission synchronization. Synchronous transmissions are synchronized by an external clock, while asynchronous transmissions are synchronized by special signals along the transmission medium.

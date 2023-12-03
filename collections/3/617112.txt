@@ -1,0 +1,1 @@
+Thus, a "square" is a member of both the genus "rectangle" and the genus "rhombus".

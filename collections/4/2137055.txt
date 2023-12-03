@@ -1,0 +1,1 @@
+A real valued function d on a set X × X is called a metric (or a distance function) on X, if it satisfies the following four axioms:[16]

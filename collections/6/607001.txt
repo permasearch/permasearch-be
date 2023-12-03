@@ -1,0 +1,1 @@
+Newton used the third law to derive the law of conservation of momentum;[35] from a deeper perspective, however, conservation of momentum is the more fundamental idea (derived via Noether's theorem from Galilean invariance), and holds in cases where Newton's third law appears to fail, for instance when force fields as well as particles carry momentum, and in quantum mechanics.

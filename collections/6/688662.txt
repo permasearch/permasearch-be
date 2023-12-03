@@ -1,0 +1,1 @@
+This constant has a simple relation to two other physical constants:

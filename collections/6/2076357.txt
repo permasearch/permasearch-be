@@ -1,0 +1,1 @@
+10% neutral buffer formalin is 4% formaldehyde (1.33 osmolar) in PBS buffer (0.3 osmolar) sums to 1.63 osmolar. This is a very hypertonic solution yet it has worked well as a general tissue fixation condition for many years in pathology labs. The size of tissue can also affect the fixation process.

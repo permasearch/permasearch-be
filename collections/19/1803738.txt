@@ -1,0 +1,1 @@
+There is a symmetry between a function and its inverse. Specifically, if f is an invertible function with domain X and range Y, then its inverse f −1 has domain Y and range X, and the inverse of f −1 is the original function f. In symbols, for functions f:X → Y and f−1:Y → X,[12]

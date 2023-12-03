@@ -1,0 +1,1 @@
+For small     p   {\displaystyle p}  , the quantile function has the useful asymptotic expansion      Φ  − 1   ( p ) = −   ln ⁡   1  p  2     − ln ⁡ ln ⁡   1  p  2     − ln ⁡ ( 2 π )   +   o   ( 1 ) .   {\displaystyle \Phi ^{-1}(p)=-{\sqrt {\ln {\frac {1}{p^{2}}}-\ln \ln {\frac {1}{p^{2}}}-\ln(2\pi )}}+{\mathcal {o}}(1).}

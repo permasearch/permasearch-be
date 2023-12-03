@@ -1,0 +1,1 @@
+Design and implementation of software varies depending on the complexity of the software. For instance, the design and creation of Microsoft Word took much more time than designing and developing Microsoft Notepad because the latter has much more basic functionality.

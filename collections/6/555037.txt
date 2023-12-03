@@ -1,0 +1,1 @@
+By applying Kirchhoff's current law (KCL) to the neutral node, the three phase currents sum to the total current in the neutral line. In the balanced case:

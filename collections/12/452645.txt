@@ -1,0 +1,1 @@
+Python lacks a specific do while flow control construct. However, the equivalent may be constructed out of a while loop with a break.

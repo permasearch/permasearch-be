@@ -1,0 +1,1 @@
+In medical informatics, deep learning was used to predict sleep quality based on data from wearables[159] and predictions of health complications from electronic health record data.[160] Deep learning has also showed efficacy in healthcare.[161]

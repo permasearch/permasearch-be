@@ -1,0 +1,1 @@
+Another technique for viewing sub-microscopic domain structures down to a scale of a few nanometers is magnetic force microscopy. MFM is a form of atomic force microscopy that uses a magnetically coated probe tip to scan the sample surface.

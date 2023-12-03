@@ -1,0 +1,1 @@
+In this case, the dimensions of the box      L  x   =  L  y   = L   {\displaystyle L_{x}=L_{y}=L}   and the energy eigenvalues are given by

@@ -1,0 +1,1 @@
+The problem with compressed charge engines is that the temperature rise of the compressed charge can cause pre-ignition. If this occurs at the wrong time and is too energetic, it can damage the engine. Different fractions of petroleum have widely varying flash points (the temperatures at which the fuel may self-ignite). This must be taken into account in engine and fuel design.

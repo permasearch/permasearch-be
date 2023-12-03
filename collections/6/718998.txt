@@ -1,0 +1,1 @@
+GNU Octave is unique from other alternatives because it treats incompatibility with MATLAB as a bug (see MATLAB Compatibility of GNU Octave), therefore, making GNU Octave a superset of the MATLAB language.

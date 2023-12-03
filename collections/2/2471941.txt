@@ -1,0 +1,1 @@
+Given a one-sided Z-transform, X(z), of a time-sampled function, the corresponding starred transform produces a Laplace transform and restores the dependence on sampling parameter, T:

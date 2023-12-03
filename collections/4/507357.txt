@@ -1,0 +1,1 @@
+Some web browsers support persistence mechanisms which allow the page to store the information locally for later use.

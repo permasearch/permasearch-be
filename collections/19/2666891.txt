@@ -1,0 +1,1 @@
+Thus, the linear transformation L is rigid if its matrix satisfies the condition

@@ -1,0 +1,1 @@
+This establishes a dotted-quarter note pulse in triple time: each measure is formed from three dotted-quarter note pulses, each pulse divided into three eighth notes.

@@ -1,0 +1,1 @@
+If faces are all regular, it is a semiregular polyhedron.

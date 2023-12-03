@@ -1,0 +1,1 @@
+Main program (mssecsvc.exe) file analysis: The sample main program is the main spread program of this event that is responsible for spreading itself and releasing the "WannaCry" ransom program, and then "WannaCry" encrypts user files and execute malicious behavior.

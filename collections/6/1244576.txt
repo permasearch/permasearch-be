@@ -1,0 +1,1 @@
+Each Ubuntu release has a version number that consists of the year and month number of the release.[102] For example, the first release was Ubuntu 4.10 as it was released on 20 October 2004. Version numbers for future versions are provisional; if the release is delayed the version number changes accordingly.

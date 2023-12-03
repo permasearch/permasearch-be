@@ -1,0 +1,1 @@
+Hysteresis is a commonly encountered phenomenon in ecology and epidemiology, where the observed equilibrium of a system can not be predicted solely based on environmental variables, but also requires knowledge of the system's past history. Notable examples include the theory of spruce budworm outbreaks and behavioral-effects on disease transmission.

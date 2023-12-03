@@ -1,0 +1,1 @@
+The Copenhagen interpretation is similar to the path integral formulation of quantum mechanics provided by Feynman. The path integral formulation replaces the classical notion of a single, unique trajectory for a system, with a sum over all possible trajectories. The trajectories are added together by using functional integration.

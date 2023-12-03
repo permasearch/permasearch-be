@@ -1,0 +1,1 @@
+Notice that the test "while node â‰  someNode" must be at the end of the loop. If the test was moved to the beginning of the loop, the procedure would fail whenever the list had only one node.

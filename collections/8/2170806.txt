@@ -1,0 +1,1 @@
+The rate of heat exchanger fouling is determined by the rate of particle deposition less re-entrainment/suppression. This model was originally proposed in 1959 by Kern and Seaton.

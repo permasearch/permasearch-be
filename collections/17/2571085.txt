@@ -1,0 +1,1 @@
+An email alias is simply a forwarding email address. The term alias expansion is sometimes used to indicate a specific mode of email forwarding, thereby implying a more generic meaning of the term email alias as an address that is forwarded in a simplistic fashion.[1]

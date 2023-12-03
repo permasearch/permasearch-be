@@ -1,0 +1,1 @@
+In quantum mechanics, the wavefunction gives the most fundamental description of the behavior of a particle; the measurable properties of the particle (such as its position, momentum and energy) may all be derived from the wavefunction.[3] The wavefunction     ψ ( x , t )   {\displaystyle \psi (x,t)}   can be found by solving the Schrödinger equation for the system

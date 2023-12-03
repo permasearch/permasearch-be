@@ -1,0 +1,1 @@
+The Hagen–Poiseuille equation can be derived from the Navier–Stokes equations. Although more lengthy than directly using the Navier–Stokes equations, an alternative method of deriving the Hagen–Poiseuille equation is as follows.

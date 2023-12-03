@@ -1,0 +1,1 @@
+The message is signed using the sender's private signing key. The digitally signed message is then sent to the receiver, who can then use the sender's public key to verify the signature.

@@ -1,0 +1,1 @@
+At the Amazon Web Services Re:Invent conference in Las Vegas, Amazon announced Alexa for Business and the ability for app developers to have paid add-ons to their skills.

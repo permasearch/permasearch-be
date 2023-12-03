@@ -1,0 +1,1 @@
+The Unicode code points for the (horizontal) tab character, and the more rarely used vertical tab character are copied from ASCII:[13]

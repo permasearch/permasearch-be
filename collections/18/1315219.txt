@@ -1,0 +1,1 @@
+By comparison with the solutions above, we can see that only the antisymmetric ones have nodes at the origin. Thus only the solutions to     α = − k cot ⁡ ( k R )   {\displaystyle \alpha =-k\cot(kR)}   are allowed. These correspond to the intersection of the semicircle with the grey curves, and so if the cavity is too shallow or small, there will be no bound state.

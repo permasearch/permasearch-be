@@ -1,0 +1,1 @@
+which is the equation of a circle of radius     R     {\displaystyle R\,\!}   centered at a point with coordinates     [  σ   a v g    , 0 ]     {\displaystyle [\sigma _{\mathrm {avg} },0]\,\!}  , called Mohr's circle. But knowing that for the principal stresses the shear stress      τ   n    = 0     {\displaystyle \tau _{\mathrm {n} }=0\,\!}  , then we obtain from this equation:

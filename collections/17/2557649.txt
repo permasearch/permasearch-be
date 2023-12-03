@@ -1,0 +1,1 @@
+But, in the matrix case, (M* M)½ is a normal matrix, so ||M* M||½ is the largest eigenvalue of (M* M)½, i.e. the largest singular value of M.

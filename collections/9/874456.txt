@@ -1,0 +1,1 @@
+Note that this equation for the velocity is the same as that of any object falling height hC. Note also that this equation assumes PC is atmospheric pressure. If the end of the siphon is below the surface, the height to the end of the siphon cannot be used; rather the height difference between the reservoirs should be used.

@@ -1,0 +1,1 @@
+This means that these sines and cosines are different functions, and that the fourth derivative of sine will be sine again only if the argument is in radians.

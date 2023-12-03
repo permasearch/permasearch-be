@@ -1,0 +1,1 @@
+csh-style shells allow standard error to be redirected to the same destination that standard output is directed to using

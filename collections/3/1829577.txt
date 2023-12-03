@@ -1,0 +1,1 @@
+Weak typing allows a value of one type to be treated as another, for example treating a string as a number.[47] This can occasionally be useful, but it can also allow some kinds of program faults to go undetected at compile time and even at run time.

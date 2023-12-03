@@ -1,0 +1,1 @@
+As of early 2015, high-quality, FAA grade, Standard Positioning Service (SPS) GPS receivers provide horizontal accuracy of better than 3.5 meters,[36] although many factors such as receiver quality and atmospheric issues can affect this accuracy.

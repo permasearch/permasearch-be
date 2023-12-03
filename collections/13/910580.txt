@@ -1,0 +1,1 @@
+In discrete time dynamics, the variable time is treated as discrete, and the equation of evolution of some variable over time is called a difference equation.

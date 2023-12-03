@@ -1,0 +1,1 @@
+Here we set the initial conditions at t = 0 as dθ/dt = ω0, θ = 0 to analyze the angular movement on the top neutral point, then we can simplify Eq.7 and Eq.8 as follows:

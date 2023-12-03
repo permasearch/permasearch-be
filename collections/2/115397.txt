@@ -1,0 +1,1 @@
+Furthermore, if we allow the matrix B to have columns as the linearly independent vectors that describe the lattice, then the matrix

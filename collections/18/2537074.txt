@@ -1,0 +1,1 @@
+The amount of leverage a fund uses is expressed as a percent of total fund assets (e.g. if it has a 25% leverage ratio, that means that for each $100 of total assets under management, $75 is equity and $25 is debt).

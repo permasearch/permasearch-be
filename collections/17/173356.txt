@@ -1,0 +1,1 @@
+A performance problem is any gap between Desired Results and Actual Results. Performance improvement is any effort targeted at closing the gap between Actual Results and Desired Results.

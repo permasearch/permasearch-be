@@ -1,0 +1,1 @@
+where ∂Σ is the boundary of the surface Σ, and vl is the velocity of that boundary.

@@ -1,0 +1,1 @@
+Users can also employ mice gesturally; meaning that a stylized motion of the mouse cursor itself, called a "gesture", can issue a command or map to a specific action. For example, in a drawing program, moving the mouse in a rapid "x" motion over a shape might delete the shape.

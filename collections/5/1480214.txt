@@ -1,0 +1,1 @@
+On an external modem the status of the Ring Indicator pin is often coupled to the "AA" (auto answer) light, which flashes if the RI signal has detected a ring. The asserted RI signal follows the ringing pattern closely, which can permit software to detect distinctive ring patterns.

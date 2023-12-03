@@ -1,0 +1,1 @@
+iOS 10 also changes how email threading works, by placing the oldest email at the top by default. An option in Settings lets users revert to the previous threading system with the most recent message on top.[118][119] Additionally, the new threaded conversations allow users to tap a message to see a scrollable stream of messages inside the thread.[56]

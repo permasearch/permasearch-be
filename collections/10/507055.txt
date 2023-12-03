@@ -1,0 +1,1 @@
+ADRs may be classified by e.g. cause and severity.

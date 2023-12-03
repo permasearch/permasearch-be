@@ -1,0 +1,1 @@
+Let X1, ..., Xn be independent exponentially distributed random variables with rate parameters λ1, ..., λn.  Then

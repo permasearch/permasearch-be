@@ -1,0 +1,1 @@
+In general for an n-dimensional box, the solutions are

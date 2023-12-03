@@ -1,0 +1,1 @@
+Nmap can provide further information on targets, including reverse DNS names, device types, and MAC addresses.[9]

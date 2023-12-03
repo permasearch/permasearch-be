@@ -1,0 +1,1 @@
+R is the gas constant and T is the absolute temperature. At 25 °C, ΔG⊖ = (−5.708 kJ mol−1) ⋅ log β. Free energy is made up of an enthalpy term and an entropy term.

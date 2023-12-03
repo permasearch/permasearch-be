@@ -1,0 +1,1 @@
+E  0     {\displaystyle E_{0}}   is a constant of integration for the indefinite integral. Simplifying the expression we obtain

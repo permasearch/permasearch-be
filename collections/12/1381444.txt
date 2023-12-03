@@ -1,0 +1,1 @@
+There are various ways to get to S/4HANA, this depends on a customerâ€™s starting point. For example, new implementation, system conversion, and landscape transformation.[22]

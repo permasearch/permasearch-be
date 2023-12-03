@@ -1,0 +1,1 @@
+A penalty method that where the penalty is 10% of the unearned premium.

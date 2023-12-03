@@ -1,0 +1,1 @@
+TTL became the foundation of computers and other digital electronics. Even after larger scale integrated circuits made multiple-circuit-board processors obsolete, TTL devices still found extensive use as the glue logic interfacing between more densely integrated components.

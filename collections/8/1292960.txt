@@ -1,0 +1,1 @@
+The distance from a point to a line is the distance to the nearest point on that line. That is the point at which a segment from it to the given point is perpendicular to the line.

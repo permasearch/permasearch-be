@@ -1,0 +1,1 @@
+By 2000 the group succeeded in building a BCI that reproduced owl monkey movements while the monkey operated a joystick or reached for food.[21] The BCI operated in real time and could also control a separate robot remotely over Internet protocol. But the monkeys could not see the arm moving and did not receive any feedback, a so-called open-loop BCI.

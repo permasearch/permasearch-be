@@ -1,0 +1,1 @@
+A general-purpose factoring algorithm, also known as a Category 2, Second Category, or Kraitchik family algorithm (after Maurice Kraitchik),[4] has a running time which depends solely on the size of the integer to be factored. This is the type of algorithm used to factor RSA numbers. Most general-purpose factoring algorithms are based on the congruence of squares method.

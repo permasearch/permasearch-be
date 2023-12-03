@@ -1,0 +1,1 @@
+For condensed phases (solids and liquids), the pressure dependence of solubility is typically weak and usually neglected in practice. Assuming an ideal solution, the dependence can be quantified as:

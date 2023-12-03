@@ -1,0 +1,1 @@
+In other words, if R(n) is the set of all nth roots of unity and P(n) is the set of primitive ones, R(n) is a disjoint union of the P(n):

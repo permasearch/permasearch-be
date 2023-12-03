@@ -1,0 +1,1 @@
+L ( z ) =  ∫  z   + ∞    (  t − z  )  ϕ ( t ) d t   {\displaystyle L(z)=\int _{z}^{+\infty }\left(t-z\right)\phi (t)dt}

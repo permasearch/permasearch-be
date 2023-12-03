@@ -1,0 +1,1 @@
+For articles initially developed outside of article namespace, the date the article first appears in article space is counted as the first day towards the DYK seven-day rule.

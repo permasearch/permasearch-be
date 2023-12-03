@@ -1,0 +1,1 @@
+The second antiporter (the glutamate-aspartate antiporter) imports glutamate from the cytosol into the matrix and exports aspartate from the matrix to the cytosol. Once in the cytosol, aspartate is converted by cytosolic aspartate aminotransferase to oxaloacetate.

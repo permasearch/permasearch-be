@@ -1,0 +1,1 @@
+OWASP collects a list of potential threat agents in order to prevent system designers and programmers insert vulnerabilities in the software.[17]

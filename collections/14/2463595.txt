@@ -1,0 +1,1 @@
+Time-division multiplexing was first developed for applications in telegraphy to route multiple transmissions simultaneously over a single transmission line. In the 1870s, Émile Baudot developed a time-multiplexing system of multiple Hughes telegraph machines.

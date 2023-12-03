@@ -1,0 +1,1 @@
+Sony's implementation of the system, i.LINK, used a smaller connector with only four signal conductors, omitting the two conductors that provide power for devices in favor of a separate power connector. This style was later added into the 1394a amendment.[5] This port is sometimes labeled S100 or S400 to indicate speed in Mbit/s.

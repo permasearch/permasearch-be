@@ -1,0 +1,1 @@
+Chrome allows users to make local desktop shortcuts that open web applications in the browser. The browser, when opened in this way, contains none of the regular interface except for the title bar, so as not to "interrupt anything the user is trying to do". This allows web applications to run alongside local software (similar to Mozilla Prism and Fluid).[26]

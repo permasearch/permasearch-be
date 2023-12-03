@@ -1,0 +1,1 @@
+Isometric and axonometric projections are a simple way of representing a three dimensional object, keeping the elements to scale and showing the relationship between several sides of the same object, so that the complexities of a shape can be clearly understood.

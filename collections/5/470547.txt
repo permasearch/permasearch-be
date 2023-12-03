@@ -1,0 +1,1 @@
+On Mactel computers based on x64, the EFI system partition is initially left blank and unused for booting.[10] However, the EFI system partition is used as a staging area for firmware updates.[11]

@@ -1,0 +1,1 @@
+Logic systems and feedback controllers are usually implemented with programmable logic controllers which are devices available from electrical supply houses. They include a little computer and a simplified system for programming. Most often they are programmed with personal computers.

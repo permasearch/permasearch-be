@@ -1,0 +1,1 @@
+Capital employed can be defined as shareholders funds (i.e. Share capital and reserves) plus creditors > 1 year (long-term liabilities) plus provisions for liabilities and charges. NB. This must equal Total assets less current liabilities, by definition.

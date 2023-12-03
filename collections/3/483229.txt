@@ -1,0 +1,1 @@
+If the article meets the criteria for italic titles given in the Article titles policy, place {{italic title}} at the top of the article. Some infobox templates, e.g. {{Infobox album}} and {{Infobox book}}, automatically italicize titles. If only part of the title should be italicized after the move, use {{DISPLAYTITLE}} instead.

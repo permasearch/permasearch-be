@@ -1,0 +1,1 @@
+where t is the time at which the particle was measured. This leads to the normalization condition:

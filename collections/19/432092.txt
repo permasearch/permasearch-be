@@ -1,0 +1,1 @@
+This section describes the last round strategy where there is no possibility of a Yahtzee bonus (i.e. there is a score of 0 in the Yahtzee box). These are the simplest situations to analyse, although even at this late stage the strategy may vary depending on the game situation.

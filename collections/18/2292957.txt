@@ -1,0 +1,1 @@
+The shape of the cells is such that two opposing honeycomb layers nest into each other, with each facet of the closed ends being shared by opposing cells.[4]

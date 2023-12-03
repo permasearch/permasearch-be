@@ -1,0 +1,1 @@
+Most GPUs are designed for a specific usage, real-time 3D graphics or other mass calculations:

@@ -1,0 +1,1 @@
+The secant sec(A) is the reciprocal of cos(A); i.e. the ratio of the length of the hypotenuse to the length of the adjacent side:

@@ -1,0 +1,1 @@
+The condenser temperature and pressure are lower. Since the turbine exhaust is to be discharged back into the ocean, a direct contact condenser is used to mix the exhaust with cold water, which results in a near-saturated water. That water is now discharged back to the ocean.

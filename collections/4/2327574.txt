@@ -1,0 +1,1 @@
+Many of the existing software measures count structural elements of the application that result from parsing the source code for such individual instructions (Park, 1992),[26] tokens (Halstead, 1977),[27] control structures (McCabe, 1976), and objects (Chidamber & Kemerer, 1994).[28]

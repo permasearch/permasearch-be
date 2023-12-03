@@ -1,0 +1,1 @@
+This returns extended feature flags in EDX and ECX.

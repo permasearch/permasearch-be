@@ -1,0 +1,1 @@
+In particular, φX+Y(t) = φX(t)φY(t). To see this, write out the definition of characteristic function:

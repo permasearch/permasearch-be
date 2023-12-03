@@ -1,0 +1,1 @@
+This first order, linear, non-homogeneous differential equation may be solved a number of ways; however, in this instance, it will be quicker to approach the solution via an integrating factor      e  ∫   k m    d t     {\displaystyle e^{\int {\frac {k}{m}}\,dt}}  .

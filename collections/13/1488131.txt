@@ -1,0 +1,1 @@
+In the generic case, choosing the scaling law for H is easy, since the only term that contributes is the first one,

@@ -1,0 +1,1 @@
+Weights are easy to calculate as well: a standard A4 sheet made from 80 g/m2 paper weighs 5 g (as it is ​1⁄16 of an A0 page, measuring 1 m2), allowing one to easily compute the weight—and associated postage rate—by counting the number of sheets used.

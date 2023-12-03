@@ -1,0 +1,1 @@
+Finally, e(x) is generated from ik and eik and then is subtracted from r(x) to get the sent message s(x).

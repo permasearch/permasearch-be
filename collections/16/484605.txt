@@ -1,0 +1,1 @@
+In a flat file system, there are no subdirectories, directory entries for all files are stored in a single directory.

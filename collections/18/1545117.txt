@@ -1,0 +1,1 @@
+The steering column instrumentation cluster features a tachometer, speedometer, and a small display between them that displays real-time fuel efficiency, odometer, and trip odometer.

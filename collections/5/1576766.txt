@@ -1,0 +1,1 @@
+The trigonometric functions sine and cosine are common periodic functions, with period 2Ï€ (see the figure on the right). The subject of Fourier series investigates the idea that an 'arbitrary' periodic function is a sum of trigonometric functions with matching periods.

@@ -1,0 +1,1 @@
+Where N, as mentioned above, is the size of the set of values (or can also be regarded as s0).

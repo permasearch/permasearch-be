@@ -1,0 +1,1 @@
+Equivalently, they are parallel if and only if the distance from a point P on line m to the nearest point in plane q is independent of the location of P on line m.

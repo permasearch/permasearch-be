@@ -1,0 +1,1 @@
+Gross primary production can be estimated from measurements of net ecosystem exchange (NEE) of carbon dioxide made by the eddy covariance technique. During night, this technique measures all components of ecosystem respiration. This respiration is scaled to day-time values and further subtracted from NEE.[12]

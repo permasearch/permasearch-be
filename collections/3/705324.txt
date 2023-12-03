@@ -1,0 +1,1 @@
+Gateways, also called protocol converters, can operate at any network layer. The activities of a gateway are more complex than that of the router or switch as it communicates using more than one protocol.[citation needed]

@@ -1,0 +1,1 @@
+Sometimes only the original document has value. An original signed cheque for example has value but a photocopy of it does not. An original prescription script can be filled but a photocopy of it should not be. Copy-evident technologies provide security to hard copy documents by helping distinguish between the original document and the copy.

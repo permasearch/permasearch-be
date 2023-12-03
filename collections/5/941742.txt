@@ -1,0 +1,1 @@
+Other mathematical systems that include a multiplication operation may not have all these properties. For example, multiplication is not, in general, commutative for matrices and quaternions.

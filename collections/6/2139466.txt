@@ -1,0 +1,1 @@
+A general extension of the vanÂ 't Hoff equation uses a virial expansion. For an ideal gas this has the form

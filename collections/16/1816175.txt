@@ -1,0 +1,1 @@
+Radar energy expands during both the signal transmission and also on the reflected return, so the inverse square for both paths means that the radar will receive energy according to the inverse fourth power of the range.

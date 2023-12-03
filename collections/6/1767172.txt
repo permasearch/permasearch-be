@@ -1,0 +1,1 @@
+An isohedral tiling is a special variation of a monohedral tiling in which all tiles belong to the same transitivity class, that is, all tiles are transforms of the same prototile under the symmetry group of the tiling.[23] If a prototile admits a tiling, but no such tiling is isohedral, then the prototile is called anisohedral and forms anisohedral tilings.

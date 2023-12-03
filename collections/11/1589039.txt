@@ -1,0 +1,1 @@
+In the above example, a prototype is used in a function declaration for ANSI compliant implementations, while an obsolescent non-prototype declaration is used otherwise. Those are still ANSI-compliant as of C99. Note how this code checks both definition and evaluation: this is because some implementations may set __STDC__ to zero to indicate non-ANSI compliance.[citation needed]

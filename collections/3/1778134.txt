@@ -1,0 +1,1 @@
+These are the areas that help achieve critical system requirements. For each technology area several technologies can be found. Example technology areas are: market assessment, crosscutting technology, component development, and system development.

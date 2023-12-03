@@ -1,0 +1,1 @@
+This proof does not rely on Fatou's lemma. However, we do explain how that lemma might be used.

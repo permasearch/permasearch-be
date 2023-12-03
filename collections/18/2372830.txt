@@ -1,0 +1,1 @@
+In desktop LCDs, SXGA+ is used on some low-end 20-inch monitors, whereas most of the 20-inch LCDs use UXGA (standard screen ratio), or WSXGA+ (widescreen ratio).

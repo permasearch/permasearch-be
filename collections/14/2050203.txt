@@ -1,0 +1,1 @@
+In contrast, a self-powered hub is one that takes its power from an external power supply unit and can therefore provide full power (up to 500 mA) to every port. Many hubs can operate as either bus powered or self powered hubs.

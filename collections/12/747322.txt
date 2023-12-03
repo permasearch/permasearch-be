@@ -1,0 +1,1 @@
+Redirected sharing of folders such as Application Data may lead to data corruption, since Microsoft did not intend this for their application data to be shared between the different OS versions.

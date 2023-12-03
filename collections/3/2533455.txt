@@ -1,0 +1,1 @@
+The communication with the PACS server is done through DICOM messages that are similar to DICOM image "headers", but with different attributes. A query (C-FIND) is performed as follows:

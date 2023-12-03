@@ -1,0 +1,1 @@
+These equations are called the "Biot–Savart law for a point charge"[6] due to its closely analogous form to the "standard" Biot–Savart law given previously. These equations were first derived by Oliver Heaviside in 1888.

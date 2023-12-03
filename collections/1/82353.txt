@@ -1,0 +1,1 @@
+On the left, two arrows locate the ball relative to the ball-thrower. One of these arrows is from the thrower to the center of the carousel (providing the ball-thrower's line of sight), and the other points from the center of the carousel to the ball.(This arrow gets shorter as the ball approaches the center.) A shifted version of the two arrows is shown dotted.

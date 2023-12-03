@@ -1,0 +1,1 @@
+This issue can be resolved by securing the communication between the user's computer and the server by employing Transport Layer Security (HTTPS protocol) to encrypt the connection. A server can specify the Secure flag while setting a cookie, which will cause the browser to send the cookie only over an encrypted channel, such as an SSL connection.[30]

@@ -1,0 +1,1 @@
+In physics, vector magnitude is a scalar in the physical sense, i.e. a physical quantity independent of the coordinate system, expressed as the product  of a numerical value and a physical unit, not just a number. The dot product is also a scalar in this sense, given by the formula, independent of the coordinate system.  Examples include:[8][9]

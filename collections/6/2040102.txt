@@ -1,0 +1,1 @@
+The examples below describe Stokes waves under the action of gravity (without surface tension effects) in case of pure wave motion, so without an ambient mean current.

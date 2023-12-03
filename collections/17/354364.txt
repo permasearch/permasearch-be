@@ -1,0 +1,1 @@
+Here is a demonstration of this procedure.  Start off with an ordered 12-tuple (tone row) of integers

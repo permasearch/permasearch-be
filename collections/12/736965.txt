@@ -1,0 +1,1 @@
+where     Δ U   {\displaystyle \Delta U}   is the change in the potential energy associated with the force. The negative sign provides the convention that work done against a force field increases potential energy, while work done by the force field decreases potential energy. Common notations for potential energy are U, V, also Ep.

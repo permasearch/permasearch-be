@@ -1,0 +1,1 @@
+If the function g is monotonic, then the resulting density function is

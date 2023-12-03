@@ -1,0 +1,1 @@
+By taking the limit as R goes to infinity we see C equals r.

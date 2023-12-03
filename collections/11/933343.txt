@@ -1,0 +1,1 @@
+Thermocouple manufacturers and metrology standards organizations such as NIST provide tables of the function      E ( T )    {\displaystyle \scriptstyle E(T)}   that have been measured and interpolated over a range of temperatures, for particular thermocouple types (see External links section for access to these tables).

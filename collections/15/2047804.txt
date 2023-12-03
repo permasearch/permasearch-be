@@ -1,0 +1,1 @@
+If the radios are used mainly inside buildings, then UHF is likely the best solution since its shorter wavelength travels through small openings in the building better. There are also repeaters that can be installed that can relay any frequencies signal (VHF or UHF) to increase the communication distance.

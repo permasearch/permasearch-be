@@ -1,0 +1,1 @@
+Before about 1905 when tube type rectifiers were developed, power conversion devices were purely electro-mechanical in design. Mechanical rectification systems used some form of rotation or resonant vibration (e.g. vibrators) driven by electromagnets, which operated a switch or commutator to reverse the current.

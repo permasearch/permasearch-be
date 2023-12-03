@@ -1,0 +1,1 @@
+In a generalized linear model (GLM), each outcome Y of the dependent variables is assumed to be generated from a particular distribution in the exponential family, a large range of probability distributions that includes the normal, binomial, Poisson and gamma distributions, among others. The mean, Î¼, of the distribution depends on the independent variables, X, through:

@@ -1,0 +1,1 @@
+All AMT features are available in a secure network environment. With Intel AMT in the secure network environment:

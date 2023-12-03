@@ -1,0 +1,1 @@
+This article explains the most common elements of visual language interfaces found in the WIMP ("window, icon, menu, pointer") paradigm, although many are also used at other graphical post-WIMP interfaces. These elements are usually embodied in an interface using a widget toolkit or desktop environment.

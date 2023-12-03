@@ -1,0 +1,1 @@
+Keyboards also typically have a few single keys which produce control character codes. For example, the key labelled "Backspace" typically produces code 8, "Tab" code 9, "Enter" or "Return" code 13 (though some keyboards might produce code 10 for "Enter").

@@ -1,0 +1,1 @@
+In the earliest days of DNA sequencing, scientists could only gain a few sequences of short length (some dozen bases) after weeks of work in laboratories. Hence, these sequences could be aligned in a few minutes by hand.

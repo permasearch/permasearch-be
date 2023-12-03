@@ -1,0 +1,1 @@
+Dearness AllowanceÂ %= {(Average of AICPI(Base year 2001=100) for the past 3 months - 126.33)/126.33}*100

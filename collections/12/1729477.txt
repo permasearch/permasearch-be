@@ -1,0 +1,1 @@
+Three instructions are present only on models which have the corresponding hardware facility

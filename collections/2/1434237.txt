@@ -1,0 +1,1 @@
+Electron diffraction of solids is usually performed in a Transmission Electron Microscope (TEM) where the electrons pass through a thin film of the material to be studied. The resulting diffraction pattern is then observed on a fluorescent screen, recorded on photographic film, on imaging plates or using a CCD camera.

@@ -1,0 +1,1 @@
+In URLs, the ampersand must be replaced by %26 when representing a string character to avoid interpretation as a URL syntax character.

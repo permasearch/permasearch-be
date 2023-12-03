@@ -1,0 +1,1 @@
+A quantitative measure of the excess is the magnetization, which is the average value of the spin:

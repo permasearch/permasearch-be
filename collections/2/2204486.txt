@@ -1,0 +1,1 @@
+Classes are composed from structural and behavioral constituents.[4]  Programming languages that include classes as a programming construct offer support, for various class-related features, and the syntax required to use these features varies greatly from one programming language to another.

@@ -1,0 +1,1 @@
+Signature verification failure does not force rejection of the message. Instead, the precise reasons why the authenticity of the message could not be proven should be made available to downstream and upstream processes. Methods for doing so may include sending back an FBL message, or adding an Authentication-Results header field to the message as described in RFC 7001.

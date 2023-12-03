@@ -1,0 +1,1 @@
+where Qrev is the heat transferred reversibly to the system and T is absolute temperature.[7] This formula is valid only for a hypothetical reversible process; that is, a process in which equilibrium is maintained at all times.

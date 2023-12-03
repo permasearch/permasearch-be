@@ -1,0 +1,1 @@
+The thermodynamic wet-bulb temperature is a thermodynamic property of a mixture of air and water vapour. The value indicated by a simple wet-bulb thermometer often provides an adequate approximation of the thermodynamic wet-bulb temperature.

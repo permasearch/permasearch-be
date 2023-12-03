@@ -1,0 +1,1 @@
+Ultrasonic thickness measurement is one technique used to monitor quality of welds.

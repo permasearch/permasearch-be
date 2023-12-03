@@ -1,0 +1,1 @@
+Because there is no intermediate resale of capacity, dark fibre networks can operate using the latest optical protocols using wavelength division multiplexing to add capacity where needed, and to provide an upgrade path between technologies without removing the network from service.

@@ -1,0 +1,1 @@
+There are published algorithms that are faster than O((1+ε)b) for all positive ε, i.e., sub-exponential. The best published asymptotic running time is for the general number field sieve (GNFS) algorithm, which, for a b-bit number n, is:

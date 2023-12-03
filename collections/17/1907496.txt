@@ -1,0 +1,1 @@
+An organization should make steps to detect, classify and manage security incidents. The first logical step is to set up an incident response plan and eventually a computer emergency response team.

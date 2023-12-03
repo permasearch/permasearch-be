@@ -1,0 +1,1 @@
+In the amperian loop model, the relevant magnetic field is the magnetic induction      B    {\displaystyle \mathbf {B} }  . Since magnetic monopoles do not exist, there exists a magnetic vector potential such that

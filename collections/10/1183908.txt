@@ -1,0 +1,1 @@
+Intragenic suppression results from suppressor mutations that occur in the same gene as the original mutation. In a classic study, Francis Crick (et al.) used intragenic suppression to study the fundamental nature of the genetic code. From this study it was shown that genes are expressed as non-overlapping triplets (codons).[1]

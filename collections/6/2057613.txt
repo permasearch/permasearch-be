@@ -1,0 +1,1 @@
+Simulation Fidelity is used to describe the accuracy of a simulation and how closely it imitates the real-life counterpart. Fidelity is broadly classified as 1 of 3 categories: low, medium, and high. Specific descriptions of fidelity levels are subject to interpretation but the following generalization can be made:

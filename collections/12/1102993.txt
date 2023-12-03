@@ -1,0 +1,1 @@
+Thus the Ampere model is suitable for computing the magnetic force-field of a permanent magnet, but for electromagnets it can be better to use a magnetic-circuit approach.

@@ -1,0 +1,1 @@
+Some languages, notably Go, use type composition exclusively.[5]

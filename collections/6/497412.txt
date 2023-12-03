@@ -1,0 +1,1 @@
+Let f, g belong to L1(Rn).  Let     F   {\displaystyle F}   be the Fourier transform of     f   {\displaystyle f}   and     G   {\displaystyle G}   be the Fourier transform of     g   {\displaystyle g}  :

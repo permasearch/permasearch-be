@@ -1,0 +1,1 @@
+Since the decadic attenuation coefficient μ10 is related to the (Napierian) attenuation coefficient by μ10 = μ/ln 10, one also have

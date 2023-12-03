@@ -1,0 +1,1 @@
+The above definitions are functionally equivalent. Either code will define objects of type person as having two public data members, name and age. The semicolons after the closing braces are mandatory.

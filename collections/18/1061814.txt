@@ -1,0 +1,1 @@
+The dynamic performance views (also known as "fixed views") within an Oracle database present information from virtual tables (X$ tables)[90] built on the basis of database memory.[91] Database users can access the V$ views (named after the prefix of their synonyms) to obtain information on database structures and performance.

@@ -1,0 +1,1 @@
+All trains begin the game as "public", and all players may play on it. When a player plays a domino on their train it then becomes "private". When a player draws a domino and is unable play it, they must mark their train as "public" by placing a marker on their train.[1] If a player is deemed to have made a strategic error the highest score of that round is added to theirs.

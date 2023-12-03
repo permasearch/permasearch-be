@@ -1,0 +1,1 @@
+Microwave heating is more efficient on liquid water than on frozen water, where the movement of molecules is more restricted. Dielectric heating of liquid water is also temperature-dependent: At 0 Â°C, dielectric loss is greatest at a field frequency of about 10 GHz, and for higher water temperatures at higher field frequencies.[25]

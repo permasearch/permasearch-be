@@ -1,0 +1,1 @@
+The theorem is often used in situations where M is an embedded oriented submanifold of some bigger manifold (e.g. Rk) on which the form     ω   {\displaystyle \omega }   is defined.

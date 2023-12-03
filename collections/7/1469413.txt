@@ -1,0 +1,1 @@
+m and n must be coprime, or the figure will degenerate.

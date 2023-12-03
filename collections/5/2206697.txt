@@ -1,0 +1,1 @@
+A Johnson counter is a ring with an inversion; here is a 4-bit Johnson counter:

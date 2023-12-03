@@ -1,0 +1,1 @@
+In finance, how business days are defined are called "business day conventions" and determine how payments are settled on contracts such as interest rate swaps.

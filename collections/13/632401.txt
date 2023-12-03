@@ -1,0 +1,1 @@
+Although the given criterion is based on a yield phenomenon, extensive testing has shown that use of a "von Mises" stress is applicable at ultimate loading [9]

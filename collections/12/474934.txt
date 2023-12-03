@@ -1,0 +1,1 @@
+and     p   {\displaystyle p}   can be calculated from     q   {\displaystyle q}  .  And thus an estimate of f(AA) and f(Aa) derived from      p  2     {\displaystyle p^{2}}   and     2 p q   {\displaystyle 2pq}   respectively.  Note however, such a population cannot be tested for equilibrium using the significance tests below because it is assumed a priori.

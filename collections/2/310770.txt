@@ -1,0 +1,1 @@
+The orthocenter is closer to the incenter I than it is to the centroid, and the orthocenter is farther than the incenter is from the centroid:

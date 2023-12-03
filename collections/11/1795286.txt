@@ -1,0 +1,1 @@
+Amazon allows developers to build and publish skills for Alexa using the Alexa Skills Kit.[46] These third-party developed skills, once published, are available across Alexa-enabled devices. Users can enable these skills using the Alexa app.

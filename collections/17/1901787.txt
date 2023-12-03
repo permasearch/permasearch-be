@@ -1,0 +1,1 @@
+If the proper motion in right ascension has been converted by cosδ, the result is designated μα*. For example the proper motion results in right ascension in the Hipparcos Catalogue (HIP) have already been converted.[13]  Hence, the individual proper motions in right ascension and declination are made equivalent for straightforward calculations of various other stellar motions.

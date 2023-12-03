@@ -1,0 +1,1 @@
+Zoning codes vary by jurisdiction. As one example, residential zones might be coded as R1 for single-family homes, R2 for two-family homes, and R3 for multiple-family homes. As another example, R60 might represent a minimum lot of 60,000 sq. ft. (1.4 acre or about 0.5 hectares) per single family home, while R30 might require lots of only half that size.

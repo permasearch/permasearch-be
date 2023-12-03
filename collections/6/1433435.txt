@@ -1,0 +1,1 @@
+The Peter principle is a special case of a ubiquitous observation: Anything that works will be used in progressively more challenging applications until it fails. This is the "generalized Peter principle". Peter noted that there is a strong temptation for people to use what has worked before, even when this might not be appropriate for the current situation.[1]

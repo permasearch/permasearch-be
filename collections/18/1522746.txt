@@ -1,0 +1,1 @@
+The decibel is useful for representing large ratios and for simplifying representation of multiplied effects such as attenuation from multiple sources along a signal chain. Its application in systems with additive effects is less intuitive.

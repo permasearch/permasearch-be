@@ -1,0 +1,1 @@
+Although the RID was introduced for music and video industry purposes, the RID is included on every disc written by every drive, including data and backup discs.  The value of the RID is questionable as it is (currently) impossible to locate any individual recorder due to there being no database.

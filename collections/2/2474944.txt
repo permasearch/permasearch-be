@@ -1,0 +1,1 @@
+The content inside the bracket is specified in the argument part.

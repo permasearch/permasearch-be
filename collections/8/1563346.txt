@@ -1,0 +1,1 @@
+Let        Z    n     {\displaystyle {\mathbb {Z}}^{n}}   be the free Abelian group of rank n, whose elements are sequences of n integers, and operation is the addition. A group order on        Z    n     {\displaystyle {\mathbb {Z}}^{n}}   is a total order, which is compatible with addition, that is

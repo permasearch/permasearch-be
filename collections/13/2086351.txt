@@ -1,0 +1,1 @@
+There are a number of basic operations that can be applied to modify matrices, called matrix addition, scalar multiplication, transposition, matrix multiplication, row operations, and submatrix.[11]

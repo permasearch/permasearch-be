@@ -1,0 +1,1 @@
+In radio frequency (RF) transmission systems, in situ is often used to describe the location of various components while the system is in its standard transmission mode, rather than operation in a test mode. For example, if an in situ wattmeter is used in a commercial broadcast transmission system, the wattmeter can accurately measure power while the station is "on air".

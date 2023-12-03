@@ -1,0 +1,1 @@
+where the adjacency function     ℓ (  p  i   ,  p  j   )   {\displaystyle \ell (p_{i},p_{j})}   is 0 if page      p  j     {\displaystyle p_{j}}   does not link to      p  i     {\displaystyle p_{i}}  , and normalized such that, for each j

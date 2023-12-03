@@ -1,0 +1,1 @@
+Cables are most commonly a single outer sheath containing separately-insulated line and neutral wires, and a non-insulated protective earth to which sleeving is added when exposed. Standard sizes have a conductor cross sectional area of 1, 1.5, 2.5, 4, 6 and 10 mm2. Sizes of 1 or 1.5 mm2 are typically used for 6 or 10 ampere lighting circuits and 2.5 mm2 for socket circuits.

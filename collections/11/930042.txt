@@ -1,0 +1,1 @@
+In recent years,[when?] this latter implementation has been replaced with XML files, which not only contain but also describe the data.  Those still using flat files to transfer information are mainframes employing specific procedures which are too expensive to modify.

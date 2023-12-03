@@ -1,0 +1,1 @@
+where kB is the Boltzmann constant, h is the Planck constant, and c is the speed of light in the medium, whether material or vacuum.[1][2][3] The spectral radiance can also be expressed per unit wavelength Î» instead of per unit frequency. In this case, it is given by

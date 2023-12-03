@@ -1,0 +1,1 @@
+Now remember that the velocity function is simply the derivative of the position function. So what we have really shown is that integrating the velocity simply recovers the original position function. This is the basic idea of the theorem: that integration and differentiation are closely related operations, each essentially being the inverse of the other.

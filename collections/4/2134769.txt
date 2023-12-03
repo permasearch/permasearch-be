@@ -1,0 +1,1 @@
+Circumbinary planets are generally more likely to transit than planets around a single star. The probability when the planetary orbit overlaps with the stellar binary orbit has been obtained.[29] For planets orbiting eclipsing stellar binaries (such as the detected systems), the analytical expression of the transit probability in a finite observation time has been obtained.[26]

@@ -1,0 +1,1 @@
+The trains are powered by over 600V DC, drawn from a small rail (bus bar) running along the right side of the beam. This bus bar is similar to the electrified or "third" rail of a subway train.

@@ -1,0 +1,1 @@
+Nonlinear functions and calculations can be constructed to a limited precision (three or four digits) by designing function generatorsâ€”special circuits of various combinations of resistors and diodes to provide the nonlinearity. Typically, as the input voltage increases, progressively more diodes conduct.

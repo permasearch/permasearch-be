@@ -1,0 +1,1 @@
+A number of additional instructions are implemented as aliases for forms of the above. For example, there is no specific "return from subroutine" instruction, but it is implemented as "MOV @SP+,PC". Emulated instructions are:

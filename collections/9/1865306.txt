@@ -1,0 +1,1 @@
+OC-768 is a network line with transmission speeds of up to 39,813.12 Mbit/s (payload: 38,486.016 Mbit/s (38.486016 Gbit/s); overhead: 1,327.104 Mbit/s (1.327104 Gbit/s)).

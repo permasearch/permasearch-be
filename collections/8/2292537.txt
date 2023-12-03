@@ -1,0 +1,1 @@
+Nothing prevents the regressors and the errors from being correlated at the aggregate level. Therefore, generally, running a regression on aggregate data does not estimate the same model than running a regression with individual data.

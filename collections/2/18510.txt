@@ -1,0 +1,1 @@
+Fisher's original (lady tasting tea) example was a one-tailed test.  The null hypothesis was asymmetric.  The probability of guessing all cups correctly was the same as guessing all cups incorrectly, but Fisher noted that only guessing correctly was compatible with the lady's claim.  (See the quotations below about his reasoning.)

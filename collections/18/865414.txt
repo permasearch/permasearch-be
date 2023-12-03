@@ -1,0 +1,1 @@
+where      a  n     {\displaystyle a_{n}}   is the coefficient of degree n in P(x).

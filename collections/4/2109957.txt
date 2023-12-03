@@ -1,0 +1,1 @@
+IEEE Std 1003.1-2004 involved a minor update of POSIX.1-2001. It incorporated two minor updates or errata referred to as Technical Corrigenda (TCs).[10]  Its contents are available on the web.[11]

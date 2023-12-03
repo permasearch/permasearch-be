@@ -1,0 +1,1 @@
+In financial calculations, a number is often rounded to a given number of places (for example, to two places after the decimal separator for many world currencies). Rounding to a fixed number of decimal places in this way is an orthographic convention that does not maintain significance, and may either lose information or create false precision.

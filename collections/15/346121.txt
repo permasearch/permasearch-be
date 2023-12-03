@@ -1,0 +1,1 @@
+Starting with Workbench 1.0, AmigaOS treated the Workbench as a backdrop, borderless window sitting atop a blank screen. With the introduction of AmigaOS 2.0, however, the user was free to select whether the main Workbench window appeared as a normally layered window, complete with a border and scrollbars, through a menu item.

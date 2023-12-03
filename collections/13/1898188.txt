@@ -1,0 +1,1 @@
+The stationary PFR is governed by ordinary differential equations, the solution for which can be calculated providing that appropriate boundary conditions are known.

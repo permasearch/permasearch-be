@@ -1,0 +1,1 @@
+Hit points (HP) are a measure of a character's vitality or health; they are determined by the character's class (certain occupations breed hardier people) or race, and Constitution score. Hit points are reduced whenever a character takes damage.

@@ -1,0 +1,1 @@
+Since the carriers are independent, the overall bit error rate is the same as the per-carrier error rate, just like BPSK and QPSK:

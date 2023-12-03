@@ -1,0 +1,1 @@
+The first version of rules for XP was published in 1999 by Don Wells[10] at the XP website. 29 rules are given in the categories of planning, managing, designing, coding, and testing. Planning, managing and designing are called out explicitly to counter claims that XP doesn't support those activities.

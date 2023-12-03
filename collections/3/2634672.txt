@@ -1,0 +1,1 @@
+We have thus shown that at the limit where     n → ∞ ,   {\displaystyle n\to \infty ,}   the distribution of Pearson's chi approaches the chi distribution with     m − 1   {\displaystyle m-1}   degrees of freedom.

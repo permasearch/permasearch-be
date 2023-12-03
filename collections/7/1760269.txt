@@ -1,0 +1,1 @@
+An example of this lightness factor would be if there were different colors on a grey background that all are of the same lightness. Obviously the colors look different because they are different colors not just grey, but if the image were converted all to grey scale, all of the colors would match the grey background because they all have the same lightness.[1]

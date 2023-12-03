@@ -1,0 +1,1 @@
+A typical space of test functions consists of all smooth functions on R with compact support that have as many derivatives as required. As a distribution, the Dirac delta is a linear functional on the space of test functions and is defined by[23]

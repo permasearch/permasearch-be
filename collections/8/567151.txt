@@ -1,0 +1,1 @@
+FR-4 is by far the most common material used today. The board stock with unetched copper on it is called "copper-clad laminate".

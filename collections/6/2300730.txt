@@ -1,0 +1,1 @@
+Nowadays, the programmer is isolated from the details of the message passing by standard interfaces, such as PVM and MPI.

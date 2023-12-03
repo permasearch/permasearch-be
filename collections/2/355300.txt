@@ -1,0 +1,1 @@
+Sports are ranked according to total possible scholarships (number of teams x number of scholarships per team). Scholarship numbers for head-count sports are indicated without a decimal point. Numbers for equivalency sports are indicated with a decimal point, with a trailing zero if needed.

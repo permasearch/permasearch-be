@@ -1,0 +1,1 @@
+The distinction between arguments and adjuncts is much less clear than the simple omission diagnostic (and the other diagnostics) suggests. Most accounts of the argument vs. adjunct distinction acknowledge a further division. One distinguishes between obligatory and optional arguments. Optional arguments pattern like adjuncts when just the omission diagnostic is employed, e.g.

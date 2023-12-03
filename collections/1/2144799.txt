@@ -1,0 +1,1 @@
+One notable difference between the Fourier transform in 1 dimension versus higher dimensions concerns the partial sum operator. Consider an increasing collection of measurable sets ER indexed by R ∈ (0,∞): such as balls of radius R centered at the origin, or cubes of side 2R. For a given integrable function f, consider the function fR defined by:

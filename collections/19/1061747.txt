@@ -1,0 +1,1 @@
+The Oracle Database Administrators Guide includes a brief history on some of the key innovations introduced with each major release of Oracle Database.

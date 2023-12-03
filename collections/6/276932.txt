@@ -1,0 +1,1 @@
+This is a list of physical quantity The first table lists the base quantities used in the International System of Units to define the physical dimension of physical quantities for dimensional analysis. The second table lists the derived physical quantities. Derived quantities can be mentioned in terms of the base quantities.

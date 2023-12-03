@@ -1,0 +1,1 @@
+That all these different number systems suffer from multiple representations for some real numbers can be attributed to a fundamental difference between the real numbers as an ordered set and collections of infinite strings of symbols, ordered lexicographically. Indeed, the following two properties account for the difficulty:

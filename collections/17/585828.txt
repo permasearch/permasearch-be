@@ -1,0 +1,1 @@
+Bits can be implemented in several forms. In most modern computing devices, a bit is usually represented by an electrical voltage or current pulse, or by the electrical state of a flip-flop circuit.

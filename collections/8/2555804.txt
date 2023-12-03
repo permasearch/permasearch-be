@@ -1,0 +1,1 @@
+The magnetic servo tracks on the tape are factory encoded. Using a bulk eraser, degaussing, or otherwise exposing the cartridge to a strong magnetic field, will erase the servo tracks along with the data tracks, rendering the cartridge unusable.

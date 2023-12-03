@@ -1,0 +1,1 @@
+Δ L ( t ) =   1   k  v     ρ    1 3            d   (    M    1 3     ( t )   )     d t    ,   {\displaystyle \Delta L(t)={\frac {1}{k_{v}\,\rho ^{\tfrac {1}{3}}}}\,{\frac {d{\big (}M^{\tfrac {1}{3}}(t){\big )}}{dt}},}

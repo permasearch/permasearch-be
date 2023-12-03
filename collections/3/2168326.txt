@@ -1,0 +1,1 @@
+The USN Journal (Update Sequence Number Journal) is a system management feature that records (in $Extend\$UsnJrnl) changes to files, streams and directories on the volume, as well as their various attributes and security settings. The journal is made available for applications to track changes to the volume.[16] This journal can be enabled or disabled on non-system volumes.[17]

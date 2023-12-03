@@ -1,0 +1,1 @@
+An object is in your line of sight if you can draw a straight line between yourself and the object without any interference, such as a mountain or a bend in a road. An object beyond the horizon is below the line of sight and, therefore, can be difficult to communicate with.

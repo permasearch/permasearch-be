@@ -1,0 +1,1 @@
+VSTO has complete access to all Office object models. It is feasible to perform all operations on the Office client. Features that requires accessing local machine file systems and other applications are feasible and easy in VSTO. C# or any other CLI programming language can be used to create new Office add-ins.

@@ -1,0 +1,1 @@
+Suppose we start with a plausible initial guess that the mean is about 240. Then the deviations from this "assumed" mean are the following:

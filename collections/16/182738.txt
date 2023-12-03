@@ -1,0 +1,1 @@
+Active Directory Services consist of multiple directory services. The best known is Active Directory Domain Services, commonly abbreviated as AD DS or simply AD.[12]

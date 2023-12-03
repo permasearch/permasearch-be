@@ -1,0 +1,1 @@
+Often it is simpler to do the filtration and recrystallization as two independent and separate steps. That is dissolve "compound A" and "impurity B" in a suitable solvent at room temperature, filter (to remove insoluble compound/glass), remove the solvent and then recrystallize using any of the methods listed above.

@@ -1,0 +1,1 @@
+the last equality applying only if none of the angles is 90Â° (so the tangent function's value is always finite).

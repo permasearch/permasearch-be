@@ -1,0 +1,1 @@
+Multiplication is extended in a similar way to rational numbers and then to real numbers.

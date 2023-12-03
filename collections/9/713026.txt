@@ -1,0 +1,1 @@
+For a Reed Solomon implementation, two different syndromes need to be computed in order to allow the loss of any two drives. One of them, P can be the simple XOR of the data across the stripes, as with RAIDÂ 5. A second, independent syndrome is more complicated and requires the assistance of field theory.

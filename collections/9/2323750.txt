@@ -1,0 +1,1 @@
+The first player rolls two dice under a cup and claims a roll. Most claims are scored by reading the higher die as the 10s place and the lower as the 1s, e.g., a roll of 1 and 4 is read as "41". Doubles are higher than "65", and what would be the lowest roll 2-1, is a "Mexican" and higher than 6-6.

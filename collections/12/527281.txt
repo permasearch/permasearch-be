@@ -1,0 +1,1 @@
+In English and most European languages where words are read left-to-right, text is usually aligned "flush left",[1] meaning that the text of a paragraph is aligned on the left-hand side with the right-hand side ragged.  This is the default style of text alignment on the World Wide Web for left-to-right text. [2] Quotations are often indented.

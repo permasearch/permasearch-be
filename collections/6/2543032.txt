@@ -1,0 +1,1 @@
+One of the ways to prove the theorem relies on Hurwitz quaternions, which are the analog of integers for quaternions.[7] The Hurwitz quaternions consist of all quaternions with integer components and all quaternions with half-integer components. These two sets can be combined into a single formula

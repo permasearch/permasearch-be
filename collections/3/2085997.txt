@@ -1,0 +1,1 @@
+Accordions have many configurations and types. What may be technically possible to do with one accordion could be impossible with another:

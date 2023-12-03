@@ -1,0 +1,1 @@
+According to PostgreSQL v.9 documentation, an SQL Window function performs a calculation across a set of table rows that are somehow related to the current row, in a way similar to aggregate functions. [3] The name recalls signal processing  window functions. A window function call always contains an OVER clause.

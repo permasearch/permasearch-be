@@ -1,0 +1,1 @@
+Mathematicians often use inequalities to bound quantities for which exact formulas cannot be computed easily.  Some inequalities are used so often that they have names:

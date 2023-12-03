@@ -1,0 +1,1 @@
+Note for Wellington metropolitan area, users should use the city name (i.e. Wellington, Lower Hutt, Upper Hutt, Porirua), not the metropolitan area name. For example:

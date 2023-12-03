@@ -1,0 +1,1 @@
+To address some of these concerns, on 18 March 2011 the Payment Card Industry Security Standards Council issued a revised FAQ about call center recordings. The bottom line is that companies can no longer store digital recordings that include sensitive card data if those recordings can be queried.

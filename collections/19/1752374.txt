@@ -1,0 +1,1 @@
+Another derivation of Darcy's law is used extensively in petroleum engineering to determine the flow through permeable media â€” the most simple of which is for a one-dimensional, homogeneous rock formation with a single fluid phase and constant fluid viscosity.

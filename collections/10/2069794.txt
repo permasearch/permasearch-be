@@ -1,0 +1,1 @@
+The numbers 2480, 6200 and 40640 are also members of this club, as they each have an abundancy equal to 12/5.

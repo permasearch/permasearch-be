@@ -1,0 +1,1 @@
+∂  τ  x z     ∂ x    +    ∂  τ  y z     ∂ y    +    ∂  σ  z     ∂ z    +  F  z   = 0     {\displaystyle {\frac {\partial \tau _{xz}}{\partial x}}+{\frac {\partial \tau _{yz}}{\partial y}}+{\frac {\partial \sigma _{z}}{\partial z}}+F_{z}=0\,\!}

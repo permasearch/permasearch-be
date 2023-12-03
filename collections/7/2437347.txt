@@ -1,0 +1,1 @@
+The measured travel time of Sonar pulses in water is strongly dependent on the temperature and the salinity of the water. Ultrasonic ranging is also applied for measurement in air and for short distances. For example, hand-held ultrasonic measuring tools can rapidly measure the layout of rooms.

@@ -1,0 +1,1 @@
+There is no "best" number of bins, and different bin sizes can reveal different features of the data.  Grouping data is at least as old as Graunt's work in the 17th century, but no systematic guidelines were given[11] until Sturges's work in 1926.[12]

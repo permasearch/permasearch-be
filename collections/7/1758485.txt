@@ -1,0 +1,1 @@
+The AMI or B8ZS signal allowed a simple error rate measurement. The D bank in the central office could detect a bit with the wrong polarity, or "bipolarity violation" and sound an alarm. Later systems could count the number of violations and reframes and otherwise measure signal quality and allow a more sophisticated alarm indication signal system.

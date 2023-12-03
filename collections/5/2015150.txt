@@ -1,0 +1,1 @@
+These formulae ignore aerodynamic drag and also assume that the landing area is at uniform height 0.

@@ -1,0 +1,1 @@
+Various methods can be used to evaluate abstract quality, e.g. rating by readers, checklists (not necessary in structured abstracts), and readability measures (such as Flesch Reading Ease).[16][20]

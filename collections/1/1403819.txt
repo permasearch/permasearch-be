@@ -1,0 +1,1 @@
+Because the cross product may also be a (true) vector, it may not change direction with a mirror image transformation. This happens, according to the above relationships, if one of the operands is a (true) vector and the other one is a pseudovector (e.g., the cross product of two vectors). For instance, a vector triple product involving three (true) vectors is a (true) vector.

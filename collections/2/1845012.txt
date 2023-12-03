@@ -1,0 +1,1 @@
+One way to capture a more complete view of dependence structure is to consider a copula between them.

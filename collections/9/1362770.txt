@@ -1,0 +1,1 @@
+Critics have accused kernel developers of covering up security flaws or at least not announcing them; in 2008, Linus Torvalds responded to this with the following:[105][106]

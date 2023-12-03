@@ -1,0 +1,1 @@
+Another example could be a car chase: If a vehicle leaves the right side of the frame in one shot, it should enter from the left side of the frame in the next shot. Leaving from the right and entering from the right creates a similar sense of disorientation as in the dialogue example.

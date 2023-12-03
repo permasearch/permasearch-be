@@ -1,0 +1,1 @@
+IBM operating systems have paralleled hardware development. On early systems, operating systems represented a relatively modest level of investment, and were essentially viewed as an adjunct to the hardware. By the time of the System/360, however, operating systems had assumed a much larger role, in terms of cost, complexity, importance, and risk.

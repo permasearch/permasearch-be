@@ -1,0 +1,1 @@
+In Unicode, it is encoded at U+003A : Colon.

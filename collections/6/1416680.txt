@@ -1,0 +1,1 @@
+The overall strength of the binding of an antibody to an antigen is termed its avidity for that antigen. Since antibodies are bivalent or polyvalent, this is the sum of the strengths of individual antibody-antigen interactions. The strength of an individual interaction between a single binding site on an antibody and its target epitope is termed the affinity of that interaction.

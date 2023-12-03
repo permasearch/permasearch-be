@@ -1,0 +1,1 @@
+For many years, high-performance processors were all based on multi-chip ECL CPUs. For example, from 1975 to 1991 Digital Equipment Corporation's highest performance processors were all based on multi-chip ECL CPUs—from the (ECL) KL10 through the (ECL) VAX 9000 until the 1991 single-chip CMOS NVAX—at the time, a single-chip ECL processor was expected to retake the lead.[30]

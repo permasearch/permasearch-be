@@ -1,0 +1,1 @@
+where Jf is the free-charge current density, and the second term is the magnetization current density (also called the bound current density), a contribution from atomic-scale magnetic dipoles (when they are present).

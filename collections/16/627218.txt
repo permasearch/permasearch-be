@@ -1,0 +1,1 @@
+STARTTLS can be used to provide secure communications between the MUA communicating with the MSA or MTA implementing the SMTP Protocol.

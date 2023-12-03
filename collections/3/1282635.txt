@@ -1,0 +1,1 @@
+These are the kinematic equations for a particle traversing a path in a plane, described by position r = r(t).[13] They are simply the time derivatives of the position vector in plane polar coordinates using the definitions of physical quantities above for angular velocity ω and angular acceleration α. These are instantaneous quantities which change with time.

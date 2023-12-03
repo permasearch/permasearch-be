@@ -1,0 +1,1 @@
+sizeof can be used to determine the number of elements in an array, by dividing the size of the entire array by the size of a single element:

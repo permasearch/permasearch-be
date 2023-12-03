@@ -1,0 +1,1 @@
+During the constant current phase, the charger applies a constant current to the battery at a steadily increasing voltage, until the voltage limit per cell is reached.

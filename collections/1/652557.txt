@@ -1,0 +1,1 @@
+The gyration radius is useful in estimating the stiffness of a column. If the principal moments of the two-dimensional gyration tensor are not equal, the column will tend to buckle around the axis with the smaller principal moment. For example, a column with an elliptical cross-section will tend to buckle in the direction of the smaller semiaxis.

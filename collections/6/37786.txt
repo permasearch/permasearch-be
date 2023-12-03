@@ -1,0 +1,1 @@
+Another kind of directed distance is that between two different particles or point masses at a given time. For instance, the distance from the center of gravity of the Earth A and the center of gravity of the Moon B (which does not strictly imply motion from A to B) falls into this category.

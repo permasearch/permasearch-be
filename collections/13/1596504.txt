@@ -1,0 +1,1 @@
+Numbering of the ATX revisions may be a little confusing: ATX refers to the design, and goes up to version 2.2 in 2004 (with the 24 pins of ATX12V 2.0) while ATX12V describes only the PSU. For instance, ATX 2.03 is pretty commonly seen on PSU from 2000 & 2001 and often include the P4 12V connector, even if the norm itself does not define it yet![2]

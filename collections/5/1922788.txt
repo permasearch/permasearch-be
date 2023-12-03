@@ -1,0 +1,1 @@
+The Airborne Launch Control System (ALCS) is an integral part of the Minuteman ICBM command and control system and provides a survivable launch capability for the Minuteman ICBM force if ground based Launch Control Centers are destroyed.

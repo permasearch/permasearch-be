@@ -1,0 +1,1 @@
+Indeed, if, to the contrary,      X ⊈  ⋃  k    B  k   s , t      {\displaystyle \textstyle X\not \subseteq \bigcup _{k}B_{k}^{s,t}}  , then an element

@@ -1,0 +1,1 @@
+Here, A is an adjustable parameter. This equation has a chaotic solution for A=3/5 and can be implemented with the following jerk circuit; the required nonlinearity is brought about by the two diodes:

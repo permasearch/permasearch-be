@@ -1,0 +1,1 @@
+Statistics from the United States government's Digital Analytics Program (DAP) do not represent world-wide usage patterns. DAP uses raw data from a unified Google Analytics account.

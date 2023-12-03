@@ -1,0 +1,1 @@
+Since the reactive power consumed depends on the active power being transmitted, the shunt capacitors usually need to be subdivided into a number of switchable banks (typically four per converter) in order to prevent a surplus of reactive power being generated at low transmitted power.

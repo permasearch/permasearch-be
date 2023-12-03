@@ -1,0 +1,1 @@
+Microsoft added native NFC functionality in their mobile OS with Windows Phone 8, as well as the Windows 8 operating system. Microsoft provides the "Wallet hub" in Windows Phone 8 for NFC payment, and can integrate multiple NFC payment services within a single application.[67]

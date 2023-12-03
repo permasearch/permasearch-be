@@ -1,0 +1,1 @@
+An example of a "divide and conquer algorithm", binary search involves each element being found by determining which half of the table a match may be found in and repeating until either success or failure. This is only possible if the list is sorted but gives good performance even if the list is lengthy.

@@ -1,0 +1,1 @@
+IEEE 1355 and Spacewire are a family of simplified physical-layer standards very similar in function at the hardware level to MPLS.[citation needed]

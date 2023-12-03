@@ -1,0 +1,1 @@
+Additionally, mass relates a body's momentum p to its linear velocity v:

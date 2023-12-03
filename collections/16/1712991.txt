@@ -1,0 +1,1 @@
+A rational fraction is the quotient (algebraic fraction) of two polynomials. Any algebraic expression that can be rewritten as a rational fraction is a rational function.

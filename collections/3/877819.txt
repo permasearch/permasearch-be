@@ -1,0 +1,1 @@
+Negative numbers: Real numbers that are less than zero. Because zero itself has no sign, neither the positive numbers nor the negative numbers include zero. When zero is a possibility, the following terms are often used:

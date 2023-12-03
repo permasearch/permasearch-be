@@ -1,0 +1,1 @@
+The design of the torch used in the relay to the Games changes for each Games. They may be designed to represent a classical ideal, or to represent some local aspect of those particular Games.[14][33][34]

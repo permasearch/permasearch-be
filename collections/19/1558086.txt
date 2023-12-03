@@ -1,0 +1,1 @@
+One channel microarray may be the only choice in some situations. Suppose     i   {\displaystyle i}   samples need to be compared: then the number of experiments required using the two channel arrays quickly becomes unfeasible, unless a sample is used as a reference.

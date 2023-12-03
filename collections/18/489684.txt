@@ -1,0 +1,1 @@
+The first perfect number is 6. Its proper divisors are 1, 2, and 3, and 1 + 2 + 3 = 6. Equivalently, the number 6 is equal to half the sum of all its positive divisors:  ( 1 + 2 + 3 + 6 ) รท 2 = 6. The next perfect number is 28: 28 = 1 + 2 + 4 + 7 + 14. This is followed by the perfect numbers 496 and 8128 (sequence A000396 in the OEIS).

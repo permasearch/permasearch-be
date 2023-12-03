@@ -1,0 +1,1 @@
+As acceleration, the unit is interpreted physically as change in velocity or speed per time interval, i.e. metre per second per second and is treated as a vector quantity.

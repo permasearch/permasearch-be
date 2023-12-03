@@ -1,0 +1,1 @@
+Evaluations conducted with random assignment are able to make stronger inferences about causation. Randomly assigning people to participate or to not participate in the program, reduces or eliminates self-selection bias. Thus, the group of people who participate would likely be more comparable to the group who did not participate.

@@ -1,0 +1,1 @@
+BMI is calculated by dividing the subject's mass by the square of his or her height, typically expressed either in metric or US "Customary" units:

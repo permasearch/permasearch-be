@@ -1,0 +1,1 @@
+This applies even when time t is at infinity; i.e., equilibrium has been reached:

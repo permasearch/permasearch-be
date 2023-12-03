@@ -1,0 +1,1 @@
+Similarly, while one can evaluate monomials (xn) of dimensional quantities, one cannot evaluate polynomials of mixed degree with dimensionless coefficients on dimensional quantities: for x2, the expression (3 m)2 = 9 m2 makes sense (as an area), while for x2 + x, the expression (3 m)2 + 3 m = 9 m2 + 3 m does not make sense.

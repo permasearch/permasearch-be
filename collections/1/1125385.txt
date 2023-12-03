@@ -1,0 +1,1 @@
+Radio-navigation aids must keep a certain degree of accuracy, given by international standards, FAA, ICAO, etc.; to assure this is the case, Flight inspection organizations periodically check critical parameters with properly equipped aircraft to calibrate and certify NDB precision. The ICAO minimum accuracy for NDBs is ±5°

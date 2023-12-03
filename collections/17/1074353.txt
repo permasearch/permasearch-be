@@ -1,0 +1,1 @@
+If a liquid column manometer is used to measure the pressure difference     Δ p ≡  p  t   −  p  s     {\displaystyle \Delta p\equiv p_{t}-p_{s}}  ,

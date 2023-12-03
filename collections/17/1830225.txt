@@ -1,0 +1,1 @@
+An induction machine requires an externally-supplied armature current. Because the rotor field always lags behind the stator field, the induction machine always "consumes" reactive power, regardless of whether it is operating as a generator or a motor.

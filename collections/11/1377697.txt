@@ -1,0 +1,1 @@
+An autorelative pointer is a pointer whose value is interpreted as an offset from the address of the pointer itself; thus, if a data structure has an autorelative pointer member that points to some portion of the data structure itself, then the data structure may be relocated in memory without having to update the value of the auto relative pointer.[10]

@@ -1,0 +1,1 @@
+Anderson's 1958 textbook, An Introduction to Multivariate Analysis,[4] educated a generation of theorists and applied statisticians; Anderson's book emphasizes hypothesis testing via likelihood ratio tests and the properties of power functions: admissibility, unbiasedness and monotonicity.[5][6]

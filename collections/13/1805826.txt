@@ -1,0 +1,1 @@
+The best-known use of packet switching is the Internet and most local area networks. The Internet is implemented by the Internet Protocol Suite using a variety of Link Layer technologies. For example, Ethernet and Frame Relay are common. Newer mobile phone technologies (e.g., GPRS, i-mode) also use packet switching.

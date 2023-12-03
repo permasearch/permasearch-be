@@ -1,0 +1,1 @@
+Blue phase mode LCDs have been shown as engineering samples early in 2008, but they are not in mass-production. The physics of blue phase mode LCDs suggest that very short switching times (~1 ms) can be achieved, so time sequential color control can possibly be realized and expensive color filters would be obsolete.[citation needed]

@@ -1,0 +1,1 @@
+where s is again the distance from the point P to the center O of the given circle (solid black in Figure 2).

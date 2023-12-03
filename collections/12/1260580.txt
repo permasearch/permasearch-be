@@ -1,0 +1,1 @@
+Another convention reserves the term continuous probability distribution for absolutely continuous distributions. These distributions can be characterized by a probability density function: a non-negative Lebesgue integrable function      f   {\displaystyle \,f}   defined on the real numbers such that

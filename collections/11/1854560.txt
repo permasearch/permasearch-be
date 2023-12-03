@@ -1,0 +1,1 @@
+Long-term archiving is accomplished by backing up the digital files from the RAID, using standard practices and equipment for data backup from the IT industry, often to data tapes (like LTOs).

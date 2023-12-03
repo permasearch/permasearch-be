@@ -1,0 +1,1 @@
+which can be re-arranged to get the formula for the backward Euler method listed above.

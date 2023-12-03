@@ -1,0 +1,1 @@
+Affine transformations enable basic image transformations including scale, rotate, translate, mirror and shear as is shown in the following examples show:[5]

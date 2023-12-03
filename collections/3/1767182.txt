@@ -1,0 +1,1 @@
+If only one shape of tile is allowed, tilings exists with convex N-gons for N equal to 3, 4, 5 and 6. For N = 5, see Pentagonal tiling, for N = 6, see Hexagonal tiling,for N = 7, see Heptagonal tiling and for N = 8, see octagonal tiling.

@@ -1,0 +1,1 @@
+Before the invention of complex numbers, cosine and sine were defined geometrically. The above formula reduces the complicated formulas for trigonometric functions of a sum into the simple exponentiation formula

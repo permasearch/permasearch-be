@@ -1,0 +1,1 @@
+This shows that the length (Δx′) of the rod as measured in the frame in which it is moving (S′), is shorter than its length (Δx) in its own rest frame (S).

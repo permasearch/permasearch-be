@@ -1,0 +1,1 @@
+Three higher perfect numbers have also been discovered, namely those for which p = 57885161, 74207281, and 77232917, though there may be others within this range. It is not known whether there are infinitely many perfect numbers, nor whether there are infinitely many Mersenne primes.

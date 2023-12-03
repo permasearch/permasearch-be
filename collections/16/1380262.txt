@@ -1,0 +1,1 @@
+The switches themselves often contain "active", "smart", or "managed" power management features to reduce AC draw of all devices involved.

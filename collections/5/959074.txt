@@ -1,0 +1,1 @@
+A character encoding may be specified at the beginning of an XHTML document in the XML declaration when the document is served using the application/xhtml+xml MIME type. (If an XML document lacks encoding specification, an XML parser assumes that the encoding is UTF-8 or UTF-16, unless the encoding has already been determined by a higher protocol.)

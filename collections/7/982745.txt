@@ -1,0 +1,1 @@
+Headings help clarify articles and create a structure shown in the table of contents. To learn about how the MediaWiki software uses sections, see Help:Section.

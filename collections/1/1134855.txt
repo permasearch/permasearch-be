@@ -1,0 +1,1 @@
+where     Δ  t  p     {\displaystyle \Delta t_{p}}   corresponds to a specific time period and     n   {\displaystyle n}   is an integer corresponding to the number of time periods. At the end of each time period, the fraction of the reactant population remaining relative to the amount present at the start of the time period,      f  R P     {\displaystyle f_{RP}}  , will be:

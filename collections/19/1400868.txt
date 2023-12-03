@@ -1,0 +1,1 @@
+If possible, a cardiology professional should select the risk prediction model which is most appropriate for an individual patient and should remember that this is only an estimate.

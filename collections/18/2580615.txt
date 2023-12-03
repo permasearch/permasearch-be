@@ -1,0 +1,1 @@
+This table is based on play where 3 faan is the minimum needed in order to win with a legal hand. If a player has 3 faan then his hand is worth one base point. A winning hand with 9 faan is worth four base points. Losing players must give the winning player the value of these base points. The following special cases result in doubled base points:

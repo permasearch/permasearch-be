@@ -1,0 +1,1 @@
+The third option is the most viable, since it removes the responsibility of locating the dependency from the component. The dependency is simply handed to the component.

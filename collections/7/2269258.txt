@@ -1,0 +1,1 @@
+Co-channel and adjacent-channel interference can also be responsible for dropped calls in a wireless network. Neighbouring cells with the same frequencies interfere with each other, deteriorating the quality of service and producing dropped calls. Transmission problems are also a common cause of dropped calls. Another problem may be a faulty transceiver inside the base station.

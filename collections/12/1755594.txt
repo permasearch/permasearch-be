@@ -1,0 +1,1 @@
+Sorted arrays can be used to implement Dijkstra's algorithm or Prim's algorithm. Also, algorithms like Kruskal's algorithm for finding minimal spanning trees.

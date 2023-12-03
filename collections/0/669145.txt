@@ -1,0 +1,1 @@
+It does not appear to be capable of playing music streamed from a local UPnP/DLNA media server.[citation needed]

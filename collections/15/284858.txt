@@ -1,0 +1,1 @@
+For negative numbers, the formula can be used on the absolute value; for zero, no transformation is necessary. Note that the result may need to be written with one of the above conventions explained in the section "Identifying significant figures" to indicate the actual number of significant digits if the result includes for example trailing significant zeros.

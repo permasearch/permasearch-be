@@ -1,0 +1,1 @@
+Tubes designed for high gain audio applications may have twisted heater wires to cancel out stray electric fields, fields that could induce objectionable hum into the program material.

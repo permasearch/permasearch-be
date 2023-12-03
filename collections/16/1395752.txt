@@ -1,0 +1,1 @@
+ILS technology delivers two main types of information to pilots. These types include the glideslope (vertical location relative to the designed glide path) and the localizer (lateral position relative to the designed approach course). Each type of information is broadcast using a separate antenna array and each type has a specific critical area:

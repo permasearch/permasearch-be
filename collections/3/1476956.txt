@@ -1,0 +1,1 @@
+Traffic forecasting may benefit from applications of chaos theory. Better predictions of when traffic will occur would allow measures to be taken to disperse it before it would have occurred. Combining chaos theory principles with a few other methods has led to a more accurate short-term prediction model (see the plot of the BML traffic model at right).[105]

@@ -1,0 +1,1 @@
+A bipolar junction transistor (bipolar transistor or BJT) is a type of transistor that uses both electron and hole charge carriers. In contrast, unipolar transistors, such as field-effect transistors, only use one kind of charge carrier. For their operation, BJTs use two junctions between two semiconductor types, n-type and p-type.

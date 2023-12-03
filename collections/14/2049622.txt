@@ -1,0 +1,1 @@
+Cycle Length controls the time from one major street green to the next major street green for purposes of coordination. It is often set by the master controller for the particular plan used. This is also used if the signal has no detectors attached.

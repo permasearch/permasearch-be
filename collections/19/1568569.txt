@@ -1,0 +1,1 @@
+The above equation for the variance of the sampling error is an approximation based on a linearization of the mass concentration in a sample.

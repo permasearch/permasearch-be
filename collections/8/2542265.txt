@@ -1,0 +1,1 @@
+Because of this cooperativity, the kinetic interaction of glucokinase with glucose does not follow classical Michaelis-Menten kinetics. Rather than a Km for glucose, it is more accurate to describe a half-saturation level S0.5, which is the concentration at which the enzyme is 50% saturated and active.

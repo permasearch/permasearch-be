@@ -1,0 +1,1 @@
+Finally, renal blood flow (RBF) can be calculated from a patient's RPF and hematocrit using the following equation:

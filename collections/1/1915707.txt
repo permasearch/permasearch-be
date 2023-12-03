@@ -1,0 +1,1 @@
+This in itself is indicative of the power of honeypots as anti-spam tools. In the early days of anti-spam honeypots, spammers, with little concern for hiding their location, felt safe testing for vulnerabilities and sending spam directly from their own systems. Honeypots made the abuse riskier and more difficult.

@@ -1,0 +1,1 @@
+As is typical of workflow applications, the JDF message contains information that enables each "node" to determine what files it needs as input and where they are found, and what processes it should perform. It then modifies the JDF job ticket to describe what it has done, and examines the JDF ticket to determine where the message and accompanying files should be sent next.

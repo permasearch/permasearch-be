@@ -1,0 +1,1 @@
+These numbers "forward" to a geographic or mobile number. The recipient is usually charged at a set rate per second for each call, depending on plan and destination.

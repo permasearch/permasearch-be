@@ -1,0 +1,1 @@
+In December 2014, ARMv8.1-A,[109] an update with "incremental benefits over v8.0", was announced. The enhancements fell into two categories: changes to the instruction set, and changes to the exception model and memory translation.

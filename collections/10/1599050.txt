@@ -1,0 +1,1 @@
+In Forth, a colon precedes definition of a new word.

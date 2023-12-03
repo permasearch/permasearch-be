@@ -1,0 +1,1 @@
+One generalization is to manifolds. In this situation, the chain rule represents the fact that the derivative of f âˆ˜ g is the composite of the derivative of f and the derivative of g. This theorem is an immediate consequence of the higher dimensional chain rule given above, and it has exactly the same formula.

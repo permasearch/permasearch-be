@@ -1,0 +1,1 @@
+It is defined as the constant of proportionality (which may be a tensor) relating an electric field E to the induced dielectric polarization density P such that

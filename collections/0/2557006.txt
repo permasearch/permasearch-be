@@ -1,0 +1,1 @@
+In essence, SoD implements an appropriate level of checks and balances upon the activities of individuals. R. A. Botha and J. H. P. Eloff in the IBM Systems Journal describe SoD as follows.

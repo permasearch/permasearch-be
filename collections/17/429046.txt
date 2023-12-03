@@ -1,0 +1,1 @@
+Then use the tangent secant theorem (Euclid's Elements: Book 3, Proposition 36), which says that the square on the tangent through a point B outside the circle is equal to the product of the two lines segments (from B) created by any secant of the circle through B. In the present case: BH2 = BCÂ·BP, or

@@ -1,0 +1,1 @@
+This equivalence can be used to quickly solve for the recurrence relationship for the coefficients in the power series solution of a linear differential equation.

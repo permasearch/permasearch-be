@@ -1,0 +1,1 @@
+XHTML is a separate language that began as a reformulation of HTML 4.01 using XML 1.0. It is no longer being developed as a separate standard.

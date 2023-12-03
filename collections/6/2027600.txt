@@ -1,0 +1,1 @@
+For one spinless particle in 1d, if the wave function is interpreted as a probability amplitude, the square modulus of the wave function, the positive real number

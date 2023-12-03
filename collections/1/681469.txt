@@ -1,0 +1,1 @@
+In January 2016 Microsoft released Chakra as open source under MIT License, the code is available on GitHub.[56]

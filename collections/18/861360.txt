@@ -1,0 +1,1 @@
+The generalized least squares (GLS), developed by Aitken,[1] extends the Gaussâ€“Markov theorem to the case where the error vector has a non-scalar covariance matrix.[2] The Aitken estimator is also a BLUE.

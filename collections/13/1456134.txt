@@ -1,0 +1,1 @@
+On 1 August 2017, a hard fork of bitcoin was created, known as Bitcoin Cash.[103] Bitcoin Cash has a larger block size limit and had an identical blockchain at the time of fork. On 24 October 2017 another hard fork, Bitcoin Gold, was created. Bitcoin Gold changes the proof-of-work algorithm used in mining, as the developers felt that mining had become too specialized.[104]

@@ -1,0 +1,1 @@
+In Jensen & Wirth Pascal, strings are represented as packed arrays of chars; they therefore have fixed length and are usually space-padded.

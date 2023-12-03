@@ -1,0 +1,1 @@
+Its definition follows from the differential equation that describes exponential decay and is used to model kidney function and hemodialysis machine function:

@@ -1,0 +1,1 @@
+The scale is roughly logarithmic in wind speed, and the top wind speed for Category "c" (c=1 to 4, as there is no upper limit for category 5) can be expressed as 83x10^(c/15) miles per hour rounded to the nearest multiple of 5 – except that after the change mentioned above, Category 4 is now widened by 1 mph in each direction.

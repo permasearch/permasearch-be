@@ -1,0 +1,1 @@
+Manipulation of these parameters can be done by using the routines in the standard library header [[stdarg.h|<stdarg.h>]].

@@ -1,0 +1,1 @@
+The equations of electromagnetism are best described in a continuous description. However, charges are sometimes best described as discrete points; for example, some models may describe electrons as point sources where charge density is infinite on an infinitesimal section of space.

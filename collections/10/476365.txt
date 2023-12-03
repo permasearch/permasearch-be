@@ -1,0 +1,1 @@
+where C is concentration, (CN, t) is cyanide concentration at a specified unit of time, (CN, 0) is initial cyanide concentration, and t is time.[43]

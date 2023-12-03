@@ -1,0 +1,1 @@
+The rover can take pictures with its different cameras, but only the PanCam camera has the ability to photograph a scene with different color filters. The panorama views are usually built up from PanCam images. As of February 3, 2018, Opportunity had returned 224,642 pictures.[39][40]

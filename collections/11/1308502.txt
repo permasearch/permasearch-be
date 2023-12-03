@@ -1,0 +1,1 @@
+In elliptic geometry, an elliptic rectangle is a figure in the elliptic plane whose four edges are elliptic arcs which meet at equal angles greater than 90Â°. Opposite arcs are equal in length.

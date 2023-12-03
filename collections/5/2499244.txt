@@ -1,0 +1,1 @@
+In general, for an     n   {\displaystyle n}  th order linear differential equation, if     ( n − 1 )   {\displaystyle (n-1)}   solutions are known, the last one can be determined by using the Wronskian.

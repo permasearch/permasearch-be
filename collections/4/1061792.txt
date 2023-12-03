@@ -1,0 +1,1 @@
+The partitioning feature was introduced in Oracle 8.[75] This allows the partitioning of tables based on different set of keys. Specific partitions can then be added or dropped to help manage large data sets.

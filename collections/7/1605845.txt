@@ -1,0 +1,1 @@
+This type of protocol finds a route based on user and traffic demand by flooding the network with Route Request or Discovery packets. The main disadvantages of such algorithms are:

@@ -1,0 +1,1 @@
+Each area can be black bar (1) or white space (0). A maximum of four black bar areas can be grouped together, these make up a wide black bar. Likewise a maximum of four white space areas can be grouped together, these make up a wide white space.

@@ -1,0 +1,1 @@
+Moreover, when the first procedure generates a very short interval, this indicates that      X  1   ,  X  2     {\displaystyle X_{1},X_{2}}   are very close together and hence only offer the information in a single data point. Yet the first interval will exclude almost all reasonable values of the parameter due to its short width. The second procedure does not have this property.

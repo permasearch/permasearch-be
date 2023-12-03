@@ -1,0 +1,1 @@
+For several classes of equations, algorithms have been found for solving them, some of which have been implemented and incorporated in computer algebra systems, but often require no more sophisticated technology than pencil and paper. In some other cases, heuristic methods are known that are often successful but that are not guaranteed to lead to success.

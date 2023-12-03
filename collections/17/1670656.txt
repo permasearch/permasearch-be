@@ -1,0 +1,1 @@
+Each device on the SCSI bus is assigned a unique SCSI identification number or ID. Devices may encompass multiple logical units, which are addressed by logical unit number (LUN). Simple devices have just one LUN, more complex devices may have multiple LUNs.

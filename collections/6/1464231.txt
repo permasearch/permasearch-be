@@ -1,0 +1,1 @@
+Coloured ball racking positions must be remembered with care, as each time a coloured ball is potted, it is immediately replaced to its starting position, which occurs multiple times per frame, whereas reds are not returned to the table's surface after being potted.

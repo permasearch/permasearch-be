@@ -1,0 +1,1 @@
+Some models of the ocean circulation suggest that broad-scale upwelling occurs in the tropics, as pressure driven flows converge water toward the low latitudes where it is diffusively warmed from above. The required diffusion coefficients, however, appear to be larger than are observed in the real ocean. Nonetheless, some diffusive upwelling does probably occur.

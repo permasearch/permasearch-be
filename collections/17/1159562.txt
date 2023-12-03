@@ -1,0 +1,1 @@
+There are several limitations when using fMRI or PET to study emotional responses. Because fMRI measures changes in blood oxygenation, using the BOLD effect, its temporal resolution is limited by the haemodynamic response to several seconds. PET has similar limits, offering slightly better temporal resolution and slightly worse spatial resolution.

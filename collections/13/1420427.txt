@@ -1,0 +1,1 @@
+This format is referred to as the Gherkin language, which has a syntax similar to the above example. The term Gherkin, however, is specific to the Cucumber, JBehave, behave and Behat software tools.[14][15][16][17]

@@ -1,0 +1,1 @@
+Carathéodory's alternative definition of the differentiability of a function can be used to give an elegant proof of the chain rule.[3]

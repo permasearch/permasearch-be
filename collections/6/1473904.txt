@@ -1,0 +1,1 @@
+The SPA approach on the web is similar to the Single Document Interface (SDI) presentation technique popular in native desktop applications.

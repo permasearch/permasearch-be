@@ -1,0 +1,1 @@
+In Agrawal, Imieliński, Swami[2] a rule is defined only between a set and a single item,     X ⇒  i  j     {\displaystyle X\Rightarrow i_{j}}   for      i  j   ∈ I   {\displaystyle i_{j}\in I}  .

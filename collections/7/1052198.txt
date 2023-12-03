@@ -1,0 +1,1 @@
+HDLC provides both connection-oriented and connectionless service.

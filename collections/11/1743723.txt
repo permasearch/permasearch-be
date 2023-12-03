@@ -1,0 +1,1 @@
+Many modern textbooks use upper case for internal energy and lower case for heat and work. This leads to equations such as dU = δq + δw. An instructor can use this notation (with care!) to emphasize that two different types of properties are being represented (state and path). -- Astrochemist 03:34, 15 September 2006 (UTC)

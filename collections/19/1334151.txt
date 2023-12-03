@@ -1,0 +1,1 @@
+To convert from mg/dL of blood urea nitrogen to mmol/L of urea, multiply by 0.357 (each molecule of urea having 2 nitrogens, each of molar mass 14g/mol) (BUN is the mass of nitrogen within urea/volume, not the mass of urea)

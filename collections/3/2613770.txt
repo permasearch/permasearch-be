@@ -1,0 +1,1 @@
+Several common choices for the function f(x, y) would be:

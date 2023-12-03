@@ -1,0 +1,1 @@
+Much like conventional P2P file sharing, users can create file servers that allow them to share files with each other by using customised IRC bots or scripts for their IRC client. Often users will group together to distribute warez via a network of IRC bots.[98]

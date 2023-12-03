@@ -1,0 +1,1 @@
+Software testing can provide objective, independent information about the quality of software and risk of its failure to users or sponsors.[1]

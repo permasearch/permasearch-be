@@ -1,0 +1,1 @@
+The intensity (or illuminance or irradiance) of light or other linear waves radiating from a point source (energy per unit of area perpendicular to the source) is inversely proportional to the square of the distance from the source; so an object (of the same size) twice as far away, receives only one-quarter the energy (in the same time period).

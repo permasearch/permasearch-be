@@ -1,0 +1,1 @@
+Unlike other pieces, the pawn does not capture in the same direction as it moves. A pawn captures diagonally forward one square to the left or right (see diagram).

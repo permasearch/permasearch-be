@@ -1,0 +1,1 @@
+In the early days of pharmaceutical toxicology, TI was frequently determined in animals as lethal dose of a drug for 50% of the population (LD50) divided by the minimum effective dose for 50% of the population (ED50). Today, more sophisticated toxicity endpoints are used.

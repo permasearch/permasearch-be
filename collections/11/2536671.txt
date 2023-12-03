@@ -1,0 +1,1 @@
+DCIM providers are increasingly linking with computational fluid dynamics providers to predict complex airflow patterns in the data center. The CFD component is necessary to quantify the impact of planned future changes on cooling resilience, capacity and efficiency.[73]

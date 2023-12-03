@@ -1,0 +1,1 @@
+If there are not accessible source internal points, external circuit points having steady voltage with respect to the source terminals can serve as artificial virtual grounds. Such a point has to have steady potential, which does not vary when a load is attached.[1][2][3]

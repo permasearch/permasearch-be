@@ -1,0 +1,1 @@
+The consistency index (CI) indicates the consistency (firmness) of a soil. It is calculated as CI = (LL-W)/(LL-PL), where W is the existing water content. Soil at the liquid limit will have a consistency index of 0, while soil at the plastic limit will have a consistency index of 1.

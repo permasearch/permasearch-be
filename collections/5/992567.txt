@@ -1,0 +1,1 @@
+Service operations are often characterised by far more uncertainty with respect to the flow of demand. Service firms are often said to be capacity constrained.[33] This refers to the finite carrying capacity for most service operators and the lack of inventory which serves as a buffer against unexpected or peak demand.

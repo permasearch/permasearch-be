@@ -1,0 +1,1 @@
+A distribution substation transfers power from the transmission system to the distribution system of an area.[2] It is uneconomical to directly connect electricity consumers to the main transmission network, unless they use large amounts of power, so the distribution station reduces voltage to a level suitable for local distribution.

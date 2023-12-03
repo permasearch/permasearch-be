@@ -1,0 +1,1 @@
+Later, Sony changed the whole game, replacing the shadow mask with an aperture grille and the phosphor dots with vertical phosphor stripes. They cleverly implemented a single electron gun with three independent cathodes, all of which greatly simplified convergence.

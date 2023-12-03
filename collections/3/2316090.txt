@@ -1,0 +1,1 @@
+In computing, echo is a command in DOS, OS/2, Microsoft Windows, Unix and Unix-like operating systems that outputs the strings it is being passed as arguments. It is a command typically used in shell scripts and batch files to output status text to the screen or a file, or as a source part of a pipeline.

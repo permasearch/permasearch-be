@@ -1,0 +1,1 @@
+S = P + j Q   {\displaystyle S=P+jQ}

@@ -1,0 +1,1 @@
+GPS coordinates may be represented in text in a number of ways, with more or fewer decimals:

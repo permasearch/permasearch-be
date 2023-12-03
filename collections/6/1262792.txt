@@ -1,0 +1,1 @@
+This is not the Stefan–Boltzmann law (which provides the total energy radiated by a black body per unit surface area per unit time), but it can be written more compactly using the Stefan–Boltzmann constant σ, giving

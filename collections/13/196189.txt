@@ -1,0 +1,1 @@
+defined for positive x.  More generally, for the function

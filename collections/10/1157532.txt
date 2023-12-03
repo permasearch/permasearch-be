@@ -1,0 +1,1 @@
+Other large companies designed the 68020 and follow-ons into embedded equipment. At one point, there were more 68020s in embedded equipment than there were Intel Pentiums in PCs.[46] The ColdFire processor cores are derivatives of the 68020.

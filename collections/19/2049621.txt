@@ -1,0 +1,1 @@
+Flashing Don't Walk is the duration of the flashing pedestrian clearance. This is timed as the length of the crosswalk divided by a speed of 3.5 feet per second.

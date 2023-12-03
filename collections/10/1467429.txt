@@ -1,0 +1,1 @@
+Forest cover by state is estimated from tree-attributes using the basic statistics reported by the Forest Inventory and Analysis (FIA) Program of the U.S. Department of Agriculture Forest Service (FIA). Tree volumes and weights are not directly measured in the field, but computed from other variables that can be measured.[1][2]

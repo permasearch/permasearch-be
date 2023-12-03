@@ -1,0 +1,1 @@
+The vulnerabilities of TKIP are significant in that WPA-TKIP had been held to be an extremely safe combination; indeed, WPA-TKIP is still a configuration option upon a wide variety of wireless routing devices provided by many hardware vendors. A survey in 2013 showed that 71% still allow usage of TKIP, and 19% exclusively support TKIP.[32]

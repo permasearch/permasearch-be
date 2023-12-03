@@ -1,0 +1,1 @@
+The wavelength of an electron is given by the de Broglie equation

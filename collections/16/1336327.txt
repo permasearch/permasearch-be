@@ -1,0 +1,1 @@
+The position of an n-dimensional rigid body is defined by the rigid transformation, [T] = [A, d], where d is an n-dimensional translation and A is an n × n rotation matrix, which has n translational degrees of freedom and n(n − 1)/2 rotational degrees of freedom.  The number of rotational degrees of freedom comes from the dimension of the rotation group SO(n).

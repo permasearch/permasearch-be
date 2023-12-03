@@ -1,0 +1,1 @@
+The path integral for the interacting action is then a power series of corrections to the free action. The term represented by X should be thought of as four half-lines, one for each factor of Ï†(k). The half-lines meet at a vertex, which contributes a delta-function that ensures that the sum of the momenta are all equal.

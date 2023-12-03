@@ -1,0 +1,1 @@
+Likewise, the post-decrement operator is commonly used with pointers:

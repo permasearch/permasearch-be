@@ -1,0 +1,1 @@
+Note that the maximum downstream bandwidth on all versions of DOCSIS depends on the version of DOCSIS used and the number of upstream channels used if DOCSIS 3.0 is used, but the upstream channel widths are independent of whether DOCSIS or EuroDOCSIS is used.

@@ -1,0 +1,1 @@
+Euclid's list of axioms in the Elements was not exhaustive, but represented the principles that were the most important. His proofs often invoke axiomatic notions which were not originally presented in his list of axioms. Later editors have interpolated Euclid's implicit axiomatic assumptions in the list of formal axioms.[24]

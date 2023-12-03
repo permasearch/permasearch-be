@@ -1,0 +1,1 @@
+W =  (     T  H   −  T  C     T  H     )   Q  H   =  ( 1 −    T  C    T  H     )   Q  H     {\displaystyle W=\left({\frac {T_{H}-T_{C}}{T_{H}}}\right)Q_{H}=\left(1-{\frac {T_{C}}{T_{H}}}\right)Q_{H}}

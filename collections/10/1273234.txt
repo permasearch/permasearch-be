@@ -1,0 +1,1 @@
+The BIOS may be "manually" updated by a user, using a small utility program. In contrast, firmware in storage devices (harddisks, DVD drives, flash storage) rarely gets updated, even when flash (rather than ROM) storage is used for the firmware; there are no standardized mechanisms for detecting or updating firmware versions.

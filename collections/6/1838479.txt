@@ -1,0 +1,1 @@
+"Data hierarchy" is a basic concept in data and database theory and helps to show the relationships between smaller and larger components in a database or data file. It is used to give a better sense of understanding about the components of data and how they are related.

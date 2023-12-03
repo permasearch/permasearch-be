@@ -1,0 +1,1 @@
+g ( t ) =  t  2   + 2 t + 4          d  d t    g ( t ) = 2 t + 2       {\displaystyle {\begin{aligned}g(t)=t^{2}+2t+4\\\\{d \over dt}g(t)=2t+2\end{aligned}}}

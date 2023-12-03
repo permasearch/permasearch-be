@@ -1,0 +1,1 @@
+Hidden FAT filesystems are also used in the UEFI boot partition on modern PC's where the UEFI specification requires compliant firmware to be capable of reading FAT12, FAT16 and FAT32 compliant partitions.

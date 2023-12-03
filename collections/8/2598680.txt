@@ -1,0 +1,1 @@
+The first agent determines whether or not to accept solely based on his own signal. As the model assumes that all agents act rationally, the action (accept or reject) the agent feels is more likely is the action he will choose to take. This decision can be explained using Bayes rule:

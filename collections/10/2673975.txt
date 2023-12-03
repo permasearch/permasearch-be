@@ -1,0 +1,1 @@
+Similarly, the measurement at the k-th timestep is dependent only upon the current state, so is conditionally independent of all other states given the current state.

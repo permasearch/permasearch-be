@@ -1,0 +1,1 @@
+We can work out what this invariant is by first arguing that, since it is a scalar, it doesn't matter in which reference frame we calculate it, and then by transforming to a frame where the total momentum is zero.

@@ -1,0 +1,1 @@
+Airplanes have complex flight control systems. The main controls allow the pilot to direct the aircraft in the air by controlling the attitude (roll, pitch and yaw) and engine thrust.

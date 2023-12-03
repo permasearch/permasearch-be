@@ -1,0 +1,1 @@
+Torsional strain results from resistance to twisting about a bond.

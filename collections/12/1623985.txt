@@ -1,0 +1,1 @@
+Theorem — Suppose F is a region given by     F =  { ( x ,   y ) : a ≤ x ≤ b , p ( x ) ≤ y ≤ q ( x ) }     {\displaystyle F=\left\{(x,\ y):a\leq x\leq b,p(x)\leq y\leq q(x)\right\}\,}    where p and q are continuous and p(x) ≤ q(x) for a ≤ x ≤ b. Suppose that f(x, y) is continuous on F. Then

@@ -1,0 +1,1 @@
+An "open standard" must not prohibit conforming implementations in open source software.

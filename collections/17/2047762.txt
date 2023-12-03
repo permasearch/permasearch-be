@@ -1,0 +1,1 @@
+Instead of channels, radios are related by groups which may be called, groups, talk groups, or divided into a hierarchy such as fleet and subfleet, or agency-fleet-subfleet. These can be thought of as virtual channels which appear and disappear as conversations occur.

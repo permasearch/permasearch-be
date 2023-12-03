@@ -1,0 +1,1 @@
+JVMs are available for many platforms, and a class file compiled on one platform will execute on a JVM of another platform. This makes Java applications platform-independent.

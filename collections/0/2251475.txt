@@ -1,0 +1,1 @@
+Where wk and vk are the process and observation noises which are both assumed to be zero mean multivariate Gaussian noises with covariance Qk and Rk respectively. Then the covariance prediction and innovation equations become

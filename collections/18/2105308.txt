@@ -1,0 +1,1 @@
+Likewise, monoid homomorphisms are just functors between single object categories.[10]  So this construction gives an equivalence between the category of (small) monoids Mon and a full subcategory of the category of (small) categories Cat. Similarly, the category of groups is equivalent to another full subcategory of Cat.

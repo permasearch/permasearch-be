@@ -1,0 +1,1 @@
+For a constant-chord wing of chord c and span b, the aspect ratio is given by:

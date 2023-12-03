@@ -1,0 +1,1 @@
+Many users of LMSs use an authoring tool to create content, which is then hosted on an LMS.  In many cases LMSs include a primitive authoring tool for basic content manipulation. There are several standards for creating and integrating complex content into an LMS, including AICC, SCORM, xAPI and Learning Tools Interoperability.

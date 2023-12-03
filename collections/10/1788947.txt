@@ -1,0 +1,1 @@
+Thompson bottom brackets are rare.  The design is similar to a typical hub bearing and theoretically supports the load better, but is hard to seal effectively against dirt and water.

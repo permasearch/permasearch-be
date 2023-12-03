@@ -1,0 +1,1 @@
+Failure mode criticality assessment may be qualitative or quantitative. For qualitative assessment, a mishap probability code or number is assigned and entered on the matrix. For example, MIL–STD–882 uses five probability levels:

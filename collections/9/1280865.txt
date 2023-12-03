@@ -1,0 +1,1 @@
+Hardware requirement for servers vary widely, depending on the server's purpose and its software.

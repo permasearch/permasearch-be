@@ -1,0 +1,1 @@
+If the pressure in a system remains constant (isobaric), a vapor at saturation temperature will begin to condense into its liquid phase as thermal energy (heat) is removed. Similarly, a liquid at saturation temperature and pressure will boil into its vapor phase as additional thermal energy is applied.

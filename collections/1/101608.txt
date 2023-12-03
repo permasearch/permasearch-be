@@ -1,0 +1,1 @@
+This estimator is unbiased if the variance exists and the sample values are drawn independently with replacement. N − 1 corresponds to the number of degrees of freedom in the vector of deviations from the mean,      (  x  1   −   x ¯   ,  … ,   x  n   −   x ¯   ) .    {\displaystyle \scriptstyle (x_{1}-{\overline {x}},\;\dots ,\;x_{n}-{\overline {x}}).}

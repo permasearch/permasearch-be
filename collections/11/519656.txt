@@ -1,0 +1,1 @@
+In general relativity, gravity becomes a fictitious force that arises in situations where spacetime deviates from a flat geometry. As an extension, Kaluza–Klein theory and string theory ascribe electromagnetism and the other fundamental forces respectively to the curvature of differently scaled dimensions, which would ultimately imply that all forces are fictitious.

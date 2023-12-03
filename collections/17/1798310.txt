@@ -1,0 +1,1 @@
+A necessary and sufficient condition for a convex polygon to have a constant sum of distances from any interior point to the sides is that there exist three non-collinear interior points with equal sums of distances.[1]

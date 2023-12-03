@@ -1,0 +1,1 @@
+On the Colemak keyboard layout (Windows/Mac), one can press AltGr+\ followed by D to insert a degree sign. On Linux, one can press AltGr+K twice to insert a degree sign.

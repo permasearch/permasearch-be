@@ -1,0 +1,1 @@
+Note that these constants are dissociation constants because the products on the right hand side of the equilibrium expression are dissociation products. In many systems, it is preferable to use association constants.

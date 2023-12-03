@@ -1,0 +1,1 @@
+Most range sensors analyze electromagnetic radiation, reflected off the environment and coming to the sensor. The cameras (for visual flow) act as simple receivers. Lidars, radars and sonars (with sound mechanical waves) emit and receive waves, measuring the round-trip transit time. UAV cameras do not require emitting power, reducing total consumption.

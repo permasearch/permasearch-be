@@ -1,0 +1,1 @@
+Meltdown was discovered independently by Jann Horn from Google's Project Zero, Werner Haas and Thomas Prescher from Cyberus Technology, as well as Daniel Gruss, Moritz Lipp, Stefan Mangard and Michael Schwarz from Graz University of Technology.[41] The same research teams that discovered Meltdown also discovered a related CPU security vulnerability now called Spectre.

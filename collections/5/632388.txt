@@ -1,0 +1,1 @@
+This means that, at the onset of yielding, the magnitude of the shear stress in pure shear is       3     {\displaystyle {\sqrt {3}}}   times lower than the tensile stress in the case of simple tension. The von Mises yield criterion for pure shear stress, expressed in principal stresses, is

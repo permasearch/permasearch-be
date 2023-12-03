@@ -1,0 +1,1 @@
+The Kolmogorovâ€“Smirnov statistic for a given cumulative distribution function F(x) is

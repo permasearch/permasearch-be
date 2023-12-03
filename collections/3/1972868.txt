@@ -1,0 +1,1 @@
+Resistance and inertia deal with a system's inherent response to some perturbation.

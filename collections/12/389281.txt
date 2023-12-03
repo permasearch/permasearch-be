@@ -1,0 +1,1 @@
+If n is odd then Median (M) = value of ((n + 1)/2)th item term.

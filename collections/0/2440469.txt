@@ -1,0 +1,1 @@
+When the alternating factor (â€“1)n is removed from these series one obtains the hyperbolic functions sinh and cosh used in calculus.

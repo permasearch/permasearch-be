@@ -1,0 +1,1 @@
+NAT operation is typically transparent to both the internal and external hosts.

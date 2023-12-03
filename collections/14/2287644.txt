@@ -1,0 +1,1 @@
+Material loss of the spinel results in capacity fade. Temperatures as low as 50 °C initiate Mn2+ deposition on the anode as metallic manganese with the same effects as lithium and copper plating.[153] Cycling over the theoretical max and min voltage plateaus destroys the crystal lattice via Jahn-Teller distortion, which occurs when Mn4+ is reduced to Mn3+ during discharge.[22]

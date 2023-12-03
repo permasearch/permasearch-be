@@ -1,0 +1,1 @@
+In the 1970s and 1980s, a number of research and commercial computers used bit slicing, in which the CPU's arithmetic logic unit (ALU) was built from multiple 4-bit-wide sections, each section including a chip such as an Am2901 or 74181 chip.

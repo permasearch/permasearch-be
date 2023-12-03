@@ -1,0 +1,1 @@
+There are two main types of material used for optical fibers: glass and plastic. They offer widely different characteristics and find uses in very different applications. Generally, plastic fiber is used for very short range and consumer applications, glass fiber is used for short/medium range (multi-mode) and long range (single-mode) telecommunications.[16]

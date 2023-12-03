@@ -1,0 +1,1 @@
+Combinatoriality is a side-effect of derived rows where combining different segments or sets such that the pitch class content of the result fulfills certain criteria, usually the combination of hexachords which complete the full chromatic.

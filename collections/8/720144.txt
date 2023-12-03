@@ -1,0 +1,1 @@
+The simplest generalized Mersenne primes are prime numbers of the form f(2n), where f(x) is a low-degree polynomial with small integer coefficients.[81] An example is 264 − 232 + 1, in this case, n = 32, and f(x) = x2 − x + 1; another example is 2192 − 264 − 1, in this case, n = 64, and f(x) = x3 − x − 1.

@@ -1,0 +1,1 @@
+The main story mode, "Legend Log" mode features special cutscenes called "Treasure Events" which can be triggered under certain conditions (e.g. using a certain character, completing specific tasks, defeating a specific enemy, etc.).

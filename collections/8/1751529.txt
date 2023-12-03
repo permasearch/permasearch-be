@@ -1,0 +1,1 @@
+Although Bayesian networks are often used to represent causal relationships, this need not be the case: a directed edge from u to v does not require that Xv is causally dependent on Xu. This is demonstrated by the fact that Bayesian networks on the graphs:

@@ -1,0 +1,1 @@
+While public goods are often provided by governments, this is not always the case.  Various institutional designs have been studied with the aim of reducing the collaborative failure.  The best design for a given situation depends on the production costs, the utility function, and the collaborative effects, amongst other things.  Here are only some examples:

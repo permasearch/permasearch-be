@@ -1,0 +1,1 @@
+where A is the unit distance (the value of the astronomical unit in metres) and k is a constant (whose value is very close to one) that reflects the fact that the mean distance from the Earth to the Sun is not exactly one astronomical unit.

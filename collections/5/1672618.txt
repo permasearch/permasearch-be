@@ -1,0 +1,1 @@
+During the 1984 breakup of the Bell System, the local access and transport area or LATA concept was created to distinguish between in-region calls (which were handled by local telephone companies such as the Baby Bells) and out-of-region calls (handled by interexchange carriers such as AT&T, MCI and Sprint).

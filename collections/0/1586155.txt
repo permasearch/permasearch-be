@@ -1,0 +1,1 @@
+except that the latter could allow comparison of several columns, which each IN clause does not. For a larger number of candidates, IN is less verbose.

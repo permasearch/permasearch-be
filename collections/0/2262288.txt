@@ -1,0 +1,1 @@
+LR parsers were invented by Donald Knuth in 1965 as an efficient generalization of precedence parsers. Knuth proved that LR parsers were the most general-purpose parsers possible that would still be efficient in the worst cases.

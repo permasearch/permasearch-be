@@ -1,0 +1,1 @@
+In using Hubble's law to determine distances, only the velocity due to the expansion of the Universe can be used. Since gravitationally interacting galaxies move relative to each other independent of the expansion of the Universe,[58] these relative velocities, called peculiar velocities, need to be accounted for in the application of Hubble's law.

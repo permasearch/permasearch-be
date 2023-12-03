@@ -1,0 +1,1 @@
+Movement of the voltage-sensor triggers a conformational change of the gate of the conducting pathway, controlling the flow of ions through the channel.[3]

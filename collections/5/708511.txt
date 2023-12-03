@@ -1,0 +1,1 @@
+In the strategy called Pavlov, win-stay, lose-switch, If the last round outcome was P,P, a Pavlov player switches strategy the next turn, which means P,P would be considered as a failure to cooperate.[citation needed] For a certain range of parameters,[specify] Pavlov beats all other strategies by giving preferential treatment to co-players which resemble Pavlov.

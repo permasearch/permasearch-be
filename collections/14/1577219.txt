@@ -1,0 +1,1 @@
+A stream socket transmits data reliably, in order, and with out-of-band capabilities.

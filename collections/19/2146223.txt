@@ -1,0 +1,1 @@
+Another example for an implicit Rungeâ€“Kutta method is the trapezoidal rule. Its Butcher tableau is:

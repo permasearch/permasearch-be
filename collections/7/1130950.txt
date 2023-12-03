@@ -1,0 +1,1 @@
+One can compute more precisely, approximating the number of extreme moves of a given magnitude or greater by a Poisson distribution, but simply, if one has multiple 4 standard deviation moves in a sample of size 1,000, one has strong reason to consider these outliers or question the assumed normality of the distribution.

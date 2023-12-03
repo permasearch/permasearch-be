@@ -1,0 +1,1 @@
+In the 1960s, the major manufacturer was Electronic Associates of Princeton, New Jersey, with its 231R Analog Computer (vacuum tubes, 20 integrators) and subsequently its 8800 Analog Computer (solid state operational amplifiers, 64 integrators). Its challenger was Applied Dynamics of Ann Arbor, Michigan.

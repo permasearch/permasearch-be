@@ -1,0 +1,1 @@
+Many modern fighters (such as the F/A-18, F-16, and Eurofighter) use both a HUD and HMD concurrently. The F-35 LightningÂ II was designed without a HUD, relying solely on the HMD, making it the first modern military fighter not to have a fixed HUD.

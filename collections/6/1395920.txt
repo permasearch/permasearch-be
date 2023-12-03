@@ -1,0 +1,1 @@
+The primary inputs to the PCM come from many sensors, of different types, that are spread around the car. Most of them are oriented toward engine management and performance. These sensors fail at a much higher rate than any of the computers do.

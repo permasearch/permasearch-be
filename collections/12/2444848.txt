@@ -1,0 +1,1 @@
+This is a non-homogeneous recurrence. If we substitute n â†¦ n+1, we obtain the recurrence

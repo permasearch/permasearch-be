@@ -1,0 +1,1 @@
+Some assume that we can simply add in gUMC, the rate of growth of UMC, in order to represent the role of supply shocks (of the sort that plagued the U.S. during the 1970s). This produces a standard short-term Phillips curve:

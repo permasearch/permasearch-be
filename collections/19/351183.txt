@@ -1,0 +1,1 @@
+Note 2: In a kite, one diagonal bisects the other. The most general kite has unequal diagonals, but there is an infinite number of (non-similar) kites in which the diagonals are equal in length (and the kites are not any other named quadrilateral).

@@ -1,0 +1,1 @@
+Engineers need to know the quantified level of the actual or anticipated seismic performance associated with the direct damage to an individual building subject to a specified ground shaking. Such an assessment may be performed either experimentally or analytically.

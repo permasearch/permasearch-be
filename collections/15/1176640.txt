@@ -1,0 +1,1 @@
+In BASIC, Lisp-family languages, and C-family languages (including Java and C++), operator <= means "less than or equal to". In Sinclair BASIC it is encoded as a single-byte code point token.

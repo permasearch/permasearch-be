@@ -1,0 +1,1 @@
+The Audio/Video Distribution Transport Protocol (AVDTP) is used by the advanced audio distribution profile to stream music to stereo headsets over an L2CAP channel intended for video distribution profile in the Bluetooth transmission.

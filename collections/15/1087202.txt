@@ -1,0 +1,1 @@
+WordPad natively supports RTF, though it does not support all the features defined in the RTF/Word 2007 specification. Previous versions of WordPad also supported the "Word for Windows 6.0" format, which is forward compatible with the Microsoft Word format[citation needed].

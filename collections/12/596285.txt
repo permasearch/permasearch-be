@@ -1,0 +1,1 @@
+Laurent series generalize power series by admitting terms into the series with negative as well as positive exponents. A Laurent series is thus any series of the form

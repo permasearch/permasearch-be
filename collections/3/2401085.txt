@@ -1,0 +1,1 @@
+The SOAP specification[9] was maintained by the XML Protocol Working Group[10] of the World Wide Web Consortium until the group was closed 10 July 2009. SOAP originally stood for "Simple Object Access Protocol" but version 1.2 of the standard dropped this acronym.[11]

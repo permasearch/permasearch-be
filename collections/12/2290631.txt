@@ -1,0 +1,1 @@
+Failure mode, effects and criticality analysis (FMECA) is an extension of failure mode and effects analysis (FMEA).

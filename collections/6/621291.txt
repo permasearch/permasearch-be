@@ -1,0 +1,1 @@
+In case of serial communications, the gross bit rate is related to the bit transmission time      T  b     {\displaystyle T_{b}}   as:

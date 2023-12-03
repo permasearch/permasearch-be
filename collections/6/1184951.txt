@@ -1,0 +1,1 @@
+Premultiplying by another unperturbed degenerate eigenket     ⟨  m  k    |    {\displaystyle \langle m_{k}|}   gives-

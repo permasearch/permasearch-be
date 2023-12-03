@@ -1,0 +1,1 @@
+then n is composite and a is a witness for the compositeness. Otherwise, n may or may not be prime. The Solovayâ€“Strassen test is an Euler pseudoprime test (see PSW[4] page 1003).

@@ -1,0 +1,1 @@
+Pions are pseudoscalars under a parity transformation. Pion currents thus couple to the axial vector current and pions participate in the chiral anomaly.

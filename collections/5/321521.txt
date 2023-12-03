@@ -1,0 +1,1 @@
+A regular skew hexagon is vertex-transitive with equal edge lengths. In 3-dimensions it will be a zig-zag skew hexagon and can be seen in the vertices and side edges of a triangular antiprism with the same D3d, [2+,6] symmetry, order 12.

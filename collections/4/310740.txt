@@ -1,0 +1,1 @@
+With the addition of metadata including routing and classification information, as well as the padding at the head and tail, the entire plaintext message to be encoded and transmitted to Halsey was:

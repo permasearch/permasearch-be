@@ -1,0 +1,1 @@
+is called the harmonic series. It is closely tied to the natural logarithm: as n tends to infinity, the difference,

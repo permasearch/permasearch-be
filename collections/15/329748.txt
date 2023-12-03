@@ -1,0 +1,1 @@
+Active Directory and other features found in Microsoft's Windows NT Domains allow for remote administration of computers that are members of the domain, including editing the registry and modifying system services and access to the system's "Computer Management" Microsoft Management Console snap-in.

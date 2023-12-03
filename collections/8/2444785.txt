@@ -1,0 +1,1 @@
+Thus, a difference equation can be defined as an equation that involves an, an-1, an-2 etc. (or equivalently an, an+1, an+2 etc.)

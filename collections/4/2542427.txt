@@ -1,0 +1,1 @@
+Robocopy syntax is markedly different from standard copy commands, as it accepts only folder names as its source and destination arguments. File names and wild-card characters (such as "*.*") are not valid source or destination arguments.

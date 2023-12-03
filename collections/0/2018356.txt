@@ -1,0 +1,1 @@
+Often, tools such as Doxygen, NDoc, Visual Expert, Javadoc, EiffelStudio, Sandcastle, ROBODoc, POD, TwinText, or Universal Report can be used to auto-generate the code documentsâ€”that is, they extract the comments and software contracts, where available, from the source code and create reference manuals in such forms as text or HTML files.

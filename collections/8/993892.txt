@@ -1,0 +1,1 @@
+Note: G = Games played; AB = At bats; R = Runs; H = Hits; 2B = Doubles; 3B = Triples; HR = Home runs; RBI = Runs batted in; BB = Walks; SO = Strikeouts; SB = Stolen bases; Avg. = Batting average

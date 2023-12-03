@@ -1,0 +1,1 @@
+In some programming languages, concatenation of strings is written "a" + "b", and results in "ab".

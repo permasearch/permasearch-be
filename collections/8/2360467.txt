@@ -1,0 +1,1 @@
+For a continuously differentiable function of several real variables, a point P (that is a set of values for the input variables, which is viewed as a point in Rn) is critical if all of the partial derivatives of the function are zero at P, or, equivalently, if its gradient is zero. The critical values are the values of the function at the critical points.

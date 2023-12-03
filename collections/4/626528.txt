@@ -1,0 +1,1 @@
+distance = (speed of light Ã— time taken for light to reflect) / 2

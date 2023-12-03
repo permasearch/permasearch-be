@@ -1,0 +1,1 @@
+Multiplanar reconstruction (MPR) is the creation of slices in more anatomical planes than the one (usually transverse) used for initial tomography acquisition. It can be used for thin slices as well as projections. Multiplanar reconstruction is feasible because contemporary CT scanners offer isotropic or near isotropic resolution.[81]

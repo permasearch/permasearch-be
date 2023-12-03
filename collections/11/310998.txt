@@ -1,0 +1,1 @@
+The cold end is part of an extruder system that pulls and feed the material from the spool, and pushes it towards the hot end. The cold end is mostly gear- or roller-based supplying torque to the material and controlling the feed rate by means of a stepper motor. By this means the process rate is controlled.

@@ -1,0 +1,1 @@
+Most security vulnerabilities result from poor coding and architectural practices such as SQL injection or cross-site scripting. These are well documented in lists maintained by CWE,[32] and the SEI/Computer Emergency Center (CERT) at Carnegie Mellon University.

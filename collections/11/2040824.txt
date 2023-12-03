@@ -1,0 +1,1 @@
+Bolted joints may be used intentionally as sacrificial parts, which are intended to fail before other parts, as in a shear pin.

@@ -1,0 +1,1 @@
+The network broadcasts in a lower-bandwidth form of 720p HD format in order to preserve bandwidth for the main HD station signal and additional 480i digital subchannels.

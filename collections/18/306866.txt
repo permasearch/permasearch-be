@@ -1,0 +1,1 @@
+The main advantage of IPv6 over IPv4 is its larger address space. The length of an IPv6 address is 128 bits, compared with 32 bits in IPv4.[4] The address space therefore has 2128 or approximately 7038340000000000000♠3.4×1038 addresses.

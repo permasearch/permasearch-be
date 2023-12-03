@@ -1,0 +1,1 @@
+As the cocurrent and countercurrent exchange mechanisms diagram showed, a cocurrent exchange system has a variable gradient over the length of the exchanger. With equal flows in the two tubes, this method of exchange is only capable of moving half of the property from one flow to the other, no matter how long the exchanger is.

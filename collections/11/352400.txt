@@ -1,0 +1,1 @@
+where Q denotes the net quantity of heat supplied to the system by its surroundings and W denotes the net work done by the system. This sign convention is implicit in Clausius' statement of the law given above. It originated with the study of heat engines that produce useful work by consumption of heat.

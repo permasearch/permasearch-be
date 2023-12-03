@@ -1,0 +1,1 @@
+The implementation in GNU Core Utilities, used on Linux, employs the merge sort algorithm.

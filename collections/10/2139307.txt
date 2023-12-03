@@ -1,0 +1,1 @@
+Collision resistance implies second pre-image resistance, but does not imply pre-image resistance.[3] The weaker assumption is always preferred in theoretical cryptography, but in practice, a hash-function which is only second pre-image resistant is considered insecure and is therefore not recommended for real applications.

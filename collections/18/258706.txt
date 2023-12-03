@@ -1,0 +1,1 @@
+Now apply Snell's law to the ratio of sines to derive the formula for the refracted ray's direction vector:

@@ -1,0 +1,1 @@
+Modified variants of 7-bit ASCII appeared promptly, trading some lesser-used symbols for highly desired symbols or letters, such as replacing "#" with "£" on UK Teletypes, "\" with "¥" in Japan or "₩" in Korea, etc. At least 29 variant sets resulted. 12 code points were modified by at least one modified set, leaving only 82 "invariant" codes.

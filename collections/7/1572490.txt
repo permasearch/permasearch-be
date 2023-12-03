@@ -1,0 +1,1 @@
+Projects with a power rating less than 10 MW are not listed.

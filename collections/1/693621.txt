@@ -1,0 +1,1 @@
+This means that A and B are equidistant from the origin, i.e. from the center of M. Since A lies on M, so does B, and the circle M is therefore the triangle's circumcircle.

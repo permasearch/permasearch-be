@@ -1,0 +1,1 @@
+The Hildebrand parameter is the square root of cohesive energy density. It can be used with nonpolar compounds, but cannot accommodate complex chemistry.

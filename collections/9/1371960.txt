@@ -1,0 +1,1 @@
+where d is engine displacement, b is the bore of the cylinders, s is length of the stroke and n is the number of cylinders.

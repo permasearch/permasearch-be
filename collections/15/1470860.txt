@@ -1,0 +1,1 @@
+These concepts of tilt and twist boundaries represent somewhat idealized cases. The majority of boundaries are of a mixed type, containing dislocations of different types and Burgers vectors, in order to create the best fit between the neighboring grains.

@@ -1,0 +1,1 @@
+As applets were available before CSS and DHTML were standard, they were also widely used for trivial effects such as rollover navigation buttons. Heavily criticized, this usage is now declining.[24]

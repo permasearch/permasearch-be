@@ -1,0 +1,1 @@
+This implies that the difference between 1 and x is less than the inverse of any positive integer. Thus this difference must be zero, and, thus x = 1; that is

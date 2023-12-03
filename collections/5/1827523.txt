@@ -1,0 +1,1 @@
+Three-phase motors can be converted to PSC motors by making common two windings and connecting the third via a capacitor to act as a start winding. However, the power rating needs to be at least 50% larger than for a comparable single-phase motor due to an unused winding.[20]

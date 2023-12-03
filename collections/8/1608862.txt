@@ -1,0 +1,1 @@
+The HDL particle concentrations are typically categorized by event rate percentiles based on the people participating and being tracked in the MESA[29] trial, a medical research study sponsored by the United States National Heart, Lung, and Blood Institute.

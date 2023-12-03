@@ -1,0 +1,1 @@
+In an imprest system the amount requested is documented, the documentation being the petty cash dockets and their associated receipts or invoices. Therefore, at all times one can check how much should be left in the petty cash float by deducting the amount spent from the opening petty cash float.

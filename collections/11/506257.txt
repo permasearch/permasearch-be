@@ -1,0 +1,1 @@
+1. First multiply that number by 10, then divide it by 2. The two steps are interchangeable i.e. you can halve the number and then multiply it.

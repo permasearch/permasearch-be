@@ -1,0 +1,1 @@
+For two- and three-dimensional collisions the velocities in these formulas are the components perpendicular to the tangent line/plane at the point of contact.

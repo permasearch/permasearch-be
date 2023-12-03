@@ -1,0 +1,1 @@
+All these documents accompany related standards that define commercial pathways and spaces (TIA-569-C-1, February 2013), residential cabling (ANSI/TIA-570-C, August 2012), administration standards (ANSI/TIA-606-B, June 2012), grounding and bonding (TIA-607-B-2, August 2013), and outside plant cabling (TIA-758-B, April 2012).

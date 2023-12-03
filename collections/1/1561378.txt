@@ -1,0 +1,1 @@
+For provable security, this reliance on something external to the system has the consequence that any public key certification scheme has to rely on some special setup assumption, such as the existence of a certificate authority.[8]

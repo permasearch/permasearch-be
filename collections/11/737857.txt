@@ -1,0 +1,1 @@
+There exists     c ∈ ( a , b )   {\displaystyle c\in (a,b)}   such that      D ′  ( c ) = 0   {\displaystyle D'(c)=0}  .

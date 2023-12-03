@@ -1,0 +1,1 @@
+which is smaller than 1 for large n, hence F(0) + F(π) < 1 for these n, by Claim 2. This is impossible for the positive integer F(0) + F(π).

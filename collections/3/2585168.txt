@@ -1,0 +1,1 @@
+The lowest level connects to the database and performs the actual operations required by the users. At this level the conceptual instruction has been translated into multiple instructions that the database understands. Executing the instructions in the correct order allows the DAL to perform the conceptual instruction.

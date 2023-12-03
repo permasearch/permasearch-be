@@ -1,0 +1,1 @@
+There can be confusion between 0- and 1-based indexing, for example Java's JDBC indexes parameters from 1 although Java itself uses 0-based indexing.[citation needed]

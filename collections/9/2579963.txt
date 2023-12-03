@@ -1,0 +1,1 @@
+This is a programming example in ladder diagram which shows the control system. A ladder diagram is a method of drawing control circuits which pre-dates PLCs. The ladder diagram resembles the schematic diagram of a system built with electromechanical relays.

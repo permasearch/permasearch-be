@@ -1,0 +1,1 @@
+where dmiles12 is distance (in miles) covered in 12 minutes,

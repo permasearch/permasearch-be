@@ -1,0 +1,1 @@
+An "&lit." or "Literal" clue is not a clue type, but, rather a variant on an existing clue. "&lit" stands for "and literally so". In this case, the entire clue is both a definition and a cryptic clue. In some publications &lit clues are indicated by an exclamation mark at the end of the clue. For example:

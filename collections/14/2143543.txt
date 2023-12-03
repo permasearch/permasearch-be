@@ -1,0 +1,1 @@
+is not a set â€” i.e., does not satisfy the axiom scheme. On the other hand, we might try to create a modified diagonal argument by noticing that

@@ -1,0 +1,1 @@
+This re-lending process (with no currency drain) can be depicted as follows, assuming a 20% reserve ratio and a $100 initial deposit:

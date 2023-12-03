@@ -1,0 +1,1 @@
+and the fact that the divergence of the magnetic field is zero. An identical wave equation can be found for the electric field by taking the curl:

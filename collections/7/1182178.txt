@@ -1,0 +1,1 @@
+where      V  1     {\displaystyle V_{1}}   is the sum of the unnormalized weights. In this case      V  1     {\displaystyle V_{1}}   is simply

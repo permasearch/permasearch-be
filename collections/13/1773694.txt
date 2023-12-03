@@ -1,0 +1,1 @@
+The two oldest and still active distribution projects started in 1993. The SLS distribution was not well maintained, so in July 1993 a new distribution, called Slackware and based on SLS, was released by Patrick Volkerding.[13] Also dissatisfied with SLS, Ian Murdock set to create a free distribution by founding Debian, which had its first release in December 1993.[14]

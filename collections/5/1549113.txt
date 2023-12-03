@@ -1,0 +1,1 @@
+The maximal eccentricity can be calculated numerically as the zero of the derivative of f'. One obtains

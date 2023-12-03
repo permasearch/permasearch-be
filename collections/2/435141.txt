@@ -1,0 +1,1 @@
+For a given direction of travel, current flow through the motor armatures during braking will be opposite to that during motoring. Therefore, the motor exerts torque in a direction that is opposite from the rolling direction.

@@ -1,0 +1,1 @@
+Many operations on upper triangular matrices preserve the shape:

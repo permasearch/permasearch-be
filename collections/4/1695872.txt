@@ -1,0 +1,1 @@
+One additional fact that follows from this proof is that the matrix A whose characteristic polynomial is taken need not be identical to the value φ substituted into that polynomial; it suffices that φ be an endomorphism of V satisfying the initial equations

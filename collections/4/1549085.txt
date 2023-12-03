@@ -1,0 +1,1 @@
+Thus, it is sufficient to observe the mass of the star (planet) and to estimate the density of the planet (satellite) to compute the Roche limit of the planet (satellite) in the stellar (planetary) system.

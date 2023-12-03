@@ -1,0 +1,1 @@
+The assigned codes and other patient data are processed by grouper software to determine a diagnosis-related group (DRG) for the episode of care, which is used for funding and reimbursement. This process allows hospital episodes to be grouped into meaningful categories, helping us to better match patient needs to health care resources.[29]

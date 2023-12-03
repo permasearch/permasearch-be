@@ -1,0 +1,1 @@
+Thus,     a (  y  0   − n ) − b (  x  0   − m ) = 0 ,   {\displaystyle a(y_{0}-n)-b(x_{0}-m)=0,}   and by squaring this equation we obtain:

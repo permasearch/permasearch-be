@@ -1,0 +1,1 @@
+If no data compression is provided by the network equipment or protocols, we have the following relation:

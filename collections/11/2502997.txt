@@ -1,0 +1,1 @@
+While only U+261D ☝ is officially an emoji, Microsoft and Samsung add the other three directions as well (U+261C ☜, U+261E ☞, U+261F ☟). Both vendors pair the standard checked ballot box emoji U+2611 ☑ with its crossed variant U+2612 ☒, but only Samsung also has the empty ballot box U+2610 ☐.

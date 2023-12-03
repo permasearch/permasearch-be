@@ -1,0 +1,1 @@
+Here        β ^      {\displaystyle {\hat {\beta }}}   denotes the maximum-likelihood estimate, and         x ¯    =   1 n    ∑  i = 1   n    x  i      {\displaystyle \textstyle {\bar {x}}={\frac {1}{n}}\sum _{i=1}^{n}x_{i}}   is the sample mean of the observations.

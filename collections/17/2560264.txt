@@ -1,0 +1,1 @@
+The alternating harmonic series, while conditionally convergent, is not absolutely convergent: if the terms in the series are systematically rearranged, in general the sum becomes different and, dependent on the rearrangement, possibly even infinite.

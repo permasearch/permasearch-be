@@ -1,0 +1,1 @@
+Use the found combination of sub-keys     (  k   f  1     ,  k   b  1     ,  k   f  2     ,  k   b  2     , . . . ,  k   f  n + 1     ,  k   b  n + 1     )   {\displaystyle (k_{f_{1}},k_{b_{1}},k_{f_{2}},k_{b_{2}},...,k_{f_{n+1}},k_{b_{n+1}})}   on another pair of plaintext/ciphertext to verify the correctness of the key.

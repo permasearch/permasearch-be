@@ -1,0 +1,1 @@
+The POSIX standard mandates filesystem behavior that is strongly influenced by traditional UNIX filesystems. Regular files must have the following attributes:

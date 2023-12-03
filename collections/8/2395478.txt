@@ -1,0 +1,1 @@
+At first sight, Raoult's law appears to be a special case of Henry's law, where KHÂ = p*. This is true for pairs of closely related substances, such as benzene and toluene, which obey Raoult's law over the entire composition range: such mixtures are called "ideal mixtures".

@@ -1,0 +1,1 @@
+An extensive-form game with incomplete information is presented below in Figure 2. Note that the node for Player 1 with actions A and B, and all succeeding actions is a subgame. Player 2â€™s nodes are not a subgame as they are part of the same information set.

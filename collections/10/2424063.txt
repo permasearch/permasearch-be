@@ -1,0 +1,1 @@
+The chain rule may be written in Leibniz's notation in the following way. If a variable z depends on the variable y, which itself depends on the variable x, so that y and z are therefore dependent variables, then z, via the intermediate variable of y, depends on x as well. The chain rule then states,

@@ -1,0 +1,1 @@
+Motor Trend tested a 4-4-2 W-30 with a 4-speed manual transmission and 3.91:1 rear gears, clocking a quarter mile time of 14.2 seconds @ 102 mph (164 km/h). However, Motor Trend noted that Oldsmobile engineers had earlier posted a best of 13.7 seconds on the same test car with a fresh tune.

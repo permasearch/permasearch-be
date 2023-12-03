@@ -1,0 +1,1 @@
+When using a count-controlled loop to search through a table, it might be desirable to stop searching as soon as the required item is found. Some programming languages provide a statement such as break (most languages), exit, or last (Perl), which effect is to terminate the current loop immediately, and transfer control to the statement immediately after that loop.

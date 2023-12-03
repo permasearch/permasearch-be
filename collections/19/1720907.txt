@@ -1,0 +1,1 @@
+The effective neutron multiplication factor, k, is the average number of neutrons from one fission that cause another fission. The remaining neutrons either are absorbed in non-fission reactions or leave the system without being absorbed. The value of k determines how a nuclear chain reaction proceeds:

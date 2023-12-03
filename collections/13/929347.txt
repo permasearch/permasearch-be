@@ -1,0 +1,1 @@
+Most full-featured email clients provide native support for S/MIME secure email (digital signing and message encryption using certificates). Other encryption options include PGP and GNU Privacy Guard (GnuPG). Free and commercial software (desktop application, webmail and add-ons) are available as well.[5]

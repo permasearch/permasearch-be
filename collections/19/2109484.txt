@@ -1,0 +1,1 @@
+Adaptive Frequency-hopping spread spectrum (AFH) (as used in Bluetooth) improves resistance to radio frequency interference by avoiding crowded frequencies in the hopping sequence. This sort of adaptive transmission is easier to implement with FHSS than with DSSS.

@@ -1,0 +1,1 @@
+The telecommunications market had been one of the first that needed a new design of parallel datapath packet processing because there was a very quick adoption of these multiple-core processors for the datapath and the control plane. These MPUs are going to replace[13] the traditional Network Processors that were based on proprietary microcode or picocode.

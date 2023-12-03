@@ -1,0 +1,1 @@
+To manipulate data in tables and queries in VBA or macros, Microsoft provides two database access libraries of COM components:

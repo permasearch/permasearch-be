@@ -1,0 +1,1 @@
+MSS and media gateway (MGW) makes it possible to cross-connect circuit switched calls switched by using IP, ATM AAL2 as well as TDM. More information is available in 3GPP TS 23.205.

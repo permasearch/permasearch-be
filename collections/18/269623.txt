@@ -1,0 +1,1 @@
+Active PFC is the use of power electronics to change the waveform of current drawn by a load to improve the power factor.[25] Some types of the active PFC are buck, boost, buck-boost and synchronous condenser. Active power factor correction can be single-stage or multi-stage.

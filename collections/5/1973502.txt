@@ -1,0 +1,1 @@
+The project imagined an "epoch-making computer" with supercomputer-like performance using massively parallel computing/processing. The aim was to build parallel computers for artificial intelligence applications using concurrent logic programming. The FGCS project and its vast findings contributed greatly to the development of the concurrent logic programming field.

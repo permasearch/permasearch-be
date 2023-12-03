@@ -1,0 +1,1 @@
+and the moment generating function's definition expands to

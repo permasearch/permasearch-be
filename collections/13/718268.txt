@@ -1,0 +1,1 @@
+which is the Maxwell–Boltzmann velocity distribution. The probability of finding a particle with velocity in the infinitesimal element [dvx, dvy, dvz] about velocity v = [vx, vy, vz] is

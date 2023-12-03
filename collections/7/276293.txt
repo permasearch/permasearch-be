@@ -1,0 +1,1 @@
+As of 1962 the NEC required that new 120 Volt household receptacle outlets, for general purpose use, be both grounded and polarized. NEMA connectors implement these requirements.

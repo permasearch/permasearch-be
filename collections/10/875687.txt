@@ -1,0 +1,1 @@
+In the case of the degrees of freedom for the between-subject effects error, dfBS(Error) = Nk â€“ R, where Nk is equal to the number of participants, and again R is the number of levels.

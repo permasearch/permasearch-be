@@ -1,0 +1,1 @@
+To simplify, let      R  T     {\displaystyle R_{T}}   be the sum of     {  R  a   ,  R  b   ,  R  c   }   {\displaystyle \{R_{a},R_{b},R_{c}\}}  .

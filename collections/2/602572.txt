@@ -1,0 +1,1 @@
+This curve is an arc of a parabola (s. section: parabola as affine image of the unit parabola).

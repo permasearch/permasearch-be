@@ -1,0 +1,1 @@
+Sufficient network bandwidth may be a non-functional requirement of a system. Other examples include:

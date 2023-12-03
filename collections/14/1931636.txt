@@ -1,0 +1,1 @@
+On 29 March 2002 the Swiss dialing plan changed to a closed dialing plan, i.e. the zone prefix become mandatory also for local calls.

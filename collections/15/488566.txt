@@ -1,0 +1,1 @@
+The STL was created as the first library of generic algorithms and data structures for C++, with four ideas in mind: generic programming, abstractness without loss of efficiency, the Von Neumann computation model,[2] and value semantics.

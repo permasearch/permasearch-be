@@ -1,0 +1,1 @@
+For example, consider a ray of light moving from water to air with an angle of incidence of 50Â°. The refractive indices of water and air are approximately 1.333 and 1, respectively, so Snell's law gives us the relation

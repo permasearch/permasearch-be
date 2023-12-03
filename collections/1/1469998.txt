@@ -1,0 +1,1 @@
+In HTML, a frameset is a group of named frames to which web pages and media can be directed; an iframe provides for a frame to be placed inside the body of a document.

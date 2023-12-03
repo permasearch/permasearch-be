@@ -1,0 +1,1 @@
+OEE has properties of a geometric mean. As such it punishes variability among its subcomponents. For example, 20% * 80% = 16%, whereas 50% * 50% = 25%. When there are asymmetric costs associated with one or more of the components, then the model may become less appropriate.

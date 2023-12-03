@@ -1,0 +1,1 @@
+Thus it is possible to value many derivatives V dependent solely on a single bond P(S,T) analytically when working in the Hullâ€“White model. For example, in the case of a bond put

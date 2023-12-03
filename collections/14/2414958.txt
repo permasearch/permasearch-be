@@ -1,0 +1,1 @@
+In C++, while the NULL macro was inherited from C, the integer literal for zero has been traditionally preferred to represent a null pointer constant.[4] However, C++11 has introduced an explicit nullptr constant to be used instead.

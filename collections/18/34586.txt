@@ -1,0 +1,1 @@
+When a game's turn is passed to a player (from the opponent answering incorrectly), the game will wait up to 72 hours for that player to play their turn. If 72 hours pass and the player has not played his/her turns, the game will force the player to forfeit.

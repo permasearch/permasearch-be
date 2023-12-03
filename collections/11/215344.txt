@@ -1,0 +1,1 @@
+To practice continuous delivery effectively, software applications have to meet a set of architecturally significant requirements (ASRs) such as deployability, modifiability, and testability.[12] These ASRs require a high priority and cannot be traded off lightly anymore.

@@ -1,0 +1,1 @@
+Capacitors, inductors, and resistors are usually designed to minimise other parameters. In many cases this can be done to a sufficient extent that parasitic capacitance and inductance of a resistor, for example, are so small as not to affect circuit operation. However, under some circumstances parasitics become important and even dominant.

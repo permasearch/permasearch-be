@@ -1,0 +1,1 @@
+An ASIC based IPS may detect and block denial-of-service attacks because they have the processing power and the granularity to analyze the attacks and act like a circuit breaker in an automated way.[21][citation needed]

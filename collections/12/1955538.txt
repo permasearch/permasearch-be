@@ -1,0 +1,1 @@
+If there are three left (C, D and E), C knows that D will offer E 0 in the next round; therefore, C has to offer E 1 coin in this round to win E's vote. Therefore, when only three are left the allocation is C:99, D:0, E:1.

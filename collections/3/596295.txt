@@ -1,0 +1,1 @@
+In the 17th century, James Gregory worked in the new decimal system on infinite series and published several Maclaurin series. In 1715, a general method for constructing the Taylor series for all functions for which they exist was provided by Brook Taylor. Leonhard Euler in the 18th century, developed the theory of hypergeometric series and q-series.

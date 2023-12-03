@@ -1,0 +1,1 @@
+The exponential function     x ( t ) = x ( 0 )  e  k t     {\displaystyle x(t)=x(0)e^{kt}}   satisfies the linear differential equation:

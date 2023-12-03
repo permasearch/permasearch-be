@@ -1,0 +1,1 @@
+where f(x) is the function with respect to x over the interval from a to a+h. An instantaneous rate of change is equivalent to a derivative.

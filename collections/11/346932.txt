@@ -1,0 +1,1 @@
+Since iOS 3.2, users are able to set a background image for the Home screen. This feature is only available on third-generation devices—iPhone 3GS, third-generation iPod touch (iOS 4.0 or newer), all iPad models (since iOS 3.2)—or newer.

@@ -1,0 +1,1 @@
+For example, the sine function is periodic with period     2 π   {\displaystyle 2\pi }  , since

@@ -1,0 +1,1 @@
+Considering a two dimensional flow in the     r − θ   {\displaystyle r-\theta }   plane, the flow velocity at a point     ( r , θ , z )   {\displaystyle (r,\theta ,z)}   at a time     t   {\displaystyle t}   can be expressed as –

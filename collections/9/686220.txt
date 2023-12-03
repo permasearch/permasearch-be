@@ -1,0 +1,1 @@
+Uncertainty in CBA parameters (as opposed to risk of project failure etc.) can be evaluated using a sensitivity analysis, which shows how results respond to parameter changes. Alternatively a more formal risk analysis can be undertaken using Monte Carlo simulations.[13]

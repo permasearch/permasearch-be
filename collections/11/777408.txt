@@ -1,0 +1,1 @@
+This set introduces a new mechanic: Shockwave and Imprison markers. These markers are similar to special conditions, save that they can be applied to benched Pokémon and that they don't go away when the Pokémon retreats. Only three cards in the set use these markers, however: two Pokémon place the markers, and one Pokémon can remove them.

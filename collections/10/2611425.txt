@@ -1,0 +1,1 @@
+Note: This follows directly from Euclid's parallel postulate. Further, if the angles of one pair are congruent, then the angles of each of the other pairs are also congruent. In our images with parallel lines, corresponding angle pairs are: α=α1, β=β1, γ=γ1 and δ=δ1.

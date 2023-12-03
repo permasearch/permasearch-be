@@ -1,0 +1,1 @@
+A real-time hardware clock with battery backup, such as the DS1307, may be added (often via the I²C interface).

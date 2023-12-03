@@ -1,0 +1,1 @@
+The fundamental equation of electrostatics is Coulomb's law, which describes the electric force between two point charges. The electric field associated with a classical point charge increases to infinity as the distance from the point charge decreases towards zero making energy (thus mass) of point charge infinite.

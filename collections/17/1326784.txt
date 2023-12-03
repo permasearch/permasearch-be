@@ -1,0 +1,1 @@
+A sulfur hexafluoride circuit breaker uses contacts surrounded by sulfur hexafluoride gas to quench the arc. They are most often used for transmission-level voltages and may be incorporated into compact gas-insulated switchgear. In cold climates, supplemental heating or de-rating of the circuit breakers may be required due to liquefaction of the SF6 gas.

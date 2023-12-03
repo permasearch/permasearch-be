@@ -1,0 +1,1 @@
+Along with support for simple, spanned and striped volumes, the server family of Windows 2000 also supports fault-tolerant volume types. The types supported are mirrored volumes and RAID-5 volumes:

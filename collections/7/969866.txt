@@ -1,0 +1,1 @@
+where, y is the depth of water, I is intensity and Î¼ is the absorption coefficient. Solving the above differential equation,

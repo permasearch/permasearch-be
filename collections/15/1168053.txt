@@ -1,0 +1,1 @@
+In contrast, there is increasing interest in producing proofs of correctness of such systems by automated means. Automated techniques fall into three general categories:

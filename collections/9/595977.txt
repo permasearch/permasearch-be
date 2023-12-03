@@ -1,0 +1,1 @@
+In Cartesian coordinates, for      F  =  F  x    i  +  F  y    j  +  F  z    k    {\displaystyle \mathbf {F} =F_{x}\mathbf {i} +F_{y}\mathbf {j} +F_{z}\mathbf {k} }  :

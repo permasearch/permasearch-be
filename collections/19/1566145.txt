@@ -1,0 +1,1 @@
+The 0-"norm" is not convex (hence not a norm). Correspondingly, the mode is not unique â€“ for example, in a uniform distribution any point is the mode.

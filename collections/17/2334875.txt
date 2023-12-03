@@ -1,0 +1,1 @@
+In the inverting amplifier voltage drop across resistor (R1) decides the reference voltages i.e.,upper threshold voltage (V+) and lower threshold voltages (V-) for the comparison with input signal applied. These voltages are fixed as the output voltage and resistor values are fixed.

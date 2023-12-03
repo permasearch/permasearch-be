@@ -1,0 +1,1 @@
+Because every prime factor appears an even number of times, the original number can be expressed as the square of some smaller number. In the same way, perfect cube numbers will have prime factors whose multiplicities are multiples of three, and so on.

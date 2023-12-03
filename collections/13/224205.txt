@@ -1,0 +1,1 @@
+COMMAND.COM and cmd.exe have most of the common syntax with some limitations: There is no [â€¦] and for COMMAND.COM the * may only appear at the end of the pattern, not at the beginning.

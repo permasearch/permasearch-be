@@ -1,0 +1,1 @@
+When a participant does not support a proposal, he or she does not necessarily need to block it. When a call for consensus on a motion is made, a dissenting delegate has one of three options:

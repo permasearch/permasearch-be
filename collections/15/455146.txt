@@ -1,0 +1,1 @@
+If it is a 50-over match and Team 1 completed its innings uninterrupted, then they had 100% resource available to them, so the formula simplifies to:

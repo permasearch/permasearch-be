@@ -1,0 +1,1 @@
+Many communications protocols, most importantly SMTP and HTTP, require the character encoding of content to be tagged with IANA-assigned character set identifiers.

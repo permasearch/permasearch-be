@@ -1,0 +1,1 @@
+That is, EDF can guarantee that all deadlines are met provided that the total CPU utilization is not more than 100%. Compared to fixed priority scheduling techniques like rate-monotonic scheduling, EDF can guarantee all the deadlines in the system at higher loading.

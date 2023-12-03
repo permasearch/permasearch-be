@@ -1,0 +1,1 @@
+The first law of thermodynamics for a closed system was expressed in two ways by Clausius. One way referred to cyclic processes and the inputs and outputs of the system, but did not refer to increments in the internal state of the system. The other way referred to an incremental change in the internal state of the system, and did not expect the process to be cyclic.

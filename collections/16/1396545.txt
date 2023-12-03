@@ -1,0 +1,1 @@
+Work is the result of a force on a point that moves through a displacement. As the point moves, it follows a curve X, with a velocity v, at each instant. The small amount of work Î´W that occurs over an instant of time dt is calculated as

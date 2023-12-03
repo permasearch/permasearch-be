@@ -1,0 +1,1 @@
+The upward force on the cube is the pressure on the bottom surface integrated over its area. The surface is at constant depth, so the pressure is constant. Therefore, the integral of the pressure over the area of the horizontal bottom surface of the cube is the hydrostatic pressure at that depth multiplied by the area of the bottom surface.

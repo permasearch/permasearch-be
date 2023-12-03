@@ -1,0 +1,1 @@
+Most modern typefaces set numeric digits by default as lining figures, which are the height of upper-case letters. Non-lining figures, styled to match lower-case letters, are often common in fonts intended for body text, as they are thought to be less disruptive to the style of running text. They are also called lower-case numbers or text figures for the same reason.

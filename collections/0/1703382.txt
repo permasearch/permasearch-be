@@ -1,0 +1,1 @@
+There are many alternate quantities used by physicists and engineers to describe how damped an oscillator is that are closely related to its quality factor. Important examples include: the damping ratio, relative bandwidth, linewidth, and bandwidth measured in octaves.

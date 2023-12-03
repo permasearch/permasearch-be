@@ -1,0 +1,1 @@
+LCOE data from the California Energy Commission report titled "Estimated Cost of New Renewable and Fossil Generation in California".[62] The model data was calculated for all three classes of developers: merchant, investor-owned utility (IOU), and publicly owned utility (POU).

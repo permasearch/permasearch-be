@@ -1,0 +1,1 @@
+If there are multiple types of molecules in the gas, the partial pressure of each type will be given by this equation. Under most conditions, the distribution of each species of gas is independent of the other species.

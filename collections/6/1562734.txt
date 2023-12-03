@@ -1,0 +1,1 @@
+Where: Db = Density of the body, Ma = "Mass in air" (i.e. dry weight), Mw = "Mass in water" (i.e. underwater weight), Dw = Density of water (based on water temperature), RV = Residual volume (the unfilled space enclosed by the body- e.g. volume of air in the lungs + respiratory passages after a maximum exhalation).

@@ -1,0 +1,1 @@
+This classification theorem holds for matrices over any field. (It is not necessary for the field to be algebraically closed.)

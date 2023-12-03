@@ -1,0 +1,1 @@
+Here Kf is the cryoscopic constant (equal to 1.86 °C kg/mol for the freezing point of water), i is the van 't Hoff factor, and m the molality.

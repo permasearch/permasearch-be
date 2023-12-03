@@ -1,0 +1,1 @@
+Various deep learning approaches have been proposed to solve noise reduction and such image restoration tasks. Deep Image Prior is one such technique which makes use of convolutional neural network and is distinct in that it requires no prior training data.[34]

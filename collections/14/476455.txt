@@ -1,0 +1,1 @@
+In signal processing, the Nyquist rate, named after Harry Nyquist, is twice the bandwidth of a bandlimited function or a bandlimited channel. This term means two different things under two different circumstances:

@@ -1,0 +1,1 @@
+As I read things, it is true that some authors (e.g. Pippard 1957/1966, Reif 1965, Haase 1971) define amount of heat transferred to the system by the formula     δ Q =  d  U + δ W   {\displaystyle \delta Q=\mathrm {d} U+\delta W}   (using the convention preferred by Count Iblis, in which work done by the system is represented by a positive number).

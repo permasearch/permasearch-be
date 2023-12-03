@@ -1,0 +1,1 @@
+Elementary (single-step) reactions do have reaction orders equal to the stoichiometric coefficients for each reactant. The overall reaction order, i.e. the sum of stoichiometric coefficients of reactants, is always equal to the molecularity of the elementary reaction. Complex (multi-step) reactions may or may not have reaction orders equal to their stoichiometric coefficients.

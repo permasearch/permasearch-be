@@ -1,0 +1,1 @@
+Dummy variables are incorporated in the same way as quantitative variables are included (as explanatory variables) in regression models. For example, if we consider a Mincer-type regression model of wage determination, wherein wages are dependent on gender (qualitative) and years of education (quantitative):

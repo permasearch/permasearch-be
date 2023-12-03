@@ -1,0 +1,1 @@
+For example, the function Æ’(x) = (2x2 + 3x + 1)/x has

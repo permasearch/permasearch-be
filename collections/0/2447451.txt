@@ -1,0 +1,1 @@
+TLB entries in Itanium support read-only, read/write, read/execute, and read/write/execute pages.[12]

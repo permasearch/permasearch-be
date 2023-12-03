@@ -1,0 +1,1 @@
+This example posts the data name=John and location=Boston to /process/submit.php on the server. When this request finishes the success function is called to alert the user. If the request fails it will alert the user to the failure, the status of the request, and the specific error.

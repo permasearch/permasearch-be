@@ -1,0 +1,1 @@
+Block comments delimit a region of source code which may span multiple lines. This region is specified with a start delimiter and an end delimiter. Some programming languages (such as MATLAB) allow block comments to be recursively nested inside one another, but others (such as Java) do not.[4][5][6]

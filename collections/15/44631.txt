@@ -1,0 +1,1 @@
+In general, the calculations are rather complicated or complex. For instance, in the case of a dibasic acid, H2A dissolved in water the two reactants can be specified as the conjugate base, A2âˆ’, and the proton, H+. The following equations of mass-balance could apply equally well to a base such as 1,2-diaminoethane, in which case the base itself is designated as the reactant A:

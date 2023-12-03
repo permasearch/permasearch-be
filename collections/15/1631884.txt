@@ -1,0 +1,1 @@
+This should not be construed as the value of a function, since these series are purely formal; there is no such thing as convergence or divergence in this context.

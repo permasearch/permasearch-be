@@ -1,0 +1,1 @@
+The Gini coefficient is closely related to the AUC (Area Under receiver operating characteristic Curve) measure of performance.[71] The relation follows the formula     A U C = ( G + 1 )  /  2   {\displaystyle AUC=(G+1)/2}  . Gini coefficient is also closely related to Mann–Whitney U.

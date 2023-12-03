@@ -1,0 +1,1 @@
+where r is the number of zero rows at the bottom of r (and also the rank of the group). This is the fundamental theorem of finitely generated abelian groups.

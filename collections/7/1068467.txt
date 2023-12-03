@@ -1,0 +1,1 @@
+Many reviewers criticized it: as the home lens is the natural means to search for content on the local machine, reviewers were concerned about the disclosure of queries that were intended to be local, creating a privacy problem.[21] The feature is active by default[21][88][89][90] (instead of opt-in) and many users could be unaware of it.

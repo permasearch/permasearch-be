@@ -1,0 +1,1 @@
+Mismatches between the format specifiers and type of the data can cause crashes and other vulnerabilities. The format string itself is very often a string literal, which allows static analysis of the function call. However, it can also be the value of a variable, which allows for dynamic formatting but also a security vulnerability known as an uncontrolled format string exploit.

@@ -1,0 +1,1 @@
+As far as acoustic wave sources are concerned, if the source has a maximum overall dimension or aperture width (D) that is large compared to the wavelength Î», the far-field region is commonly taken to exist at distances, when the Fresnel parameter     S   {\displaystyle S}   is larger than 1:

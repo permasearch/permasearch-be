@@ -1,0 +1,1 @@
+In September 2015, Luke Millanta developed and released OnionView, a web service that plots the location of active Tor relay nodes onto an interactive map of the world. The project's purpose was to detail the network's size and escalating growth rate.[187][188]

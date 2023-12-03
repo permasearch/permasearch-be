@@ -1,0 +1,1 @@
+99mTc decays by gamma emission, with a half-life: 6.01 hours. The short half-life ensures that the body-concentration of the radioisotope falls effectively to zero in a few days.

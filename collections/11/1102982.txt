@@ -1,0 +1,1 @@
+Where     V   {\displaystyle V}   is the volume of the magnet. For a cylinder this is     V = π  R  2   L   {\displaystyle V=\pi R^{2}L}  .

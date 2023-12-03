@@ -1,0 +1,1 @@
+Gmail's spam filtering features a community-driven system: when any user marks an email as spam, this provides information to help the system identify similar future messages for all Gmail users.[23]

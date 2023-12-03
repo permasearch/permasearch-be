@@ -1,0 +1,1 @@
+The squares (sequence A000290 in the OEIS) smaller than 602 = 3600 are:

@@ -1,0 +1,1 @@
+If the recipient works at an organization that uses the same encryption gateway appliance, emails are automatically decrypted, making the process transparent to the user. Recipients who are not behind an encryption gateway then need to take an extra step, either procuring the public key, or logging into an online portal to retrieve the message.[9][10]

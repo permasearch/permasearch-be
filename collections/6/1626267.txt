@@ -1,0 +1,1 @@
+These two equations jointly define the equation of the envelope. From (2) we have t = (âˆ’y + x + k)/2. Substituting this value of t into (1) and simplifying gives an equation for the envelope in terms of x and y only:

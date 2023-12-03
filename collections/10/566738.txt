@@ -1,0 +1,1 @@
+The first use of magnetic core was demonstrated for the Whirlwind computer in August 1953.[114] Commercialization followed quickly. Magnetic core was used in peripherals of the IBM 702 delivered in July 1955, and later in the 702 itself. The IBM 704 (1955) and the Ferranti Mercury (1957) used magnetic-core memory. It went on to dominate the field through the mid-1970s.[115]

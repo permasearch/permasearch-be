@@ -1,0 +1,1 @@
+The sum of the squared distances from the midpoints of the sides of a regular n-gon to any point on the circumcircle is 2nR2 âˆ’ ns2/4, where s is the side length and R is the circumradius.[2]:p. 73

@@ -1,0 +1,1 @@
+The history of supercomputing goes back to the 1960s, with the Atlas at the University of Manchester and a series of computers at Control Data Corporation (CDC), designed by Seymour Cray. These used innovative designs and parallelism to achieve superior computational peak performance.[10]

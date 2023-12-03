@@ -1,0 +1,1 @@
+Button H, Homing Device (ホーミング, Hōmingu, Homing): This button is, unlike the other buttons, not located on the steering wheel; instead is located on a console between the seats. Button H is part of the Go Homing Robot's controls, and it simply sends the robot "home” to a pre-programmed location, usually Speed's house.

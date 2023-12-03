@@ -1,0 +1,1 @@
+For a vector      X  =    [     X  1      X  2     …    X  m      ]     T      {\displaystyle \mathbf {X} ={\begin{bmatrix}X_{1}&X_{2}&\dots &X_{m}\end{bmatrix}}^{\mathrm {T} }}   of m jointly distributed random variables with finite second moments, its covariance matrix (also known as the variance–covariance matrix) is defined as

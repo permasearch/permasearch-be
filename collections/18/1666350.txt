@@ -1,0 +1,1 @@
+For a given glacier, the two variables are τD, which varies with h, the depth of the glacier, and τB, the basal shear stress.[clarification needed]

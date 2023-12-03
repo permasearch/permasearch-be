@@ -1,0 +1,1 @@
+A good design contains elements that lead the reader through each element in order of its significance. The type and images should be expressed starting from most important to the least important.

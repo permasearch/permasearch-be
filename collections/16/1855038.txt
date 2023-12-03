@@ -1,0 +1,1 @@
+Problems 2 and 3 are ship's part problems. One of the problems calculates the length of a ship's rudder and the other computes the length of a ship's mast given that it is 1/3 + 1/5 of the length of a cedar log originally 30 cubits long.[1]

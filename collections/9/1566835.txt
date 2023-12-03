@@ -1,0 +1,1 @@
+Markov chains have been used in population genetics in order to describe the change in gene frequencies in small populations affected by genetic drift, for example in diffusion equation method described by Motoo Kimura.[1][84]

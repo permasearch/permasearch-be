@@ -1,0 +1,1 @@
+The posterior predictive distribution for a single additional observation is a negative binomial distribution,[42] sometimes called a Gammaâ€“Poisson distribution.

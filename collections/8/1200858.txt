@@ -1,0 +1,1 @@
+However, like most VLSI designs, the total cost[clarification needed] is higher for one large chip than for the same functionality distributed over several smaller chips, because of lower yields[clarification needed] and higher non-recurring engineering costs.

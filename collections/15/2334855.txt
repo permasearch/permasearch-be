@@ -1,0 +1,1 @@
+The output voltage is low but well above ground. It is approximately equal to the high threshold and may not be low enough to be a logical zero for next digital circuits. This may require additional shifting circuit following the trigger circuit.

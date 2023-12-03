@@ -1,0 +1,1 @@
+Version 9 introduced support for multi-core effects processing and improved support for multi-core instrument processing.[25]

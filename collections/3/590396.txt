@@ -1,0 +1,1 @@
+Next, he increased a by a small amount to a + Îµ, making segment AC a relatively good approximation for the length of the curve from A to D. To find the length of the segment AC, he used the Pythagorean theorem:

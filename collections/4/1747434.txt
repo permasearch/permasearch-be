@@ -1,0 +1,1 @@
+Two main criteria analyzed were "mean rounds between stoppages" (MRBS, malfunctions that can be cleared within minutes) and "mean rounds between failures" (MRBF, such as a part breaking). The results for the evaluated machine guns were the following:

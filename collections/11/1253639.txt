@@ -1,0 +1,1 @@
+Search trees are often used to implement an associative array. The search tree algorithm uses the key from the key-value pair to find a location, and then the application stores the entire keyâ€“value pair at that location.

@@ -1,0 +1,1 @@
+The 20 A outlet has a wider Ground pin and wider Line and Neutral pins.

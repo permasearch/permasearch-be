@@ -1,0 +1,1 @@
+Hieroglyphs can also be represented in Unicode using the Aegyptus font.

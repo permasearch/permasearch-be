@@ -1,0 +1,1 @@
+AVCREC uses a BDAV container to record high definition content on conventional DVDs.[199] Presently AVCREC is tightly integrated with the Japanese ISDB broadcast standard and is not marketed outside of Japan. AVCREC is used primarily in set-top digital video recorders and in this regard is comparable to HD REC.

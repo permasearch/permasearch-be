@@ -1,0 +1,1 @@
+The Quality of Implementation (QoI) of the C++ compiler has a large impact on usability of STL (and templated code in general):

@@ -1,0 +1,1 @@
+The Motorola 6800 / 6801, the 6809 and the 68000 series of processors used the big-endian format, and for this reason, it is also known as the "Motorola convention".[12][13]

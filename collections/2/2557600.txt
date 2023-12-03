@@ -1,0 +1,1 @@
+An eigenvalue λ of a matrix M is characterized by the algebraic relation Mu = λu. When M is Hermitian, a variational characterization is also available. Let M be a real n × n symmetric matrix. Define

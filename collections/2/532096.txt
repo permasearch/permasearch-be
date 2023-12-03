@@ -1,0 +1,1 @@
+Measurement of g-force is typically achieved using an accelerometer (see discussion below in Measurement using an accelerometer). In certain cases, g-forces may be measured using suitably calibrated scales. Specific force is another name that has been used for g-force.

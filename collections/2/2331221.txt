@@ -1,0 +1,1 @@
+L'HÃ´pital's rule can also be applied to other indeterminate forms, using first an appropriate algebraic transformation. For example, to evaluate the form 00:

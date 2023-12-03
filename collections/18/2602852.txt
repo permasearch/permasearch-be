@@ -1,0 +1,1 @@
+For the     x , n , m   {\displaystyle x,n,m}   that reach this minimum move     x   {\displaystyle x}   from the cluster      S  n     {\displaystyle S_{n}}   to the cluster      S  m     {\displaystyle S_{m}}  .

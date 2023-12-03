@@ -1,0 +1,1 @@
+Stop and wait can also create inefficiencies when sending longer transmissions.[3] When longer transmissions are sent there is more likely chance for error in this protocol.  If the messages are short the errors are more likely to be detected early. More inefficiency is created when single messages are broken into separate frames because it makes the transmission longer.[4]

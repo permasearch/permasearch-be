@@ -1,0 +1,1 @@
+The MBITR can communicate with the following devices:

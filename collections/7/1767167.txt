@@ -1,0 +1,1 @@
+Other methods also exist for describing polygonal tilings. When the tessellation is made of regular polygons, the most common notation is the vertex configuration, which is simply a list of the number of sides of the polygons around a vertex. The square tiling has a vertex configuration of 4.4.4.4, or 44. The tiling of regular hexagons is noted 6.6.6, or 63.[18]

@@ -1,0 +1,1 @@
+If every state can reach an absorbing state, then the Markov chain is an absorbing Markov chain.

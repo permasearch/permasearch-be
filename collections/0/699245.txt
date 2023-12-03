@@ -1,0 +1,1 @@
+Cadmium zinc telluride (CZT) is a semiconductive alloy that can be divided into an array of small sensing devices.[124] These devices are similar to an integrated circuit and can detect the energy of incoming gamma ray photons.[124] When behind an absorbing mask, the CZT sensor array can determine the direction of the rays.[124]

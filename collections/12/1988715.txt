@@ -1,0 +1,1 @@
+Dave Forney introduced the trellis diagram in a landmark 1973 paper that popularized the Viterbi algorithm.[2] Practically all modems operating faster than 9600 bit/s decode trellis-modulated data using the Viterbi algorithm.

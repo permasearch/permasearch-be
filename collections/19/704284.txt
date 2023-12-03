@@ -1,0 +1,1 @@
+A destructor should never throw an exception.[3]

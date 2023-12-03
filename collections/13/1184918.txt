@@ -1,0 +1,1 @@
+Now, an even operator        A ^      {\displaystyle {\hat {A}}}   is one that satisfies,

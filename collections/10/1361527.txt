@@ -1,0 +1,1 @@
+On the other hand, for UDP, NATs do not need to have port preservation. Indeed, multiple UDP communications (each with a distinct endpoint) can occur on the same source port, and applications usually reuse the same UDP socket to send packets to distinct hosts. This makes port prediction straightforward, as it is the same source port for each packet.

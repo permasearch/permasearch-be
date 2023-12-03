@@ -1,0 +1,1 @@
+Most fission reactors use a neutron moderator to slow down, or thermalize the neutrons that are emitted by nuclear fission so that they are more easily captured, causing further fission. Others, called fast breeder reactors, use fission energy neutrons directly.

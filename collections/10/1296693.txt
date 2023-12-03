@@ -1,0 +1,1 @@
+An isosceles triangle right tetrahedron can be written as ( )∨[( )∨{ }] as the join of a point to an isosceles triangle base, as [( )∨( )]∨{ } or { }∨{ } as the join (orthogonal offsets) of two orthogonal segments, a digonal disphenoid, containing 4 isosceles triangle faces. It has C1v symmetry from two different base-apex orientations, and C2v in its full symmetry.

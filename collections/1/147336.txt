@@ -1,0 +1,1 @@
+In general, pipelines can be classified in three categories depending on purpose:

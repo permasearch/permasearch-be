@@ -1,0 +1,1 @@
+In Wikipedia, the color of a link shows the status of the corresponding target page. The default colors (in the Vector skin) have the following meanings:

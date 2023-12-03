@@ -1,0 +1,1 @@
+Using Ln−2 = Ln − Ln−1, one can extend the Lucas numbers to negative integers to obtain a doubly infinite sequence:

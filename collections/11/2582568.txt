@@ -1,0 +1,1 @@
+where N is the doping concentration (either ND or NA), and Nref and Î± are fitting parameters. At room temperature, the above equation becomes:

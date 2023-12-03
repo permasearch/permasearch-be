@@ -1,0 +1,1 @@
+Faces of a city block and their extension into its interior. Each color is an 8-digit postal code, usually assigned to a side (odd or even numbered) of a street.

@@ -1,0 +1,1 @@
+The quantity U + pV is a state function so that it can be given a name. It is called enthalpy, and is denoted as H. Therefore, an isobaric process can be more succinctly described as

@@ -1,0 +1,1 @@
+For numerical integration one replaces the graph of a function by arcs of parabolas and integrates the parabola arcs. A parabola is determined by three points. The formula for one arc is

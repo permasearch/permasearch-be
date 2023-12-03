@@ -1,0 +1,1 @@
+In actuality, the particles constituting the system do not have the numerical labels used in theory. The language of mathematics forces us to label the positions of particles one way or another, otherwise there would be confusion between symbols representing which variables are for which particle.[29]

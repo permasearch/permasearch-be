@@ -1,0 +1,1 @@
+The validity of this integration generally requires the airfoil shape to be a closed curve that is piecewise smooth.

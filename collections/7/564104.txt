@@ -1,0 +1,1 @@
+It is possible to use the sequence of moments (mean, mean square, ...) or cumulants (mean, variance, ...) as parameters for a probability distribution: see Statistical parameter.

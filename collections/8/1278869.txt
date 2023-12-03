@@ -1,0 +1,1 @@
+Cygwin simulates POSIX-compliant symbolic links in the Microsoft Windows file system. It uses identical programming and user utility interfaces as Unix (see above), but creates Windows shortcuts (.lnk files) with additional information used by Cygwin at the time of symlink resolution. Cygwin symlinks are compliant with both Windows and the POSIX standard.[clarification needed]

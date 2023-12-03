@@ -1,0 +1,1 @@
+When a field, F is explicitly stated, a common term used is F-algebra.

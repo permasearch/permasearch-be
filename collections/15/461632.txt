@@ -1,0 +1,1 @@
+compresses all .class files into the JAR file myPackage.jar. The 'c' option on the command line tells the jar command to "create new archive." The ' f ' option tells it to create a file. The file's name comes next before the contents of the JAR file.

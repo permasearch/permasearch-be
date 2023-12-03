@@ -1,0 +1,1 @@
+The joined table retains each rowâ€”even if no other matching row exists. Outer joins subdivide further into left outer joins, right outer joins, and full outer joins, depending on which table's rows are retained (left, right, or both).

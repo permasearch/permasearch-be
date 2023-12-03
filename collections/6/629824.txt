@@ -1,0 +1,1 @@
+Large electromagnets are usually powered by variable current electronic power supplies, controlled by a microprocessor, which prevent voltage spikes by accomplishing current changes slowly, in gentle ramps. It may take several minutes to energize or deenergize a large magnet.

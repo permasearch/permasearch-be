@@ -1,0 +1,1 @@
+Since its original publishing in a technical reference book from IBM, the NetBIOS API specification has become a de facto standard.

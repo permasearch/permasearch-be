@@ -1,0 +1,1 @@
+Duration specifications can often be misleading because manufacturers may select any lift point from which to advertise a camshaft's duration and sometimes will manipulate these numbers. The power and idle characteristics of a camshaft rated at a .006" lift point will be much different from one with the same rating at a .002" lift point.

@@ -1,0 +1,1 @@
+There are a number of addresses with special meaning in IPv6.[25] They represent less than 2% of the entire address space:

@@ -1,0 +1,1 @@
+The Unix-Haters Handbook (1994) devoted a full chapter to the problems of X.[4] Why X Is Not Our Ideal Window System (1990) by Gajewska, Manasse and McCormack detailed problems in the protocol with recommendations for improvement.

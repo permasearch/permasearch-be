@@ -1,0 +1,1 @@
+A generalization of the harmonic series is the p-series (or hyperharmonic series), defined as

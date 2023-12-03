@@ -1,0 +1,1 @@
+In electrical and electronic cables, braid is a tubular sheath made of braided strands of metal placed around a central cable for shielding against electromagnetic interference. The braid is grounded while the central conductor(s) carries the signal. The braid may be used in addition to a foil jacket to increase shielding and durability.

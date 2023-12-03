@@ -1,0 +1,1 @@
+is a plane having the vector n = (a, b, c) as a normal.[4] This familiar equation for a plane is called the general form of the equation of the plane.[5]

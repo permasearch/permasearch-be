@@ -1,0 +1,1 @@
+One important structural limitation of aluminium alloys is their fatigue strength. Unlike steels, aluminium alloys have no well-defined fatigue limit, meaning that fatigue failure eventually occurs, under even very small cyclic loadings. Engineers must assess applications and design for a fixed and finite life of the structure, rather than infinite life.

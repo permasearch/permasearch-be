@@ -1,0 +1,1 @@
+Only when the phonon number ‹n› deviates from the equilibrium value ‹n›0, can a thermal current arise as stated in the following expression

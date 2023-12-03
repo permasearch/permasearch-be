@@ -1,0 +1,1 @@
+Here,      i  4     {\displaystyle i^{4}}   is the nominal annual interest rate, compounded quarterly, and the interest rate per quarter is        i  4   4     {\displaystyle {\frac {i^{4}}{4}}}

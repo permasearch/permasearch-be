@@ -1,0 +1,1 @@
+Chapter 12 also included a formula for the area of a cyclic quadrilateral (a generalisation of Heron's formula), as well as a complete description of rational triangles (i.e. triangles with rational sides and rational areas).

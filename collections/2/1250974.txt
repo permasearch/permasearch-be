@@ -1,0 +1,1 @@
+In plain English, using Bayesian probability terminology, the above equation can be written as

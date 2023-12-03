@@ -1,0 +1,1 @@
+A CGI web proxy accepts target URLs using a Web form in the user's browser window, processes the request, and returns the results to the user's browser.  Consequently, it can be used on a device or network that does not allow "true" proxy settings to be changed. The first recorded CGI proxy was developed by American computer scientist Richard Windmann on June 6, 1999.[19]

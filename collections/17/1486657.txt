@@ -1,0 +1,1 @@
+Monthly price indexes are compiled by calculating the simple arithmetic mean of three ten-day “sample prices” in the month.

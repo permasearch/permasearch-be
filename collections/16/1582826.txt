@@ -1,0 +1,1 @@
+This follows since, if g and h are in G, then gSg−1 = hSh−1 if and only if g−1h is in N(S), in other words, if and only if g and h are in the same coset of N(S).

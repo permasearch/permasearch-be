@@ -1,0 +1,1 @@
+That is, the least upper bound (sup or supremum) of the empty set is negative infinity, while the greatest lower bound (inf or infimum) is positive infinity. By analogy with the above, in the domain of the extended reals, negative infinity is the identity element for the maximum and supremum operators, while positive infinity is the identity element for minimum and infimum.

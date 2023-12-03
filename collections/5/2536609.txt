@@ -1,0 +1,1 @@
+Data center transformation takes a step-by-step approach through integrated projects carried out over time. This differs from a traditional method of data center upgrades that takes a serial and siloed approach.[12] The typical projects within a data center transformation initiative include standardization/consolidation, virtualization, automation and security.

@@ -1,0 +1,1 @@
+The second term in this equation is zero because C is the centre of mass. Introduce the skew-symmetric matrix [Î”ri] so the kinetic energy becomes

@@ -1,0 +1,1 @@
+A very heavily doped semiconductor behaves more like a good conductor (metal) and thus exhibits more linear positive thermal coefficient. Such effect is used for instance in sensistors.[14] Lower dosage of doping is used in other types (NTC or PTC) thermistors.

@@ -1,0 +1,1 @@
+A sequence of operations on adjacent fields could be "chained", using the addresses left in the address registers by the previous operation. For example, addition of adjacent data fields might be coded as "A 700,850", "A 695,845", "A 690,840". With chaining, this could be coded as "A 700,850", "A", "A" - omitting data address from the 2nd and 3rd instructions.[13]

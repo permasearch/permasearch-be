@@ -1,0 +1,1 @@
+Once such a triangle is chosen, the sine of the angle is equal to the length of the opposite side divided by the length of the hypotenuse, or:

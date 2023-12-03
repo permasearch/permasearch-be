@@ -1,0 +1,1 @@
+(1)       T =  T  ∞   − (  T  ∞   −  T  0   ) exp ⁡ { − s ( z −  z  0   ) }   {\displaystyle T=T_{\infty }-(T_{\infty }-T_{0})\exp\{-s(z-z_{0})\}}

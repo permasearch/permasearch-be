@@ -1,0 +1,1 @@
+The very long time constants of 19th and early 20th century submarine communications cables required a different form of Morse signalling. Instead of keying a voltage on and off for varying times, the dits and dahs were represented by two polarities of voltage impressed on the cable, for a uniform time.[34]

@@ -1,0 +1,1 @@
+A typical amateur software radio uses a direct conversion receiver. Unlike direct conversion receivers of the more distant past, the mixer technologies used are based on the quadrature sampling detector and the quadrature sampling exciter.[10][11][12][13]

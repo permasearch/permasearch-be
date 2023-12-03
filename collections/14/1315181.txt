@@ -1,0 +1,1 @@
+This is a well-studied differential equation and eigenvalue problem with a general solution of

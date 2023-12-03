@@ -1,0 +1,1 @@
+In an alternate usage, binary files (which are not human-readable) are sometimes called "data" as distinguished from human-readable "text".[4] The total amount of digital data in 2007 was estimated to be 281 billion gigabytes (= 281 exabytes).[5][6] Digital data comes in these three states: data at rest, data in transit and data in use.

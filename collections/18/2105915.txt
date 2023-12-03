@@ -1,0 +1,1 @@
+Most Arduino boards contain a light-emitting diode (LED) and a load resistor connected between pin 13 and ground, which is a convenient feature for many tests and program functions.[56] A typical program for a beginning Arduino programmer blinks a LED repeatedly.

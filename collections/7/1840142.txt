@@ -1,0 +1,1 @@
+Gauss (1828)[22] introduced this sort of counting when he proved that if p ≡ 1 (mod 4) then x4 ≡ 2 (mod p) can be solved if and only if p = a2 + 64 b2.

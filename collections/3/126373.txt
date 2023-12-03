@@ -1,0 +1,1 @@
+In 2005, the ARM Cortex-A8 is released, the first Cortex design to be adopted on a large scale for use in consumer devices.[58] An ARM core is later used in the Raspberry Pi, a very cheap minicomputer.

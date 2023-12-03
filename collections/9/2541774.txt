@@ -1,0 +1,1 @@
+Combining these results, the magnetic field is found using the integral form of Ampère's law with an arbitrary choice of contour provided the displacement current density term is added to the conduction current density (the Ampère-Maxwell equation):[5]

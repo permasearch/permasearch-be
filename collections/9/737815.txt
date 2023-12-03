@@ -1,0 +1,1 @@
+At any point in time, for a given "skip" communication path between two points, the frequencies at which communication is possible are specified by these parameters

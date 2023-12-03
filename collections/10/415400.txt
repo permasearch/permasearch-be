@@ -1,0 +1,1 @@
+(Lebesgue integrability of Xj means that the expected value E(Xj) exists according to Lebesgue integration and is finite.  It does not mean that the associated probability measure is absolutely continuous with respect to Lebesgue measure.)

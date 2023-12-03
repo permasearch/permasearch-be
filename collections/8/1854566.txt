@@ -1,0 +1,1 @@
+Unlike a digital sensor, a film frame does not have a regular grid of discrete pixels.

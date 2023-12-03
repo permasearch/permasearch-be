@@ -1,0 +1,1 @@
+On most operating systems the name text file refers to file format that allows only plain text content with very little formatting (e.g., no bold or italic types). Such files can be viewed and edited on text terminals or in simple text editors. Text files usually have the MIME type "text/plain", usually with additional information indicating an encoding.

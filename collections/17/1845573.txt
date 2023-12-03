@@ -1,0 +1,1 @@
+Human embryonic stem cells are often grown in fibroblastic growth factor-2 containing, fetal bovine serum supplemented media. They are grown on a feeder layer of cells, which is believed to be supportive in maintaining the pluripotent characteristics of embryonic stem cells. However, even these conditions may not truly mimic in vivo niche conditions.

@@ -1,0 +1,1 @@
+In heterogeneous electron transfer, an electron moves between a chemical species and a solid-state electrode. Theories addressing heterogeneous electron transfer have applications in electrochemistry and the design of solar cells.

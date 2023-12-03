@@ -1,0 +1,1 @@
+In writing exercises, the software provides an on-screen keyboard for the user to type characters that are not in the Latin alphabet.

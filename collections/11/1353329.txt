@@ -1,0 +1,1 @@
+In the mid-19th century, the change in entropy (Î”S) of a system undergoing a thermodynamically reversible process was defined by Rudolf Clausius as:

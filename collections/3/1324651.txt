@@ -1,0 +1,1 @@
+A stock derivative is any financial instrument which has a value that is dependent on the price of the underlying stock. Futures and options are the main types of derivatives on stocks. The underlying security may be a stock index or an individual firm's stock, e.g. single-stock futures.

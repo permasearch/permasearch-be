@@ -1,0 +1,1 @@
+Different phase configurations use additional voltage and current coils.

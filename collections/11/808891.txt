@@ -1,0 +1,1 @@
+Lines (or circles) of position can be derived from a variety of sources:

@@ -1,0 +1,1 @@
+The user determines the location of the decimal point in the result, based on mental estimation. Scientific notation is used to track the decimal point in more formal calculations. Addition and subtraction steps in a calculation are generally done mentally or on paper, not on the slide rule.

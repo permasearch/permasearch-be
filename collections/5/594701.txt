@@ -1,0 +1,1 @@
+According to Secunia, as of JuneÂ 2011[update], IIS 7 had a total of six resolved vulnerabilities while[50] IIS 6 had a total of eleven vulnerabilities, out of which one was still unpatched. The unpatched security advisory has a severity rating of 2 out of 5.[49]

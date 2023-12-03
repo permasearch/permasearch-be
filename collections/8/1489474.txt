@@ -1,0 +1,1 @@
+The source code of the Framework Class Library in this version has been partially released (for debugging reference only) under the Microsoft Reference Source License.[34]

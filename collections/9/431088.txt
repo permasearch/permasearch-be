@@ -1,0 +1,1 @@
+There are a number of approaches to solving resource allocation problems e.g. resources can be allocated using a manual approach,[2] an algorithmic approach (see below),[3] or a combination of both.[4]

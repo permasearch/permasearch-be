@@ -1,0 +1,1 @@
+is not in closed form because the summation entails an infinite number of elementary operations. However, by summing a geometric series this expression can be expressed in the closed-form:[1]

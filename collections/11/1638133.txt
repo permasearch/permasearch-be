@@ -1,0 +1,1 @@
+PMS often needs to interface with the outside world. There are a number of standards that are used:

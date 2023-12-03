@@ -1,0 +1,1 @@
+Since the B and C coefficients are relatively small, the resistance changes almost linearly with the temperature.

@@ -1,0 +1,1 @@
+The primary problem with the shadow mask system is that the vast majority of the beam energy, typically 85%, is lost "lighting up" the mask itself as the beam passes over the opaque sections between the holes. This means that the beams have to be greatly increased in power in order to produce an acceptable brightness when they do pass through the holes.

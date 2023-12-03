@@ -1,0 +1,1 @@
+In consequence, the spacing between lines is not constant, as in the rigid rotor approximation, but decreases with increasing rotational quantum number.

@@ -1,0 +1,1 @@
+RTP sessions are typically initiated between communicating peers using a signaling protocol, such as H.323, the Session Initiation Protocol (SIP), or Jingle (XMPP). These protocols may use the Session Description Protocol to negotiate the parameters for the sessions.

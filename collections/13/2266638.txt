@@ -1,0 +1,1 @@
+Some attributes or aspects of vehicle dynamics are purely aerodynamic. These include:

@@ -1,0 +1,1 @@
+There are many different ways to prove something is impossible. A more rigorous proof would be to demarcate the limit of the possible, and show that to solve these problems one must transgress that limit. Much of what can be constructed is covered in intercept theory.

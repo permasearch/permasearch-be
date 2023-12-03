@@ -1,0 +1,1 @@
+where RHn is the Hall coefficient for electron, and is defined as

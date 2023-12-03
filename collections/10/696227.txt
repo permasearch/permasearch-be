@@ -1,0 +1,1 @@
+//en.wikipedia.org/w/index.php?title=Special:Allpages&namespace=12&from=Page_name

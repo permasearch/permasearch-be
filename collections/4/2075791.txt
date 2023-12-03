@@ -1,0 +1,1 @@
+The DOCSIS architecture is also used for fixed wireless with equipment using the 2.5–2.7 GHz MMDS microwave band in the U.S.

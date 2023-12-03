@@ -1,0 +1,1 @@
+Positive pressure is a pressure within a system that is greater than the environment that surrounds that system. Consequently, if there is any leak from the positively pressured system it will egress into the surrounding environment.

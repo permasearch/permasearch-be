@@ -1,0 +1,1 @@
+permitting a simple YES / NO answer (to be marked with a single (X)).

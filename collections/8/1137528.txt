@@ -1,0 +1,1 @@
+A bounded lattice is a lattice that additionally has a greatest element 1 and a least element 0, which satisfy

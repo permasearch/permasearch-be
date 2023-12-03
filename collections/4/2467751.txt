@@ -1,0 +1,1 @@
+Since an nth-degree polynomial equation can only have n distinct roots, this implies that the powers of a primitive root z, z2, ..., zn−1, zn = z0 = 1 are all of the nth roots of unity.

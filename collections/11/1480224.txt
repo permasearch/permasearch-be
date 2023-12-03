@@ -1,0 +1,1 @@
+The DTE or DCE can specify use of a "high" or "low" signaling rate. The rates, as well as which device will select the rate, must be configured in both the DTE and DCE. The prearranged device selects the high rate by setting pin 23 to ON.

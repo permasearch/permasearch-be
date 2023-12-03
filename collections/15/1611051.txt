@@ -1,0 +1,1 @@
+The midsegment of a trapezoid is one of the two bimedians (the other bimedian divides the trapezoid into equal areas).

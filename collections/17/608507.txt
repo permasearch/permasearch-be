@@ -1,0 +1,1 @@
+ADR pictograms for chemical hazards are based on GHS Transport pictograms and Non-GHS transport pictograms

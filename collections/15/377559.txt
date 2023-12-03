@@ -1,0 +1,1 @@
+Shared highest-level cache, which is called before accessing memory, is usually referred to as the last level cache (LLC). Additional techniques are used for increasing the level of parallelism when LLC is shared between multiple cores, including slicing it into multiple pieces which are addressing certain ranges of memory addresses, and can be accessed independently.[37]

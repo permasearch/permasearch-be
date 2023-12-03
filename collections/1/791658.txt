@@ -1,0 +1,1 @@
+Although options valuation has been studied since the 19th century, the contemporary approach is based on the Black–Scholes model, which was first published in 1973.[56][57]

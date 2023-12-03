@@ -1,0 +1,1 @@
+The most important principle for choosing a set of rules is that the choice be made before the data is inspected. Choosing rules once the data have been seen tends to increase the Type I error rate owing to testing effects suggested by the data.

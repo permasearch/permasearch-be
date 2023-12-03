@@ -1,0 +1,1 @@
+It is possible to determine the energy levels by recursively stepping down orbit by orbit, but there is a shortcut.

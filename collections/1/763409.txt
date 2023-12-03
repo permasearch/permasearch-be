@@ -1,0 +1,1 @@
+This Easter egg is tributed in the dance simulator StepMania: whenever a player gets 250 consecutive Perfects or better (Excellents or better in the 4.0 CVS version), a "toasty" appears. The PopCap game Peggle also features a tribute, as does the Aerosmith-themed rail shooter Revolution X, where singer Steven Tyler shouts "Toasty!" in reaction to explosions.

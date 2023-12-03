@@ -1,0 +1,1 @@
+An Android Auto software development kit (SDK) has been released, allowing third parties to modify their apps to work with Android Auto;[3] Initially, only APIs for music and messaging apps will be available.[4][5]

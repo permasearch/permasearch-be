@@ -1,0 +1,1 @@
+The telemetry was developed from ground up, due to the spacecraft using a more modern set of computers than previous missions.[52] Therefore, Cassini was the first spacecraft to adopt mini-packets to reduce the complexity of the Telemetry Dictionary, and the software development process led to the creation of a Telemetry Manager for the mission.

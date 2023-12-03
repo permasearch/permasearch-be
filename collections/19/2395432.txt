@@ -1,0 +1,1 @@
+Here     x   {\displaystyle x}   is the molar mixing ratio in the aqueous phase. For a dilute aqueous solution the conversion between     x   {\displaystyle x}   and      c  a     {\displaystyle c_{\text{a}}}   is:

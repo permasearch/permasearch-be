@@ -1,0 +1,1 @@
+TOI = Time on Ice (minutes:seconds); SA = Shots Against; GA = Goals Against; GAA = Goals Against Average; Sv% = Save Percentage; SO = Shutouts Source: IIHF.com

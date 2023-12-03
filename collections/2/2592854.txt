@@ -1,0 +1,1 @@
+Numerous individuals have proposed variations of decimal time, dividing the day into different numbers of units and subunits with different names. Most are based upon fractional days, so that one decimal time format may be easily converted into another, such that all the following are equivalent:

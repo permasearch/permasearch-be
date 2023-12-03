@@ -1,0 +1,1 @@
+In 2010, Christopher Tarnovsky presented an attack against TPMs at Black Hat, where he claimed to be able to extract secrets from a single TPM. He was able to do this after 6 months of work by inserting a probe and spying on an internal bus for the Infineon SLE 66 CL PC.[38][39]

@@ -1,0 +1,1 @@
+In the web development field, three-tier is often used to refer to websites, commonly electronic commerce websites, which are built using three tiers:

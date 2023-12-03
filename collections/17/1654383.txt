@@ -1,0 +1,1 @@
+There are social choice theory definitions of seemingly reasonable criteria that are a measure of the fairness of certain aspects of voting, including non-dictatorship, unrestricted domain, non-imposition, Pareto efficiency, and independence of irrelevant alternatives but Arrow's impossibility theorem states that no voting system can meet all these standards.

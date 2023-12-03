@@ -1,0 +1,1 @@
+Gauss's law for magnetism, which is one of the four Maxwell's equations, states that the total magnetic flux through a closed surface is equal to zero. (A "closed surface" is a surface that completely encloses a volume(s) with no holes.) This law is a consequence of the empirical observation that magnetic monopoles have never been found.

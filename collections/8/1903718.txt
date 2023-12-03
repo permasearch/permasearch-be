@@ -1,0 +1,1 @@
+Processing power and storage capacities have grown beyond all recognition since the 1970s, but the underlying technology has remained basically the same of large-scale integration (LSI) or very-large-scale integration (VLSI) microchips, so it is widely regarded that most of today's computers still belong to the fourth generation.

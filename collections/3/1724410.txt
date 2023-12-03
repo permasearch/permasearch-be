@@ -1,0 +1,1 @@
+For example, to determine the status of a web server, monitoring software may periodically send an HTTP request to fetch a page. For email servers, a test message might be sent through SMTP and retrieved by IMAP or POP3.

@@ -1,0 +1,1 @@
+Although nearly any consistent style may be used, avoid all-numeric date formats other than YYYY-MM-DD, because of the ambiguity concerning which number is the month and which the day. For example, 2002-06-11 may be used, but not 11/06/2002. The YYYY-MM-DD format should in any case be limited to Gregorian calendar dates where the year is after 1582.

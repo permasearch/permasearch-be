@@ -1,0 +1,1 @@
+This process uses a special humidity-absorbing material called a desiccant, which is exposed to the air to be conditioned. The humidity-saturated material is then moved to a different location, where it is "recharged" to drive off the humidity, typically by heating it. The desiccant can be mounted on a belt or other means of transporting it during a cycle of operation.

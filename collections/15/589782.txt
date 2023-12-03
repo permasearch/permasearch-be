@@ -1,0 +1,1 @@
+are not ambiguous. Unix-based operating systems minimize the use of embedded spaces to minimize the need for quotes. In Microsoft Windows, one often has to use quotes because embedded spaces (such as in directory names) are common.

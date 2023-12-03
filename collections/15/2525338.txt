@@ -1,0 +1,1 @@
+Here n is the electron concentration, p the hole concentration, μe the electron mobility, μh the hole mobility and e the elementary charge.

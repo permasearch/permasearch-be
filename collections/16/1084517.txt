@@ -1,0 +1,1 @@
+In the (unrealistic) limit of "pure" ionic bonding, electrons are perfectly localized on one of the two atoms in the bond. Such bonds can be understood by classical physics. The forces between the atoms are characterized by isotropic continuum electrostatic potentials. Their magnitude is in simple proportion to the charge difference.

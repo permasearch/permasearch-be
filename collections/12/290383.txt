@@ -1,0 +1,1 @@
+Some computer-based systems of the 1960s and 1970s required full-duplex facilities, even for half-duplex operation, since their poll-and-response schemes could not tolerate the slight delays in reversing the direction of transmission in a half-duplex line.

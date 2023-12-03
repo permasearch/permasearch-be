@@ -1,0 +1,1 @@
+Game trainers are a special type of memory editor, in which the program comes with predefined functions to modify the run time memory of a specific computer game.[14] When distributed, trainers often have a single + and a number appended to their title, representing the number of modifications the trainer has available.[14]

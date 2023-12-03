@@ -1,0 +1,1 @@
+This last part of the definition can also be phrased "there exists an open punctured neighbourhood U of p such that f(U∩Ω) ⊆ V ".

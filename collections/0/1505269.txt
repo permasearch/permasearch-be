@@ -1,0 +1,1 @@
+Actual translation to human languages must be tested, too. Possible localization failures include:

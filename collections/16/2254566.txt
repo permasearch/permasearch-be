@@ -1,0 +1,1 @@
+Since the parameters I0, n, RS, and RSH cannot be measured directly, the most common application of the characteristic equation is nonlinear regression to extract the values of these parameters on the basis of their combined effect on solar cell behavior.

@@ -1,0 +1,1 @@
+Versions of SNOMED released prior to 2001 were based on a multiaxial, hierarchical classification system.[1] As in any such system, a disease may be located in a body organ (anatomy), which results in a code in a topography axis and may lead to morphological alterations represented by a morphology code.

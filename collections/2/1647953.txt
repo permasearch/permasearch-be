@@ -1,0 +1,1 @@
+By definition of a function, the image of an element x of the domain is always a single element of the codomain. However, the preimage of a single element y, denoted      f  − 1   ( x ) ,   {\displaystyle f^{-1}(x),}   may be empty or contain any number of elements. For example, if f is the function from the integers to themselves that map every integer to 0, then f−1(0) = Z.

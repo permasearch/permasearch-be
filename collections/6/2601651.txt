@@ -1,0 +1,1 @@
+In nuclear magnetic resonance (NMR) spectroscopy, the chemical shift is the resonant frequency of a nucleus relative to a standard in a magnetic field.  Often the position and number of chemical shifts are diagnostic of the structure of a molecule.[1][2][3] Chemical shifts are also used to describe signals in other forms of spectroscopy such as photoemission spectroscopy.

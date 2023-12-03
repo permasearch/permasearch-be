@@ -1,0 +1,1 @@
+u = −    G M  r     {\displaystyle u=-{\frac {GM}{r}}}

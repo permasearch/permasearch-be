@@ -1,0 +1,1 @@
+Truthful bidding dominates the other possible strategies (underbidding and overbidding) so it is an optimal strategy.

@@ -1,0 +1,1 @@
+Galvanic corrosion (also called bimetallic corrosion) is an electrochemical process in which one metal corrodes preferentially when it is in electrical contact with another, in the presence of an electrolyte. A similar galvanic reaction is exploited in primary cells to generate a useful electrical voltage to power portable devices.

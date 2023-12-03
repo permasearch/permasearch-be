@@ -1,0 +1,1 @@
+A trick is to count up valence electrons, then count up the number of electrons needed to complete the octet rule (or with hydrogen just 2 electrons), then take the difference of these two numbers and the answer is the number of electrons that make up the bonds. The rest of the electrons just go to fill all the other atoms' octets.

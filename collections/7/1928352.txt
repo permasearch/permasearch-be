@@ -1,0 +1,1 @@
+In 1996, the iframe tag was introduced by Internet Explorer; like the object element, it can load or fetch content asynchronously. In 1998, the Microsoft Outlook Web App team developed the concept behind the XMLHttpRequest scripting object.[5] It appeared as XMLHTTP in the second version of the MSXML library,[5][6] which shipped with Internet Explorer 5.0 in March 1999.[7]

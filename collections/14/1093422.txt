@@ -1,0 +1,1 @@
+can be seen to approach the value of 1 as n grows larger. At infinity, it is equal to 1, leaving       C i     {\displaystyle {C \over i}}   as the only term remaining.

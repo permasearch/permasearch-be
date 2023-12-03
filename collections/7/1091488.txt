@@ -1,0 +1,1 @@
+The heat equation is an important partial differential equation that describes the distribution of heat (or variation in temperature) in a given region over time. In some cases, exact solutions of the equation are available;[22] in other cases the equation must be solved numerically using computational methods.

@@ -1,0 +1,1 @@
+The addition of 3D graphic capabilities to PCs, and the ability of clusters of Linux- and BSD-based PCs to take on many of the tasks of larger SGI servers, ate into SGI's core markets.

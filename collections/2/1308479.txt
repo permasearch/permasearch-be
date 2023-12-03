@@ -1,0 +1,1 @@
+Quadrilaterals with two axes of symmetry, each through a pair of opposite sides, belong to the larger class of quadrilaterals with at least one axis of symmetry through a pair of opposite sides. These quadrilaterals comprise isosceles trapezia and crossed isosceles trapezia (crossed quadrilaterals with the same vertex arrangement as isosceles trapezia).

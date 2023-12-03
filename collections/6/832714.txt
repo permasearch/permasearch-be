@@ -1,0 +1,1 @@
+As illustrated in the pictures, the three fields in the IEEEÂ 754 representation of this number are:

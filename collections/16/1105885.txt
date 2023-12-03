@@ -1,0 +1,1 @@
+Geographic numbers are assigned to carriers in blocks, from which these carriers can make derivative assignments to subscribers.

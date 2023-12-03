@@ -1,0 +1,1 @@
+<mark>...</mark> represents a run of text in one document marked or highlighted for reference purposes, due to its relevance in another context. Marked text is formatted with a yellow background by default.

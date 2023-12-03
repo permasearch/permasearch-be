@@ -1,0 +1,1 @@
+Jessie is the namesake of version 8 of the Debian operating system. The code names of Debian releases are names of characters from the Toy Story films. This naming tradition came because Bruce Perens was involved in the early development of Debian while working at Pixar.

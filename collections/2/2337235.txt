@@ -1,0 +1,1 @@
+A heap spray does not actually exploit any security issues but it can be used to make a vulnerability easier to exploit. A heap spray by itself cannot be used to break any security boundaries: a separate security issue is needed.

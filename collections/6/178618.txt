@@ -1,0 +1,1 @@
+Eigenvalues and eigenvectors are often introduced to students in the context of linear algebra courses focused on matrices.[23][24] Furthermore, linear transformations can be represented using matrices,[1][2] which is especially common in numerical and computational applications.[25]

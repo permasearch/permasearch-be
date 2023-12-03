@@ -1,0 +1,1 @@
+In 2004, Biham and Chen found near-collisions for SHA-0 — two messages that hash to nearly the same value; in this case, 142 out of the 160 bits are equal. They also found full collisions of SHA-0 reduced to 62 out of its 80 rounds.[citation needed]

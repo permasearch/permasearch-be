@@ -1,0 +1,1 @@
+Newton's notation for differentiation (also called the dot notation for differentiation) places a dot over the dependent variable. That is, if y is a function of t, then the derivative of y with respect to t is

@@ -1,0 +1,1 @@
+The CDN's Edge Network grows outward from the origins through further acquisitions (via purchase, peering, or exchange) of co-locations facilities, bandwidth, and servers.

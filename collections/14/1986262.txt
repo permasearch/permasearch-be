@@ -1,0 +1,1 @@
+It also helps to start from a known good state, the best example being a computer reboot. A cognitive walkthrough is also a good thing to try. Comprehensive documentation produced by proficient technical writers is very helpful, especially if it provides a theory of operation for the subject device or system.

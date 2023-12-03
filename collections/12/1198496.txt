@@ -1,0 +1,1 @@
+Archimedes' Theorem states that the total area under the parabola is 4/3 of the area of the blue triangle.

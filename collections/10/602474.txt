@@ -1,0 +1,1 @@
+Consider the parabola y = x2. Since all parabolas are similar, this simple case represents all others. The right-hand side of the diagram shows part of this parabola.

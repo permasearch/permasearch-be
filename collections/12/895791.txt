@@ -1,0 +1,1 @@
+Microsoft Access 2000 increased the maximum database size to 2GB from 1GB in Access 97.

@@ -1,0 +1,1 @@
+Measurement instruments like pressure gauges, altimeters and barometers include linkage-type function generators as linearization means. Before the advent of digital computers, mechanical function generators were used in the construction of gun fire control systems, and mechanical calculators.

@@ -1,0 +1,1 @@
+For     n = 20   {\displaystyle n=20}   and     k = 10   {\displaystyle k=10}  ,     log ⁡     (   n k   )     ≈ 12.127   {\displaystyle \log {\tbinom {n}{k}}\approx 12.127}  , and these approximations yield 12.312 and 12.133 respectively.

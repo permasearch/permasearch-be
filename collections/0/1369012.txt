@@ -1,0 +1,1 @@
+Some AJAX libraries use the abort method to cancel potential duplicate or out-of-order requests.[24]

@@ -1,0 +1,1 @@
+In every entry Chief Engineer must record tank number, location, type of oil, description of operation, and quantity. For every operation a combined numerical and letter coding is applied. MEPC.187(59) describes the codes applicable as from 1 January 2011. Also comparison tables between older Oil Record Book coding with MEPC.187(59) are available in the web.

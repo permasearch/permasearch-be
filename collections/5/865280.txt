@@ -1,0 +1,1 @@
+in which the i-row, j-column element of F, denoted by Fij, is fji, and Gij=gji.

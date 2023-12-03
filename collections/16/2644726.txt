@@ -1,0 +1,1 @@
+Here i is the van 't Hoff factor as above, Kb is the ebullioscopic constant of the solvent (equal to 0.512 °C kg/mol for water), and m is the molality of the solution.

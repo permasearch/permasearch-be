@@ -1,0 +1,1 @@
+F  1   =    q  2    4 π  ϵ  0    L  1   2        {\displaystyle F_{1}={\frac {q^{2}}{4\pi \epsilon _{0}L_{1}^{2}}}}

@@ -1,0 +1,1 @@
+Cylindrical coordinates (radius ρ, azimuth φ, elevation z) may be converted into spherical coordinates (radius r, inclination θ, azimuth φ), by the formulas

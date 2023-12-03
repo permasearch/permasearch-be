@@ -1,0 +1,1 @@
+Nayar et al.[31] published reference data for the surface tension of seawater over the salinity range of 20 ≤ S ≤ 131 g/kg and a temperature range of 1 ≤ t ≤ 92 °C at atmospheric pressure. The uncertainty of the measurements varied from 0.18 to 0.37 mN/m with the average uncertainty being 0.22 mN/m. This data is correlated by the following equation

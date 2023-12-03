@@ -1,0 +1,1 @@
+DOI is a registered URI under the info URI scheme specified by IETF RFCÂ 4452. info:doi/ is the infoURI Namespace of Digital Object Identifiers.[39]

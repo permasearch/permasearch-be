@@ -1,0 +1,1 @@
+In general the points of tangency t1 and t2 for the four lines tangent to two circles with centers v1 and v2 and radii r1 and r2 are given by solving the simultaneous equations:

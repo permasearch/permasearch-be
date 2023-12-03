@@ -1,0 +1,1 @@
+Hermitian matrices can be understood as the complex extension of real symmetric matrices.

@@ -1,0 +1,1 @@
+This "phono input" designed for the millivolt signal from an unamplified turntable should not be confused with the modern standard one-volt line input and output that also uses RCA connectors and is found on video cameras, recorders and similar modern equipment.

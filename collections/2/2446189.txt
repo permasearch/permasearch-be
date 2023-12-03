@@ -1,0 +1,1 @@
+In Java a finalizer is a method called finalize, which overrides the Object.finalize method.[7]

@@ -1,0 +1,1 @@
+"Kinked" demand curves and traditional demand curves are similar in that they are both downward-sloping. They are distinguished by a hypothesized concave bend with a discontinuity at the bend - the "kink." Therefore, the first derivative at that point is undefined and leads to a jump discontinuity in the marginal revenue curve.

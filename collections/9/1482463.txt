@@ -1,0 +1,1 @@
+Collateralised XCSs expose the users to collateral risks. Depending upon the terms of the CSA, the type of posted collateral that is permitted might become more or less expensive due to other extraneous market movements. Credit and funding risks still exist for collateralised trades but to a much lesser extent.

@@ -1,0 +1,1 @@
+This agrees with his example in the book (there will be a blank between each letter and number). Universal machine U uses the alternate blank squares as places to put "pointers".

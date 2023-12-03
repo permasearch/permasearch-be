@@ -1,0 +1,1 @@
+where d = 365 and S2 are Stirling numbers of the second kind. Consequently, the desired probability is 1 âˆ’ p0.

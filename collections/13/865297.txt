@@ -1,0 +1,1 @@
+A few of the above products are examples of the general notion of an internal product in a monoidal category; the rest are describable by the general notion of a product in category theory.

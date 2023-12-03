@@ -1,0 +1,1 @@
+However, the basic terms "record" and "field" are used in nearly every flat file database implementation.

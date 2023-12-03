@@ -1,0 +1,1 @@
+Then we need to multiply with the base, 2, to the power of the exponent, to get the final result:

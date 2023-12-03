@@ -1,0 +1,1 @@
+where a and b are vectors that depend on the real variable t.

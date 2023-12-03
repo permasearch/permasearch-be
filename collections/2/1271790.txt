@@ -1,0 +1,1 @@
+If a probability distribution has a density function     f ( x )   {\displaystyle f(x)}  , then the mean is

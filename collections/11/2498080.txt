@@ -1,0 +1,1 @@
+The prominent mathematical models of message passing are the Actor model and Pi calculus.[5][6] In mathematical terms a message is the single means to pass control to an object. If the object responds to the message, it has a method for that message.

@@ -1,0 +1,1 @@
+The ITIL-process Security Management[10] describes the structured fitting of information security in the management organization. It is based on the code of practice for information security management system (ISMS) now known as ISO/IEC 27001.

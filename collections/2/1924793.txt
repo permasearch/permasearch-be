@@ -1,0 +1,1 @@
+In a strict application of the Code the taxon name author string components "genus", "species" and "year" can only have one combination of characters. The major problem in zoology for consistent spellings of names is the author. The Code gives neither a guide nor a detailed recommendation.

@@ -1,0 +1,1 @@
+s = tan ⁡ ( α ) f .   {\displaystyle s=\tan(\alpha )f.}

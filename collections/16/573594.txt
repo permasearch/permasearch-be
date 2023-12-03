@@ -1,0 +1,1 @@
+In June 2017, the bitcoin symbol was encoded in Unicode version 10.0 at position U+20BF (â‚¿) in the Currency Symbols block.[119]

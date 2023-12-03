@@ -1,0 +1,1 @@
+Historical control trials (HCT) exploit the data of previous RCTs to reduce the sample size; however, these approaches are controversial in the scientific community and must be handled with care.[94]

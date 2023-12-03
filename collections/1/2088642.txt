@@ -1,0 +1,1 @@
+The Chromebook 3 is distinct from and distinguished from the similarly named Samsung Series 3 in several respects: newer (released 2016), different architecture (Intel Celeron N3050 instead of Exynos 5 Dual ARM Cortex),[129] thinner (0.7"),[129] and less expensive (about $100 less than the Series 3);[129] while remaining a full implementation of ChromeOS.

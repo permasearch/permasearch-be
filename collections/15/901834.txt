@@ -1,0 +1,1 @@
+Since no pressure forces are created on cylindrical surfaces in the circumferential direction, it is possible to write Eq. (1.10) as:[3]
