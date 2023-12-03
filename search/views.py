@@ -1,3 +1,4 @@
+import pickle
 from django.http import JsonResponse
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
@@ -18,7 +19,9 @@ def do_index(request):
 def get_document(request):
     try:
         path = request.GET["path"]
-       
+        with open("metadata/train_titles.dict", "rb") as f:
+            titles_dict = pickle.load(f)
+
         with open(path,'r') as file:
             text = file.read()
         if request.method == "GET":
@@ -27,7 +30,7 @@ def get_document(request):
             return JsonResponse({'status': False})
         
         doc_id = int(path.split("/")[-1][:-4])
-        data={'status': True, 'text': text, 'id': doc_id, 'path': path}
+        data={'status': True, 'text': text, 'id': doc_id, 'path': path, 'title': titles_dict[doc_id]}
         return JsonResponse(data=data, status=HTTPStatus.OK)
     except: 
         return  JsonResponse({'status': False, 'message': "no docs found"}, status=HTTPStatus.NOT_FOUND)
