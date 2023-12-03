@@ -17,11 +17,10 @@ def do_index(request):
 
 @csrf_exempt
 def get_document(request):
-    with open("metadata/train_titles.dict", "rb") as f:
-            titles_dict = pickle.load(f)
     try:
         path = request.GET["path"]
-        
+        with open("metadata/train_titles.dict", "rb") as f:
+            titles_dict = pickle.load(f)
 
         with open(path,'r') as file:
             text = file.read()
@@ -31,7 +30,7 @@ def get_document(request):
             return JsonResponse({'status': False})
         
         doc_id = int(path.split("/")[-1][:-4])
-        data={'status': True, 'text': text, 'id': doc_id, 'path': path, 'title': titles_dict[doc_id]}
+        data={'status': True, 'text': text, 'id': doc_id, 'path': path, 'title': titles_dict[str(doc_id)]}
         return JsonResponse(data=data, status=HTTPStatus.OK)
     except: 
         return  JsonResponse({'status': False, 'message': "no docs found"}, status=HTTPStatus.NOT_FOUND)
