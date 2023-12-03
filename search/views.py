@@ -37,7 +37,6 @@ def get_serp(request):
     # try:
         query = request.GET["search"]
         data = get_docs(query)
-        print(query)
        
         if request.method == "GET":
             pass

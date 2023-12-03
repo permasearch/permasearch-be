@@ -8,10 +8,8 @@ import re
 from .util import IdMap, merge_and_sort_posts_and_tfs
 from .index import InvertedIndexReader, InvertedIndexWriter
 from .compression import VBEPostings
+from .preprocessor import TextPreprocessor
 from tqdm import tqdm
-
-from mpstemmer import MPStemmer
-from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 class BSBIIndex:
     """
@@ -34,6 +32,7 @@ class BSBIIndex:
         self.output_dir = output_dir
         self.index_name = index_name
         self.postings_encoding = postings_encoding
+        self.preprocessor = TextPreprocessor()
 
         # Untuk menyimpan nama-nama file dari semua intermediate inverted index
         self.intermediate_indices = []
@@ -53,18 +52,6 @@ class BSBIIndex:
             self.term_id_map = pickle.load(f)
         with open(os.path.join(self.output_dir, 'docs.dict'), 'rb') as f:
             self.doc_id_map = pickle.load(f)
-
-    def pre_processing_text(self, content):
-        """
-        Melakukan preprocessing pada text, yakni stemming dan removing stopwords
-        """
-        # https://github.com/ariaghora/mpstemmer/tree/master/mpstemmer
-        # Pengubahan ke lowercase sudah dihandle
-        stemmer = MPStemmer()
-        # changed to stem_kalimat instead of stem
-        stemmed = stemmer.stem_kalimat(content)
-        remover = StopWordRemoverFactory().create_stop_word_remover()
-        return remover.remove(stemmed)
 
     def parsing_block(self, block_path):
         """
@@ -122,10 +109,10 @@ class BSBIIndex:
                 joined_tokens = " ".join(tokenized)
 
                 # Lakukan stemming dan stopwords removing
-                preprocessed_sent = self.pre_processing_text(joined_tokens)
+                preprocessed_sent = self.preprocessor.preprocess_text(joined_tokens)
 
                 # Split preprocessed sentence berdasarkan white space
-                for token in preprocessed_sent.split():
+                for token in preprocessed_sent:
                     term_id = self.term_id_map[token]
                     td_pairs.append((term_id, doc_id))
             
@@ -249,8 +236,7 @@ class BSBIIndex:
         joined_tokens = " ".join(tokenized)
 
         # Lakukan stemming dan stopwords removing
-        preprocessed_sent = self.pre_processing_text(joined_tokens)
-        query_terms = preprocessed_sent.split()
+        query_terms = self.preprocessor.preprocess_text(joined_tokens)
 
         # Dictionary untuk menyimpan score dan dokumen
         score_docs = {}
@@ -317,8 +303,7 @@ class BSBIIndex:
         joined_tokens = " ".join(tokenized)
 
         # Lakukan stemming dan stopwords removing
-        preprocessed_sent = self.pre_processing_text(joined_tokens)
-        query_terms = preprocessed_sent.split()
+        query_terms = self.preprocessor.preprocess_text(joined_tokens)
 
         # Dictionary untuk menyimpan score dan dokumen
         score_docs = {}

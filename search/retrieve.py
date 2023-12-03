@@ -14,7 +14,6 @@ def get_docs(query):
 
     with open("metadata/train_titles.dict", "rb") as f:
         titles_dict = pickle.load(f)
-    print(sorted(map(int, titles_dict.keys()))[:100])
     BSBI_instance = BSBIIndex(data_dir='collections',
                           postings_encoding=VBEPostings,
                           output_dir='index')
